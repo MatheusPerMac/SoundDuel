@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- SEO básico — atualizado via config.js -->
+<title>SoundDuel — Compare Fones Bluetooth</title>
+<meta name="description" content="Compare fones Bluetooth lado a lado. Specs técnicas, prós, contras, vídeos e links de compra.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://seusite.com.br">
+
+<!-- Open Graph -->
+<meta property="og:title" content="SoundDuel — Compare Fones Bluetooth">
+<meta property="og:description" content="Compare fones Bluetooth lado a lado. Specs técnicas, prós, contras, vídeos e links de compra.">
+<meta property="og:type" content="website">
+
+<!-- Google AdSense: o script é injetado via JS após carregar config.js -->
+
+<link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f3ee;--surface:#fff;--surface2:#eeebe4;--border:#d8d3c8;--text:#1a1814;--text-mid:#5a5548;--text-muted:#9a9080;--accent:#c8473a;--s1:#c8473a;--s2:#2d6a4f;--s3:#1e3a5f;--s4:#7b3f8c;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Instrument Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+header{background:var(--text);padding:0 48px;display:flex;align-items:center;justify-content:space-between;height:64px;position:sticky;top:0;z-index:100;}
+.logo{font-family:'Clash Display',sans-serif;font-size:1.4rem;font-weight:700;color:#fff;}
+.logo span{color:var(--accent);}
+.header-tag{font-family:'JetBrains Mono',monospace;font-size:.68rem;color:#ffffff50;letter-spacing:2px;text-transform:uppercase;}
+/* AD BANNER — topo */
+.ad-top{width:100%;display:flex;justify-content:center;padding:12px 0;background:#faf9f7;border-bottom:1px solid var(--border);min-height:52px;}
+.ad-placeholder{background:var(--surface2);border:1px dashed var(--border);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:.7rem;color:var(--text-muted);font-family:'JetBrains Mono',monospace;letter-spacing:1px;}
+.hero{padding:64px 48px 52px;border-bottom:1px solid var(--border);display:flex;align-items:flex-end;justify-content:space-between;gap:32px;flex-wrap:wrap;}
+.hero h1{font-family:'Clash Display',sans-serif;font-size:clamp(2.8rem,7vw,5.5rem);font-weight:600;line-height:.95;letter-spacing:-2px;margin-bottom:18px;}
+.hero h1 em{font-style:normal;color:var(--accent);display:block;}
+.hero p{font-size:1rem;color:var(--text-mid);max-width:420px;line-height:1.65;}
+.hero-stats{display:flex;gap:32px;}
+.stat-num{font-family:'Clash Display',sans-serif;font-size:2.2rem;font-weight:600;line-height:1;}
+.stat-label{font-size:.72rem;color:var(--text-muted);margin-top:4px;letter-spacing:1px;text-transform:uppercase;}
+.compare-area{padding:44px 48px;}
+.instruction{font-family:'JetBrains Mono',monospace;font-size:.7rem;letter-spacing:3px;text-transform:uppercase;color:var(--text-muted);margin-bottom:22px;}
+.slots-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:28px;}
+.slot-card{background:var(--surface);border:2px dashed var(--border);border-radius:18px;min-height:216px;position:relative;overflow:visible;transition:all .2s;}
+.slot-card.slot-1{--sc:var(--s1);}.slot-card.slot-2{--sc:var(--s2);}.slot-card.slot-3{--sc:var(--s3);}.slot-card.slot-4{--sc:var(--s4);}
+.slot-card.searching{border-style:solid;border-color:var(--sc);box-shadow:0 0 0 4px color-mix(in srgb,var(--sc) 12%,transparent);}
+.slot-card.filled{border-style:solid;border-color:color-mix(in srgb,var(--sc) 35%,transparent);}
+.slot-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;min-height:216px;gap:10px;padding:24px;text-align:center;cursor:pointer;}
+.slot-empty:hover{background:#f9f8f5;}
+.slot-num{width:36px;height:36px;border-radius:50%;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-family:'Clash Display',sans-serif;font-size:1.1rem;font-weight:600;color:var(--text-muted);transition:all .2s;}
+.slot-card.searching .slot-num{background:var(--sc);color:#fff;}
+.slot-empty-icon{font-size:1.6rem;color:#ccc;}
+.slot-empty-text{font-size:.8rem;color:var(--text-muted);line-height:1.5;}
+.slot-search-wrap{padding:18px 16px 14px;}
+.slot-search-header{display:flex;align-items:center;gap:10px;margin-bottom:12px;}
+.slot-search-label{font-size:.82rem;color:var(--text-mid);font-weight:600;}
+.search-input{width:100%;background:var(--surface2);border:1.5px solid var(--border);border-radius:10px;padding:10px 14px;font-family:'Instrument Sans',sans-serif;font-size:.88rem;color:var(--text);outline:none;transition:all .2s;}
+.search-input:focus{border-color:var(--sc);background:#fff;box-shadow:0 0 0 3px color-mix(in srgb,var(--sc) 10%,transparent);}
+.search-input::placeholder{color:var(--text-muted);}
+.dropdown{position:absolute;top:calc(100% + 6px);left:0;right:0;background:var(--surface);border:1.5px solid var(--border);border-radius:14px;box-shadow:0 20px 60px #1a181430;z-index:500;max-height:300px;overflow-y:auto;display:none;}
+.dropdown.open{display:block;}
+.dd-item{display:flex;align-items:center;justify-content:space-between;padding:11px 16px;cursor:pointer;border-bottom:1px solid var(--surface2);gap:12px;transition:background .12s;}
+.dd-item:last-child{border-bottom:none;}
+.dd-item:hover{background:var(--surface2);}
+.dd-name{font-weight:600;font-size:.85rem;line-height:1.3;}
+.dd-meta{font-size:.73rem;color:var(--text-muted);margin-top:2px;}
+.dd-price{font-family:'Clash Display',sans-serif;font-size:1.1rem;font-weight:600;white-space:nowrap;}
+.badge{display:inline-block;font-size:.6rem;padding:2px 7px;border-radius:100px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;}
+.b-budget{background:#fef3c7;color:#92400e;}.b-mid{background:#dcfce7;color:#166534;}.b-premium{background:#dbeafe;color:#1e40af;}.b-flagship{background:#f3e8ff;color:#6b21a8;}
+.filled-bar{height:5px;background:var(--sc);}
+.filled-body{padding:16px 18px;}
+.filled-brand{font-family:'JetBrains Mono',monospace;font-size:.6rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:5px;}
+.filled-name{font-family:'Clash Display',sans-serif;font-size:1rem;font-weight:600;line-height:1.2;margin-bottom:4px;}
+.filled-type{font-size:.73rem;color:var(--text-muted);margin-bottom:10px;}
+.filled-price{font-family:'Clash Display',sans-serif;font-size:1.5rem;font-weight:600;color:var(--sc);margin-bottom:14px;}
+.filled-actions{display:flex;gap:8px;}
+.slot-btn{flex:1;padding:7px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);font-family:'Instrument Sans',sans-serif;font-size:.73rem;font-weight:500;color:var(--text-mid);cursor:pointer;transition:all .18s;}
+.slot-btn:hover{background:var(--border);}
+.slot-btn.rm:hover{background:#fee2e2;border-color:#fca5a5;color:#dc2626;}
+.compare-bar{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+.status-txt{font-size:.85rem;color:var(--text-muted);}
+.status-txt strong{color:var(--text);}
+.cmp-btn{background:var(--text);color:#fff;border:none;border-radius:12px;padding:15px 38px;font-family:'Clash Display',sans-serif;font-size:1rem;font-weight:600;letter-spacing:.5px;cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:10px;}
+.cmp-btn:hover:not(:disabled){background:var(--accent);transform:translateY(-2px);box-shadow:0 8px 24px #c8473a40;}
+.cmp-btn:disabled{opacity:.35;cursor:not-allowed;}
+.divider{height:1px;background:var(--border);margin:0 48px;}
+/* AD MIDDLE */
+.ad-middle{display:flex;justify-content:center;padding:28px 48px;background:#faf9f7;border-top:1px solid var(--border);border-bottom:1px solid var(--border);}
+.result-section{padding:60px 48px;display:none;}
+.result-section.visible{display:block;}
+.ai-banner{background:var(--text);border-radius:20px;padding:32px 36px;margin-bottom:48px;display:flex;flex-direction:column;gap:24px;}
+.ai-lbl{display:inline-flex;align-items:center;gap:6px;background:#ffffff15;border:1px solid #ffffff25;border-radius:100px;padding:4px 12px;font-family:'JetBrains Mono',monospace;font-size:.63rem;color:#ffffff80;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px;}
+.ai-dot{width:6px;height:6px;border-radius:50%;background:var(--accent);animation:pulse 1.5s infinite;}
+.ai-chips{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;}
+.ai-chip{background:#ffffff10;border:1px solid #ffffff20;border-radius:12px;padding:12px 15px;}
+.ai-chip-lbl{font-family:'JetBrains Mono',monospace;font-size:.58rem;color:#ffffff50;letter-spacing:2px;text-transform:uppercase;margin-bottom:4px;}
+.ai-chip-val{font-size:.84rem;font-weight:600;color:#fff;line-height:1.35;}
+.ai-text{font-size:.97rem;line-height:1.78;color:#ffffffcc;padding-top:8px;border-top:1px solid #ffffff15;}
+.sec-title{font-family:'Clash Display',sans-serif;font-size:1.5rem;font-weight:600;letter-spacing:-.5px;margin-bottom:18px;padding-bottom:14px;border-bottom:2px solid var(--border);}
+.tbl-wrap{overflow-x:auto;border-radius:16px;border:1px solid var(--border);margin-bottom:44px;background:var(--surface);}
+.ctable{width:100%;border-collapse:collapse;min-width:520px;}
+.ctable th{padding:16px 18px;text-align:left;border-bottom:2px solid var(--border);border-right:1px solid var(--surface2);background:var(--surface);}
+.ctable th:first-child{font-family:'JetBrains Mono',monospace;font-size:.63rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);width:155px;}
+.th-name{font-family:'Clash Display',sans-serif;font-size:.97rem;font-weight:600;color:var(--text);display:block;margin-bottom:2px;}
+.th-price{font-family:'Clash Display',sans-serif;font-size:1.15rem;font-weight:600;}
+.ctable td{padding:13px 18px;border-bottom:1px solid var(--surface2);border-right:1px solid var(--surface2);font-size:.84rem;line-height:1.5;vertical-align:top;}
+.ctable tr:last-child td{border-bottom:none;}
+.ctable td:last-child,.ctable th:last-child{border-right:none;}
+.ctable tr:nth-child(even) td{background:#faf9f7;}
+.ctable td:first-child{font-family:'JetBrains Mono',monospace;font-size:.66rem;letter-spacing:1px;text-transform:uppercase;color:var(--text-muted);font-weight:500;background:var(--surface)!important;}
+.score-row{display:flex;align-items:center;gap:8px;}
+.score-bg{flex:1;height:5px;background:var(--surface2);border-radius:100px;overflow:hidden;}
+.score-fill{height:100%;border-radius:100px;transition:width 1.2s cubic-bezier(.4,0,.2,1);}
+.score-val{font-family:'JetBrains Mono',monospace;font-size:.7rem;color:var(--text-muted);width:26px;text-align:right;}
+.tag-pro{display:inline-flex;align-items:center;gap:3px;background:#dcfce7;color:#166534;border-radius:6px;padding:3px 8px;font-size:.71rem;margin:2px;line-height:1.4;}
+.tag-con{display:inline-flex;align-items:center;gap:3px;background:#fee2e2;color:#991b1b;border-radius:6px;padding:3px 8px;font-size:.71rem;margin:2px;line-height:1.4;}
+.vids-grid{display:grid;gap:20px;margin-bottom:44px;}
+.vid-block{background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;}
+.vid-header{padding:13px 18px;border-bottom:1px solid var(--surface2);display:flex;align-items:center;gap:10px;font-weight:600;font-size:.87rem;}
+.vid-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
+.vid-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));}
+.vid-cell{padding:14px;border-right:1px solid var(--surface2);}
+.vid-cell:last-child{border-right:none;}
+.vid-thumb{position:relative;width:100%;aspect-ratio:16/9;border-radius:9px;overflow:hidden;display:block;text-decoration:none;background:#000;}
+.vid-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:opacity .2s;}
+.vid-thumb:hover img{opacity:.85;}
+.vid-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;}
+.vid-play-btn{width:52px;height:52px;background:#ff0000ee;border-radius:50%;display:flex;align-items:center;justify-content:center;transition:transform .2s;}
+.vid-thumb:hover .vid-play-btn{transform:scale(1.1);}
+.vid-play-icon{width:0;height:0;border-style:solid;border-width:10px 0 10px 20px;border-color:transparent transparent transparent #fff;margin-left:4px;}
+.vid-label{font-size:.73rem;color:var(--text-muted);margin-top:8px;}
+.vid-label a{color:var(--text-mid);text-decoration:none;font-weight:500;}.vid-label a:hover{color:var(--accent);}
+.buy-grid{display:grid;gap:12px;margin-bottom:44px;}
+.buy-row{background:var(--surface);border:1px solid var(--border);border-radius:13px;padding:16px 20px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
+.buy-left{display:flex;align-items:center;gap:13px;}
+.buy-stripe{width:4px;height:42px;border-radius:4px;flex-shrink:0;}
+.buy-name{font-weight:600;font-size:.88rem;margin-bottom:2px;}
+.buy-price{font-family:'Clash Display',sans-serif;font-size:1.3rem;font-weight:600;}
+.buy-links{display:flex;gap:8px;flex-wrap:wrap;}
+.buy-link{display:inline-flex;align-items:center;gap:5px;padding:8px 15px;border-radius:9px;font-size:.78rem;font-weight:600;text-decoration:none;transition:all .18s;border:1px solid transparent;}
+.bl-amazon{background:#ff9900;color:#000;}.bl-amazon:hover{background:#ffb020;transform:translateY(-1px);}
+.bl-ml{background:#3483fa;color:#fff;}.bl-ml:hover{background:#5b9bff;transform:translateY(-1px);}
+.bl-shopee{background:#ee4d2d;color:#fff;}.bl-shopee:hover{background:#ff6347;transform:translateY(-1px);}
+.bl-official{background:transparent;border-color:var(--border);color:var(--text-mid);}.bl-official:hover{border-color:var(--text);color:var(--text);transform:translateY(-1px);}
+/* AD BOTTOM */
+.ad-bottom{display:flex;justify-content:center;padding:28px 48px;border-top:1px solid var(--border);}
+.spinner{width:34px;height:34px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;margin:48px auto;}
+.toast{position:fixed;bottom:26px;right:26px;background:var(--text);color:#fff;border-radius:10px;padding:11px 17px;font-size:.81rem;z-index:999;transform:translateY(60px);opacity:0;transition:all .3s;max-width:255px;}
+.toast.show{transform:translateY(0);opacity:1;}
+footer{background:var(--text);padding:30px 48px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+.footer-logo{font-family:'Clash Display',sans-serif;font-size:1.2rem;font-weight:700;color:#fff;}
+.footer-logo span{color:var(--accent);}
+.footer-links{display:flex;gap:24px;}
+.footer-link{font-size:.78rem;color:#ffffff60;text-decoration:none;transition:color .2s;}.footer-link:hover{color:#fff;}
+.footer-note{font-size:.73rem;color:#ffffff40;margin-top:8px;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:900px){.slots-grid{grid-template-columns:repeat(2,1fr);}header,.compare-area,.result-section,footer,.hero,.ad-middle,.ad-bottom{padding-left:20px;padding-right:20px;}.divider{margin:0 20px;}.ai-banner{grid-template-columns:1fr;}}
+@media(max-width:560px){.slots-grid{grid-template-columns:1fr;}.buy-row{flex-direction:column;align-items:flex-start;}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Sound<span>Duel</span></div>
+  <div class="header-tag">Comparador · Fones Bluetooth</div>
+</header>
+
+<!-- ANÚNCIO TOPO (728x90 ou responsive) -->
+<div class="ad-top" id="adTop">
+  <!-- AdSense injetado via JS quando enabled=true em config.js -->
+</div>
+
+<section class="hero">
+  <div>
+    <h1>Compare<em>fones.</em></h1>
+    <p>Busque até 4 modelos e compare specs técnicas, prós, contras, vídeos e links de compra — lado a lado.</p>
+  </div>
+  <div class="hero-stats">
+    <div class="stat"><div class="stat-num" id="totalModels">58</div><div class="stat-label">Modelos</div></div>
+    <div class="stat"><div class="stat-num">12</div><div class="stat-label">Marcas</div></div>
+    <div class="stat"><div class="stat-num">4</div><div class="stat-label">Slots</div></div>
+  </div>
+</section>
+
+<section class="compare-area">
+  <div class="instruction">// Clique em um slot e busque o modelo que deseja comparar</div>
+  <div class="slots-grid" id="slotsGrid"></div>
+  <div class="compare-bar">
+    <div class="status-txt" id="statusTxt">Adicione ao menos <strong>2 fones</strong> para comparar</div>
+    <button class="cmp-btn" id="cmpBtn" onclick="startComparison()" disabled>Comparar agora →</button>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ANÚNCIO MEIO (aparece entre specs e vídeos, injetado via JS) -->
+<div class="ad-middle" id="adMiddle" style="display:none"></div>
+
+<section class="result-section" id="resultSection">
+  <div id="resultContent"></div>
+</section>
+
+<!-- ANÚNCIO RODAPÉ -->
+<div class="ad-bottom" id="adBottom">
+  <!-- AdSense injetado via JS quando enabled=true em config.js -->
+</div>
+
+<footer>
+  <div>
+    <div class="footer-logo">Sound<span>Duel</span></div>
+    <div class="footer-note">Análises por IA · Preços aproximados em BRL · Links de afiliado podem se aplicar</div>
+  </div>
+  <div class="footer-links">
+    <a class="footer-link" href="#" onclick="return false">Sobre</a>
+    <a class="footer-link" href="#" onclick="return false">Contato</a>
+    <a class="footer-link" href="#" onclick="return false">Política de Privacidade</a>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<!-- Carregar config e banco de dados externos -->
+<script src="config.js"></script>
+<script src="headphones.js"></script>
+
+<script>
+// ─── INICIALIZAÇÃO ────────────────────────────────────────────────────────────
+window.addEventListener('load', () => {
+  // Conta total de modelos dinamicamente
+  document.getElementById('totalModels').textContent = HEADPHONES.length;
+  // Injeta Google AdSense se habilitado
+  initAds();
+  // Renderiza slots
+  render();
+});
+
+// ─── GOOGLE ADSENSE ───────────────────────────────────────────────────────────
+function initAds() {
+  if (!CONFIG.adsense.enabled) return;
+  // Injeta script do AdSense no <head>
+  const s = document.createElement('script');
+  s.async = true;
+  s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${CONFIG.adsense.publisherId}`;
+  s.crossOrigin = 'anonymous';
+  document.head.appendChild(s);
+  // Banners
+  injectAd('adTop',    CONFIG.adsense.slots.banner_top,    '728px', '90px');
+  injectAd('adBottom', CONFIG.adsense.slots.banner_bottom, '100%',  '90px');
+}
+
+function injectAd(containerId, slotId, w, h) {
+  const el = document.getElementById(containerId);
+  if (!el || !slotId || slotId === 'XXXXXXXXXX') return;
+  el.innerHTML = `
+    <ins class="adsbygoogle"
+      style="display:inline-block;width:${w};height:${h}"
+      data-ad-client="${CONFIG.adsense.publisherId}"
+      data-ad-slot="${slotId}"></ins>`;
+  (window.adsbygoogle = window.adsbygoogle || []).push({});
+}
+
+function injectAdMiddle() {
+  const el = document.getElementById('adMiddle');
+  if (!CONFIG.adsense.enabled || !el) return;
+  const slotId = CONFIG.adsense.slots.banner_middle;
+  if (!slotId || slotId === 'XXXXXXXXXX') return;
+  el.style.display = 'flex';
+  el.innerHTML = `
+    <ins class="adsbygoogle"
+      style="display:block;width:100%;max-width:728px"
+      data-ad-client="${CONFIG.adsense.publisherId}"
+      data-ad-slot="${slotId}"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>`;
+  (window.adsbygoogle = window.adsbygoogle || []).push({});
+}
+
+// ─── LINKS DE AFILIADO ────────────────────────────────────────────────────────
+function buildAmazonUrl(hp) {
+  const base = hp.amazon;
+  if (!CONFIG.affiliate.amazon.enabled || !CONFIG.affiliate.amazon.tag) return base;
+  const url = new URL(base);
+  url.searchParams.set('tag', CONFIG.affiliate.amazon.tag);
+  return url.toString();
+}
+
+function buildMlUrl(hp) {
+  const base = hp.ml;
+  if (!CONFIG.affiliate.mercadolivre.enabled || !CONFIG.affiliate.mercadolivre.trackingPrefix) return base;
+  return CONFIG.affiliate.mercadolivre.trackingPrefix + encodeURIComponent(base);
+}
+
+function buildShopeeUrl(hp) {
+  const q = encodeURIComponent(`${hp.name} ${hp.brand}`);
+  const base = `https://shopee.com.br/search?keyword=${q}`;
+  if (!CONFIG.affiliate.shopee.enabled || !CONFIG.affiliate.shopee.trackingPrefix) return base;
+  return CONFIG.affiliate.shopee.trackingPrefix + encodeURIComponent(base);
+}
+
+// ─── ESTADO ───────────────────────────────────────────────────────────────────
+const TL  = {budget:'Básico', mid:'Intermediário', premium:'Premium', flagship:'Top de Linha'};
+const TB  = {budget:'b-budget', mid:'b-mid', premium:'b-premium', flagship:'b-flagship'};
+const SC  = ['var(--s1)','var(--s2)','var(--s3)','var(--s4)'];
+let slots = [null, null, null, null];
+let activeSlot = null;
+
+// ─── RENDER SLOTS ─────────────────────────────────────────────────────────────
+function render() {
+  const g = document.getElementById('slotsGrid');
+  g.innerHTML = '';
+  for (let i = 0; i < 4; i++) {
+    const c = document.createElement('div');
+    c.className = `slot-card slot-${i+1}${activeSlot===i?' searching':''}${slots[i]?' filled':''}`;
+    c.id = `sc${i}`;
+    if (slots[i]) {
+      const h = slots[i];
+      c.innerHTML = `<div class="filled-bar"></div><div class="filled-body"><div class="filled-brand">${h.brand}</div><div class="filled-name">${h.name}</div><div class="filled-type">${h.type} · <span class="badge ${TB[h.tier]}">${TL[h.tier]}</span></div><div class="filled-price">R$ ${h.price.toLocaleString('pt-BR')}</div><div class="filled-actions"><button class="slot-btn" id="btn-swap-${i}">Trocar</button><button class="slot-btn rm" id="btn-rm-${i}">Remover</button></div></div>`;
+      g.appendChild(c);
+      document.getElementById(`btn-swap-${i}`).addEventListener('click', e => { e.stopPropagation(); openSearch(i); });
+      document.getElementById(`btn-rm-${i}`).addEventListener('click',  e => { e.stopPropagation(); removeSlot(i); });
+      continue;
+    } else if (activeSlot === i) {
+      c.innerHTML = `<div class="slot-search-wrap"><div class="slot-search-header"><div class="slot-num">${i+1}</div><span class="slot-search-label">Buscar fone</span></div><input class="search-input" id="si${i}" placeholder="Digite marca ou modelo..." oninput="updateDrop(${i},this.value)" onkeydown="if(event.key==='Escape')closeSearch()" autocomplete="off"><div class="dropdown" id="dd${i}"></div></div>`;
+      setTimeout(() => { const inp = document.getElementById(`si${i}`); if(inp){inp.focus(); updateDrop(i,'');} }, 40);
+    } else {
+      c.innerHTML = `<div class="slot-empty"><div class="slot-num">${i+1}</div><div class="slot-empty-icon">+</div><div class="slot-empty-text">Clique para buscar<br>um fone</div></div>`;
+      c.addEventListener('click', e => { e.stopPropagation(); openSearch(i); });
+    }
+    g.appendChild(c);
+  }
+  updateBar();
+  document.addEventListener('click', handleOutsideClick, {once: true});
+}
+
+function handleOutsideClick(e) {
+  if (activeSlot === null) return;
+  const card = document.getElementById(`sc${activeSlot}`);
+  if (card && !card.contains(e.target)) { closeSearch(); }
+  else { document.addEventListener('click', handleOutsideClick, {once: true}); }
+}
+
+function openSearch(i)  { activeSlot = i; render(); }
+function closeSearch()  { activeSlot = null; render(); }
+function removeSlot(i)  { slots[i] = null; if(activeSlot===i) activeSlot=null; render(); document.getElementById('resultSection').classList.remove('visible'); showToast('Fone removido.'); }
+
+// ─── DROPDOWN ─────────────────────────────────────────────────────────────────
+function updateDrop(i, q) {
+  const box = document.getElementById(`dd${i}`);
+  if (!box) return;
+  const used = slots.map((s,j) => s && j!==i ? s.id : null).filter(Boolean);
+  const list = HEADPHONES.filter(h => {
+    if (used.includes(h.id)) return false;
+    if (!q) return true;
+    const ql = q.toLowerCase();
+    return h.name.toLowerCase().includes(ql) || h.brand.toLowerCase().includes(ql) ||
+           h.type.toLowerCase().includes(ql)  || TL[h.tier].toLowerCase().includes(ql);
+  }).slice(0, 8);
+  box.classList.add('open');
+  if (!list.length) { box.innerHTML = '<div class="dd-item" style="color:var(--text-muted);font-size:.82rem;cursor:default">Nenhum resultado encontrado</div>'; return; }
+  box.innerHTML = list.map(h => `<div class="dd-item" onclick="event.stopPropagation();pick(${i},${h.id})"><div><div class="dd-name">${h.name}</div><div class="dd-meta">${h.brand} · ${h.type} · <span class="badge ${TB[h.tier]}">${TL[h.tier]}</span></div></div><div class="dd-price">R$ ${h.price.toLocaleString('pt-BR')}</div></div>`).join('');
+}
+
+function pick(si, hid) {
+  slots[si] = HEADPHONES.find(h => h.id === hid);
+  activeSlot = null;
+  render();
+  document.getElementById('resultSection').classList.remove('visible');
+  showToast(`${slots[si].name} adicionado!`);
+}
+
+// ─── BARRA DE COMPARAÇÃO ──────────────────────────────────────────────────────
+function updateBar() {
+  const n = slots.filter(Boolean).length;
+  document.getElementById('cmpBtn').disabled = n < 2;
+  const t = document.getElementById('statusTxt');
+  if (n === 0) t.innerHTML = 'Adicione ao menos <strong>2 fones</strong> para comparar';
+  else if (n === 1) t.innerHTML = '<strong>1 fone</strong> selecionado — adicione mais 1';
+  else t.innerHTML = `<strong>${n} fones</strong> selecionados — pronto para comparar!`;
+}
+
+// ─── COMPARAÇÃO ───────────────────────────────────────────────────────────────
+async function startComparison() {
+  const sel = slots.filter(Boolean);
+  if (sel.length < 2) return;
+  const sec = document.getElementById('resultSection');
+  const cnt = document.getElementById('resultContent');
+  sec.classList.add('visible');
+  cnt.innerHTML = '<div class="spinner"></div>';
+  sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  let ai = null;
+  try {
+    const r = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{ role: 'user', content: buildPrompt(sel) }]
+      })
+    });
+    const d = await r.json();
+    const t = d.content?.map(b => b.text||'').join('') || '';
+    try { ai = JSON.parse(t.replace(/```json|```/g,'').trim()); } catch(e) {}
+  } catch(e) {}
+  renderResult(sel, ai);
+  injectAdMiddle();
+}
+
+function buildPrompt(s) {
+  const list = s.map((h,i) => `Fone ${i+1}: ${h.name} (${h.brand}) R$${h.price}\nEspecs:${JSON.stringify(h.specs)}\nPrós:${h.pros.join(', ')}\nContras:${h.cons.join(', ')}`).join('\n\n');
+  return `Especialista em fones Bluetooth. Analise e retorne SOMENTE JSON válido sem markdown:\n\n${list}\n\n{"resumo":"2-3 frases resumindo a comparação","melhorCusto":"Nome do melhor custo-benefício","melhorSom":"Nome do melhor som","melhorConforto":"Nome do mais confortável","recomendado":"Nome e motivo em 1 frase"}`;
+}
+
+// ─── RENDER RESULTADO ─────────────────────────────────────────────────────────
+function renderResult(sel, ai) {
+  const cnt = document.getElementById('resultContent');
+  const ths = sel.map((h,i) => `<th><span class="th-name">${h.name}</span><span class="th-price" style="color:${SC[i].replace('var(','').replace(')','').replace('--s','var(--s')}">R$ ${h.price.toLocaleString('pt-BR')}</span></th>`).join('');
+
+  // IA
+  const aiBanner = ai ? `
+    <div class="ai-banner">
+      <div class="ai-lbl"><div class="ai-dot"></div>Análise IA</div>
+      <div class="ai-chips">${[['🏆 Melhor Custo-Benefício',ai.melhorCusto],['🎵 Melhor Som',ai.melhorSom],['😌 Mais Confortável',ai.melhorConforto],['⭐ Recomendado',ai.recomendado]].map(([l,v])=>`<div class="ai-chip"><div class="ai-chip-lbl">${l}</div><div class="ai-chip-val">${v||'—'}</div></div>`).join('')}</div>
+      <div class="ai-text">${ai.resumo||''}</div>
+    </div>` : '';
+
+  // Specs
+  const specKeys = [...new Set(sel.flatMap(h => Object.keys(h.specs)))];
+  const specRows = specKeys.map(k => `<tr><td>${k}</td>${sel.map(h => `<td>${h.specs[k]||'—'}</td>`).join('')}</tr>`).join('');
+
+  // Pontuações
+  const scoreKeys = [...new Set(sel.flatMap(h => Object.keys(h.score)))];
+  const scoreRows = scoreKeys.map(k => `<tr><td>${k}</td>${sel.map((h,i) => `<td><div class="score-row"><div class="score-bg"><div class="score-fill" style="width:${h.score[k]||0}%;background:${SC[i]}"></div></div><span class="score-val">${h.score[k]||0}</span></div></td>`).join('')}</tr>`).join('');
+
+  // Prós e Contras
+  const prosRow = `<tr><td>Vantagens</td>${sel.map(h => `<td>${h.pros.map(p => `<span class="tag-pro">↑ ${p}</span>`).join('')}</td>`).join('')}</tr>`;
+  const consRow = `<tr><td>Desvantagens</td>${sel.map(h => `<td>${h.cons.map(c => `<span class="tag-con">↓ ${c}</span>`).join('')}</td>`).join('')}</tr>`;
+
+  // Vídeos (thumbnails clicáveis)
+  const vids = sel.map((h,i) => `
+    <div class="vid-block">
+      <div class="vid-header"><div class="vid-dot" style="background:${SC[i]}"></div>${h.name}</div>
+      <div class="vid-row">${h.youtubeIds.map((v,vi) => {
+        const url = `https://www.youtube.com/watch?v=${v}`;
+        const thumb = `https://img.youtube.com/vi/${v}/hqdefault.jpg`;
+        return `<div class="vid-cell">
+          <a class="vid-thumb" href="${url}" target="_blank" rel="noopener">
+            <img src="${thumb}" alt="${h.youtubeLabels[vi]||'Review'}" loading="lazy">
+            <div class="vid-play"><div class="vid-play-btn"><div class="vid-play-icon"></div></div></div>
+          </a>
+          <div class="vid-label"><a href="${url}" target="_blank" rel="noopener">${h.youtubeLabels[vi]||'Review'} ↗</a></div>
+        </div>`;
+      }).join('')}</div>
+    </div>`).join('');
+
+  // Comprar
+  const buys = sel.map((h,i) => `
+    <div class="buy-row">
+      <div class="buy-left">
+        <div class="buy-stripe" style="background:${SC[i]}"></div>
+        <div>
+          <div class="buy-name">${h.name}</div>
+          <div class="buy-price" style="color:${SC[i]}">R$ ${h.price.toLocaleString('pt-BR')}</div>
+        </div>
+      </div>
+      <div class="buy-links">
+        <a class="buy-link bl-amazon"  href="${buildAmazonUrl(h)}" target="_blank" rel="noopener">🛒 Amazon</a>
+        <a class="buy-link bl-ml"      href="${buildMlUrl(h)}"     target="_blank" rel="noopener">📦 Mercado Livre</a>
+        <a class="buy-link bl-shopee"  href="${buildShopeeUrl(h)}" target="_blank" rel="noopener">🟠 Shopee</a>
+        <a class="buy-link bl-official" href="${h.official}"       target="_blank" rel="noopener">🌐 Site Oficial</a>
+      </div>
+    </div>`).join('');
+
+  cnt.innerHTML = `
+    ${aiBanner}
+    <div class="sec-title">Especificações Técnicas</div>
+    <div class="tbl-wrap"><table class="ctable"><thead><tr><th>Especificação</th>${ths}</tr></thead><tbody>${specRows}</tbody></table></div>
+    <div class="sec-title">Pontuação por Categoria</div>
+    <div class="tbl-wrap"><table class="ctable"><thead><tr><th>Categoria</th>${ths}</tr></thead><tbody>${scoreRows}</tbody></table></div>
+    <div class="sec-title">Prós e Contras</div>
+    <div class="tbl-wrap"><table class="ctable"><thead><tr><th></th>${ths}</tr></thead><tbody>${prosRow}${consRow}</tbody></table></div>
+    <div class="sec-title">Reviews no YouTube</div>
+    <div class="vids-grid">${vids}</div>
+    <div class="sec-title">Onde Comprar</div>
+    <div class="buy-grid">${buys}</div>
+  `;
+}
+
+// ─── TOAST ────────────────────────────────────────────────────────────────────
+let toastT;
+function showToast(m) {
+  const t = document.getElementById('toast');
+  t.textContent = m;
+  t.classList.add('show');
+  clearTimeout(toastT);
+  toastT = setTimeout(() => t.classList.remove('show'), 2200);
+}
+</script>
+</body>
+</html>
