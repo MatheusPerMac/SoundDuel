@@ -139,6 +139,18 @@
 
 <!-- Google AdSense: injetado via JS após carregar config.js -->
 
+<!-- ═══════════════════════════════════════════════════════════
+     GOOGLE TAG MANAGER — Código 1 de 2 (no <head>)
+     Permite configurar Google Analytics, Ads e outros
+     sem precisar editar o código do site
+═══════════════════════════════════════════════════════════ -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVGGKL9S');</script>
+<!-- End Google Tag Manager -->
+
 <link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#f5f3ee;--surface:#fff;--surface2:#eeebe4;--border:#d8d3c8;--text:#1a1814;--text-mid:#5a5548;--text-muted:#9a9080;--accent:#c8473a;--s1:#c8473a;--s2:#2d6a4f;--s3:#1e3a5f;--s4:#7b3f8c;}
@@ -280,6 +292,13 @@ footer{background:var(--text);padding:30px 48px;display:flex;align-items:center;
 </style>
 </head>
 <body>
+
+<!-- ═══════════════════════════════════════════════════════════
+     GOOGLE TAG MANAGER — Código 2 de 2 (logo após <body>)
+═══════════════════════════════════════════════════════════ -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVGGKL9S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <header>
   <div class="logo">Sound<span>Duel</span></div>
