@@ -37,18 +37,19 @@ main{max-width:1100px;padding:52px 48px;margin:0 auto;}
 .section-label{font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:3px;text-transform:uppercase;color:var(--text-muted);margin-bottom:22px;}
 .guides-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px;margin-bottom:52px;}
 .guide-card{background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:28px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s;display:block;}
-.guide-card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.06);}
+.guide-card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.08);}
 .guide-type{font-family:'JetBrains Mono',monospace;font-size:.62rem;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:20px;display:inline-block;margin-bottom:14px;}
 .type-lista{background:#fff3e0;color:#e65100;}
 .type-guia{background:color-mix(in srgb,var(--accent) 10%,transparent);color:var(--accent);}
 .type-comparativo{background:#e8f5e9;color:#2d6a4f;}
-.type-breve{background:var(--surface2);color:var(--text-muted);}
 .guide-card h2{font-family:'Clash Display',sans-serif;font-size:1.2rem;font-weight:600;letter-spacing:-.3px;margin-bottom:8px;line-height:1.25;}
 .guide-card p{font-size:.88rem;color:var(--text-muted);line-height:1.55;margin-bottom:16px;}
 .guide-meta{font-size:.78rem;color:var(--text-muted);display:flex;gap:14px;}
-.coming-card{background:var(--surface2);border:1px dashed var(--border);border-radius:18px;padding:28px;opacity:.7;}
+.guide-arrow{font-size:.85rem;color:var(--accent);font-weight:600;margin-top:auto;}
+.coming-card{background:var(--surface2);border:1px dashed var(--border);border-radius:18px;padding:28px;opacity:.6;}
 .coming-card h2{font-family:'Clash Display',sans-serif;font-size:1.2rem;font-weight:600;letter-spacing:-.3px;margin-bottom:8px;color:var(--text-muted);}
 .coming-card p{font-size:.88rem;color:var(--text-muted);}
+.coming-badge{font-family:'JetBrains Mono',monospace;font-size:.62rem;letter-spacing:1.5px;text-transform:uppercase;padding:3px 10px;border-radius:20px;display:inline-block;margin-bottom:14px;background:var(--surface2);color:var(--text-muted);border:1px dashed var(--border);}
 footer{background:var(--text);padding:40px 48px;margin-top:80px;text-align:center;}
 footer p{color:#ffffff60;font-size:.82rem;}
 footer a{color:var(--accent);text-decoration:none;}
@@ -73,6 +74,53 @@ footer a{color:var(--accent);text-decoration:none;}
 
 <main>
   <p class="section-label">Publicados</p>
+  <div class="guides-grid">
+
+    <a class="guide-card" href="/guia/melhores-fones-ate-300-reais">
+      <span class="guide-type type-lista">Lista</span>
+      <h2>Melhores Fones Bluetooth até R$300</h2>
+      <p>Os modelos com melhor custo-benefício disponíveis no Brasil — com ANC, LDAC e boa autonomia sem estourar o orçamento.</p>
+      <div class="guide-meta">
+        <span>🎧 Custo-benefício</span>
+        <span>Atualizado 2025</span>
+      </div>
+    </a>
+
+    <a class="guide-card" href="/guia/ldac-vs-aptx-vs-aac-codecs-bluetooth">
+      <span class="guide-type type-comparativo">Comparativo</span>
+      <h2>LDAC vs aptX vs AAC: qual codec Bluetooth escolher?</h2>
+      <p>Entenda a diferença entre os principais codecs de áudio Bluetooth e saiba qual faz diferença real na prática — e qual é marketing.</p>
+      <div class="guide-meta">
+        <span>🔊 Qualidade de áudio</span>
+        <span>Técnico</span>
+      </div>
+    </a>
+
+    <a class="guide-card" href="/guia/o-que-e-anc-cancelamento-de-ruido">
+      <span class="guide-type type-guia">Guia</span>
+      <h2>O que é ANC? Cancelamento de Ruído explicado</h2>
+      <p>Como funciona o cancelamento ativo de ruído, quando vale a pena pagar por ele e quais fones têm o melhor ANC de cada faixa de preço.</p>
+      <div class="guide-meta">
+        <span>🔇 ANC</span>
+        <span>Iniciante</span>
+      </div>
+    </a>
+
+  </div>
+
+  <p class="section-label">Em breve</p>
+  <div class="guides-grid">
+    <div class="coming-card">
+      <span class="coming-badge">Em breve</span>
+      <h2>Sony WH-1000XM5 vs Bose QC45</h2>
+      <p>Comparativo direto entre os dois headphones premium mais vendidos no Brasil.</p>
+    </div>
+    <div class="coming-card">
+      <span class="coming-badge">Em breve</span>
+      <h2>Melhores TWS para academia e esportes</h2>
+      <p>Fones resistentes, seguros e com boa qualidade de som para treinos intensos.</p>
+    </div>
+  </div>
 </main>
 
 <footer>
