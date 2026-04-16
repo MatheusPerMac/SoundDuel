@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>O que é ANC (Cancelamento de Ruído)? O que as marcas não te contam | CompareFones</title>
+<meta name="description" content="Guia completo sobre ANC: o que é cancelamento de ruído ativo, como funciona na prática, diferença entre ANC híbrido e passivo, e como comparar fones por eficiência real de ANC.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<link rel="canonical" href="https://www.comparefones.com.br/guia/o-que-e-anc-cancelamento-de-ruido">
+<meta property="og:type" content="article">
+<meta property="og:title" content="O que é ANC? O que as marcas não te contam sobre cancelamento de ruído">
+<meta property="og:description" content="Guia técnico acessível: entenda ANC híbrido, feedforward, feedback e por que o número de dB que a marca promete não é tudo.">
+<meta property="og:url" content="https://www.comparefones.com.br/guia/o-que-e-anc-cancelamento-de-ruido">
+<meta property="og:image" content="https://www.comparefones.com.br/og-image.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "O que é ANC? Guia completo sobre cancelamento de ruído em fones",
+  "description": "Guia técnico sobre ANC: como funciona, tipos (híbrido, feedforward, feedback), o que o número de dB realmente significa e como comparar fones por eficiência real.",
+  "author": {"@type": "Organization", "name": "CompareFones"},
+  "publisher": {"@type": "Organization", "name": "CompareFones", "url": "https://www.comparefones.com.br"},
+  "datePublished": "2026-04-16",
+  "dateModified": "2026-04-16",
+  "url": "https://www.comparefones.com.br/guia/o-que-e-anc-cancelamento-de-ruido",
+  "inLanguage": "pt-BR"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "ANC e ENC são a mesma coisa?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Não. ANC (Active Noise Cancellation) cancela ruído para quem usa o fone, criando ondas opostas que neutralizam o som ambiente. ENC (Environmental Noise Cancellation) filtra o ruído apenas nos microfones — melhora a qualidade das chamadas para quem ouve você, mas não isola o ambiente para seus ouvidos."}
+    },
+    {
+      "@type": "Question",
+      "name": "O número de dB de ANC é confiável?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Parcialmente. Cada marca mede em condições e frequências diferentes, então comparar '50dB da marca A' com '45dB da marca B' não é direto. O ANC real depende do tipo de ruído (graves vs agudos), da qualidade do algoritmo e do encaixe físico do fone no ouvido."}
+    },
+    {
+      "@type": "Question",
+      "name": "ANC prejudica a qualidade do som?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Em fones de baixa qualidade, sim — o ANC pode introduzir um chiado residual (hiss) ou colorir o som. Fones premium como o Sony WH-1000XM5, Bose QC Ultra e AirPods Pro 2 conseguem manter qualidade sonora com ANC ativo sem comprometimento audível."}
+    }
+  ]
+}
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NVGGKL9S');</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L2X3NZPKW7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-L2X3NZPKW7');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f3ee;--surface:#fff;--surface2:#eeebe4;--border:#d8d3c8;--text:#1a1814;--text-mid:#5a5548;--text-muted:#9a9080;--accent:#c8473a;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Instrument Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.7;}
+header{background:var(--text);padding:0 48px;display:flex;align-items:center;justify-content:space-between;height:64px;position:sticky;top:0;z-index:100;}
+.logo{font-family:'Clash Display',sans-serif;font-size:1.4rem;font-weight:700;color:#fff;text-decoration:none;}
+.logo span{color:var(--accent);}
+nav a{color:#ffffff90;font-size:.85rem;text-decoration:none;margin-left:28px;transition:color .2s;}
+nav a:hover{color:#fff;}
+nav a.btn-nav{background:var(--accent);color:#fff;padding:8px 18px;border-radius:8px;margin-left:20px;font-weight:600;}
+.article-hero{padding:64px 48px 52px;border-bottom:1px solid var(--border);}
+.breadcrumb{font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:24px;}
+.breadcrumb a{color:var(--text-muted);text-decoration:none;}
+.breadcrumb a:hover{color:var(--accent);}
+.article-tag{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,transparent);padding:4px 12px;border-radius:20px;margin-bottom:20px;}
+h1{font-family:'Clash Display',sans-serif;font-size:clamp(1.9rem,5vw,3.2rem);font-weight:600;line-height:1.05;letter-spacing:-1.5px;margin-bottom:20px;max-width:760px;}
+h1 em{font-style:normal;color:var(--accent);}
+.article-meta{font-size:.82rem;color:var(--text-muted);display:flex;gap:20px;flex-wrap:wrap;}
+main{max-width:860px;padding:52px 48px;margin:0 auto;}
+h2{font-family:'Clash Display',sans-serif;font-size:1.7rem;font-weight:600;letter-spacing:-.5px;margin:52px 0 16px;line-height:1.15;}
+h3{font-size:1.1rem;font-weight:600;margin:28px 0 10px;color:var(--text);}
+p{margin-bottom:18px;color:var(--text-mid);font-size:1rem;}
+p strong{color:var(--text);font-weight:600;}
+ul,ol{margin:0 0 20px 22px;color:var(--text-mid);}
+li{margin-bottom:8px;line-height:1.6;}
+.toc{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:28px 32px;margin-bottom:44px;}
+.toc-title{font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:14px;}
+.toc ol{margin:0;padding-left:18px;}
+.toc li{font-size:.92rem;margin-bottom:6px;}
+.toc a{color:var(--accent);text-decoration:none;font-weight:500;}
+.highlight-box{background:color-mix(in srgb,var(--accent) 8%,transparent);border:1px solid color-mix(in srgb,var(--accent) 20%,transparent);border-radius:14px;padding:24px 28px;margin:32px 0;}
+.highlight-box p{color:var(--text-mid);margin-bottom:0;}
+.highlight-box strong{color:var(--accent);}
+.info-box{background:var(--surface);border:1px solid var(--border);border-left:4px solid #1565c0;border-radius:0 14px 14px 0;padding:22px 26px;margin:28px 0;}
+.info-box p{margin-bottom:0;color:var(--text-mid);}
+.anc-type-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin:24px 0;}
+.anc-type{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:22px 24px;}
+.anc-type h4{font-weight:600;margin-bottom:8px;color:var(--text);font-size:.95rem;}
+.anc-type p{font-size:.88rem;color:var(--text-mid);margin:0;}
+.anc-badge{display:inline-block;font-size:.62rem;font-family:'JetBrains Mono',monospace;letter-spacing:1px;text-transform:uppercase;padding:3px 8px;border-radius:4px;margin-bottom:8px;}
+.badge-ff{background:#e3f2fd;color:#1565c0;}
+.badge-fb{background:#f3e5f5;color:#6a1b9a;}
+.badge-hybrid{background:#e8f5e9;color:#2d6a4f;}
+.rank-table-wrap{overflow-x:auto;margin:24px 0;}
+table{width:100%;border-collapse:collapse;font-size:.88rem;}
+th{background:var(--text);color:#fff;padding:12px 16px;text-align:left;font-weight:500;font-family:'JetBrains Mono',monospace;font-size:.7rem;letter-spacing:1px;}
+td{padding:11px 16px;border-bottom:1px solid var(--border);color:var(--text-mid);}
+tr:nth-child(even) td{background:var(--surface2);}
+td:first-child{font-weight:600;color:var(--text);}
+.td-green{color:#2d6a4f;font-weight:600;}
+.anc-bar{display:flex;align-items:center;gap:10px;}
+.bar-bg{flex:1;height:8px;background:var(--surface2);border-radius:4px;overflow:hidden;}
+.bar-fill{height:100%;border-radius:4px;background:var(--accent);}
+.faq-item{border-bottom:1px solid var(--border);padding:24px 0;}
+.faq-item:last-child{border-bottom:none;}
+.faq-q{font-weight:600;margin-bottom:10px;color:var(--text);}
+.faq-a{font-size:.95rem;color:var(--text-mid);margin:0;}
+.btn-compare{display:inline-block;background:var(--accent);color:#fff;padding:11px 22px;border-radius:10px;font-weight:600;font-size:.9rem;text-decoration:none;}
+.btn-compare:hover{background:#b03a2e;}
+footer{background:var(--text);padding:40px 48px;margin-top:80px;text-align:center;}
+footer p{color:#ffffff60;font-size:.82rem;}
+footer a{color:var(--accent);text-decoration:none;}
+@media(max-width:768px){header{padding:0 20px;}nav a:not(.btn-nav){display:none;}.article-hero,main{padding-left:20px;padding-right:20px;}h1{font-size:1.9rem;}}
+</style>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVGGKL9S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header>
+  <a href="https://www.comparefones.com.br" class="logo">Compare<span>Fones</span></a>
+  <nav>
+    <a href="/guia/">Guias</a>
+    <a href="https://www.comparefones.com.br" class="btn-nav">↗ Comparar agora</a>
+  </nav>
+</header>
+
+<div class="article-hero">
+  <div style="max-width:860px;margin:0 auto;">
+    <p class="breadcrumb"><a href="/">comparefones.com.br</a> / <a href="/guia/">guias</a> / o que é anc</p>
+    <span class="article-tag">📖 Guia técnico</span>
+    <h1>O que é ANC — e o que as marcas <em>não te contam</em></h1>
+    <p style="font-size:1.05rem;color:var(--text-mid);max-width:600px;margin-bottom:20px;">Guia completo sobre cancelamento de ruído ativo: como funciona de verdade, por que o número de dB não é tudo e como escolher um fone pelo ANC real.</p>
+    <div class="article-meta">
+      <span>📅 Publicado em abril de 2026</span>
+      <span>⏱ 10 min de leitura</span>
+      <span>🎯 Nível: intermediário</span>
+    </div>
+  </div>
+</div>
+
+<main>
+
+  <div class="toc">
+    <p class="toc-title">Neste guia</p>
+    <ol>
+      <li><a href="#como-funciona">Como o ANC funciona</a></li>
+      <li><a href="#tipos">Os 3 tipos de ANC</a></li>
+      <li><a href="#db-mito">O mito do dB: por que o número mente</a></li>
+      <li><a href="#anc-vs-enc">ANC vs ENC: diferença que importa</a></li>
+      <li><a href="#anc-vs-passivo">ANC vs isolamento passivo</a></li>
+      <li><a href="#ranking-real">Ranking real de ANC por faixa de preço</a></li>
+      <li><a href="#faq">Perguntas frequentes</a></li>
+    </ol>
+  </div>
+
+  <h2 id="como-funciona">Como o ANC funciona</h2>
+
+  <p>ANC significa <strong>Active Noise Cancellation</strong> — cancelamento ativo de ruído. A ideia central é simples: se um som é uma onda, a forma mais eficiente de neutralizá-lo é criar uma onda exatamente oposta. As duas se somam e se cancelam mutuamente.</p>
+
+  <p>Na prática, o fone usa microfones externos para capturar o ruído ao redor em tempo real. Um processador analisa essa onda de som e gera instantaneamente uma onda "anti-som" com a mesma amplitude, mas fase invertida (180°). Quando as duas ondas se encontram no canal auditivo, elas se anulam — e você ouve silêncio onde havia ruído.</p>
+
+  <div class="info-box">
+    <p>📐 <strong>Física básica:</strong> dois sons com a mesma frequência e amplitude, mas em oposição de fase (um no pico enquanto o outro está no vale), resultam em cancelamento mútuo. Isso é o princípio de interferência destrutiva — o mesmo conceito usado em paredes de som acústico, mas feito em tempo real por processamento digital.</p>
+  </div>
+
+  <p>O desafio técnico é o <strong>tempo de processamento</strong>. O sinal de áudio viaja na velocidade do som (~340 m/s). O processador do fone precisa capturar, analisar e gerar a onda oposta em menos de 1 milissegundo para que o cancelamento chegue ao ouvido no momento certo. É por isso que chips mais potentes fazem diferença real no ANC — e por que fones baratos com ANC "no papel" muitas vezes entregam resultados ruins na prática.</p>
+
+  <h2 id="tipos">Os 3 tipos de ANC</h2>
+
+  <p>Não existe um ANC único. Existem três arquiteturas principais, cada uma com vantagens diferentes:</p>
+
+  <div class="anc-type-grid">
+    <div class="anc-type">
+      <span class="anc-badge badge-ff">Feedforward</span>
+      <h4>ANC Feedforward</h4>
+      <p>Microfone fica do lado de <em>fora</em> do fone, capturando o ruído antes de chegar ao ouvido. Reage bem a ruídos constantes (motores, ar-condicionado), mas pode ser enganado por ruídos imprevisíveis e pelo vento.</p>
+    </div>
+    <div class="anc-type">
+      <span class="anc-badge badge-fb">Feedback</span>
+      <h4>ANC Feedback</h4>
+      <p>Microfone fica do lado de <em>dentro</em> do fone, ouvindo o som que efetivamente chegou ao ouvido. Permite autocorreção contínua — se o cancelamento não foi perfeito, o sistema ajusta. Mais preciso, mas com latência ligeiramente maior.</p>
+    </div>
+    <div class="anc-type">
+      <span class="anc-badge badge-hybrid">Híbrido</span>
+      <h4>ANC Híbrido</h4>
+      <p>Combina microfones internos e externos. É o mais eficaz — antecipa o ruído (feedforward) e corrige em tempo real (feedback). Presente em fones premium como Sony XM5, Bose QC Ultra e AirPods Pro. Requer mais processamento e consome mais bateria.</p>
+    </div>
+  </div>
+
+  <div class="highlight-box">
+    <p><strong>Regra prática:</strong> qualquer fone que declare ANC "de verdade" em 2025 usa ANC híbrido. Fones muito baratos que dizem ter ANC geralmente usam apenas feedback ou ENC no microfone (que não cancela ruído para quem usa o fone — veja a seção sobre ENC abaixo).</p>
+  </div>
+
+  <h2 id="db-mito">O mito do dB: por que o número mente</h2>
+
+  <p>Toda ficha técnica de fone com ANC exibe um número em decibéis: "reduz até 35dB", "ANC de 52dB", "cancela 98% do ruído externo". Esse número é o ponto mais enganoso do marketing de áudio.</p>
+
+  <p><strong>Por que o dB declarado não é comparável entre marcas:</strong></p>
+  <ul>
+    <li>Cada fabricante mede em frequências diferentes. Um "52dB de ANC" pode ser medido em 100Hz (onde qualquer ANC performa bem), enquanto outro "40dB" foi medido em uma faixa mais difícil como 1kHz.</li>
+    <li>Não existe metodologia padronizada internacionalmente para medir ANC em fones de consumo. A ISO e a IEC têm normas para dispositivos de proteção auditiva industrial — não para earbuds.</li>
+    <li>O resultado real depende do encaixe do fone no ouvido. Um fone com ANC "perfeito" mas encaixe ruim vai ser vencido por um fone com ANC mediano mas que sela bem o canal auditivo.</li>
+  </ul>
+
+  <p>Na prática, o que realmente determina a qualidade do ANC são três fatores: <strong>a qualidade do chip de processamento</strong>, <strong>o número e posicionamento dos microfones</strong>, e <strong>a qualidade do algoritmo de software</strong> — que é atualizado via firmware e pode mudar ao longo do tempo.</p>
+
+  <div class="info-box">
+    <p>📊 <strong>Exemplo real:</strong> O Sony WH-1000XM5 usa apenas 8 microfones e chips proprietários e é consistentemente apontado como referência de ANC. O QCY H3 ANC declara 43dB. Em testes independentes, o Sony é significativamente mais eficaz — mesmo que a diferença em dB declarado não pareça tão grande.</p>
+  </div>
+
+  <h3>O que realmente importa: frequência de corte</h3>
+
+  <p>ANC funciona muito melhor em <strong>frequências baixas</strong> (graves) — 20Hz a 1kHz. É exatamente onde estão os ruídos mais incômodos: motor de avião, HVAC de escritório, motores de ônibus e metrô. Em frequências médias e altas (vozes, sirenes), o ANC tem eficácia menor — o isolamento passivo (design físico do fone) assume esse papel.</p>
+
+  <p>Por isso, fones over-ear com almofadas de qualidade geralmente entregam isolamento total superior aos TWS em ambientes barulhentos — mesmo que o TWS tenha ANC "melhor no papel".</p>
+
+  <h2 id="anc-vs-enc">ANC vs ENC: uma diferença que muita gente não sabe</h2>
+
+  <p>ENC significa <strong>Environmental Noise Cancellation</strong>. Funciona só nos microfones do fone — filtra o ruído ambiente para que a pessoa que está <em>te ouvindo</em> em uma chamada escute sua voz com mais clareza. Não faz nada pelo ruído que você mesmo ouve.</p>
+
+  <p>Muitos fones baratos, especialmente na faixa até R$150, anunciam "cancelamento de ruído" quando na verdade têm apenas ENC. São coisas completamente diferentes:</p>
+
+  <div class="rank-table-wrap">
+    <table>
+      <thead>
+        <tr><th>Recurso</th><th>Quem se beneficia</th><th>Como funciona</th><th>Impacto na autonomia</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>ANC</td><td>Você — ouve menos ruído</td><td>Anti-onda gerada pelo processador</td><td>Reduz 20–40% da autonomia</td></tr>
+        <tr><td>ENC</td><td>Quem te ouve na ligação</td><td>Filtro digital no microfone</td><td>Mínimo impacto</td></tr>
+        <tr><td>Isolamento passivo</td><td>Você — ouve menos ruído</td><td>Design físico, material das almofadas</td><td>Nenhum</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2 id="anc-vs-passivo">ANC vs isolamento passivo</h2>
+
+  <p>ANC não substitui o isolamento passivo — os dois trabalham juntos. Fones over-ear com boas almofadas de espuma de memória (como o Bose QC Ultra ou Sony XM5) têm isolamento passivo excelente que bloqueia frequências médias e altas. O ANC então cuida das frequências baixas que o design físico não consegue bloquear.</p>
+
+  <p>Já fones TWS semi-abertos (como os AirPods 4 sem ponteira) têm isolamento passivo quase zero — o ANC precisa trabalhar sozinho, o que limita a eficácia total mesmo com bons algoritmos.</p>
+
+  <div class="highlight-box">
+    <p><strong>Conclusão prática:</strong> Se isolar ruído é sua prioridade número um — avião, metrô, escritório barulhento — prefira <strong>over-ear com ANC híbrido</strong>. A combinação de isolamento passivo das almofadas + ANC ativo é difícil de bater.</p>
+  </div>
+
+  <h2 id="ranking-real">Ranking real de ANC por faixa de preço</h2>
+
+  <p>Baseado em testes independentes (RTINGS, What Hi-Fi, TechRadar) e especificações verificadas:</p>
+
+  <div class="rank-table-wrap">
+    <table>
+      <thead>
+        <tr><th>Fone</th><th>Tipo ANC</th><th>Eficácia real</th><th>Preço aprox.</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Sony WH-1000XM6</td>
+          <td>Híbrido — 8 mics</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:97%"></div></div><span style="font-size:.82rem;min-width:36px">Elite</span></div>
+          </td>
+          <td>~R$2.299</td>
+        </tr>
+        <tr>
+          <td>Bose QC Ultra Headphones</td>
+          <td>Híbrido — CustomTune</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:95%"></div></div><span style="font-size:.82rem;min-width:36px">Elite</span></div>
+          </td>
+          <td>~R$2.499</td>
+        </tr>
+        <tr>
+          <td>Apple AirPods Pro 2</td>
+          <td>Híbrido — H2</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:92%"></div></div><span style="font-size:.82rem;min-width:36px">Ótimo</span></div>
+          </td>
+          <td>~R$2.299</td>
+        </tr>
+        <tr>
+          <td>Sony WF-1000XM5</td>
+          <td>Híbrido — V2</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:88%"></div></div><span style="font-size:.82rem;min-width:36px">Ótimo</span></div>
+          </td>
+          <td>~R$1.699</td>
+        </tr>
+        <tr>
+          <td>Sennheiser Momentum 4</td>
+          <td>Híbrido — Adaptive</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:84%"></div></div><span style="font-size:.82rem;min-width:36px">Muito bom</span></div>
+          </td>
+          <td>~R$1.699</td>
+        </tr>
+        <tr>
+          <td>Soundcore Space Q45</td>
+          <td>Híbrido — Adaptativo</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:68%"></div></div><span style="font-size:.82rem;min-width:36px">Bom</span></div>
+          </td>
+          <td>~R$299</td>
+        </tr>
+        <tr>
+          <td>QCY H3 ANC</td>
+          <td>Híbrido</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:60%"></div></div><span style="font-size:.82rem;min-width:36px">Funcional</span></div>
+          </td>
+          <td>~R$239</td>
+        </tr>
+        <tr>
+          <td>Redmi Buds 6 Lite</td>
+          <td>Básico — dinâmico</td>
+          <td>
+            <div class="anc-bar"><div class="bar-bg"><div class="bar-fill" style="width:40%"></div></div><span style="font-size:.82rem;min-width:36px">Básico</span></div>
+          </td>
+          <td>~R$149</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="font-size:.85rem;color:var(--text-muted);margin-top:-10px;">* Eficácia estimada com base em testes independentes — não é comparação direta de dB declarado pelas marcas.</p>
+
+  <h3>O que esperar de cada nível</h3>
+  <ul>
+    <li><strong>Elite (Sony XM6, Bose QC Ultra):</strong> Silencia motor de avião, metrô e escritório barulhento a ponto de precisar de cuidado ao usar na rua.</li>
+    <li><strong>Ótimo (AirPods Pro, WF-1000XM5):</strong> Reduz muito bem ruído constante. Voz humana ainda passa parcialmente.</li>
+    <li><strong>Muito bom (Sennheiser Momentum 4):</strong> Excelente para viagem e escritório. Distância perceptível do nível elite.</li>
+    <li><strong>Bom (Soundcore Q45):</strong> Reduz perceptivelmente o ruído de fundo, mas em ambientes muito barulhentos fica evidente a limitação.</li>
+    <li><strong>Funcional (QCY H3, Redmi Buds):</strong> Ajuda em ambientes moderados, não resolve avião ou metrô lotado de forma convincente.</li>
+  </ul>
+
+  <h2 id="faq">Perguntas frequentes</h2>
+  <div class="faq-item">
+    <p class="faq-q">ANC e ENC são a mesma coisa?</p>
+    <p class="faq-a">Não. ANC cancela ruído para quem usa o fone. ENC filtra o microfone para melhorar chamadas — só quem te ouve se beneficia. São recursos completamente diferentes.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">O número de dB de ANC é confiável para comparar marcas?</p>
+    <p class="faq-a">Não diretamente. Cada marca mede em condições e frequências diferentes. Use rankings de testes independentes (RTINGS.com) para comparar eficácia real entre modelos.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">ANC gasta mais bateria?</p>
+    <p class="faq-a">Sim. Em média, ANC ativo reduz a autonomia em 20–40%. O Sony WH-1000XM5, por exemplo, dura 30h sem ANC e ~20h com ANC ativo. Sempre verifique a autonomia com ANC ativo — que é o número real de uso.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">ANC prejudica a qualidade do som?</p>
+    <p class="faq-a">Em fones de baixa qualidade, pode introduzir chiado residual (hiss). Fones premium como Sony XM5, Bose QC Ultra e AirPods Pro 2 mantêm qualidade sonora com ANC ativo sem comprometimento audível.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">Preciso de ANC se já uso fone over-ear com boa vedação?</p>
+    <p class="faq-a">Para frequências médias e altas (vozes, sirenes), o isolamento passivo de um bom over-ear já resolve muito bem. O ANC complementa em frequências baixas (motores, ar-condicionado). Em voos longos, a combinação over-ear + ANC faz diferença real de conforto.</p>
+  </div>
+
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:32px;margin-top:52px;text-align:center;">
+    <p style="font-family:'Clash Display',sans-serif;font-size:1.4rem;font-weight:600;letter-spacing:-.3px;margin-bottom:10px;color:var(--text);">Compare fones pelo ANC real</p>
+    <p style="color:var(--text-mid);margin-bottom:22px;">Use o comparador para ver specs detalhadas de ANC lado a lado — tipo, número de mics e autonomia com ANC ativo de qualquer modelo.</p>
+    <a href="https://www.comparefones.com.br" class="btn-compare" style="font-size:1rem;padding:14px 32px;">↗ Abrir o comparador</a>
+  </div>
+
+</main>
+
+<footer>
+  <p>© 2026 <a href="https://www.comparefones.com.br">CompareFones.com.br</a></p>
+  <p style="margin-top:8px;">Ferramenta gratuita para comparar fones Bluetooth lado a lado.</p>
+</footer>
+</body>
+</html>

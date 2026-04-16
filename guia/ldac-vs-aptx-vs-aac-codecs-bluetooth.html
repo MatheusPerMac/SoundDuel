@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LDAC vs aptX vs AAC vs SBC: qual codec Bluetooth escolher? | CompareFones</title>
+<meta name="description" content="Guia definitivo sobre codecs Bluetooth: LDAC, aptX Adaptive, aptX, AAC e SBC. Entenda qual faz diferença na prática, para Android, iPhone e audiófilos.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<link rel="canonical" href="https://www.comparefones.com.br/guia/ldac-vs-aptx-vs-aac-codecs-bluetooth">
+<meta property="og:type" content="article">
+<meta property="og:title" content="LDAC vs aptX vs AAC: qual codec Bluetooth realmente importa?">
+<meta property="og:description" content="Diferenças reais entre LDAC, aptX Adaptive, aptX LL, AAC e SBC. Para Android, iPhone e audiófilos — sem enrolação.">
+<meta property="og:url" content="https://www.comparefones.com.br/guia/ldac-vs-aptx-vs-aac-codecs-bluetooth">
+<meta property="og:image" content="https://www.comparefones.com.br/og-image.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LDAC vs aptX vs AAC vs SBC: qual codec Bluetooth escolher?",
+  "description": "Guia definitivo sobre codecs Bluetooth para fones de ouvido. Diferenças práticas entre LDAC, aptX Adaptive, AAC e SBC.",
+  "author": {"@type": "Organization", "name": "CompareFones"},
+  "publisher": {"@type": "Organization", "name": "CompareFones", "url": "https://www.comparefones.com.br"},
+  "datePublished": "2026-04-16",
+  "dateModified": "2026-04-16",
+  "inLanguage": "pt-BR"
+}
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NVGGKL9S');</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L2X3NZPKW7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-L2X3NZPKW7');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f3ee;--surface:#fff;--surface2:#eeebe4;--border:#d8d3c8;--text:#1a1814;--text-mid:#5a5548;--text-muted:#9a9080;--accent:#c8473a;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Instrument Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.7;}
+header{background:var(--text);padding:0 48px;display:flex;align-items:center;justify-content:space-between;height:64px;position:sticky;top:0;z-index:100;}
+.logo{font-family:'Clash Display',sans-serif;font-size:1.4rem;font-weight:700;color:#fff;text-decoration:none;}
+.logo span{color:var(--accent);}
+nav a{color:#ffffff90;font-size:.85rem;text-decoration:none;margin-left:28px;transition:color .2s;}
+nav a:hover{color:#fff;}
+nav a.btn-nav{background:var(--accent);color:#fff;padding:8px 18px;border-radius:8px;margin-left:20px;font-weight:600;}
+.article-hero{padding:64px 48px 52px;border-bottom:1px solid var(--border);}
+.breadcrumb{font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:24px;}
+.breadcrumb a{color:var(--text-muted);text-decoration:none;}
+.breadcrumb a:hover{color:var(--accent);}
+.article-tag{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,transparent);padding:4px 12px;border-radius:20px;margin-bottom:20px;}
+h1{font-family:'Clash Display',sans-serif;font-size:clamp(1.9rem,5vw,3.2rem);font-weight:600;line-height:1.05;letter-spacing:-1.5px;margin-bottom:20px;max-width:760px;}
+h1 em{font-style:normal;color:var(--accent);}
+.article-meta{font-size:.82rem;color:var(--text-muted);display:flex;gap:20px;flex-wrap:wrap;}
+main{max-width:860px;padding:52px 48px;margin:0 auto;}
+h2{font-family:'Clash Display',sans-serif;font-size:1.7rem;font-weight:600;letter-spacing:-.5px;margin:52px 0 16px;}
+h3{font-size:1.1rem;font-weight:600;margin:28px 0 10px;color:var(--text);}
+p{margin-bottom:18px;color:var(--text-mid);font-size:1rem;}
+p strong{color:var(--text);font-weight:600;}
+ul,ol{margin:0 0 20px 22px;color:var(--text-mid);}
+li{margin-bottom:8px;line-height:1.6;}
+.toc{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:28px 32px;margin-bottom:44px;}
+.toc-title{font-family:'JetBrains Mono',monospace;font-size:.68rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:14px;}
+.toc ol{margin:0;padding-left:18px;}
+.toc li{font-size:.92rem;margin-bottom:6px;}
+.toc a{color:var(--accent);text-decoration:none;font-weight:500;}
+.highlight-box{background:color-mix(in srgb,var(--accent) 8%,transparent);border:1px solid color-mix(in srgb,var(--accent) 20%,transparent);border-radius:14px;padding:24px 28px;margin:32px 0;}
+.highlight-box p{margin:0;color:var(--text-mid);}
+.highlight-box strong{color:var(--accent);}
+.info-box{background:var(--surface);border:1px solid var(--border);border-left:4px solid #1565c0;border-radius:0 14px 14px 0;padding:22px 26px;margin:28px 0;}
+.info-box p{margin:0;color:var(--text-mid);}
+/* Codec cards */
+.codec-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;margin:28px 0;}
+.codec-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:22px 24px;position:relative;overflow:hidden;}
+.codec-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;}
+.cc-ldac::before{background:linear-gradient(90deg,#c8473a,#e65100);}
+.cc-aptxadaptive::before{background:linear-gradient(90deg,#1565c0,#1a237e);}
+.cc-aptx::before{background:#1976d2;}
+.cc-aac::before{background:#2d6a4f;}
+.cc-sbc::before{background:#9a9080;}
+.codec-name{font-family:'Clash Display',sans-serif;font-size:1.2rem;font-weight:600;margin-bottom:4px;}
+.codec-owner{font-family:'JetBrains Mono',monospace;font-size:.65rem;letter-spacing:1px;text-transform:uppercase;color:var(--text-muted);margin-bottom:14px;}
+.codec-stat{display:flex;justify-content:space-between;font-size:.82rem;padding:5px 0;border-bottom:1px solid var(--surface2);}
+.codec-stat:last-of-type{border-bottom:none;}
+.codec-stat-label{color:var(--text-muted);}
+.codec-stat-val{font-weight:600;color:var(--text);}
+/* Bitrate bar */
+.bitrate-section{margin:32px 0;}
+.bitrate-row{display:flex;align-items:center;gap:12px;margin-bottom:12px;}
+.bitrate-name{font-family:'JetBrains Mono',monospace;font-size:.75rem;letter-spacing:1px;min-width:120px;color:var(--text);}
+.bitrate-bar-wrap{flex:1;background:var(--surface2);border-radius:4px;height:20px;overflow:hidden;}
+.bitrate-bar{height:100%;display:flex;align-items:center;padding-left:10px;font-size:.72rem;font-weight:600;color:#fff;border-radius:4px;white-space:nowrap;}
+.bitrate-val{font-size:.78rem;color:var(--text-muted);min-width:80px;text-align:right;}
+/* Table */
+.table-wrap{overflow-x:auto;margin:24px 0;}
+table{width:100%;border-collapse:collapse;font-size:.88rem;}
+th{background:var(--text);color:#fff;padding:12px 16px;text-align:left;font-weight:500;font-family:'JetBrains Mono',monospace;font-size:.7rem;letter-spacing:1px;}
+td{padding:11px 16px;border-bottom:1px solid var(--border);color:var(--text-mid);}
+tr:nth-child(even) td{background:var(--surface2);}
+td:first-child{font-weight:600;color:var(--text);}
+.td-green{color:#2d6a4f;font-weight:600;}
+.td-red{color:#c8473a;}
+.td-muted{color:var(--text-muted);}
+.scenario-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:22px 24px;margin-bottom:14px;}
+.scenario-card h4{font-weight:600;margin-bottom:8px;color:var(--text);}
+.scenario-card p{font-size:.92rem;color:var(--text-mid);margin:0;}
+.faq-item{border-bottom:1px solid var(--border);padding:24px 0;}
+.faq-item:last-child{border-bottom:none;}
+.faq-q{font-weight:600;margin-bottom:10px;color:var(--text);}
+.faq-a{font-size:.95rem;color:var(--text-mid);margin:0;}
+.btn-compare{display:inline-block;background:var(--accent);color:#fff;padding:11px 22px;border-radius:10px;font-weight:600;font-size:.9rem;text-decoration:none;}
+footer{background:var(--text);padding:40px 48px;margin-top:80px;text-align:center;}
+footer p{color:#ffffff60;font-size:.82rem;}
+footer a{color:var(--accent);text-decoration:none;}
+@media(max-width:768px){header{padding:0 20px;}nav a:not(.btn-nav){display:none;}.article-hero,main{padding-left:20px;padding-right:20px;}}
+</style>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVGGKL9S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<header>
+  <a href="https://www.comparefones.com.br" class="logo">Compare<span>Fones</span></a>
+  <nav>
+    <a href="/guia/">Guias</a>
+    <a href="https://www.comparefones.com.br" class="btn-nav">↗ Comparar agora</a>
+  </nav>
+</header>
+
+<div class="article-hero">
+  <div style="max-width:860px;margin:0 auto;">
+    <p class="breadcrumb"><a href="/">comparefones.com.br</a> / <a href="/guia/">guias</a> / codecs bluetooth</p>
+    <span class="article-tag">📖 Guia técnico</span>
+    <h1>LDAC vs aptX vs AAC vs SBC — qual codec <em>realmente importa</em>?</h1>
+    <p style="font-size:1.05rem;color:var(--text-mid);max-width:620px;margin-bottom:20px;">Sem enrolação: o que cada codec faz, qual você precisa dependendo do seu celular e plataforma de streaming, e quando vale pagar mais por LDAC.</p>
+    <div class="article-meta">
+      <span>📅 Publicado em abril de 2026</span>
+      <span>⏱ 8 min de leitura</span>
+      <span>🎧 5 codecs explicados</span>
+    </div>
+  </div>
+</div>
+
+<main>
+  <div class="toc">
+    <p class="toc-title">Neste guia</p>
+    <ol>
+      <li><a href="#o-que-e-codec">O que é um codec Bluetooth</a></li>
+      <li><a href="#comparacao">Comparação dos 5 principais codecs</a></li>
+      <li><a href="#bitrate">Bitrate: o número que define qualidade</a></li>
+      <li><a href="#iphone-android">iPhone vs Android: qual codec funciona?</a></li>
+      <li><a href="#quando-importa">Quando LDAC realmente faz diferença</a></li>
+      <li><a href="#cenarios">Para cada perfil de uso</a></li>
+      <li><a href="#faq">Perguntas frequentes</a></li>
+    </ol>
+  </div>
+
+  <h2 id="o-que-e-codec">O que é um codec Bluetooth</h2>
+  <p>Codec é o algoritmo que <strong>comprime o áudio para transmissão via Bluetooth e descomprime no fone</strong>. É o mesmo conceito de MP3 vs FLAC: o arquivo original (WAV/FLAC) precisa ser comprimido para caber no canal de comunicação sem fio, e depois reconstruído para tocar.</p>
+  <p>O problema é que Bluetooth tem largura de banda limitada — muito menor que um cabo. Codec ruim = mais compressão = mais perda de qualidade. Codec bom = menos compressão = mais fidelidade ao arquivo original.</p>
+  <p>O ponto crítico: <strong>tanto o celular quanto o fone precisam suportar o mesmo codec</strong> para ele funcionar. Se o fone tem LDAC mas o celular não suporta (caso do iPhone), o sistema cai automaticamente para AAC ou SBC.</p>
+
+  <h2 id="comparacao">Comparação dos 5 principais codecs</h2>
+  <div class="codec-grid">
+    <div class="codec-card cc-ldac">
+      <div class="codec-name">LDAC</div>
+      <div class="codec-owner">Sony Corporation</div>
+      <div class="codec-stat"><span class="codec-stat-label">Bitrate máx.</span><span class="codec-stat-val">990 kbps</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Latência</span><span class="codec-stat-val">~200ms</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Android nativo</span><span class="codec-stat-val">Sim (8.0+)</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">iPhone</span><span class="codec-stat-val">Não</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Hi-Res</span><span class="codec-stat-val">24bit/96kHz</span></div>
+    </div>
+    <div class="codec-card cc-aptxadaptive">
+      <div class="codec-name">aptX Adaptive</div>
+      <div class="codec-owner">Qualcomm</div>
+      <div class="codec-stat"><span class="codec-stat-label">Bitrate</span><span class="codec-stat-val">280–4000 kbps</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Latência</span><span class="codec-stat-val">50–80ms</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Android</span><span class="codec-stat-val">Qualcomm+</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">iPhone</span><span class="codec-stat-val">Não</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Hi-Res</span><span class="codec-stat-val">24bit/96kHz</span></div>
+    </div>
+    <div class="codec-card cc-aptx">
+      <div class="codec-name">aptX / aptX HD</div>
+      <div class="codec-owner">Qualcomm</div>
+      <div class="codec-stat"><span class="codec-stat-label">Bitrate</span><span class="codec-stat-val">352 / 576 kbps</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Latência</span><span class="codec-stat-val">~150ms / 200ms</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Android</span><span class="codec-stat-val">Maioria</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">iPhone</span><span class="codec-stat-val">Não</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Hi-Res</span><span class="codec-stat-val">HD: sim</span></div>
+    </div>
+    <div class="codec-card cc-aac">
+      <div class="codec-name">AAC</div>
+      <div class="codec-owner">MPEG / Apple</div>
+      <div class="codec-stat"><span class="codec-stat-label">Bitrate</span><span class="codec-stat-val">~250 kbps</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Latência</span><span class="codec-stat-val">~120ms</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Android</span><span class="codec-stat-val">Sim</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">iPhone</span><span class="codec-stat-val"><strong>Sim ✓</strong></span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Hi-Res</span><span class="codec-stat-val">Não</span></div>
+    </div>
+    <div class="codec-card cc-sbc">
+      <div class="codec-name">SBC</div>
+      <div class="codec-owner">Bluetooth SIG</div>
+      <div class="codec-stat"><span class="codec-stat-label">Bitrate</span><span class="codec-stat-val">~328 kbps</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Latência</span><span class="codec-stat-val">~200ms</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Android</span><span class="codec-stat-val">Universal</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">iPhone</span><span class="codec-stat-val">Não</span></div>
+      <div class="codec-stat"><span class="codec-stat-label">Hi-Res</span><span class="codec-stat-val">Não</span></div>
+    </div>
+  </div>
+
+  <h2 id="bitrate">Bitrate: o número que define qualidade</h2>
+  <p>Bitrate é a quantidade de dados transmitidos por segundo. Mais dados = menos compressão = mais fidelidade ao arquivo original. Veja a comparação visual:</p>
+  <div class="bitrate-section">
+    <div class="bitrate-row">
+      <span class="bitrate-name">aptX Adaptive</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:100%;background:#1565c0;">até 4.000 kbps</div></div>
+      <span class="bitrate-val">até 4000 kbps</span>
+    </div>
+    <div class="bitrate-row">
+      <span class="bitrate-name">LDAC</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:24.75%;background:#c8473a;">990 kbps</div></div>
+      <span class="bitrate-val">990 kbps</span>
+    </div>
+    <div class="bitrate-row">
+      <span class="bitrate-name">aptX HD</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:14.4%;background:#1976d2;">576 kbps</div></div>
+      <span class="bitrate-val">576 kbps</span>
+    </div>
+    <div class="bitrate-row">
+      <span class="bitrate-name">aptX</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:8.8%;background:#42a5f5;">352 kbps</div></div>
+      <span class="bitrate-val">352 kbps</span>
+    </div>
+    <div class="bitrate-row">
+      <span class="bitrate-name">SBC</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:8.2%;background:#78909c;">328 kbps</div></div>
+      <span class="bitrate-val">328 kbps</span>
+    </div>
+    <div class="bitrate-row">
+      <span class="bitrate-name">AAC</span>
+      <div class="bitrate-bar-wrap"><div class="bitrate-bar" style="width:6.25%;background:#2d6a4f;">250 kbps</div></div>
+      <span class="bitrate-val">~250 kbps</span>
+    </div>
+  </div>
+  <p style="font-size:.85rem;color:var(--text-muted);">* aptX Adaptive é adaptativo — varia entre 280kbps e 4000kbps dependendo das condições de sinal e configuração.</p>
+  <div class="info-box">
+    <p>📻 <strong>Contexto:</strong> Spotify em qualidade máxima usa ~320kbps OGG Vorbis. Apple Music em Lossless usa ~1000kbps ALAC. Tidal HiFi usa ~1411kbps FLAC. Para aproveitar o streaming lossless de verdade, você precisa de LDAC ou aptX Adaptive — AAC e SBC já são gargalo antes do fone.</p>
+  </div>
+
+  <h2 id="iphone-android">iPhone vs Android: qual codec funciona?</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Codec</th><th>iPhone</th><th>Android Qualcomm</th><th>Android MediaTek</th><th>Samsung Galaxy</th></tr></thead>
+      <tbody>
+        <tr><td>SBC</td><td class="td-muted">Não nativo</td><td class="td-green">Sim</td><td class="td-green">Sim</td><td class="td-green">Sim</td></tr>
+        <tr><td>AAC</td><td class="td-green">Sim — padrão</td><td class="td-green">Sim</td><td class="td-green">Sim</td><td class="td-green">Sim</td></tr>
+        <tr><td>aptX</td><td class="td-red">Não</td><td class="td-green">Maioria</td><td class="td-red">Variado</td><td class="td-red">Não nativo</td></tr>
+        <tr><td>LDAC</td><td class="td-red">Não</td><td class="td-green">Android 8.0+</td><td class="td-green">Android 8.0+</td><td class="td-green">Sim</td></tr>
+        <tr><td>aptX Adaptive</td><td class="td-red">Não</td><td class="td-green">Chip Qualcomm req.</td><td class="td-red">Não</td><td class="td-red">Não</td></tr>
+        <tr><td>SSC (Samsung)</td><td class="td-red">Não</td><td class="td-red">Não</td><td class="td-red">Não</td><td class="td-green">Somente Galaxy</td></tr>
+        <tr><td>LC3 / LE Audio</td><td class="td-muted">iOS 17+</td><td class="td-green">Android 13+</td><td class="td-green">Android 13+</td><td class="td-green">Android 13+</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="highlight-box">
+    <p><strong>Se você usa iPhone:</strong> o melhor codec disponível é AAC — e funciona bem para Spotify, Apple Music (exceto Lossless) e YouTube. Pagar por LDAC no fone não muda nada para usuários de iPhone. LC3/LE Audio está chegando com iOS 17+, mas a adoção ainda é limitada.</p>
+  </div>
+  <div class="highlight-box" style="background:color-mix(in srgb,#1565c0 8%,transparent);border-color:color-mix(in srgb,#1565c0 20%,transparent);">
+    <p style="color:var(--text-mid);"><strong style="color:#1565c0;">Se você usa Android:</strong> ative LDAC nas configurações do desenvolvedor (Configurações → Sobre o telefone → 7x no número de compilação → Configurações do desenvolvedor → Codec de áudio Bluetooth). Escolha LDAC com qualidade 990kbps para a melhor experiência.</p>
+  </div>
+
+  <h2 id="quando-importa">Quando LDAC realmente faz diferença</h2>
+  <p>Ser honesto aqui: para a maioria dos usuários ouvindo Spotify ou YouTube, a diferença entre AAC e LDAC é marginal ou imperceptível — especialmente em ambientes com ruído.</p>
+  <p>LDAC faz diferença real quando:</p>
+  <ul>
+    <li><strong>Você assina serviço de streaming lossless</strong> — Apple Music Lossless, Tidal HiFi, Amazon Music HD, Qobuz</li>
+    <li><strong>Você ouve arquivos locais FLAC/ALAC/WAV</strong> com qualidade 24bit/96kHz ou superior</li>
+    <li><strong>Você tem fones audiofílicos de qualidade</strong> que conseguem resolver nuances do áudio que SBC/AAC perdem</li>
+    <li><strong>Você ouve em ambiente silencioso</strong> — em ambientes barulhentos, a diferença é mascarada pelo ruído ambiente</li>
+  </ul>
+
+  <h2 id="cenarios">Para cada perfil de uso</h2>
+  <div class="scenario-card">
+    <h4>🎧 Usuário casual — Spotify, YouTube, podcasts</h4>
+    <p>AAC é mais que suficiente. Não precisa pagar a mais por LDAC. Foque em ANC, conforto e autonomia na hora de escolher o fone.</p>
+  </div>
+  <div class="scenario-card">
+    <h4>📱 Usuário de iPhone</h4>
+    <p>AAC é o teto para você. LDAC no fone não ativa no iPhone. Não precisa de LDAC — use o orçamento em outra feature.</p>
+  </div>
+  <div class="scenario-card">
+    <h4>🎵 Usuário de streaming lossless (Tidal, Apple Music HD, Amazon HD)</h4>
+    <p>LDAC faz sentido aqui — é o único codec acessível que transmite qualidade suficiente para o conteúdo lossless. aptX Adaptive é ainda melhor, mas requer hardware Qualcomm específico.</p>
+  </div>
+  <div class="scenario-card">
+    <h4>🎮 Gamer</h4>
+    <p>Latência é a prioridade, não qualidade de áudio. aptX LL (Low Latency) oferece ~32ms — o mais baixo da lista. Muitos jogos mobile funcionam bem com AAC também. Evite LDAC para gaming — latência de 200ms é perceptível.</p>
+  </div>
+  <div class="scenario-card">
+    <h4>🎼 Audiófilo</h4>
+    <p>LDAC + fones de qualidade + streaming lossless ou arquivos FLAC é a combinação. aptX Adaptive com 4000kbps é tecnicamente superior, mas requer celular e fone compatíveis (ainda raro).</p>
+  </div>
+
+  <h2 id="faq">Perguntas frequentes</h2>
+  <div class="faq-item">
+    <p class="faq-q">LDAC gasta mais bateria do fone?</p>
+    <p class="faq-a">Levemente — processar mais dados consome um pouco mais. Na prática, a diferença é pequena (5–10%) e não é um fator determinante para a escolha de codec.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">Como sei qual codec está ativo no meu Android?</p>
+    <p class="faq-a">Ative as Opções do desenvolvedor (7 toques no número de compilação) → Configurações do desenvolvedor → "Codec de áudio Bluetooth". Você verá o codec ativo e pode mudar manualmente. Nem todos os Android mostram essa opção.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">O que é LE Audio e vale a pena?</p>
+    <p class="faq-a">LE Audio é o padrão Bluetooth de próxima geração — usa o codec LC3, que é mais eficiente que SBC a bitrates menores. Permite transmissão para múltiplos dispositivos (Auracast) e suporte auditivo. Está presente em Android 13+ e iOS 17+, mas a adoção em fones ainda está crescendo em 2026.</p>
+  </div>
+  <div class="faq-item">
+    <p class="faq-q">aptX Adaptive é melhor que LDAC?</p>
+    <p class="faq-a">Tecnicamente, sim — pode chegar a 4000kbps vs 990kbps do LDAC, e tem latência menor (~50ms vs ~200ms). Mas requer chipset Qualcomm no celular e no fone. LDAC é universalmente disponível no Android 8.0+ e amplamente suportado em fones de todas as marcas.</p>
+  </div>
+
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:32px;margin-top:52px;text-align:center;">
+    <p style="font-family:'Clash Display',sans-serif;font-size:1.4rem;font-weight:600;letter-spacing:-.3px;margin-bottom:10px;color:var(--text);">Compare fones pelo codec</p>
+    <p style="color:var(--text-mid);margin-bottom:22px;">Filtre fones com LDAC, aptX Adaptive ou LE Audio no comparador e veja todos os detalhes lado a lado.</p>
+    <a href="https://www.comparefones.com.br" class="btn-compare" style="font-size:1rem;padding:14px 32px;">↗ Abrir o comparador</a>
+  </div>
+</main>
+
+<footer>
+  <p>© 2026 <a href="https://www.comparefones.com.br">CompareFones.com.br</a></p>
+  <p style="margin-top:8px;">Ferramenta gratuita para comparar fones Bluetooth lado a lado.</p>
+</footer>
+</body>
+</html>
