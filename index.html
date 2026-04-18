@@ -108,7 +108,6 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preconnect" href="https://img.youtube.com">
 <link rel="dns-prefetch" href="https://api.anthropic.com">
 <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
 
@@ -615,21 +614,24 @@ function renderResult(sel, ai) {
   const scoreRows = scoreKeys.map(k => `<tr><td>${k}</td>${sel.map((h,i) => `<td><div class="score-row"><div class="score-bg"><div class="score-fill" style="width:${h.score[k]||0}%;background:${SC[i]}"></div></div><span class="score-val">${h.score[k]||0}</span></div></td>`).join('')}</tr>`).join('');
   const prosRow = `<tr><td>Vantagens</td>${sel.map(h => `<td>${h.pros.map(p => `<span class="tag-pro">↑ ${p}</span>`).join('')}</td>`).join('')}</tr>`;
   const consRow = `<tr><td>Desvantagens</td>${sel.map(h => `<td>${h.cons.map(c => `<span class="tag-con">↓ ${c}</span>`).join('')}</td>`).join('')}</tr>`;
-  const vids = sel.map((h,i) => `
+  const vids = sel.map((h,i) => {
+    const searchQuery = encodeURIComponent(`${h.name} ${h.brand} review`);
+    const youtubeSearchUrl = `https://www.youtube.com/results?search_query=${searchQuery}`;
+    return `
     <div class="vid-block">
       <div class="vid-header"><div class="vid-dot" style="background:${SC[i]}"></div>${h.name}</div>
-      <div class="vid-row">${h.youtubeIds.map((v,vi) => {
-        const url = `https://www.youtube.com/watch?v=${v}`;
-        const thumb = `https://img.youtube.com/vi/${v}/hqdefault.jpg`;
-        return `<div class="vid-cell">
-          <a class="vid-thumb" href="${url}" target="_blank" rel="noopener">
-            <img src="${thumb}" alt="${h.youtubeLabels[vi]||'Review'}" loading="lazy">
-            <div class="vid-play"><div class="vid-play-btn"><div class="vid-play-icon"></div></div></div>
+      <div class="vid-row">
+        <div class="vid-cell">
+          <a class="vid-thumb" href="${youtubeSearchUrl}" target="_blank" rel="noopener">
+            <div style="display:flex;align-items:center;justify-content:center;height:100%;background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);color:#fff;font-size:0.9rem;font-weight:600;text-align:center;padding:1rem;">
+              🎬 Ver reviews no YouTube →
+            </div>
           </a>
-          <div class="vid-label"><a href="${url}" target="_blank" rel="noopener">${h.youtubeLabels[vi]||'Review'} ↗</a></div>
-        </div>`;
-      }).join('')}</div>
-    </div>`).join('');
+          <div class="vid-label"><a href="${youtubeSearchUrl}" target="_blank" rel="noopener">Ver reviews →</a></div>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
   const buys = sel.map((h,i) => `
     <div class="buy-row">
       <div class="buy-left">
