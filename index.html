@@ -212,7 +212,13 @@ header{background:var(--text);padding:0 48px;display:flex;align-items:center;jus
 .ctable th{padding:16px 18px;text-align:left;border-bottom:2px solid var(--border);border-right:1px solid var(--surface2);background:var(--surface);}
 .ctable th:first-child{font-family:'JetBrains Mono',monospace;font-size:.63rem;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);width:155px;}
 .th-name{font-family:'Clash Display',sans-serif;font-size:.97rem;font-weight:600;color:var(--text);display:block;margin-bottom:2px;}
-.th-price{font-family:'Clash Display',sans-serif;font-size:1.15rem;font-weight:600;}
+.th-price{font-family:'Clash Display',sans-serif;font-size:1.15rem;font-weight:600;display:block;margin-bottom:8px;}
+.th-buy-links{display:flex;gap:4px;margin-top:8px;}
+.th-buy-btn{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:7px;font-size:.95rem;text-decoration:none;transition:all .15s;border:1px solid transparent;}
+.th-buy-btn:hover{transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.15);}
+.th-amazon{background:#ff9900;}.th-amazon:hover{background:#ffb020;}
+.th-ml{background:#3483fa;}.th-ml:hover{background:#5b9bff;}
+.th-shopee{background:#ee4d2d;}.th-shopee:hover{background:#ff6347;}
 .ctable td{padding:13px 18px;border-bottom:1px solid var(--surface2);border-right:1px solid var(--surface2);font-size:.84rem;line-height:1.5;vertical-align:top;}
 .ctable tr:last-child td{border-bottom:none;}
 .ctable td:last-child,.ctable th:last-child{border-right:none;}
@@ -601,7 +607,16 @@ function buildPrompt(s) {
 
 function renderResult(sel, ai) {
   const cnt = document.getElementById('resultContent');
-  const ths = sel.map((h,i) => `<th><span class="th-name">${h.name}</span><span class="th-price" style="color:${SC[i].replace('var(','').replace(')','').replace('--s','var(--s')}">R$ ${h.price.toLocaleString('pt-BR')}</span></th>`).join('');
+  const ths = sel.map((h,i) => `
+    <th>
+      <span class="th-name">${h.name}</span>
+      <span class="th-price" style="color:${SC[i].replace('var(','').replace(')','').replace('--s','var(--s')}">R$ ${h.price.toLocaleString('pt-BR')}</span>
+      <div class="th-buy-links">
+        <a class="th-buy-btn th-amazon" href="${buildAmazonUrl(h)}" target="_blank" rel="noopener" title="Amazon">🛒</a>
+        <a class="th-buy-btn th-ml" href="${buildMlUrl(h)}" target="_blank" rel="noopener" title="Mercado Livre">📦</a>
+        <a class="th-buy-btn th-shopee" href="${buildShopeeUrl(h)}" target="_blank" rel="noopener" title="Shopee">🟠</a>
+      </div>
+    </th>`).join('');
   const aiBanner = ai ? `
     <div class="ai-banner">
       <div class="ai-lbl"><div class="ai-dot"></div>Análise IA</div>
