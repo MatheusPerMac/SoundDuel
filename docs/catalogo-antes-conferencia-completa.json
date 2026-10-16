@@ -1,0 +1,8156 @@
+[
+  {
+    "id": 1,
+    "name": "JBL Tune 510BT",
+    "brand": "JBL",
+    "price": 149,
+    "tier": "budget",
+    "type": "On-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "40h",
+      "Recarga": "~2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "160g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "40h de autonomia",
+      "Leve e dobrável",
+      "JBL Pure Bass",
+      "Multi-point 2 dispositivos"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Build plástico",
+      "Graves exagerados"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 72,
+      "Autonomia": 90,
+      "Custo-Benefício": 92,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "dYzAJ2Fa9w8",
+      "h4Oj9NHCE10"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+510BT",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-510bt",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-CH520",
+    "brand": "Sony",
+    "price": 229,
+    "tier": "budget",
+    "type": "On-ear",
+    "specs": {
+      "Driver": "30mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "50h",
+      "Recarga": "3h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "147g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "147g ultraleve",
+      "50h de autonomia",
+      "App Sony com EQ"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Driver 30mm",
+      "Almofadas básicas"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 74,
+      "Autonomia": 95,
+      "Custo-Benefício": 88,
+      "Build": 65
+    },
+    "youtubeIds": [
+      "_jDcRUO0UlQ",
+      "D0m3jQMizM8"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Comparativo"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WH-CH520",
+    "ml": "https://lista.mercadolivre.com.br/sony-wh-ch520",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 3,
+    "name": "Philips TAH1205BK",
+    "brand": "Philips",
+    "price": 130,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "32mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "15h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "148g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Preço ~R$130",
+      "Top 5 Amazon BR",
+      "Carga 15min=3h",
+      "Leve e dobrável"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Build plástico",
+      "Autonomia limitada (15h)"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 68,
+      "Autonomia": 72,
+      "Custo-Benefício": 88,
+      "Build": 55
+    },
+    "youtubeIds": [
+      "cQBKbp8ZBQI",
+      "mFQGkWDvVvI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAH1205BK",
+    "ml": "https://lista.mercadolivre.com.br/philips-tah1205",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 4,
+    "name": "QCY T13",
+    "brand": "QCY",
+    "price": 129,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "7h+33h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Excelente custo-benefício",
+      "4 mics chamadas nítidas",
+      "40h total",
+      "App com EQ"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Graves medianos"
+    ],
+    "score": {
+      "Som": 65,
+      "Conforto": 70,
+      "Autonomia": 85,
+      "Custo-Benefício": 93,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "yOHRIqOJCNE",
+      "VZi2FxDa_aQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+T13",
+    "ml": "https://lista.mercadolivre.com.br/qcy-t13",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 5,
+    "name": "JBL Wave Buds",
+    "brand": "JBL",
+    "price": 189,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm Deep Bass",
+      "Bluetooth": "5.2",
+      "Autonomia": "8h+24h case",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IP54",
+      "Peso": "5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "JBL Deep Bass",
+      "32h total",
+      "Carga 10min=2h",
+      "IP54"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Bass exagerado para alguns"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 72,
+      "Autonomia": 82,
+      "Custo-Benefício": 88,
+      "Build": 65
+    },
+    "youtubeIds": [
+      "dRvdpFOZiVA",
+      "CeH98NXDVBM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Bass Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Wave+Buds",
+    "ml": "https://lista.mercadolivre.com.br/jbl-wave-buds",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 6,
+    "name": "Redmi Buds 5 Pro",
+    "brand": "Xiaomi",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "-46dB",
+      "Microfone": "3 mics",
+      "IPX": "IPX5",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC -46dB por R$199",
+      "Driver híbrido",
+      "LDAC",
+      "IPX5",
+      "Melhor custo-benefício ANC"
+    ],
+    "cons": [
+      "App melhor com Xiaomi",
+      "Bass excessivo",
+      "Case plástico"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 80,
+      "Autonomia": 82,
+      "Custo-Benefício": 95,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "j4bE5lqFBWI",
+      "jcQYS5XZSUM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+5+Pro",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-5-pro",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 7,
+    "name": "QCY HT05 MeloBuds ANC",
+    "brand": "QCY",
+    "price": 189,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h ANC/30h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (40dB)",
+      "Microfone": "6 mics",
+      "IPX": "IPX5",
+      "Peso": "5.1g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC 40dB por preço baixo",
+      "6 microfones",
+      "Modo gamer",
+      "IPX5"
+    ],
+    "cons": [
+      "ANC básico",
+      "Sem LDAC",
+      "Transparência artificial"
+    ],
+    "score": {
+      "Som": 67,
+      "Conforto": 68,
+      "Autonomia": 78,
+      "Custo-Benefício": 91,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "UwqvBmXLm3g",
+      "ZK_CJv8BfEk"
+    ],
+    "youtubeLabels": [
+      "Review ANC",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+HT05",
+    "ml": "https://lista.mercadolivre.com.br/qcy-ht05",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 8,
+    "name": "Redmi Buds 6 Active",
+    "brand": "Xiaomi",
+    "price": 149,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "14.2mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1h",
+      "ANC": "ENC apenas",
+      "Microfone": "Sim",
+      "IPX": "IPX5",
+      "Peso": "4.3g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Driver 14.2mm para o preço",
+      "BT 5.4",
+      "IPX5",
+      "Google Fast Pair"
+    ],
+    "cons": [
+      "Sem ANC",
+      "App melhor com Xiaomi",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 72,
+      "Autonomia": 78,
+      "Custo-Benefício": 90,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+6+Active",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-6-active",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 9,
+    "name": "JBL Tune 720BT",
+    "brand": "JBL",
+    "price": 299,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "76h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "165g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "76h autonomia — recorde",
+      "Carga 5min=3h",
+      "Leve 165g",
+      "JBL Pure Bass"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Graves excessivos"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 74,
+      "Autonomia": 98,
+      "Custo-Benefício": 87,
+      "Build": 63
+    },
+    "youtubeIds": [
+      "jNFl8Vb-OC8",
+      "XTW1s0u7jqY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Autonomia Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+720BT",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-720bt",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 10,
+    "name": "Edifier W800BT Plus",
+    "brand": "Edifier",
+    "price": 249,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "55h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "210g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "55h por preço baixo",
+      "Cabo P2 disponível",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.1 antigo"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 72,
+      "Autonomia": 94,
+      "Custo-Benefício": 90,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "MDYH3KJXDSA",
+      "dFpCU6YYZKY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+W800BT+Plus",
+    "ml": "https://lista.mercadolivre.com.br/edifier-w800bt-plus",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 11,
+    "name": "HAYLOU Purfree Lite",
+    "brand": "HAYLOU",
+    "price": 279,
+    "tier": "budget",
+    "type": "Condução Óssea",
+    "specs": {
+      "Driver": "16mm OWS",
+      "Bluetooth": "5.2",
+      "Autonomia": "16h",
+      "Recarga": "2h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "cVc8.0",
+      "IPX": "IP55",
+      "Peso": "28g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Ouvido livre — condução óssea",
+      "Ideal para corridas",
+      "IP55",
+      "Chamadas claras"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Graves fracos",
+      "Não para ambientes barulhentos"
+    ],
+    "score": {
+      "Som": 60,
+      "Conforto": 88,
+      "Autonomia": 78,
+      "Custo-Benefício": 82,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Running Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=HAYLOU+Purfree+Lite",
+    "ml": "https://lista.mercadolivre.com.br/haylou-purfree-lite",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 12,
+    "name": "QCY T20 ANC",
+    "brand": "QCY",
+    "price": 159,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7.5h+30h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "4 mics",
+      "IPX": "IPX5",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC por ~R$159",
+      "37.5h total",
+      "IPX5",
+      "4 microfones"
+    ],
+    "cons": [
+      "ANC básico",
+      "Sem LDAC",
+      "App mínimo"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 70,
+      "Autonomia": 83,
+      "Custo-Benefício": 93,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "cHUfHl4I8BA",
+      "GjAoMqPWuCA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+T20",
+    "ml": "https://lista.mercadolivre.com.br/qcy-t20",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 13,
+    "name": "Soundcore P30i",
+    "brand": "Anker",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "10h+35h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "Sim",
+      "IPX": "IP54",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC adaptativo barato",
+      "Graves poderosos",
+      "45h total",
+      "Case com suporte celular"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "Case volumoso"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 72,
+      "Autonomia": 88,
+      "Custo-Benefício": 91,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "yE1f6O-Pm0A",
+      "ZFPqnFf9n_Y"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+P30i",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-p30i",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 14,
+    "name": "Edifier TWS1 Pro 2",
+    "brand": "Edifier",
+    "price": 279,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+36h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (42dB)",
+      "Microfone": "Sim",
+      "IPX": "IPX5",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "ANC 42dB + modo ambiente",
+      "Driver Balanced Armature",
+      "aptX",
+      "IPX5"
+    ],
+    "cons": [
+      "Driver BA pequeno (6mm)",
+      "App simples"
+    ],
+    "score": {
+      "Som": 75,
+      "Conforto": 72,
+      "Autonomia": 82,
+      "Custo-Benefício": 90,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "1OQjuDXm7qg",
+      "Mk47vTMnMaA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+TWS1+Pro+2",
+    "ml": "https://lista.mercadolivre.com.br/edifier-tws1-pro-2",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 15,
+    "name": "Philips TAH2300BK",
+    "brand": "Philips",
+    "price": 219,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "32mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "55h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "164g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "55h autonomia",
+      "Preço acessível",
+      "Leve e dobrável"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Driver 32mm",
+      "Build plástico"
+    ],
+    "score": {
+      "Som": 63,
+      "Conforto": 70,
+      "Autonomia": 96,
+      "Custo-Benefício": 85,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "t6kqGQ-wYT8",
+      "xP3OdKLW4LA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAH2300",
+    "ml": "https://lista.mercadolivre.com.br/philips-tah2300",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy Buds FE",
+    "brand": "Samsung",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "8.5h+21h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX2",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Bom ANC para o preço",
+      "Integração Samsung perfeita",
+      "App Galaxy Wearable",
+      "Localização SmartThings"
+    ],
+    "cons": [
+      "IPX2 limitado",
+      "Sem LDAC",
+      "Funcionalidade reduzida fora Samsung"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 78,
+      "Autonomia": 75,
+      "Custo-Benefício": 82,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "N8wFLhxiS6Q",
+      "2KRCb1KqZ4E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+FE",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-fe",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 17,
+    "name": "Edifier W820NB",
+    "brand": "Edifier",
+    "price": 299,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm dinâmico",
+      "Bluetooth": "5.0",
+      "Autonomia": "Até 49h sem ANC / 29h com ANC",
+      "Recarga": "Aproximadamente 1,5h",
+      "ANC": "Sim (híbrido)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "220g",
+      "Codec": "SBC"
+    },
+    "pros": [
+      "ANC híbrido",
+      "49h sem ANC",
+      "Referência custo-benefício"
+    ],
+    "cons": [
+      "Sem multiponto",
+      "BT 5.0",
+      "Sem assistente de voz"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 79,
+      "Autonomia": 90,
+      "Custo-Benefício": 92,
+      "Build": 70
+    },
+    "youtubeIds": [
+      "SkXNMXcIlYA",
+      "yqSBaS7sT2I"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC+LDAC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+W820NB",
+    "ml": "https://lista.mercadolivre.com.br/edifier-w820nb",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 19,
+    "name": "QCY H3 ANC",
+    "brand": "QCY",
+    "price": 349,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Hi-Res",
+      "Bluetooth": "5.3",
+      "Autonomia": "60h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "IPX": "IPX5",
+      "Codec": "SBC"
+    },
+    "pros": [
+      "60h — entre as maiores",
+      "ANC funcional"
+    ],
+    "cons": [
+      "ANC intermediário",
+      "App básico",
+      "Build não premium"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 96,
+      "Custo-Benefício": 90,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "vBMuJVKFo8E",
+      "yGpHM2T3K3E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+H3+ANC",
+    "ml": "https://lista.mercadolivre.com.br/qcy-h3-anc",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 20,
+    "name": "Xiaomi Buds 5",
+    "brand": "Xiaomi",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12.4mm titânio",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+30h case",
+      "Recarga": "1h",
+      "ANC": "Sim (40dB, 3 modos)",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 40dB com 3 modos",
+      "Driver titânio",
+      "LDAC",
+      "Transparência eficaz"
+    ],
+    "cons": [
+      "App melhor com Xiaomi",
+      "Bass intenso",
+      "IPX4"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 84,
+      "Custo-Benefício": 87,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "vIFlpSNpIdM",
+      "l-NrWL4VRHY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Xiaomi+Buds+5",
+    "ml": "https://lista.mercadolivre.com.br/xiaomi-buds-5",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 21,
+    "name": "Redmi Buds 6 Pro",
+    "brand": "Xiaomi",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+BA",
+      "Bluetooth": "5.4",
+      "Autonomia": "9h+27h case",
+      "Recarga": "1.5h",
+      "ANC": "-52dB",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.1g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC -52dB excelente",
+      "Driver híbrido",
+      "LDAC",
+      "BT 5.4",
+      "36h total"
+    ],
+    "cons": [
+      "App melhor com Xiaomi",
+      "Transparência artificial",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 80,
+      "Autonomia": 83,
+      "Custo-Benefício": 90,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "Gso4HQyAz5U",
+      "qlK15yE8xfc"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+6+Pro",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-6-pro",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 22,
+    "name": "Nothing Ear (a)",
+    "brand": "Nothing",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "9.2mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "5.5h+22.5h case",
+      "Recarga": "45min",
+      "ANC": "Sim (45dB)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Design colorido icônico",
+      "ANC 45dB",
+      "Carga 10min=1h",
+      "Transparência fluida"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Autonomia menor",
+      "App Nothing X necessário"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 74,
+      "Custo-Benefício": 82,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "yCDQhVLuSao",
+      "jQWm3-nzOyM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Nothing+Ear+a",
+    "ml": "https://lista.mercadolivre.com.br/nothing-ear-a",
+    "official": "https://nothing.tech"
+  },
+  {
+    "id": 23,
+    "name": "Soundcore Liberty 4 NC",
+    "brand": "Anker",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+40h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (98.5%)",
+      "Microfone": "6 mics",
+      "IPX": "IP55",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 98.5% impressionante",
+      "Driver híbrido",
+      "LDAC",
+      "50h total",
+      "IP55"
+    ],
+    "cons": [
+      "App com bugs ocasionais",
+      "Marca em construção no BR"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 80,
+      "Autonomia": 90,
+      "Custo-Benefício": 88,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "CBRT2N7RMIU",
+      "MPKK9mLZVzg"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Liberty+4+NC",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-liberty-4-nc",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 24,
+    "name": "HUAWEI FreeBuds 5i",
+    "brand": "Huawei",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "7.5h+28h case",
+      "Recarga": "1h",
+      "ANC": "Sim (42dB)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 42dB eficiente",
+      "LDAC",
+      "IP54",
+      "Design confortável"
+    ],
+    "cons": [
+      "App melhor com Huawei",
+      "Recursos reduzidos iPhone",
+      "Sem aptX"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 78,
+      "Autonomia": 82,
+      "Custo-Benefício": 82,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "pKj5xt_kn6Q",
+      "nZAZ3n3gFwQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Huawei+FreeBuds+5i",
+    "ml": "https://lista.mercadolivre.com.br/huawei-freebuds-5i",
+    "official": "https://consumer.huawei.com/br"
+  },
+  {
+    "id": 25,
+    "name": "Nothing Ear (2)",
+    "brand": "Nothing",
+    "price": 799,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11.6mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "6.3h+22.5h case",
+      "Recarga": "1h",
+      "ANC": "Sim (40dB)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.5g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Design transparente icônico",
+      "Driver híbrido",
+      "LDAC",
+      "ANC eficiente"
+    ],
+    "cons": [
+      "Case com design incomum",
+      "Preço acima para specs"
+    ],
+    "score": {
+      "Som": 84,
+      "Conforto": 78,
+      "Autonomia": 78,
+      "Custo-Benefício": 76,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "PmCqRF5BSKM",
+      "7IYcDx2a1ro"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Nothing+Ear+2",
+    "ml": "https://lista.mercadolivre.com.br/nothing-ear-2",
+    "official": "https://nothing.tech"
+  },
+  {
+    "id": 26,
+    "name": "Motorola Moto Buds+",
+    "brand": "Motorola",
+    "price": 799,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (46dB)",
+      "Microfone": "Sim",
+      "IPX": "IP54",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 46dB forte",
+      "LDAC",
+      "IP54",
+      "37h total"
+    ],
+    "cons": [
+      "App Motorola menos polido",
+      "Preço acima de similares"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 82,
+      "Custo-Benefício": 76,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "NMWYt5n4eZY",
+      "bH7_Qz3zVkk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Motorola+Moto+Buds+Plus",
+    "ml": "https://lista.mercadolivre.com.br/motorola-moto-buds-plus",
+    "official": "https://www.motorola.com.br"
+  },
+  {
+    "id": 27,
+    "name": "JBL Tune 670NC",
+    "brand": "JBL",
+    "price": 399,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "70h/44h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "196g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "70h recorde para o preço",
+      "ANC adaptativo",
+      "Leve 196g",
+      "Carga 5min=2h"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC não é o mais eficiente",
+      "Build plástico"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 76,
+      "Autonomia": 97,
+      "Custo-Benefício": 86,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "E-kGJBkjFHQ",
+      "6PgS1M5iK8Y"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+670NC",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-670nc",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 28,
+    "name": "JBL Tune 760NC",
+    "brand": "JBL",
+    "price": 449,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "50h/35h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "224g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC incluído",
+      "50h sem ANC",
+      "Dobrável",
+      "JBL Pure Bass"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC intermediário",
+      "Sem modo transparência"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 76,
+      "Autonomia": 88,
+      "Custo-Benefício": 83,
+      "Build": 67
+    },
+    "youtubeIds": [
+      "7_RBuLmFCbc",
+      "bSCp4pYqM3c"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+760NC",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-760nc",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 29,
+    "name": "Sony WH-CH720N",
+    "brand": "Sony",
+    "price": 799,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "30mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "50h/35h ANC",
+      "Recarga": "3h/10min=1.5h",
+      "ANC": "Sim (Dual Noise Sensor)",
+      "Microfone": "5 mics",
+      "Dobrável": "Sim",
+      "Peso": "192g",
+      "Codec": "SBC, AAC, LC3"
+    },
+    "pros": [
+      "ANC Sony em headphone acessível",
+      "192g ultraleve",
+      "LC3/LE Audio",
+      "Design slim",
+      "Carga rápida"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Drivers 30mm",
+      "Almofadas finas"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 82,
+      "Autonomia": 88,
+      "Custo-Benefício": 80,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "uEBRfS5G9D0",
+      "k6pQ5kw76rg"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WH-CH720N",
+    "ml": "https://lista.mercadolivre.com.br/sony-wh-ch720n",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 30,
+    "name": "Edifier W830NB",
+    "brand": "Edifier",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Hi-Res",
+      "Bluetooth": "5.0",
+      "Autonomia": "60h/35h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (Híbrido)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "258g",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "60h sem ANC",
+      "LDAC",
+      "ANC híbrido",
+      "Hi-Res Audio"
+    ],
+    "cons": [
+      "BT 5.0",
+      "Sem multiponto",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 83,
+      "Conforto": 80,
+      "Autonomia": 95,
+      "Custo-Benefício": 88,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "OIUlADhfxN8",
+      "rKAm7fOEhww"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "LDAC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+W830NB",
+    "ml": "https://lista.mercadolivre.com.br/edifier-w830nb",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 31,
+    "name": "Soundcore Space A40",
+    "brand": "Anker",
+    "price": 299,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "10h+40h case",
+      "Recarga": "2h",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5.3g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "50h total",
+      "LDAC barato",
+      "ANC adaptativo",
+      "Carga 10min=3h"
+    ],
+    "cons": [
+      "IPX4 básico",
+      "App variável",
+      "ANC intermediário"
+    ],
+    "score": {
+      "Som": 79,
+      "Conforto": 78,
+      "Autonomia": 91,
+      "Custo-Benefício": 90,
+      "Build": 70
+    },
+    "youtubeIds": [
+      "U8oiEjDWBOI",
+      "gznaBuYZW-s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Space+A40",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-space-a40",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 32,
+    "name": "Soundcore Space Q45",
+    "brand": "Anker",
+    "price": 449,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "Até 65h sem ANC / 50h com ANC (volume 60%)",
+      "Recarga": "5min para até 4h de áudio",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "2 microfones",
+      "Dobrável": "Sim",
+      "Peso": "292g",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "65h sem ANC",
+      "ANC 3 modos",
+      "LDAC Hi-Res",
+      "EQ 22 bandas"
+    ],
+    "cons": [
+      "ANC abaixo XM5",
+      "Transparência artificial",
+      "Design simples"
+    ],
+    "score": {
+      "Som": 81,
+      "Conforto": 82,
+      "Autonomia": 93,
+      "Custo-Benefício": 87,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "5UBCnOC3tMk",
+      "KFAvUz1J5Ro"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Space+Q45",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-space-q45",
+    "official": "https://www.soundcore.com/products/space-q45-a3040011",
+    "aliases": [
+      "Soundcore Q45 (Anker)",
+      "Soundcore Q45"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nothing Ear",
+    "brand": "Nothing",
+    "price": 699,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm dinâmico",
+      "Bluetooth": "5.3",
+      "Autonomia": "5.5h+31h case",
+      "Recarga": "1h",
+      "ANC": "Sim (AI ANC)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.4g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Design icônico transparente",
+      "LDAC",
+      "AI Enhanced ANC",
+      "IP54"
+    ],
+    "cons": [
+      "Autonomia curta",
+      "Preço acima para specs"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 76,
+      "Custo-Benefício": 76,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "CijqCkV-Sxk",
+      "OHFZ7o0f6Xk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Nothing+Ear+2024",
+    "ml": "https://lista.mercadolivre.com.br/nothing-ear-2024",
+    "official": "https://nothing.tech"
+  },
+  {
+    "id": 34,
+    "name": "JBL Tune Beam",
+    "brand": "JBL",
+    "price": 599,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+24h case",
+      "Recarga": "2h",
+      "ANC": "Sim (Smart ANC)",
+      "Microfone": "6 mics",
+      "IPX": "IP54",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Design slim com haste",
+      "Smart ANC",
+      "6 mics",
+      "IP54",
+      "32h total"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Bass excessivo",
+      "App JBL básico"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 78,
+      "Autonomia": 78,
+      "Custo-Benefício": 78,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "WLiS1f-DXRM",
+      "Vn37WBQYVSI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+Beam",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-beam",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 35,
+    "name": "Jabra Elite 4",
+    "brand": "Jabra",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "7h+21h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "4 mics",
+      "IPX": "IP55",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC eficiente escritório",
+      "IP55",
+      "Multiponto 2 dispositivos",
+      "Qualidade chamada Jabra"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Driver 6mm",
+      "Foco em produtividade"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 80,
+      "Autonomia": 76,
+      "Custo-Benefício": 78,
+      "Build": 78
+    },
+    "youtubeIds": [
+      "J0Xhv2Hb3bE",
+      "TCEKhR7-Jus"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Call Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+4",
+    "ml": "https://lista.mercadolivre.com.br/jabra-elite-4",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 36,
+    "name": "Samsung Galaxy Buds 2",
+    "brand": "Samsung",
+    "price": 699,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+tweeter 6.5mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "5h+20h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX2",
+      "Peso": "5.0g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Driver dual woofer+tweeter",
+      "Design slim elegante",
+      "Som equilibrado",
+      "Integração Samsung"
+    ],
+    "cons": [
+      "IPX2 resistência mínima",
+      "Autonomia curta (5h)",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 79,
+      "Conforto": 82,
+      "Autonomia": 68,
+      "Custo-Benefício": 74,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "KtTpjqoYB-g",
+      "SiLo7VvSqXE"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+2",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-2",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 37,
+    "name": "Samsung Galaxy Buds 3",
+    "brand": "Samsung",
+    "price": 899,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10.5mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "7h+30h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.0g/fone",
+      "Codec": "SBC, AAC, SSC"
+    },
+    "pros": [
+      "Design com haste",
+      "BT 5.4",
+      "IP54",
+      "37h total",
+      "Integração Samsung"
+    ],
+    "cons": [
+      "SSC exclusivo Samsung",
+      "Design divide opiniões",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 80,
+      "Autonomia": 80,
+      "Custo-Benefício": 74,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "fvdEK4qCCVQ",
+      "Cq-Z_AHrwHc"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Design Tour"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+3",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-3",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 38,
+    "name": "Sony WF-C700N",
+    "brand": "Sony",
+    "price": 699,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "5mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "7.5h+15h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Dual Noise Sensor)",
+      "Microfone": "5 mics",
+      "IPX": "IPX4",
+      "Peso": "5.4g/fone",
+      "Codec": "SBC, AAC, LC3"
+    },
+    "pros": [
+      "ANC Sony compacto e eficaz",
+      "5 mics chamadas nítidas",
+      "LC3/LE Audio",
+      "Design slim"
+    ],
+    "cons": [
+      "Autonomia curta (22.5h)",
+      "Sem LDAC",
+      "Driver 5mm"
+    ],
+    "score": {
+      "Som": 79,
+      "Conforto": 84,
+      "Autonomia": 68,
+      "Custo-Benefício": 76,
+      "Build": 78
+    },
+    "youtubeIds": [
+      "9Gh6QVkY7Ac",
+      "RMn6VvgD_ow"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WF-C700N",
+    "ml": "https://lista.mercadolivre.com.br/sony-wf-c700n",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 39,
+    "name": "Beats Studio Buds+",
+    "brand": "Beats",
+    "price": 999,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "9.5mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+27h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX4",
+      "Peso": "5.1g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Compatível iOS e Android igualmente",
+      "ANC eficiente",
+      "Design translúcido premium",
+      "36h total"
+    ],
+    "cons": [
+      "Sem LDAC ou aptX",
+      "Preço alto para specs"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 80,
+      "Autonomia": 82,
+      "Custo-Benefício": 70,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "U43Q6Mhj-JE",
+      "pxXqdN8tSqk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "iOS vs Android"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Beats+Studio+Buds+Plus",
+    "ml": "https://lista.mercadolivre.com.br/beats-studio-buds-plus",
+    "official": "https://www.beatsbydre.com/br"
+  },
+  {
+    "id": 40,
+    "name": "Sennheiser HD 450BT",
+    "brand": "Sennheiser",
+    "price": 799,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "38mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "30h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "233g",
+      "Codec": "SBC, AAC, aptX, aptX LL"
+    },
+    "pros": [
+      "Som Sennheiser referência",
+      "aptX LL para vídeo",
+      "ANC eficiente",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "30h abaixo concorrentes",
+      "Design discreto"
+    ],
+    "score": {
+      "Som": 85,
+      "Conforto": 82,
+      "Autonomia": 80,
+      "Custo-Benefício": 78,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sound Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+HD+450BT",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-hd-450bt",
+    "official": "https://www.sennheiser.com.br"
+  },
+  {
+    "id": 41,
+    "name": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "price": 1499,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm HD",
+      "Resp. Freq.": "4Hz–40kHz",
+      "Bluetooth": "5.0",
+      "Autonomia": "30h ANC",
+      "Recarga": "3h/10min=5h",
+      "ANC": "Sim (2 processadores)",
+      "Microfone": "5 mics",
+      "Dobrável": "Sim",
+      "Peso": "254g",
+      "Codec": "SBC, AAC, LDAC, aptX"
+    },
+    "pros": [
+      "ANC de classe mundial",
+      "LDAC audiófilo",
+      "Speak-to-Chat",
+      "Dobrável",
+      "Multipoint 2 dispositivos"
+    ],
+    "cons": [
+      "Geração anterior ao XM5",
+      "ANC levemente inferior ao XM5"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 91,
+      "Autonomia": 82,
+      "Custo-Benefício": 80,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "vRxeRHb5Yak",
+      "O-9S-SfHjBI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WH-1000XM4",
+    "ml": "https://lista.mercadolivre.com.br/sony-wh-1000xm4",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 42,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "price": 1799,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "30mm V1 exclusivo",
+      "Resp. Freq.": "4Hz–40kHz",
+      "Bluetooth": "5.2",
+      "Autonomia": "30h ANC",
+      "Recarga": "3.5h/3min=3h",
+      "ANC": "Sim (8 mics+2 proc.)",
+      "Microfone": "8 mics",
+      "Dobrável": "Não",
+      "Peso": "250g",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Melhor ANC do mercado",
+      "LDAC audiófilo",
+      "Conforto premium",
+      "Speak-to-Chat automático",
+      "Carga rápida"
+    ],
+    "cons": [
+      "Não dobrável",
+      "Autonomia menor que baratos",
+      "Sensível a vento com ANC"
+    ],
+    "score": {
+      "Som": 95,
+      "Conforto": 93,
+      "Autonomia": 80,
+      "Custo-Benefício": 72,
+      "Build": 92
+    },
+    "youtubeIds": [
+      "K3IJfVNHWQs",
+      "cPDRMpGEDyM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs XM4"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WH-1000XM5",
+    "ml": "https://lista.mercadolivre.com.br/sony-wh-1000xm5",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 43,
+    "name": "Bose QuietComfort 45",
+    "brand": "Bose",
+    "price": 1999,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.1",
+      "Autonomia": "24h ANC",
+      "Recarga": "2.5h",
+      "ANC": "Sim (TriPort)",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "238g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "Qualidade de chamada líder",
+      "Conforto icônico Bose",
+      "ANC excelente",
+      "Modo Aware realista",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "24h abaixo concorrentes",
+      "App básico sem EQ"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 95,
+      "Autonomia": 76,
+      "Custo-Benefício": 70,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+45",
+    "ml": "https://lista.mercadolivre.com.br/bose-quietcomfort-45",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 44,
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "brand": "Samsung",
+    "price": 1299,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm+tweeter",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+30h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX7",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, SSC HiFi"
+    },
+    "pros": [
+      "IPX7 — pode ser submerso",
+      "Driver dual",
+      "Som brilhante",
+      "Integração Galaxy perfeita"
+    ],
+    "cons": [
+      "SSC HiFi exclusivo Galaxy",
+      "Recursos reduzidos fora Samsung"
+    ],
+    "score": {
+      "Som": 87,
+      "Conforto": 85,
+      "Autonomia": 80,
+      "Custo-Benefício": 76,
+      "Build": 85
+    },
+    "youtubeIds": [
+      "mNjKp0GRXBM",
+      "8mxU6Vgpf_c"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Waterproof Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+2+Pro",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-2-pro",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 45,
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "brand": "Samsung",
+    "price": 1399,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Dual 10.5mm+tweeter",
+      "Bluetooth": "5.4",
+      "Autonomia": "7h+30h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IP57",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC, SSC HiFi"
+    },
+    "pros": [
+      "Driver duplo por fone",
+      "IP57 resistência excelente",
+      "BT 5.4",
+      "SSC HiFi",
+      "Integração Galaxy"
+    ],
+    "cons": [
+      "SSC HiFi só Samsung Galaxy",
+      "Design divide opiniões",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 84,
+      "Autonomia": 82,
+      "Custo-Benefício": 76,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "TrqhOc-vBYQ",
+      "mj_m80C6Z5E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+3+Pro",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-3-pro",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 46,
+    "name": "HUAWEI FreeBuds Pro 3",
+    "brand": "Huawei",
+    "price": 1099,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "6.5h+31h case",
+      "Recarga": "1h",
+      "ANC": "Sim (inteligente)",
+      "Microfone": "Sim",
+      "IPX": "IP54",
+      "Peso": "6.1g/fone",
+      "Codec": "SBC, AAC, LDAC, L2HC 3.0"
+    },
+    "pros": [
+      "Driver híbrido+L2HC 3.0",
+      "ANC inteligente eficaz",
+      "IP54",
+      "Qualidade audiófila",
+      "Design premium"
+    ],
+    "cons": [
+      "L2HC 3.0 só entre Huawei",
+      "App melhor com Huawei",
+      "Preço premium"
+    ],
+    "score": {
+      "Som": 89,
+      "Conforto": 82,
+      "Autonomia": 82,
+      "Custo-Benefício": 74,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "sKi5tpxbwuI",
+      "k-6fj3K9CWE"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Huawei+FreeBuds+Pro+3",
+    "ml": "https://lista.mercadolivre.com.br/huawei-freebuds-pro-3",
+    "official": "https://consumer.huawei.com/br"
+  },
+  {
+    "id": 47,
+    "name": "Beats Solo 4",
+    "brand": "Beats",
+    "price": 1299,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "50h",
+      "Recarga": "2h/10min=5h",
+      "ANC": "Não",
+      "Microfone": "3 mics",
+      "Dobrável": "Sim",
+      "Peso": "217g",
+      "Codec": "SBC, AAC, aptX Adaptive, LDAC"
+    },
+    "pros": [
+      "aptX Adaptive+LDAC raro na Beats",
+      "50h autonomia",
+      "On-ear dobrável",
+      "Compatibilidade universal",
+      "Build premium"
+    ],
+    "cons": [
+      "Sem ANC — surpreende para o preço",
+      "On-ear menor isolamento"
+    ],
+    "score": {
+      "Som": 84,
+      "Conforto": 78,
+      "Autonomia": 92,
+      "Custo-Benefício": 72,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "xAbbf3-8Bxc",
+      "L0f4Y2ePsYo"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Beats+Solo+4",
+    "ml": "https://lista.mercadolivre.com.br/beats-solo-4",
+    "official": "https://www.beatsbydre.com/br"
+  },
+  {
+    "id": 48,
+    "name": "Sony LinkBuds S",
+    "brand": "Sony",
+    "price": 899,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "5mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h+14h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX4",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC, LDAC, aptX"
+    },
+    "pros": [
+      "Ultra compacto com ANC",
+      "LDAC+aptX",
+      "Leve 4.8g",
+      "Modo Ambiente DSEE Extreme"
+    ],
+    "cons": [
+      "Autonomia curta (20h total)",
+      "Driver mini — graves limitados"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 86,
+      "Autonomia": 66,
+      "Custo-Benefício": 72,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "g2kJ5Oq-kP4",
+      "U_c-VgBJYUw"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Design Tour"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+LinkBuds+S",
+    "ml": "https://lista.mercadolivre.com.br/sony-linkbuds-s",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 49,
+    "name": "Jabra Elite 10",
+    "brand": "Jabra",
+    "price": 1499,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+27h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Advanced ANC II)",
+      "Microfone": "6 mics",
+      "IPX": "IP57",
+      "Peso": "6.0g/fone",
+      "Codec": "SBC, AAC, aptX Lossless"
+    },
+    "pros": [
+      "aptX Lossless — qualidade CD",
+      "IP57",
+      "ANC Advanced II",
+      "6 mics chamadas líder",
+      "Multiponto 3 dispositivos"
+    ],
+    "cons": [
+      "Foco em produtividade",
+      "Sem LDAC",
+      "App necessário"
+    ],
+    "score": {
+      "Som": 86,
+      "Conforto": 84,
+      "Autonomia": 76,
+      "Custo-Benefício": 70,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Call Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+10",
+    "ml": "https://lista.mercadolivre.com.br/jabra-elite-10",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 50,
+    "name": "Jabra Evolve2 55",
+    "brand": "Jabra",
+    "price": 1599,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "36h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (avançado)",
+      "Microfone": "10 mics+braço retrátil",
+      "Dobrável": "Sim",
+      "Peso": "222g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "Melhor microfone do mercado",
+      "ANC focado produtividade",
+      "3 dispositivos simultâneos",
+      "Ideal home office",
+      "Confortável 8h+"
+    ],
+    "cons": [
+      "Som neutro não musical",
+      "Sem LDAC",
+      "Preço premium para chamadas"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 90,
+      "Autonomia": 85,
+      "Custo-Benefício": 74,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "FfQYMFIDa7Y",
+      "BIMZ8gVXuGo"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Mic Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Evolve2+55",
+    "ml": "https://lista.mercadolivre.com.br/jabra-evolve2-55",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 51,
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "price": 1699,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8.4mm dinâmico",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+24h case",
+      "Recarga": "1.5h/5min=1h",
+      "ANC": "Sim (Processor V2)",
+      "Microfone": "5 mics",
+      "IPX": "IPX4",
+      "Peso": "5.9g/fone",
+      "Codec": "SBC, AAC, LDAC, aptX Adaptive"
+    },
+    "pros": [
+      "Melhor ANC em TWS",
+      "LDAC+aptX Adaptive",
+      "Driver 8.4mm maior",
+      "Carga 5min=1h",
+      "Compacto e leve"
+    ],
+    "cons": [
+      "Preço premium",
+      "Autonomia moderada com ANC",
+      "Case sem wireless charging"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 86,
+      "Autonomia": 78,
+      "Custo-Benefício": 70,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "X0jTVOFxBNk",
+      "4JJ7vBgGp_Y"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Pro"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WF-1000XM5",
+    "ml": "https://lista.mercadolivre.com.br/sony-wf-1000xm5",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 52,
+    "name": "Sennheiser Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "price": 1699,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "42mm dinâmico",
+      "Bluetooth": "5.2",
+      "Autonomia": "Até 60h com ANC (volume médio)",
+      "Recarga": "Aprox. 2h; 5min para até 4h de áudio",
+      "ANC": "Sim (híbrido adaptativo)",
+      "Microfone": "2 microfones por lado",
+      "Dobrável": "Sim",
+      "Peso": "293g",
+      "Codec": "SBC, AAC, aptX, aptX Adaptive"
+    },
+    "pros": [
+      "60h com ANC — recorde premium",
+      "aptX Adaptive+LC3",
+      "Qualidade audiófila Sennheiser",
+      "ANC adaptativo eficiente",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Preço premium",
+      "Pesado 293g"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 86,
+      "Autonomia": 96,
+      "Custo-Benefício": 74,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "DKbvUMHEFOg",
+      "VTx8EWIqpNE"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Momentum+4+Wireless",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-momentum-4",
+    "official": "https://au.sennheiser-hearing.com/products/momentum-4-wireless",
+    "aliases": [
+      "Sennheiser Momentum 4"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Beats Fit Pro",
+    "brand": "Beats",
+    "price": 1099,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "9.5mm",
+      "Bluetooth": "5.2 (H1)",
+      "Autonomia": "6h+21h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX4",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Ala fixação para esportes",
+      "Chip H1 conexão rápida",
+      "ANC+transparência",
+      "IPX4",
+      "Som potente para treinos"
+    ],
+    "cons": [
+      "Sem LDAC ou aptX",
+      "Autonomia curta (27h)"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 72,
+      "Custo-Benefício": 68,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "tSuF8m01Mxw",
+      "KNn2SXOQ6RM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Beats+Fit+Pro",
+    "ml": "https://lista.mercadolivre.com.br/beats-fit-pro",
+    "official": "https://www.beatsbydre.com/br"
+  },
+  {
+    "id": 54,
+    "name": "Apple AirPods 4 (sem ANC)",
+    "brand": "Apple",
+    "price": 1299,
+    "tier": "premium",
+    "type": "Auricular sem ponteira (TWS)",
+    "specs": {
+      "Driver": "Alta amplitude, exclusivo Apple",
+      "Bluetooth": "5.3",
+      "Autonomia": "Até 5h; até 30h no total com estojo",
+      "Recarga": "Estojo USB-C; 5min no estojo ≈ 1h de áudio",
+      "ANC": "Não",
+      "Microfone": "Duplos com filtragem espacial + microfone interno",
+      "IPX": "IP54",
+      "Peso": "4,3g por fone",
+      "Codec": "AAC",
+      "Chip": "Apple H2"
+    },
+    "pros": [
+      "Design open-ear sem ponteira",
+      "Chip H2 excelente",
+      "Spatial Audio",
+      "IP54",
+      "Integração Apple perfeita"
+    ],
+    "cons": [
+      "Sem ponteira — menos isolamento",
+      "Funcionalidade limitada Android",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 84,
+      "Conforto": 82,
+      "Autonomia": 78,
+      "Custo-Benefício": 66,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "Qi6CfBbFOq8",
+      "6kL4fNVT_IA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods 3"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AirPods+4+sem+ANC",
+    "ml": "https://lista.mercadolivre.com.br/airpods-4-sem-anc",
+    "official": "https://support.apple.com/pt-br/121203",
+    "aliases": [
+      "Apple AirPods 4"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "price": 2299,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Apple exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+30h case",
+      "Recarga": "1h (MagSafe/Qi)",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "3 mics",
+      "IPX": "IPX4 fones+case",
+      "Peso": "5.3g/fone",
+      "Codec": "AAC (Apple Lossless no ecossistema)"
+    },
+    "pros": [
+      "Melhor ANC em TWS (Adaptive)",
+      "Spatial Audio e Dolby Atmos",
+      "Detecção de conversa",
+      "Case com MagSafe+alto-falante"
+    ],
+    "cons": [
+      "Muito caro",
+      "Funcionalidade limitada fora Apple",
+      "Sem LDAC para Android"
+    ],
+    "score": {
+      "Som": 91,
+      "Conforto": 88,
+      "Autonomia": 80,
+      "Custo-Benefício": 62,
+      "Build": 90
+    },
+    "youtubeIds": [
+      "4fwBLYhVGuc",
+      "UWHHHhS7m8c"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AirPods+Pro+2",
+    "ml": "https://lista.mercadolivre.com.br/airpods-pro-2",
+    "official": "https://www.apple.com/br"
+  },
+  {
+    "id": 56,
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "price": 2499,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "24h ANC",
+      "Recarga": "2.5h",
+      "ANC": "Sim (CustomTune)",
+      "Microfone": "8 mics",
+      "Dobrável": "Não",
+      "Peso": "250g",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Bose Immersive Audio espacial",
+      "ANC CustomTune por ouvido",
+      "aptX Adaptive",
+      "Qualidade sonora referência",
+      "Conforto Bose lendário"
+    ],
+    "cons": [
+      "Preço altíssimo",
+      "Não dobrável",
+      "24h abaixo do XM5",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 94,
+      "Conforto": 96,
+      "Autonomia": 76,
+      "Custo-Benefício": 64,
+      "Build": 92
+    },
+    "youtubeIds": [
+      "fS_0xtHxoGc",
+      "Yl_YEHX6JpY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Spatial Audio"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+Ultra",
+    "ml": "https://lista.mercadolivre.com.br/bose-quietcomfort-ultra",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 57,
+    "name": "Bose QC Ultra Earbuds",
+    "brand": "Bose",
+    "price": 2199,
+    "tier": "flagship",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1h",
+      "ANC": "Sim (CustomTune adaptativo)",
+      "Microfone": "6 mics",
+      "IPX": "IPX4",
+      "Peso": "6.2g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "ANC CustomTune adapta ao ouvido",
+      "Bose Immersive Audio espacial",
+      "aptX Adaptive",
+      "Conforto premium"
+    ],
+    "cons": [
+      "Muito caro",
+      "Sem LDAC",
+      "Autonomia moderada"
+    ],
+    "score": {
+      "Som": 92,
+      "Conforto": 88,
+      "Autonomia": 74,
+      "Custo-Benefício": 60,
+      "Build": 90
+    },
+    "youtubeIds": [
+      "eIFE-8F5Mtg",
+      "UZi1ZzWYibs"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Pro"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+Ultra+Earbuds",
+    "ml": "https://lista.mercadolivre.com.br/bose-qc-ultra-earbuds",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 58,
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "price": 3299,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Apple exclusivo",
+      "Bluetooth": "5.0",
+      "Autonomia": "20h",
+      "Recarga": "USB-C",
+      "ANC": "Sim (Adaptive+Spatial Audio)",
+      "Microfone": "9 mics",
+      "Dobrável": "Não",
+      "Peso": "384g",
+      "Codec": "AAC (Apple Lossless)"
+    },
+    "pros": [
+      "Integração perfeita Apple",
+      "Spatial Audio e Dolby Atmos",
+      "Build premium alumínio/aço",
+      "ANC classe mundial",
+      "Design icônico"
+    ],
+    "cons": [
+      "Muito caro",
+      "Sem suporte Android",
+      "Pesado 384g",
+      "20h autonomia fraca",
+      "Case básico"
+    ],
+    "score": {
+      "Som": 94,
+      "Conforto": 86,
+      "Autonomia": 70,
+      "Custo-Benefício": 55,
+      "Build": 98
+    },
+    "youtubeIds": [
+      "oY9xFBJ-56w",
+      "SMGBJ1PWZKU"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Vale a pena?"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Apple+AirPods+Max",
+    "ml": "https://lista.mercadolivre.com.br/apple-airpods-max",
+    "official": "https://www.apple.com/br"
+  },
+  {
+    "id": 100,
+    "name": "Sony WH-1000XM6",
+    "brand": "Sony",
+    "price": 2299,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "30mm exclusivo",
+      "Resp. Freq.": "4Hz–40kHz",
+      "Bluetooth": "5.3",
+      "Autonomia": "30h ANC",
+      "Recarga": "3h/3min=3h",
+      "ANC": "Sim (Adaptive, 8 mics)",
+      "Microfone": "8 mics",
+      "Dobrável": "Sim",
+      "Peso": "250g",
+      "Codec": "SBC, AAC, LDAC, aptX"
+    },
+    "pros": [
+      "ANC adaptativo aprimorado",
+      "LDAC audiófilo",
+      "Agora dobrável (diferença do XM5)",
+      "Speak-to-Chat automático",
+      "Carga rápida"
+    ],
+    "cons": [
+      "Preço elevado",
+      "Autonomia igual ao XM5",
+      "Não chega com mudanças radicais"
+    ],
+    "score": {
+      "Som": 96,
+      "Conforto": 94,
+      "Autonomia": 80,
+      "Custo-Benefício": 70,
+      "Build": 93
+    },
+    "youtubeIds": [
+      "XL7kGbUBKkI",
+      "xL_4NC1b9lo"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WH-1000XM6",
+    "ml": "https://lista.mercadolivre.com.br/sony-wh-1000xm6",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 107,
+    "name": "Sony WF-C510",
+    "brand": "Sony",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "11h+22h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "4.4g/fone",
+      "Codec": "SBC, AAC, LC3"
+    },
+    "pros": [
+      "11h por carga — excelente sem ANC",
+      "LC3/LE Audio",
+      "Leve 4.4g",
+      "Marca Sony confiável"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Driver 6mm",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 80,
+      "Autonomia": 86,
+      "Custo-Benefício": 76,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "_xRq7LxdJe8",
+      "nSFjkVhOoKc"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WF-C510",
+    "ml": "https://lista.mercadolivre.com.br/sony-wf-c510",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 108,
+    "name": "Sony WF-C500",
+    "brand": "Sony",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "10h+20h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "5.4g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Design compacto e discreto",
+      "IPX4",
+      "30h total",
+      "Marca Sony confiável",
+      "Custo-benefício ok"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Driver 6mm"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 76,
+      "Autonomia": 80,
+      "Custo-Benefício": 74,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "UY_FE2X2oqo",
+      "5B3LHKQ3kzA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+WF-C500",
+    "ml": "https://lista.mercadolivre.com.br/sony-wf-c500",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 110,
+    "name": "Sony LinkBuds Open",
+    "brand": "Sony",
+    "price": 799,
+    "tier": "mid",
+    "type": "Open-ear",
+    "specs": {
+      "Driver": "12mm anel",
+      "Bluetooth": "5.1",
+      "Autonomia": "5.5h+17.5h case",
+      "Recarga": "1.5h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "5 mics",
+      "IPX": "IPX4",
+      "Peso": "4.1g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Design anel — ouvido 100% livre",
+      "Confortável para uso longo",
+      "LDAC",
+      "Ideal para atenção ao redor",
+      "4.1g ultraleve"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Graves limitados por design open",
+      "Autonomia curta (23h total)"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 92,
+      "Autonomia": 65,
+      "Custo-Benefício": 72,
+      "Build": 78
+    },
+    "youtubeIds": [
+      "9Gh6QVkY7Ac",
+      "U_c-VgBJYUw"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Design Tour"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+LinkBuds",
+    "ml": "https://lista.mercadolivre.com.br/sony-linkbuds",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 111,
+    "name": "Sony INZONE Buds (WF-G700N)",
+    "brand": "Sony",
+    "price": 1099,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm dinâmico",
+      "Bluetooth": "5.3 + dongle USB-C",
+      "Autonomia": "12h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "Sim (IA)",
+      "IPX": "IPX4",
+      "Peso": "6.5g/fone",
+      "Codec": "SBC, AAC + dongle USB-C 30ms"
+    },
+    "pros": [
+      "Dongle USB-C com latência 30ms — ideal para games",
+      "ANC",
+      "360 Spatial Sound for Gaming",
+      "Compatível PS5 e PC",
+      "12h de autonomia"
+    ],
+    "cons": [
+      "Dongle ocupa porta USB-C",
+      "Sem LDAC",
+      "Design mais volumoso",
+      "Foco em games não música"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 82,
+      "Custo-Benefício": 72,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "9m2ot1CrGM0",
+      "_XoHQT8vXbk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Gaming Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sony+INZONE+Buds",
+    "ml": "https://lista.mercadolivre.com.br/sony-inzone-buds",
+    "official": "https://www.sony.com.br"
+  },
+  {
+    "id": 122,
+    "name": "JBL Tune 520BT",
+    "brand": "JBL",
+    "price": 207,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "57h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "160g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "57h de autonomia",
+      "Multipoint 2 dispositivos",
+      "Leve 160g",
+      "JBL Pure Bass",
+      "Preço acessível"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Build plástico básico"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 72,
+      "Autonomia": 95,
+      "Custo-Benefício": 90,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+520BT",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-520bt",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 123,
+    "name": "JBL Tour One M2",
+    "brand": "JBL",
+    "price": 1380,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "30h ANC/50h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (True Adaptive ANC)",
+      "Microfone": "6 mics",
+      "Dobrável": "Sim",
+      "Peso": "249g",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "ANC True Adaptive muito eficiente",
+      "aptX Adaptive",
+      "Spatial Audio",
+      "Multiponto 3 dispositivos",
+      "Dobrável e premium"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Preço elevado",
+      "Autonomia com ANC moderada"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 86,
+      "Autonomia": 80,
+      "Custo-Benefício": 72,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "tQVxQYy-n7A",
+      "FhUSBvjLNf4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tour+One+M2",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tour-one-m2",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 125,
+    "name": "JBL Wave Beam 2",
+    "brand": "JBL",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+24h case",
+      "Recarga": "2h",
+      "ANC": "Sim (Smart ANC)",
+      "Microfone": "2 mics",
+      "IPX": "IP54",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC incluído",
+      "Design slim com haste",
+      "IP54",
+      "32h total",
+      "Fast Pair/Swift Pair"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "Driver 8mm pequeno"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 76,
+      "Autonomia": 78,
+      "Custo-Benefício": 80,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "WLiS1f-DXRM",
+      "Vn37WBQYVSI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Wave+Beam+2",
+    "ml": "https://lista.mercadolivre.com.br/jbl-wave-beam-2",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 126,
+    "name": "JBL Tune Flex 2",
+    "brand": "JBL",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+27h case",
+      "Recarga": "2h",
+      "ANC": "Sim (ANC adaptativo)",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Driver 12mm maior",
+      "ANC adaptativo",
+      "JBL Spatial Sound",
+      "36h total",
+      "Design aberto/fechado"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "IPX4 básico",
+      "App JBL básico"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 78,
+      "Autonomia": 80,
+      "Custo-Benefício": 78,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "WLiS1f-DXRM",
+      "Vn37WBQYVSI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+Flex+2",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-flex-2",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 128,
+    "name": "JBL Tour Pro 3",
+    "brand": "JBL",
+    "price": 1889,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "11h+44h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (True Adaptive)",
+      "Microfone": "6 mics",
+      "IPX": "IP55",
+      "Peso": "6.1g/fone",
+      "Codec": "SBC, AAC, aptX Lossless"
+    },
+    "pros": [
+      "Case com tela touch — único no mercado",
+      "aptX Lossless",
+      "11h de autonomia — excelente",
+      "ANC True Adaptive",
+      "IP55"
+    ],
+    "cons": [
+      "Case volumoso pela tela",
+      "Preço muito elevado",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 82,
+      "Autonomia": 90,
+      "Custo-Benefício": 68,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "nrCGz_1MGEM",
+      "KFP0JTrZdlA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Case com Tela Demo"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tour+Pro+3",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tour-pro-3",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 129,
+    "name": "JBL Endurance Peak 3",
+    "brand": "JBL",
+    "price": 449,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6.8mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "10h+40h case",
+      "Recarga": "2h/10min=1h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IP68",
+      "Peso": "7g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP68 — totalmente à prova d'água",
+      "50h total de autonomia",
+      "Encaixe PowerHook seguro",
+      "Ideal para natação e treino",
+      "Som JBL Pure Bass"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Driver pequeno 6.8mm",
+      "Design esportivo não é discreto"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 78,
+      "Autonomia": 94,
+      "Custo-Benefício": 80,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "E-kGJBkjFHQ",
+      "6PgS1M5iK8Y"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Endurance+Peak+3",
+    "ml": "https://lista.mercadolivre.com.br/jbl-endurance-peak-3",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 130,
+    "name": "JBL Endurance Race 2",
+    "brand": "JBL",
+    "price": 402,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6.8mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "12h sem ANC/10h ANC+38h case",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "4 mics",
+      "IPX": "IP68",
+      "Peso": "7g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP68 + ANC — combinação rara",
+      "48h total com ANC",
+      "4 mics",
+      "App JBL com perfis esportivos",
+      "Smart Ambient"
+    ],
+    "cons": [
+      "Volume relativamente baixo para alguns",
+      "Design esportivo volumoso",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 76,
+      "Autonomia": 90,
+      "Custo-Benefício": 82,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "7_RBuLmFCbc",
+      "bSCp4pYqM3c"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "IP68 Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Endurance+Race+2",
+    "ml": "https://lista.mercadolivre.com.br/jbl-endurance-race-2",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 131,
+    "name": "JBL Live Beam 3",
+    "brand": "JBL",
+    "price": 750,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+40h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (True Adaptive)",
+      "Microfone": "6 mics",
+      "IPX": "IP55",
+      "Peso": "5.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Case com tela touch",
+      "ANC True Adaptive",
+      "10h autonomia + 40h case",
+      "IP55",
+      "Carga rápida"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Case volumoso pela tela",
+      "Preço elevado para TWS"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 80,
+      "Autonomia": 90,
+      "Custo-Benefício": 74,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "WLiS1f-DXRM",
+      "Vn37WBQYVSI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Live+Beam+3",
+    "ml": "https://lista.mercadolivre.com.br/jbl-live-beam-3",
+    "official": "https://br.jbl.com"
+  },
+  {
+    "id": 140,
+    "name": "Samsung Galaxy Buds 4 Pro",
+    "brand": "Samsung",
+    "price": 2199,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Dual driver",
+      "Bluetooth": "5.4",
+      "Autonomia": "7h+21h case",
+      "Recarga": "1h",
+      "ANC": "Sim (Adaptive ANC IA)",
+      "Microfone": "3 mics",
+      "IPX": "IP57",
+      "Peso": "5.3g/fone",
+      "Codec": "SBC, AAC, SSC HiFi, aptX Lossless"
+    },
+    "pros": [
+      "ANC adaptativo com IA — nova geração",
+      "aptX Lossless",
+      "IP57",
+      "Galaxy AI integrado",
+      "Controle por gestos"
+    ],
+    "cons": [
+      "Preço elevado",
+      "SSC HiFi/aptX Lossless apenas Samsung+",
+      "Autonomia moderada"
+    ],
+    "score": {
+      "Som": 90,
+      "Conforto": 86,
+      "Autonomia": 76,
+      "Custo-Benefício": 68,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "TrqhOc-vBYQ",
+      "mj_m80C6Z5E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Pro"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+4+Pro",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-4-pro",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 141,
+    "name": "Samsung Galaxy Buds 4",
+    "brand": "Samsung",
+    "price": 1599,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10.5mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC, SSC"
+    },
+    "pros": [
+      "Design open-ear sem ponteiras",
+      "BT 5.4",
+      "Galaxy AI",
+      "IP54",
+      "Leve 4.9g"
+    ],
+    "cons": [
+      "Design open-ear — menos isolamento",
+      "SSC exclusivo Samsung",
+      "Autonomia curta (30h total)"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 84,
+      "Autonomia": 72,
+      "Custo-Benefício": 70,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "fvdEK4qCCVQ",
+      "Cq-Z_AHrwHc"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Design Tour"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+4",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-4",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 144,
+    "name": "Samsung Galaxy Buds 3 FE",
+    "brand": "Samsung",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "8.5h sem ANC/6h ANC+22h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC incluído",
+      "IP54",
+      "BT 5.4",
+      "30h total",
+      "Custo-benefício Samsung"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App melhor com Samsung Galaxy",
+      "Autonomia curta com ANC"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 76,
+      "Autonomia": 75,
+      "Custo-Benefício": 82,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "N8wFLhxiS6Q",
+      "2KRCb1KqZ4E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+3+FE",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-3-fe",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 145,
+    "name": "Samsung Galaxy Buds Core",
+    "brand": "Samsung",
+    "price": 299,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h sem ANC/6h ANC+27h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.4g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC por R$299",
+      "IP54",
+      "Galaxy AI básico",
+      "35h total",
+      "Entrada na linha Galaxy"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Funcionalidade limitada fora Samsung",
+      "ANC básico"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 72,
+      "Autonomia": 78,
+      "Custo-Benefício": 84,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "N8wFLhxiS6Q",
+      "2KRCb1KqZ4E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Samsung+Galaxy+Buds+Core",
+    "ml": "https://lista.mercadolivre.com.br/samsung-galaxy-buds-core",
+    "official": "https://www.samsung.com/br"
+  },
+  {
+    "id": 150,
+    "name": "Apple AirPods Pro 3",
+    "brand": "Apple",
+    "price": 2799,
+    "tier": "flagship",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Apple H2 + sensor cardiaco",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+30h case",
+      "Recarga": "1h (MagSafe/Qi)",
+      "ANC": "Sim (Adaptive ANC aprimorado)",
+      "Microfone": "3 mics",
+      "IPX": "IP57",
+      "Peso": "5.3g/fone",
+      "Codec": "AAC (Apple Lossless)"
+    },
+    "pros": [
+      "Sensor de frequência cardíaca no ouvido — inédito",
+      "ANC aprimorado vs Pro 2",
+      "IP57 — mais resistente",
+      "5 tamanhos de ponteiras",
+      "Design remodelado para fitness"
+    ],
+    "cons": [
+      "Preço altíssimo",
+      "Sem LDAC para Android",
+      "Funcionalidade limitada fora Apple",
+      "Case maior que o Pro 2"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 88,
+      "Autonomia": 80,
+      "Custo-Benefício": 58,
+      "Build": 92
+    },
+    "youtubeIds": [
+      "4fwBLYhVGuc",
+      "UWHHHhS7m8c"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Pro 2"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AirPods+Pro+3",
+    "ml": "https://lista.mercadolivre.com.br/airpods-pro-3",
+    "official": "https://www.apple.com/br"
+  },
+  {
+    "id": 152,
+    "name": "Apple AirPods 4 (com ANC)",
+    "brand": "Apple",
+    "price": 1699,
+    "tier": "premium",
+    "type": "Auricular sem ponteira (TWS)",
+    "specs": {
+      "Driver": "Alta amplitude, exclusivo Apple",
+      "Bluetooth": "5.3",
+      "Autonomia": "Até 4h com ANC / 5h sem; total com estojo: 20h / 30h",
+      "Recarga": "Estojo USB-C, Qi ou Apple Watch; 5min ≈ 1h de áudio",
+      "ANC": "Sim",
+      "Microfone": "Duplos com filtragem espacial + microfone interno",
+      "IPX": "IP54",
+      "Peso": "4,3g por fone",
+      "Codec": "AAC",
+      "Chip": "Apple H2"
+    },
+    "pros": [
+      "Design open-ear confortável sem ponteiras",
+      "ANC incluído",
+      "Chip H2",
+      "Spatial Audio",
+      "IP54",
+      "MagSafe charging"
+    ],
+    "cons": [
+      "Open-ear — menos isolamento passivo",
+      "Funcionalidade limitada Android",
+      "Sem LDAC",
+      "Preço elevado para o que oferece"
+    ],
+    "score": {
+      "Som": 85,
+      "Conforto": 84,
+      "Autonomia": 76,
+      "Custo-Benefício": 64,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "Qi6CfBbFOq8",
+      "6kL4fNVT_IA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Pro 2"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Apple+AirPods+4+ANC",
+    "ml": "https://lista.mercadolivre.com.br/airpods-4-anc",
+    "official": "https://support.apple.com/pt-br/121204"
+  },
+  {
+    "id": 154,
+    "name": "Apple AirPods Max 2",
+    "brand": "Apple",
+    "price": 4999,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Apple exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "30h",
+      "Recarga": "USB-C/MagSafe",
+      "ANC": "Sim (1.5x mais que AirPods Max 1)",
+      "Microfone": "9 mics",
+      "Dobrável": "Não",
+      "Peso": "385g",
+      "Codec": "AAC (Apple Lossless)"
+    },
+    "pros": [
+      "ANC 1.5x mais potente que a 1ª geração",
+      "Carregamento MagSafe",
+      "Spatial Audio e Dolby Atmos",
+      "Build premium alumínio/malha",
+      "5 novas cores vibrantes"
+    ],
+    "cons": [
+      "Preço absurdo",
+      "Sem suporte Android",
+      "Pesado 385g",
+      "Sem LDAC",
+      "Case ainda básico"
+    ],
+    "score": {
+      "Som": 95,
+      "Conforto": 86,
+      "Autonomia": 84,
+      "Custo-Benefício": 48,
+      "Build": 99
+    },
+    "youtubeIds": [
+      "oY9xFBJ-56w",
+      "SMGBJ1PWZKU"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Max 1"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Apple+AirPods+Max+2",
+    "ml": "https://lista.mercadolivre.com.br/apple-airpods-max-2",
+    "official": "https://www.apple.com/br"
+  },
+  {
+    "id": 155,
+    "name": "Apple AirPods Max (1ª geração)",
+    "brand": "Apple",
+    "price": 3299,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Apple exclusivo",
+      "Bluetooth": "5.0",
+      "Autonomia": "20h",
+      "Recarga": "USB-C",
+      "ANC": "Sim (Adaptive+Spatial Audio)",
+      "Microfone": "9 mics",
+      "Dobrável": "Não",
+      "Peso": "384g",
+      "Codec": "AAC (Apple Lossless)"
+    },
+    "pros": [
+      "Integração perfeita Apple",
+      "Spatial Audio e Dolby Atmos",
+      "Build premium alumínio/aço",
+      "ANC classe mundial",
+      "Design icônico"
+    ],
+    "cons": [
+      "Muito caro",
+      "Sem suporte Android",
+      "Pesado 384g",
+      "20h autonomia fraca",
+      "Inferior ao Max 2"
+    ],
+    "score": {
+      "Som": 94,
+      "Conforto": 86,
+      "Autonomia": 70,
+      "Custo-Benefício": 52,
+      "Build": 98
+    },
+    "youtubeIds": [
+      "oY9xFBJ-56w",
+      "SMGBJ1PWZKU"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Vale a pena?"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Apple+AirPods+Max",
+    "ml": "https://lista.mercadolivre.com.br/apple-airpods-max",
+    "official": "https://www.apple.com/br"
+  },
+  {
+    "id": 160,
+    "name": "Bose QuietComfort Ultra Headphones 2ª gen",
+    "brand": "Bose",
+    "price": 2499,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "24h ANC",
+      "Recarga": "2.5h/15min=2.5h",
+      "ANC": "Sim (CustomTune aprimorado)",
+      "Microfone": "8 mics",
+      "Dobrável": "Não",
+      "Peso": "250g",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Bose Immersive Audio espacial",
+      "ANC CustomTune aprimorado",
+      "aptX Adaptive",
+      "Qualidade sonora referência",
+      "Conforto Bose lendário"
+    ],
+    "cons": [
+      "Preço altíssimo",
+      "Não dobrável",
+      "24h abaixo do Sony",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 95,
+      "Conforto": 97,
+      "Autonomia": 76,
+      "Custo-Benefício": 64,
+      "Build": 93
+    },
+    "youtubeIds": [
+      "fS_0xtHxoGc",
+      "Yl_YEHX6JpY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Spatial Audio"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+Ultra+Headphones",
+    "ml": "https://lista.mercadolivre.com.br/bose-quietcomfort-ultra-headphones",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 161,
+    "name": "Bose QuietComfort (nova versão)",
+    "brand": "Bose",
+    "price": 1499,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.1",
+      "Autonomia": "24h ANC",
+      "Recarga": "2.5h",
+      "ANC": "Sim",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "238g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "Evolução do QC45",
+      "Conforto icônico Bose",
+      "ANC excelente",
+      "Modo Aware realista",
+      "Dobrável e mais leve que o Ultra"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "24h autonomia — abaixo do XM5",
+      "App básico sem EQ avançado"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 95,
+      "Autonomia": 76,
+      "Custo-Benefício": 72,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+headphone",
+    "ml": "https://lista.mercadolivre.com.br/bose-quietcomfort-headphone",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 163,
+    "name": "Bose QuietComfort Ultra Earbuds 2ª gen",
+    "brand": "Bose",
+    "price": 2099,
+    "tier": "flagship",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+18h case",
+      "Recarga": "1h (wireless charging)",
+      "ANC": "Sim (CustomTune adaptativo aprimorado)",
+      "Microfone": "6 mics + IA",
+      "IPX": "IPX4",
+      "Peso": "6.2g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "ANC CustomTune aprimorado com IA",
+      "Wireless charging — novidade vs 1ª gen",
+      "aptX Adaptive",
+      "Conforto premium",
+      "Qualidade de chamada excelente"
+    ],
+    "cons": [
+      "Preço muito elevado",
+      "Sem LDAC",
+      "Autonomia moderada (24h total)",
+      "Case ainda grande"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 90,
+      "Autonomia": 72,
+      "Custo-Benefício": 60,
+      "Build": 90
+    },
+    "youtubeIds": [
+      "eIFE-8F5Mtg",
+      "UZi1ZzWYibs"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs AirPods Pro 2"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+Ultra+Earbuds",
+    "ml": "https://lista.mercadolivre.com.br/bose-qc-ultra-earbuds",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 164,
+    "name": "Bose QuietComfort Earbuds II",
+    "brand": "Bose",
+    "price": 1499,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Bose exclusivo",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+18h case",
+      "Recarga": "1h",
+      "ANC": "Sim (CustomTune)",
+      "Microfone": "6 mics",
+      "IPX": "IPX4",
+      "Peso": "6.2g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Melhor ANC Bose em TWS",
+      "aptX Adaptive",
+      "Conforto premium",
+      "6 mics para chamadas",
+      "ANC personalizado único"
+    ],
+    "cons": [
+      "Sem wireless charging (diferença vs Ultra 2ª gen)",
+      "Sem LDAC",
+      "Preço elevado",
+      "24h total autonomia"
+    ],
+    "score": {
+      "Som": 90,
+      "Conforto": 90,
+      "Autonomia": 70,
+      "Custo-Benefício": 64,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "YXDfHBJ00jk",
+      "8kRFBuaC8H4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Personalizado"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bose+QuietComfort+Earbuds+II",
+    "ml": "https://lista.mercadolivre.com.br/bose-qc-earbuds-ii",
+    "official": "https://www.bose.com.br"
+  },
+  {
+    "id": 201,
+    "name": "Redmi Buds 6",
+    "brand": "Xiaomi",
+    "price": 359,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "Dual Hi-Fi",
+      "Bluetooth": "5.4",
+      "Autonomia": "10h+32h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "Sim",
+      "IPX": "IP54",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Dual driver Hi-Fi",
+      "LDAC",
+      "42h total",
+      "4 modos EQ",
+      "Multiponto 2 dispositivos"
+    ],
+    "cons": [
+      "App melhor com Xiaomi",
+      "Build intermediário",
+      "ANC abaixo do Pro"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 86,
+      "Custo-Benefício": 88,
+      "Build": 70
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+6",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-6",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 202,
+    "name": "Redmi Buds 6 Lite",
+    "brand": "Xiaomi",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm titânio",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+31h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (40dB dinâmico)",
+      "Microfone": "Duplo com IA",
+      "IPX": "IPX4",
+      "Peso": "4.2g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC 40dB dinâmico por R$199",
+      "Driver titânio",
+      "IA em chamadas",
+      "38h total",
+      "Ultraleve 4.2g"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App básico",
+      "IPX4 apenas"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 74,
+      "Autonomia": 84,
+      "Custo-Benefício": 90,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+6+Lite",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-6-lite",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 204,
+    "name": "Redmi Buds 6 Play",
+    "brand": "Xiaomi",
+    "price": 119,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+29h case",
+      "Recarga": "1.5h",
+      "ANC": "ENC IA em chamadas",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "4.0g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Preço ~R$119",
+      "ENC IA em chamadas",
+      "36h total",
+      "Google Fast Pair",
+      "Ultraleve 4g"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Driver 10mm básico"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 70,
+      "Autonomia": 80,
+      "Custo-Benefício": 90,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+6+Play",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-6-play",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 206,
+    "name": "Redmi Buds 5",
+    "brand": "Xiaomi",
+    "price": 249,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12.4mm titânio",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+30h case",
+      "Recarga": "1h",
+      "ANC": "-46dB (3 modos)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC -46dB por R$249",
+      "Driver titânio 12.4mm",
+      "IP54",
+      "40h total",
+      "3 modos transparência"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App melhor com Xiaomi",
+      "Build plástico"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 78,
+      "Autonomia": 84,
+      "Custo-Benefício": 90,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "j4bE5lqFBWI",
+      "jcQYS5XZSUM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+5",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-5",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 208,
+    "name": "Redmi Buds 4 Pro",
+    "brand": "Xiaomi",
+    "price": 299,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+27h case",
+      "Recarga": "1.5h",
+      "ANC": "-43dB adaptativo",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC -43dB adaptativo",
+      "LDAC",
+      "IP54",
+      "36h total",
+      "Multiconexão 2 dispositivos"
+    ],
+    "cons": [
+      "App melhor com Xiaomi",
+      "Bass excessivo",
+      "Geração anterior"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 82,
+      "Custo-Benefício": 88,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+4+Pro",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-4-pro",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 209,
+    "name": "Redmi Buds 4 Lite",
+    "brand": "Xiaomi",
+    "price": 99,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "5h+20h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "ENC",
+      "IPX": "IP54",
+      "Peso": "4.4g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "~R$99 — mais barato do catálogo",
+      "Driver 12mm generoso",
+      "IP54",
+      "Google Fast Pair",
+      "Leve 4.4g"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "25h total — curto",
+      "App básico"
+    ],
+    "score": {
+      "Som": 60,
+      "Conforto": 70,
+      "Autonomia": 68,
+      "Custo-Benefício": 88,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Redmi+Buds+4+Lite",
+    "ml": "https://lista.mercadolivre.com.br/redmi-buds-4-lite",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 210,
+    "name": "Xiaomi Air 3 SE",
+    "brand": "Xiaomi",
+    "price": 179,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "4.4g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Design semi-auricular open-fit",
+      "Confortável sem ponteira",
+      "BT 5.3",
+      "30h total",
+      "Custo-benefício ok"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Menos isolamento que in-ear"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 78,
+      "Autonomia": 76,
+      "Custo-Benefício": 84,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "vIFlpSNpIdM",
+      "l-NrWL4VRHY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Xiaomi+Air+3+SE",
+    "ml": "https://lista.mercadolivre.com.br/xiaomi-air-3-se",
+    "official": "https://www.mi.com/br"
+  },
+  {
+    "id": 220,
+    "name": "QCY H3 Pro",
+    "brand": "QCY",
+    "price": 349,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm titânio",
+      "Bluetooth": "5.4",
+      "Autonomia": "55h sem ANC/40h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (adaptativo, 3 modos)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "IPX": "IPX5",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "LDAC por preço acessível",
+      "ANC adaptativo",
+      "55h sem ANC",
+      "IPX5",
+      "Multiponto",
+      "Entrada P2"
+    ],
+    "cons": [
+      "App básico",
+      "Build não premium",
+      "ANC adaptativo não é o mais forte"
+    ],
+    "score": {
+      "Som": 79,
+      "Conforto": 76,
+      "Autonomia": 94,
+      "Custo-Benefício": 90,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "vBMuJVKFo8E",
+      "yGpHM2T3K3E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+H3+Pro",
+    "ml": "https://lista.mercadolivre.com.br/qcy-h3-pro",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 222,
+    "name": "QCY H3S ANC",
+    "brand": "QCY",
+    "price": 399,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "100h+",
+      "Recarga": "2h",
+      "ANC": "Sim (56dB declarado)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "IPX": "IPX5",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "100h+ — recorde absoluto do mercado",
+      "LDAC",
+      "IPX5",
+      "ANC eficaz"
+    ],
+    "cons": [
+      "ANC real ~45dB em testes independentes",
+      "App básico",
+      "Build não premium"
+    ],
+    "score": {
+      "Som": 79,
+      "Conforto": 78,
+      "Autonomia": 99,
+      "Custo-Benefício": 90,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "YX6ywt5M6oo",
+      "zy5bVn33xHk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Real Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+H3S",
+    "ml": "https://lista.mercadolivre.com.br/qcy-h3s",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 223,
+    "name": "QCY MeloBuds H2 Pro",
+    "brand": "QCY",
+    "price": 299,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "80h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "IPX": "IPX4",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "80h de autonomia",
+      "Almofadas espuma proteína",
+      "Design premium",
+      "Leve e dobrável",
+      "Custo-benefício"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "IPX4 básico"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 82,
+      "Autonomia": 97,
+      "Custo-Benefício": 86,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "vBMuJVKFo8E",
+      "yGpHM2T3K3E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+MeloBuds+H2+Pro",
+    "ml": "https://lista.mercadolivre.com.br/qcy-melobuds-h2-pro",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 224,
+    "name": "QCY HT08 MeloBuds Pro",
+    "brand": "QCY",
+    "price": 229,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+27h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (46dB adaptativo)",
+      "Microfone": "6 mics",
+      "IPX": "IPX5",
+      "Peso": "5.2g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 46dB adaptativo",
+      "LDAC + driver híbrido",
+      "6 mics com IA",
+      "34h total",
+      "IPX5",
+      "Anatel homologado"
+    ],
+    "cons": [
+      "App básico",
+      "ANC declarado x real pode variar",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 74,
+      "Autonomia": 82,
+      "Custo-Benefício": 90,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "UwqvBmXLm3g",
+      "ZK_CJv8BfEk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+HT08",
+    "ml": "https://lista.mercadolivre.com.br/qcy-ht08",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 226,
+    "name": "QCY T20",
+    "brand": "QCY",
+    "price": 129,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "13mm LCP",
+      "Bluetooth": "5.3",
+      "Autonomia": "5.5h+20.5h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5.0g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Semi in-ear confortável — sem ponteira",
+      "Driver 13mm LCP",
+      "Latência 68ms para games",
+      "IPX4",
+      "Design diferente"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Autonomia curta (26h total)"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 74,
+      "Autonomia": 72,
+      "Custo-Benefício": 86,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "cHUfHl4I8BA",
+      "GjAoMqPWuCA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=QCY+T20",
+    "ml": "https://lista.mercadolivre.com.br/qcy-t20",
+    "official": "https://www.qcy.com"
+  },
+  {
+    "id": 231,
+    "name": "Edifier W820NB Plus (V25)",
+    "brand": "Edifier",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm titânio",
+      "Bluetooth": "6.1",
+      "Autonomia": "88h sem ANC",
+      "Recarga": "2h/15min=15h",
+      "ANC": "Sim (-49dB, IA)",
+      "Microfone": "Sim (IA)",
+      "Dobrável": "Sim",
+      "Peso": "237g",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "LDAC + ANC -49dB + BT 6.1",
+      "88h de autonomia",
+      "Carregamento rápido 15min=15h",
+      "Filtro IA para chamadas",
+      "Som espacial"
+    ],
+    "cons": [
+      "BT 6.1 ainda em maturação",
+      "Sem multiponto",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 84,
+      "Conforto": 80,
+      "Autonomia": 98,
+      "Custo-Benefício": 88,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "SkXNMXcIlYA",
+      "yqSBaS7sT2I"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "LDAC+ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+W820NB+Plus",
+    "ml": "https://lista.mercadolivre.com.br/edifier-w820nb-plus",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 234,
+    "name": "Edifier NeoDots",
+    "brand": "Edifier",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm titânio",
+      "Bluetooth": "5.4",
+      "Autonomia": "8h+32h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (48dB)",
+      "Microfone": "Sim",
+      "IPX": "IPX5",
+      "Peso": "5.2g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 48dB — um dos maiores em TWS",
+      "Driver titânio",
+      "LDAC",
+      "40h total",
+      "BT 5.4",
+      "IPX5"
+    ],
+    "cons": [
+      "App limitado",
+      "ANC pode sobrar para alguns ambientes",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 84,
+      "Custo-Benefício": 84,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "A8rV-P4vCq4",
+      "q8NTJVO5blE"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+NeoDots",
+    "ml": "https://lista.mercadolivre.com.br/edifier-neodots",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 236,
+    "name": "Edifier TWS NB2 Pro",
+    "brand": "Edifier",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm BA",
+      "Bluetooth": "5.0",
+      "Autonomia": "7h+21h case",
+      "Recarga": "2h",
+      "ANC": "Sim (42dB)",
+      "Microfone": "4 mics",
+      "IPX": "IPX5",
+      "Peso": "6.5g/fone",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "ANC 42dB + modo ambiente",
+      "Driver BA",
+      "aptX",
+      "IPX5",
+      "4 mics"
+    ],
+    "cons": [
+      "BT 5.0",
+      "28h total abaixo da concorrência",
+      "App simples"
+    ],
+    "score": {
+      "Som": 75,
+      "Conforto": 74,
+      "Autonomia": 74,
+      "Custo-Benefício": 80,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "1OQjuDXm7qg",
+      "Mk47vTMnMaA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Edifier+NB2+Pro",
+    "ml": "https://lista.mercadolivre.com.br/edifier-nb2-pro",
+    "official": "https://www.edifier.com.br"
+  },
+  {
+    "id": 240,
+    "name": "Soundcore Space One Pro",
+    "brand": "Anker",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "60h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (adaptativo, 6 mics)",
+      "Microfone": "6 mics",
+      "Dobrável": "Sim",
+      "IPX": "Não",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "6 mics + ANC adaptativo",
+      "LDAC",
+      "60h sem ANC",
+      "App com EQ 22 bandas",
+      "Conexão multiponto"
+    ],
+    "cons": [
+      "Sem certificação IPX",
+      "App pode ter bugs",
+      "ANC abaixo do premium"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 82,
+      "Autonomia": 93,
+      "Custo-Benefício": 86,
+      "Build": 74
+    },
+    "youtubeIds": [
+      "5UBCnOC3tMk",
+      "KFAvUz1J5Ro"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Space+One+Pro",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-space-one-pro",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 243,
+    "name": "Soundcore Q30",
+    "brand": "Anker",
+    "price": 199,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Hi-Res",
+      "Bluetooth": "5.0",
+      "Autonomia": "60h sem ANC/40h ANC",
+      "Recarga": "5h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "269g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "60h sem ANC",
+      "ANC 3 modos por R$199",
+      "Hi-Res Audio",
+      "Dobrável",
+      "App Soundcore"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "BT 5.0",
+      "Carregamento lento (5h)",
+      "ANC básico"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 74,
+      "Autonomia": 92,
+      "Custo-Benefício": 88,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "OWE3R4cQc9Q",
+      "KmNaFdBQpqQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Q30",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-q30",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 244,
+    "name": "Soundcore Q11i",
+    "brand": "Anker",
+    "price": 199,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm Hi-Res",
+      "Bluetooth": "5.3",
+      "Autonomia": "60h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "260g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "60h de autonomia",
+      "Hi-Res Audio",
+      "BT 5.3",
+      "Almofadas removíveis e laváveis",
+      "Multiponto 2 dispositivos"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Design simples"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 76,
+      "Autonomia": 92,
+      "Custo-Benefício": 86,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "OWE3R4cQc9Q",
+      "KmNaFdBQpqQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Q11i",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-q11i",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 248,
+    "name": "Soundcore P31i",
+    "brand": "Anker",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "8h+42h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "4 mics + IA",
+      "IPX": "IP55",
+      "Peso": "5.8g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "Tradução em tempo real integrada — inédito",
+      "LDAC",
+      "50h total",
+      "IP55",
+      "Áudio espacial",
+      "ANC adaptativo"
+    ],
+    "cons": [
+      "Tradução depende de conectividade",
+      "App necessário para tradução",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 90,
+      "Custo-Benefício": 84,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "yE1f6O-Pm0A",
+      "ZFPqnFf9n_Y"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Tradução Demo"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+P31i",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-p31i",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 249,
+    "name": "Soundcore Sport X20",
+    "brand": "Anker",
+    "price": 299,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+39h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (adaptativo)",
+      "Microfone": "Sim",
+      "IPX": "IP68",
+      "Peso": "7.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP68 + ANC — raro em esportivos",
+      "Ganchos ajustáveis",
+      "48h total",
+      "Graves intensos",
+      "Ideal para treino/natação"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Volumoso para uso casual",
+      "App básico"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 76,
+      "Autonomia": 90,
+      "Custo-Benefício": 82,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "U8oiEjDWBOI",
+      "gznaBuYZW-s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Soundcore+Sport+X20",
+    "ml": "https://lista.mercadolivre.com.br/soundcore-sport-x20",
+    "official": "https://www.soundcore.com"
+  },
+  {
+    "id": 251,
+    "name": "Sennheiser Accentum Plus Wireless",
+    "brand": "Sennheiser",
+    "price": 999,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "37mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "50h ANC",
+      "Recarga": "3h/5min=5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "233g",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "50h com ANC — excelente",
+      "aptX Adaptive",
+      "ANC adaptativo",
+      "Multiponto 2 dispositivos",
+      "Entrada P2",
+      "Mais barato que o Momentum 4"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Construção plástica vs Momentum",
+      "Sem LC3"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 84,
+      "Autonomia": 90,
+      "Custo-Benefício": 80,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Momentum 4"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Accentum+Plus",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-accentum-plus",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 252,
+    "name": "Sennheiser Accentum Wireless",
+    "brand": "Sennheiser",
+    "price": 799,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "37mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "50h ANC",
+      "Recarga": "3h/10min=5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "233g",
+      "Codec": "SBC, AAC, aptX HD"
+    },
+    "pros": [
+      "50h com ANC — excelente",
+      "ANC adaptativo Sennheiser",
+      "aptX HD",
+      "Custo-benefício Sennheiser",
+      "Carga rápida"
+    ],
+    "cons": [
+      "Sem LDAC ou aptX Adaptive",
+      "Construção mais plástica",
+      "App básico vs Momentum"
+    ],
+    "score": {
+      "Som": 85,
+      "Conforto": 82,
+      "Autonomia": 90,
+      "Custo-Benefício": 80,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sound Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Accentum+Wireless",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-accentum-wireless",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 254,
+    "name": "Sennheiser Momentum True Wireless 4",
+    "brand": "Sennheiser",
+    "price": 1999,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "7mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "7.5h+30h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "IPX": "IP54",
+      "Peso": "5.4g/fone",
+      "Codec": "SBC, AAC, aptX Lossless, LC3, Auracast"
+    },
+    "pros": [
+      "aptX Lossless — qualidade CD sem perdas",
+      "Auracast / LE Audio",
+      "BT 5.4",
+      "ANC adaptativo",
+      "Qualidade audiófila",
+      "Chip Qualcomm S5 Gen 2"
+    ],
+    "cons": [
+      "Preço muito elevado",
+      "Sem LDAC",
+      "Autonomia moderada (37.5h total)"
+    ],
+    "score": {
+      "Som": 93,
+      "Conforto": 84,
+      "Autonomia": 78,
+      "Custo-Benefício": 64,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "VXXJ67TsDuQ",
+      "mj9zTGhzF10"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sound Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Momentum+True+Wireless+4",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-momentum-tws-4",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 255,
+    "name": "Sennheiser Momentum True Wireless 3",
+    "brand": "Sennheiser",
+    "price": 1499,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "7mm dinâmico",
+      "Bluetooth": "5.2",
+      "Autonomia": "7h+21h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5.4g/fone",
+      "Codec": "SBC, AAC, aptX, aptX Adaptive"
+    },
+    "pros": [
+      "ANC adaptativo de qualidade",
+      "aptX Adaptive",
+      "Qualidade audiófila Sennheiser",
+      "App Smart Control completo",
+      "Som natural e equilibrado"
+    ],
+    "cons": [
+      "28h total abaixo dos concorrentes",
+      "Geração anterior ao TW4",
+      "Preço elevado",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 90,
+      "Conforto": 84,
+      "Autonomia": 72,
+      "Custo-Benefício": 68,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "VXXJ67TsDuQ",
+      "mj9zTGhzF10"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs TW4"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Momentum+True+Wireless+3",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-momentum-tws-3",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 256,
+    "name": "Sennheiser Accentum True Wireless",
+    "brand": "Sennheiser",
+    "price": 999,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "7mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "5h+20h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5g/fone",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "ANC adaptativo Sennheiser",
+      "Design elegante premiado Red Dot",
+      "Som neutro e preciso",
+      "Mais barato que o MTW 4",
+      "App Smart Control"
+    ],
+    "cons": [
+      "25h total — curto",
+      "Sem LDAC ou aptX Adaptive",
+      "Preço ainda elevado"
+    ],
+    "score": {
+      "Som": 86,
+      "Conforto": 82,
+      "Autonomia": 65,
+      "Custo-Benefício": 68,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "VXXJ67TsDuQ",
+      "mj9zTGhzF10"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Accentum+True+Wireless",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-accentum-tws",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 257,
+    "name": "Sennheiser Momentum Sport",
+    "brand": "Sennheiser",
+    "price": 1599,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "7mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h+18h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "IPX": "IPX55",
+      "Peso": "6.2g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Sensor de frequência cardíaca e temperatura corporal — único",
+      "Integração Polar/Apple Health/Garmin",
+      "ANC adaptativo",
+      "aptX Adaptive",
+      "IPX55"
+    ],
+    "cons": [
+      "Preço muito elevado",
+      "24h total — curto",
+      "Foco em esporte — menos versátil",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 80,
+      "Autonomia": 66,
+      "Custo-Benefício": 62,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "DKbvUMHEFOg",
+      "VTx8EWIqpNE"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Momentum+Sport",
+    "ml": "https://lista.mercadolivre.com.br/sennheiser-momentum-sport",
+    "official": "https://br.sennheiser-hearing.com"
+  },
+  {
+    "id": 300,
+    "name": "Jabra Elite 10 (2ª geração)",
+    "brand": "Jabra",
+    "price": 1799,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "12mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "10h+28h case",
+      "Recarga": "1.5h/15min=1h",
+      "ANC": "Sim (Advanced ANC II+)",
+      "Microfone": "6 mics",
+      "IPX": "IP57",
+      "Peso": "6.5g/fone",
+      "Codec": "SBC, AAC, aptX Lossless, LE Audio"
+    },
+    "pros": [
+      "ANC aprimorado vs 1ª geração",
+      "aptX Lossless + LE Audio",
+      "IP57",
+      "6 mics — melhor qualidade de chamada do mercado",
+      "Multiponto 3 dispositivos"
+    ],
+    "cons": [
+      "Foco em produtividade",
+      "Sem LDAC",
+      "Preço elevado",
+      "Autonomia moderada (38h total)"
+    ],
+    "score": {
+      "Som": 87,
+      "Conforto": 84,
+      "Autonomia": 76,
+      "Custo-Benefício": 70,
+      "Build": 90
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Call Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+10",
+    "ml": "https://lista.mercadolivre.com.br/jabra-elite-10",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 301,
+    "name": "Jabra Elite 10 (1ª geração)",
+    "brand": "Jabra",
+    "price": 1499,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+27h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Advanced ANC II)",
+      "Microfone": "6 mics",
+      "IPX": "IP57",
+      "Peso": "6.0g/fone",
+      "Codec": "SBC, AAC, aptX Lossless"
+    },
+    "pros": [
+      "aptX Lossless — qualidade CD",
+      "IP57",
+      "ANC Advanced II",
+      "6 mics chamadas líder",
+      "Multiponto 3 dispositivos"
+    ],
+    "cons": [
+      "Foco em produtividade mais que música",
+      "Sem LDAC",
+      "Autonomia curta (33h total)"
+    ],
+    "score": {
+      "Som": 86,
+      "Conforto": 84,
+      "Autonomia": 74,
+      "Custo-Benefício": 72,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Call Quality"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+10+gen+1",
+    "ml": "https://lista.mercadolivre.com.br/jabra-elite-10-gen1",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 302,
+    "name": "Jabra Elite 8 Active",
+    "brand": "Jabra",
+    "price": 1299,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "6 mics",
+      "IPX": "IP68",
+      "Peso": "6.5g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "IP68 — imersão em água até 1m",
+      "ANC adaptativo",
+      "6 mics",
+      "aptX Adaptive",
+      "Ganchos seguros para esporte"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "32h total",
+      "Design esportivo não é discreto",
+      "Preço elevado"
+    ],
+    "score": {
+      "Som": 84,
+      "Conforto": 80,
+      "Autonomia": 76,
+      "Custo-Benefício": 70,
+      "Build": 90
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+8+Active",
+    "ml": "https://lista.mercadolivre.com.br/jabra-elite-8-active",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 304,
+    "name": "Jabra Evolve2 Buds",
+    "brand": "Jabra",
+    "price": 1299,
+    "tier": "premium",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "8h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "6 mics",
+      "IPX": "IPX5",
+      "Peso": "6.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Melhor microfone profissional",
+      "ANC eficaz escritório",
+      "6 mics por fone",
+      "IPX5",
+      "Multiponto 3 dispositivos",
+      "Certificado Teams/Zoom"
+    ],
+    "cons": [
+      "Foco em produtividade não música",
+      "Preço elevado",
+      "Sem LDAC",
+      "32h total"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 84,
+      "Autonomia": 78,
+      "Custo-Benefício": 68,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "9HO5EBNL5jY",
+      "OscAzMBxT7E"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Call Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jabra+Evolve2+Buds",
+    "ml": "https://lista.mercadolivre.com.br/jabra-evolve2-buds",
+    "official": "https://www.jabra.com.br"
+  },
+  {
+    "id": 310,
+    "name": "Philips TAH8506",
+    "brand": "Philips",
+    "price": 799,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "60h sem ANC/30h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (Pro+)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "248g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "60h sem ANC",
+      "ANC Pro+",
+      "aptX",
+      "App Philips Headphones",
+      "Design premium"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "BT 5.0",
+      "App básico"
+    ],
+    "score": {
+      "Som": 82,
+      "Conforto": 80,
+      "Autonomia": 94,
+      "Custo-Benefício": 76,
+      "Build": 78
+    },
+    "youtubeIds": [
+      "cQBKbp8ZBQI",
+      "mFQGkWDvVvI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAH8506",
+    "ml": "https://lista.mercadolivre.com.br/philips-tah8506",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 311,
+    "name": "Philips TAH5205",
+    "brand": "Philips",
+    "price": 399,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "29h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "197g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "29h de autonomia",
+      "Leve 197g",
+      "Dobrável",
+      "Preço acessível",
+      "Design elegante"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.0"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 76,
+      "Autonomia": 82,
+      "Custo-Benefício": 80,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "cQBKbp8ZBQI",
+      "mFQGkWDvVvI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAH5205",
+    "ml": "https://lista.mercadolivre.com.br/philips-tah5205",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 312,
+    "name": "Philips TAH1205",
+    "brand": "Philips",
+    "price": 129,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "32mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "15h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "148g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Preço ~R$129",
+      "Carga 15min=3h",
+      "Leve e dobrável",
+      "Top vendas Amazon BR"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Build plástico básico",
+      "Autonomia curta 15h"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 68,
+      "Autonomia": 70,
+      "Custo-Benefício": 86,
+      "Build": 55
+    },
+    "youtubeIds": [
+      "cQBKbp8ZBQI",
+      "mFQGkWDvVvI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAH1205",
+    "ml": "https://lista.mercadolivre.com.br/philips-tah1205",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 313,
+    "name": "Philips TAT3217",
+    "brand": "Philips",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "4g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Leve 4g",
+      "30h total",
+      "IPX4",
+      "BT 5.3",
+      "Carga 15min=1h"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Driver 6mm"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 72,
+      "Autonomia": 78,
+      "Custo-Benefício": 82,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "cQBKbp8ZBQI",
+      "mFQGkWDvVvI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAT3217",
+    "ml": "https://lista.mercadolivre.com.br/philips-tat3217",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 314,
+    "name": "Philips TAT2000",
+    "brand": "Philips",
+    "price": 149,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+22h case",
+      "Recarga": "1h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "3.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "3.8g — ultraleve",
+      "28h total",
+      "IPX4",
+      "BT 5.3",
+      "Design ear-clip open-fit"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Autonomia básica"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 74,
+      "Autonomia": 74,
+      "Custo-Benefício": 80,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "t6kqGQ-wYT8",
+      "xP3OdKLW4LA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philips+TAT2000",
+    "ml": "https://lista.mercadolivre.com.br/philips-tat2000",
+    "official": "https://www.philips.com.br"
+  },
+  {
+    "id": 320,
+    "name": "Shokz OpenRun Pro 2",
+    "brand": "Shokz",
+    "price": 1999,
+    "tier": "premium",
+    "type": "Condução Óssea",
+    "specs": {
+      "Driver": "Condução óssea 10ª geração + DualPitch",
+      "Bluetooth": "5.3",
+      "Autonomia": "12h",
+      "Recarga": "1h/5min=1.5h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "2 mics com cVc",
+      "IPX": "IP55",
+      "Peso": "30g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Tecnologia DualPitch — graves 10% mais intensos",
+      "12h de autonomia — melhor da linha",
+      "Ultraleve 30g",
+      "Ideal para corrida/ciclismo",
+      "Segurança total — ouve ambiente"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Graves fracos vs TWS",
+      "Preço elevado",
+      "Não para ambientes ruidosos"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 94,
+      "Autonomia": 84,
+      "Custo-Benefício": 68,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Running Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Shokz+OpenRun+Pro+2",
+    "ml": "https://lista.mercadolivre.com.br/shokz-openrun-pro-2",
+    "official": "https://shokz.com"
+  },
+  {
+    "id": 321,
+    "name": "Shokz OpenRun Pro",
+    "brand": "Shokz",
+    "price": 1649,
+    "tier": "premium",
+    "type": "Condução Óssea",
+    "specs": {
+      "Driver": "Condução óssea 9ª geração TurboPitch",
+      "Bluetooth": "5.1",
+      "Autonomia": "10h",
+      "Recarga": "1h/5min=1.5h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "2 mics",
+      "IPX": "IP55",
+      "Peso": "29g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Tecnologia TurboPitch — melhor som da linha anterior",
+      "10h autonomia",
+      "Ultraleve 29g",
+      "IP55",
+      "Ideal para atletas"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Geração anterior ao Pro 2",
+      "Não para ambientes ruidosos"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 92,
+      "Autonomia": 82,
+      "Custo-Benefício": 72,
+      "Build": 86
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Shokz+OpenRun+Pro",
+    "ml": "https://lista.mercadolivre.com.br/shokz-openrun-pro",
+    "official": "https://shokz.com"
+  },
+  {
+    "id": 322,
+    "name": "Shokz OpenRun",
+    "brand": "Shokz",
+    "price": 1499,
+    "tier": "premium",
+    "type": "Condução Óssea",
+    "specs": {
+      "Driver": "Condução óssea 8ª geração PremiumPitch 2.0",
+      "Bluetooth": "5.1",
+      "Autonomia": "8h",
+      "Recarga": "1h/10min=1.5h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "2 mics",
+      "IPX": "IP67",
+      "Peso": "26g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP67 — mais resistente à água",
+      "Ultraleve 26g",
+      "Modelo mais vendido da Shokz",
+      "Carregamento magnético",
+      "Custo-benefício na linha"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "8h — menor que o Pro",
+      "Som menos potente que o Pro"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 92,
+      "Autonomia": 76,
+      "Custo-Benefício": 74,
+      "Build": 84
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Pro"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Shokz+OpenRun",
+    "ml": "https://lista.mercadolivre.com.br/shokz-openrun",
+    "official": "https://shokz.com"
+  },
+  {
+    "id": 323,
+    "name": "Shokz OpenFit Air",
+    "brand": "Shokz",
+    "price": 1449,
+    "tier": "premium",
+    "type": "Open-ear",
+    "specs": {
+      "Driver": "10mm open-ear DirectPitch",
+      "Bluetooth": "5.2",
+      "Autonomia": "7h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "2 mics",
+      "IPX": "IPX5",
+      "Peso": "8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Formato TWS open-ear — ouvido livre",
+      "8g por fone — ultracompacto",
+      "28h total com case",
+      "Confortável sem ponteira",
+      "Ideal para longas jornadas"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Graves fracos open-ear",
+      "Preço elevado para TWS sem ANC"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 90,
+      "Autonomia": 80,
+      "Custo-Benefício": 68,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Shokz+OpenFit+Air",
+    "ml": "https://lista.mercadolivre.com.br/shokz-openfit-air",
+    "official": "https://shokz.com"
+  },
+  {
+    "id": 330,
+    "name": "Haylou S35 ANC",
+    "brand": "HAYLOU",
+    "price": 349,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "60h sem ANC/40h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (-43dB)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "240g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "60h sem ANC por preço acessível",
+      "ANC -43dB funcional",
+      "Dobrável",
+      "Custo-benefício forte"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App básico",
+      "Build plástico",
+      "ANC intermediário"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 76,
+      "Autonomia": 95,
+      "Custo-Benefício": 84,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+S35+ANC",
+    "ml": "https://lista.mercadolivre.com.br/haylou-s35-anc",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 331,
+    "name": "Haylou S30 Pro",
+    "brand": "HAYLOU",
+    "price": 266,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.4",
+      "Autonomia": "80h sem ANC/50h ANC",
+      "Recarga": "2h/10min=5h",
+      "ANC": "Sim (híbrido, -43dB)",
+      "Microfone": "Sim + boom removível",
+      "Dobrável": "Sim",
+      "Peso": "260g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "80h sem ANC — recorde na faixa",
+      "Microfone boom removível — dual-use",
+      "BT 5.4",
+      "Carregamento rápido",
+      "ANC híbrido"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Build plástico básico",
+      "ANC intermediário",
+      "Microfone boom não é studio"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 76,
+      "Autonomia": 98,
+      "Custo-Benefício": 88,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Mic Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+S30+Pro",
+    "ml": "https://lista.mercadolivre.com.br/haylou-s30-pro",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 332,
+    "name": "Haylou S30",
+    "brand": "HAYLOU",
+    "price": 249,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "80h sem ANC/50h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (-43dB)",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "250g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "80h sem ANC — excepcional para o preço",
+      "ANC funcional",
+      "Custo-benefício único",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Sem microfone boom (diferença do Pro)",
+      "Build plástico",
+      "ANC intermediário"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 74,
+      "Autonomia": 98,
+      "Custo-Benefício": 90,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+S30",
+    "ml": "https://lista.mercadolivre.com.br/haylou-s30",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 333,
+    "name": "Haylou PurFree BC01",
+    "brand": "HAYLOU",
+    "price": 449,
+    "tier": "mid",
+    "type": "Condução Óssea",
+    "specs": {
+      "Driver": "Condução óssea IP67",
+      "Bluetooth": "5.2",
+      "Autonomia": "8h",
+      "Recarga": "1h",
+      "ANC": "Não (open-ear)",
+      "Microfone": "2 mics cVc 8.0",
+      "IPX": "IP67",
+      "Peso": "28g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "IP67 resistência à água",
+      "aptX",
+      "8h autonomia",
+      "28g ultraleve",
+      "Ideal para corrida com segurança"
+    ],
+    "cons": [
+      "Sem ANC por design",
+      "Graves fracos",
+      "Marca menos conhecida que Shokz"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 88,
+      "Autonomia": 78,
+      "Custo-Benefício": 80,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Running Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+PurFree+BC01",
+    "ml": "https://lista.mercadolivre.com.br/haylou-purfree-bc01",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 334,
+    "name": "Haylou W1",
+    "brand": "HAYLOU",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "7.2mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim",
+      "Microfone": "4 mics cVc 8.0",
+      "IPX": "IPX4",
+      "Peso": "5g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "aptX Adaptive por R$399",
+      "Chip Qualcomm",
+      "4 mics cVc 8.0",
+      "ANC funcional",
+      "Som de alta qualidade"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App básico",
+      "30h total",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 76,
+      "Autonomia": 76,
+      "Custo-Benefício": 82,
+      "Build": 70
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+W1",
+    "ml": "https://lista.mercadolivre.com.br/haylou-w1",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 335,
+    "name": "Haylou GT7 Neo",
+    "brand": "HAYLOU",
+    "price": 99,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6.5h+22h case",
+      "Recarga": "1h",
+      "ANC": "Não",
+      "Microfone": "ENC IA",
+      "IPX": "IPX4",
+      "Peso": "3.9g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "~R$99",
+      "3.9g — muito leve",
+      "ENC IA em chamadas",
+      "28.5h total",
+      "IPX4"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Driver 8mm",
+      "App básico"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 72,
+      "Autonomia": 78,
+      "Custo-Benefício": 88,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "4oN3EbGnmB4",
+      "M_RJ7WPJLDI"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Haylou+GT7+Neo",
+    "ml": "https://lista.mercadolivre.com.br/haylou-gt7-neo",
+    "official": "https://www.haylou.com"
+  },
+  {
+    "id": 340,
+    "name": "Baseus H1i Bowie",
+    "brand": "Baseus",
+    "price": 269,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "100h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "220g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "100h sem ANC — recorde absoluto",
+      "ANC incluído",
+      "Leve 220g",
+      "Dobrável",
+      "Custo-benefício excelente"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "App mínimo",
+      "Driver 10mm"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 74,
+      "Autonomia": 99,
+      "Custo-Benefício": 88,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "nJxHRNcG2QI",
+      "4vLpIv_gFao"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Baseus+H1i+Bowie",
+    "ml": "https://lista.mercadolivre.com.br/baseus-h1i-bowie",
+    "official": "https://www.baseus.com"
+  },
+  {
+    "id": 341,
+    "name": "Baseus Bowie MA10 Pro",
+    "brand": "Baseus",
+    "price": 469,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm+BA",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+32h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (4 mics)",
+      "Microfone": "4 mics",
+      "IPX": "IPX4",
+      "Peso": "5.8g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "LDAC + driver híbrido",
+      "ANC 4 mics",
+      "41h total",
+      "Ajuste ergonômico"
+    ],
+    "cons": [
+      "App básico",
+      "Build intermediário",
+      "IPX4 apenas",
+      "Marca menos conhecida"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 84,
+      "Custo-Benefício": 82,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "nJxHRNcG2QI",
+      "4vLpIv_gFao"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Baseus+MA10+Pro",
+    "ml": "https://lista.mercadolivre.com.br/baseus-ma10-pro",
+    "official": "https://www.baseus.com"
+  },
+  {
+    "id": 342,
+    "name": "Baseus Bowie M2s",
+    "brand": "Baseus",
+    "price": 149,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "ENC",
+      "IPX": "IPX5",
+      "Peso": "4.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Som neutro e equilibrado",
+      "IPX5",
+      "35h total",
+      "Leve 4.5g",
+      "Custo-benefício sólido"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "App inexistente",
+      "Marca pouco conhecida"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 74,
+      "Autonomia": 80,
+      "Custo-Benefício": 86,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "nJxHRNcG2QI",
+      "4vLpIv_gFao"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Baseus+Bowie+M2s",
+    "ml": "https://lista.mercadolivre.com.br/baseus-bowie-m2s",
+    "official": "https://www.baseus.com"
+  },
+  {
+    "id": 343,
+    "name": "Baseus Bowie EZ10",
+    "brand": "Baseus",
+    "price": 79,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+24h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "ENC",
+      "IPX": "IPX5",
+      "Peso": "3.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "~R$79 — muito barato",
+      "IPX5",
+      "30h total",
+      "3.8g ultraleve",
+      "BT 5.3"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade sonora básica",
+      "App inexistente"
+    ],
+    "score": {
+      "Som": 58,
+      "Conforto": 68,
+      "Autonomia": 74,
+      "Custo-Benefício": 88,
+      "Build": 54
+    },
+    "youtubeIds": [
+      "nJxHRNcG2QI",
+      "4vLpIv_gFao"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Baseus+EZ10",
+    "ml": "https://lista.mercadolivre.com.br/baseus-ez10",
+    "official": "https://www.baseus.com"
+  },
+  {
+    "id": 350,
+    "name": "Lenovo LP7",
+    "brand": "Lenovo",
+    "price": 119,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "5h+25h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Preço baixo",
+      "IPX4",
+      "30h total",
+      "Design clássico",
+      "Marca conhecida"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.0",
+      "Qualidade básica"
+    ],
+    "score": {
+      "Som": 58,
+      "Conforto": 66,
+      "Autonomia": 74,
+      "Custo-Benefício": 84,
+      "Build": 54
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Lenovo+LP7",
+    "ml": "https://lista.mercadolivre.com.br/lenovo-lp7",
+    "official": "https://www.lenovo.com/br"
+  },
+  {
+    "id": 351,
+    "name": "Lenovo XT88",
+    "brand": "Lenovo",
+    "price": 159,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX5",
+      "Peso": "5.1g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IPX5",
+      "35h total",
+      "BT 5.3",
+      "Som equilibrado para o preço",
+      "Design compacto"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "App inexistente",
+      "Qualidade intermediária"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 70,
+      "Autonomia": 80,
+      "Custo-Benefício": 82,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Lenovo+XT88",
+    "ml": "https://lista.mercadolivre.com.br/lenovo-xt88",
+    "official": "https://www.lenovo.com/br"
+  },
+  {
+    "id": 352,
+    "name": "Lenovo XT96",
+    "brand": "Lenovo",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "13mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "7h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX5",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Driver 13mm — maior da linha",
+      "IPX5",
+      "35h total",
+      "Som com graves marcantes",
+      "Design gamer"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.1",
+      "App inexistente"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 68,
+      "Autonomia": 80,
+      "Custo-Benefício": 80,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Lenovo+XT96",
+    "ml": "https://lista.mercadolivre.com.br/lenovo-xt96",
+    "official": "https://www.lenovo.com/br"
+  },
+  {
+    "id": 353,
+    "name": "Lenovo GM2 Pro",
+    "brand": "Lenovo",
+    "price": 79,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "13mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "4h+16h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "3.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "~R$79 — muito barato",
+      "Modo gamer 60ms latência",
+      "BT 5.3",
+      "3.8g ultraleve",
+      "Design gamer atraente"
+    ],
+    "cons": [
+      "Sem ANC",
+      "20h total — curto",
+      "Sem LDAC",
+      "Qualidade sonora básica"
+    ],
+    "score": {
+      "Som": 58,
+      "Conforto": 66,
+      "Autonomia": 64,
+      "Custo-Benefício": 86,
+      "Build": 56
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Gaming Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Lenovo+GM2+Pro",
+    "ml": "https://lista.mercadolivre.com.br/lenovo-gm2-pro",
+    "official": "https://www.lenovo.com/br"
+  },
+  {
+    "id": 360,
+    "name": "Bang & Olufsen Beoplay H95",
+    "brand": "Bang & Olufsen",
+    "price": 4999,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm titânio dual",
+      "Bluetooth": "5.1",
+      "Autonomia": "38h ANC/50h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "323g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "Materiais de luxo — titânio + couro cordeiro + espuma memória",
+      "ANC adaptativo excepcional",
+      "50h sem ANC",
+      "Case em alumínio inclusa",
+      "Adaptador de avião incluso",
+      "Design icônico"
+    ],
+    "cons": [
+      "Preço altíssimo ~R$4.999",
+      "Sem LDAC",
+      "BT 5.1 — antigo para o preço",
+      "Pesado 323g"
+    ],
+    "score": {
+      "Som": 92,
+      "Conforto": 96,
+      "Autonomia": 88,
+      "Custo-Benefício": 42,
+      "Build": 99
+    },
+    "youtubeIds": [
+      "fS_0xtHxoGc",
+      "Yl_YEHX6JpY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "vs Sony XM5"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bang+Olufsen+Beoplay+H95",
+    "ml": "https://lista.mercadolivre.com.br/bang-olufsen-beoplay-h95",
+    "official": "https://www.bang-olufsen.com"
+  },
+  {
+    "id": 361,
+    "name": "Bang & Olufsen Beoplay EX",
+    "brand": "Bang & Olufsen",
+    "price": 3499,
+    "tier": "flagship",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "9.2mm titânio",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h+14h case",
+      "Recarga": "1h (wireless)",
+      "ANC": "Sim (Adaptive ANC)",
+      "Microfone": "4 mics",
+      "IPX": "IP57",
+      "Peso": "5.7g/fone",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Design em alumínio e titânio — luxo",
+      "aptX Adaptive",
+      "IP57",
+      "ANC adaptativo de alto nível",
+      "Wireless charging",
+      "Design icônico"
+    ],
+    "cons": [
+      "Preço muito elevado",
+      "20h total — curto para o preço",
+      "Sem LDAC",
+      "Marca nichada no BR"
+    ],
+    "score": {
+      "Som": 90,
+      "Conforto": 86,
+      "Autonomia": 66,
+      "Custo-Benefício": 40,
+      "Build": 98
+    },
+    "youtubeIds": [
+      "eIFE-8F5Mtg",
+      "UZi1ZzWYibs"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Design Tour"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bang+Olufsen+Beoplay+EX",
+    "ml": "https://lista.mercadolivre.com.br/bang-olufsen-beoplay-ex",
+    "official": "https://www.bang-olufsen.com"
+  },
+  {
+    "id": 362,
+    "name": "Bang & Olufsen Beoplay Portal",
+    "brand": "Bang & Olufsen",
+    "price": 3999,
+    "tier": "flagship",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "12h ANC PC/19h ANC mobile",
+      "Recarga": "3h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "8 mics",
+      "Dobrável": "Não",
+      "Peso": "339g",
+      "Codec": "SBC, AAC, aptX Adaptive"
+    },
+    "pros": [
+      "Projetado para gaming",
+      "8 mics — qualidade de comunicação",
+      "aptX Adaptive",
+      "3 modos ANC",
+      "Design premium"
+    ],
+    "cons": [
+      "Autonomia baixa (12h no modo PC)",
+      "Sem LDAC",
+      "Pesado 339g",
+      "Nichado para gaming — menos versátil"
+    ],
+    "score": {
+      "Som": 88,
+      "Conforto": 86,
+      "Autonomia": 60,
+      "Custo-Benefício": 38,
+      "Build": 96
+    },
+    "youtubeIds": [
+      "fS_0xtHxoGc",
+      "Yl_YEHX6JpY"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Gaming Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Bang+Olufsen+Beoplay+Portal",
+    "ml": "https://lista.mercadolivre.com.br/bang-olufsen-beoplay-portal",
+    "official": "https://www.bang-olufsen.com"
+  },
+  {
+    "id": 370,
+    "name": "AKG N700NC M2",
+    "brand": "AKG",
+    "price": 999,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "25h ANC/30h sem ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (Adaptativo)",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "272g",
+      "Codec": "SBC, AAC, aptX, aptX LL"
+    },
+    "pros": [
+      "ANC adaptativo eficaz",
+      "aptX LL para vídeo",
+      "Design premium dobrável",
+      "Uso com fio possível (sem bateria)",
+      "Qualidade Samsung/AKG"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "30h abaixo dos concorrentes",
+      "Marca menos visível no BR"
+    ],
+    "score": {
+      "Som": 86,
+      "Conforto": 84,
+      "Autonomia": 76,
+      "Custo-Benefício": 74,
+      "Build": 82
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AKG+N700NC+M2",
+    "ml": "https://lista.mercadolivre.com.br/akg-n700nc-m2",
+    "official": "https://www.akg.com"
+  },
+  {
+    "id": 371,
+    "name": "AKG Y600NC Wireless",
+    "brand": "AKG",
+    "price": 699,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "36h sem ANC/16h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "228g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "36h sem ANC",
+      "ANC incluído",
+      "aptX",
+      "Leve 228g",
+      "Dobrável"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC 16h — limitado",
+      "BT 5.0"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 80,
+      "Autonomia": 82,
+      "Custo-Benefício": 74,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AKG+Y600NC",
+    "ml": "https://lista.mercadolivre.com.br/akg-y600nc",
+    "official": "https://www.akg.com"
+  },
+  {
+    "id": 372,
+    "name": "AKG Y500 Wireless",
+    "brand": "AKG",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "4.2",
+      "Autonomia": "33h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "208g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "33h de autonomia",
+      "aptX",
+      "Leve 208g",
+      "Dobrável",
+      "Design colorido atraente"
+    ],
+    "cons": [
+      "Sem ANC",
+      "BT 4.2 — desatualizado",
+      "Sem LDAC"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 78,
+      "Autonomia": 84,
+      "Custo-Benefício": 74,
+      "Build": 70
+    },
+    "youtubeIds": [
+      "cFAFdq2kf1c",
+      "x7dX3KJvqNk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AKG+Y500+Wireless",
+    "ml": "https://lista.mercadolivre.com.br/akg-y500-wireless",
+    "official": "https://www.akg.com"
+  },
+  {
+    "id": 373,
+    "name": "AKG N400NC TWS",
+    "brand": "AKG",
+    "price": 599,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "5h+20h case",
+      "Recarga": "1h",
+      "ANC": "Sim",
+      "Microfone": "3 mics",
+      "IPX": "IPX5",
+      "Peso": "7g/fone",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "ANC eficiente",
+      "aptX",
+      "IPX5",
+      "Qualidade Samsung/AKG",
+      "Design minimalista"
+    ],
+    "cons": [
+      "25h total — curto",
+      "BT 5.0",
+      "Sem LDAC",
+      "Driver 8mm"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 68,
+      "Custo-Benefício": 72,
+      "Build": 76
+    },
+    "youtubeIds": [
+      "VXXJ67TsDuQ",
+      "mj9zTGhzF10"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=AKG+N400NC",
+    "ml": "https://lista.mercadolivre.com.br/akg-n400nc",
+    "official": "https://www.akg.com"
+  },
+  {
+    "id": 400,
+    "name": "Skullcandy Crusher ANC 2",
+    "brand": "Skullcandy",
+    "price": 799,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "50h",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "290g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Graves sensoriais ajustáveis — recurso único",
+      "50h de autonomia",
+      "ANC incluído",
+      "Design vibrante",
+      "Fio removível"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "Graves sensoriais geram vibração incômoda para alguns",
+      "Build plástico"
+    ],
+    "score": {
+      "Som": 78,
+      "Conforto": 76,
+      "Autonomia": 90,
+      "Custo-Benefício": 76,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Bass Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Crusher+ANC+2",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-crusher-anc-2",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 401,
+    "name": "Skullcandy Crusher Evo",
+    "brand": "Skullcandy",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "40h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "275g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Graves sensoriais ajustáveis — exclusivo da marca",
+      "40h de autonomia",
+      "Design marcante",
+      "Fio removível",
+      "Preço acessível"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.0",
+      "Graves sensoriais dividem opiniões"
+    ],
+    "score": {
+      "Som": 74,
+      "Conforto": 74,
+      "Autonomia": 88,
+      "Custo-Benefício": 78,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Bass Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Crusher+Evo",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-crusher-evo",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 402,
+    "name": "Skullcandy Hesh ANC",
+    "brand": "Skullcandy",
+    "price": 399,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "22h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "231g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC por preço acessível",
+      "Leve 231g",
+      "Dobrável",
+      "Design discreto",
+      "Modo ambiente"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "22h com ANC — abaixo da concorrência",
+      "BT 5.0"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 78,
+      "Autonomia": 72,
+      "Custo-Benefício": 76,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Hesh+ANC",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-hesh-anc",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 403,
+    "name": "Skullcandy Hesh Evo",
+    "brand": "Skullcandy",
+    "price": 299,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "36h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "220g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "36h de autonomia",
+      "Leve 220g",
+      "Dobrável",
+      "Preço acessível",
+      "Fio removível"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.0",
+      "Qualidade intermediária"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 74,
+      "Autonomia": 85,
+      "Custo-Benefício": 78,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Hesh+Evo",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-hesh-evo",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 404,
+    "name": "Skullcandy Push Active",
+    "brand": "Skullcandy",
+    "price": 299,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "6h+28h case",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IP55",
+      "Peso": "6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP55",
+      "34h total",
+      "Design esportivo",
+      "Ganchos de orelha seguros",
+      "BT 5.2"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade sonora básica"
+    ],
+    "score": {
+      "Som": 64,
+      "Conforto": 70,
+      "Autonomia": 80,
+      "Custo-Benefício": 74,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Push+Active",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-push-active",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 405,
+    "name": "Skullcandy Grind ANC",
+    "brand": "Skullcandy",
+    "price": 349,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.2",
+      "Autonomia": "10h+30h case",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "10h por carga — excelente",
+      "ANC incluído",
+      "40h total",
+      "IPX4",
+      "Carga 10min=2h"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "IPX4 apenas"
+    ],
+    "score": {
+      "Som": 68,
+      "Conforto": 72,
+      "Autonomia": 88,
+      "Custo-Benefício": 76,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "XNRWh-fkDpk",
+      "OA_1pkrBx5g"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Skullcandy+Grind+ANC",
+    "ml": "https://lista.mercadolivre.com.br/skullcandy-grind-anc",
+    "official": "https://skullcandy.com.br"
+  },
+  {
+    "id": 411,
+    "name": "Motorola Moto Buds 500",
+    "brand": "Motorola",
+    "price": 399,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "11mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+12h case",
+      "Recarga": "1h",
+      "ANC": "Sim (40dB)",
+      "Microfone": "3 mics",
+      "IPX": "IP54",
+      "Peso": "5.2g/fone",
+      "Codec": "SBC, AAC, LDAC"
+    },
+    "pros": [
+      "ANC 40dB",
+      "LDAC",
+      "IP54",
+      "18h total",
+      "Design elegante"
+    ],
+    "cons": [
+      "18h total — muito curto",
+      "App Motorola básico",
+      "Autonomia fraca"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 76,
+      "Autonomia": 58,
+      "Custo-Benefício": 72,
+      "Build": 72
+    },
+    "youtubeIds": [
+      "NMWYt5n4eZY",
+      "bH7_Qz3zVkk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Motorola+Moto+Buds+500",
+    "ml": "https://lista.mercadolivre.com.br/motorola-moto-buds-500",
+    "official": "https://www.motorola.com.br"
+  },
+  {
+    "id": 412,
+    "name": "Motorola Moto Buds",
+    "brand": "Motorola",
+    "price": 299,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+35h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (ANC básico)",
+      "Microfone": "2 mics",
+      "IPX": "IP54",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "42h total — excelente",
+      "ANC incluído",
+      "IP54",
+      "BT 5.3",
+      "Design compacto"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "App Motorola simples"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 74,
+      "Autonomia": 88,
+      "Custo-Benefício": 80,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "NMWYt5n4eZY",
+      "bH7_Qz3zVkk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Motorola+Moto+Buds",
+    "ml": "https://lista.mercadolivre.com.br/motorola-moto-buds",
+    "official": "https://www.motorola.com.br"
+  },
+  {
+    "id": 413,
+    "name": "Motorola Moto Buds Loop",
+    "brand": "Motorola",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "8h+32h case",
+      "Recarga": "1h",
+      "ANC": "Não",
+      "Microfone": "2 mics ENC",
+      "IPX": "IP55",
+      "Peso": "4.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "40h total",
+      "IP55",
+      "8h por carga",
+      "BT 5.3",
+      "Preço acessível"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "App Motorola simples"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 72,
+      "Autonomia": 86,
+      "Custo-Benefício": 80,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "NMWYt5n4eZY",
+      "bH7_Qz3zVkk"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Motorola+Moto+Buds+Loop",
+    "ml": "https://lista.mercadolivre.com.br/motorola-moto-buds-loop",
+    "official": "https://www.motorola.com.br"
+  },
+  {
+    "id": 420,
+    "name": "Multilaser PH390",
+    "brand": "Multilaser",
+    "price": 149,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "20h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "200g",
+      "Codec": "SBC"
+    },
+    "pros": [
+      "Preço muito acessível",
+      "Dobrável",
+      "Marca brasileira com suporte local",
+      "Design colorido"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade sonora básica",
+      "BT 5.1",
+      "Autonomia limitada"
+    ],
+    "score": {
+      "Som": 54,
+      "Conforto": 62,
+      "Autonomia": 70,
+      "Custo-Benefício": 76,
+      "Build": 52
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Multilaser+PH390",
+    "ml": "https://lista.mercadolivre.com.br/multilaser-ph390",
+    "official": "https://www.multilaser.com.br"
+  },
+  {
+    "id": 421,
+    "name": "Multilaser PH352",
+    "brand": "Multilaser",
+    "price": 99,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "4h+16h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "5g/fone",
+      "Codec": "SBC"
+    },
+    "pros": [
+      "~R$99",
+      "IPX4",
+      "Marca brasileira",
+      "20h total",
+      "Controle por toque"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "BT 5.0",
+      "Qualidade básica",
+      "Autonomia curta"
+    ],
+    "score": {
+      "Som": 50,
+      "Conforto": 62,
+      "Autonomia": 60,
+      "Custo-Benefício": 72,
+      "Build": 48
+    },
+    "youtubeIds": [
+      "RLSO5RxIjkk",
+      "hd0xlhHJGh4"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Multilaser+PH352",
+    "ml": "https://lista.mercadolivre.com.br/multilaser-ph352",
+    "official": "https://www.multilaser.com.br"
+  },
+  {
+    "id": 425,
+    "name": "Philco PFO02BTG",
+    "brand": "Philco",
+    "price": 129,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "20h",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "190g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "Preço acessível",
+      "Dobrável",
+      "Marca brasileira conhecida",
+      "Garantia local"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade sonora básica",
+      "Autonomia limitada"
+    ],
+    "score": {
+      "Som": 54,
+      "Conforto": 64,
+      "Autonomia": 68,
+      "Custo-Benefício": 72,
+      "Build": 52
+    },
+    "youtubeIds": [
+      "t6kqGQ-wYT8",
+      "xP3OdKLW4LA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philco+fone+bluetooth",
+    "ml": "https://lista.mercadolivre.com.br/philco-fone-bluetooth",
+    "official": "https://www.philco.com.br"
+  },
+  {
+    "id": 426,
+    "name": "Philco PFO04BTRG",
+    "brand": "Philco",
+    "price": 99,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "4h+16h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX4",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC"
+    },
+    "pros": [
+      "~R$99",
+      "IPX4",
+      "Marca brasileira",
+      "Controle por toque",
+      "20h total"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade básica",
+      "BT 5.0"
+    ],
+    "score": {
+      "Som": 50,
+      "Conforto": 60,
+      "Autonomia": 60,
+      "Custo-Benefício": 70,
+      "Build": 46
+    },
+    "youtubeIds": [
+      "t6kqGQ-wYT8",
+      "xP3OdKLW4LA"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Philco+fone+tws",
+    "ml": "https://lista.mercadolivre.com.br/philco-fone-tws",
+    "official": "https://www.philco.com.br"
+  },
+  {
+    "id": 430,
+    "name": "Jaybird Vista 2",
+    "brand": "Jaybird",
+    "price": 799,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "8h+24h case",
+      "Recarga": "2h",
+      "ANC": "Sim (SurroundSense)",
+      "Microfone": "3 mics beamforming",
+      "IPX": "IP68",
+      "Peso": "6.2g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IP68 — imersão total em água",
+      "ANC SurroundSense inteligente",
+      "3 mics beamforming",
+      "32h total",
+      "Foco em esportes premium"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "BT 5.0",
+      "Preço elevado para as specs",
+      "Driver 6mm"
+    ],
+    "score": {
+      "Som": 76,
+      "Conforto": 80,
+      "Autonomia": 78,
+      "Custo-Benefício": 68,
+      "Build": 88
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jaybird+Vista+2",
+    "ml": "https://lista.mercadolivre.com.br/jaybird-vista-2",
+    "official": "https://www.jaybirdsport.com"
+  },
+  {
+    "id": 431,
+    "name": "Jaybird Run XT",
+    "brand": "Jaybird",
+    "price": 499,
+    "tier": "mid",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "6mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "4h+8h case",
+      "Recarga": "2h",
+      "ANC": "Não",
+      "Microfone": "2 mics",
+      "IPX": "IPX7",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IPX7",
+      "Encaixe esportivo seguro",
+      "Design minimalista",
+      "App Jaybird com EQ"
+    ],
+    "cons": [
+      "Autonomia muito curta (12h total)",
+      "Sem ANC",
+      "Sem LDAC",
+      "Driver 6mm"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 76,
+      "Autonomia": 52,
+      "Custo-Benefício": 64,
+      "Build": 80
+    },
+    "youtubeIds": [
+      "yBDHUW3L5Ec",
+      "rJPa5VCKW9s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Sports Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Jaybird+Run+XT",
+    "ml": "https://lista.mercadolivre.com.br/jaybird-run-xt",
+    "official": "https://www.jaybirdsport.com"
+  },
+  {
+    "id": 435,
+    "name": "Tozo T10",
+    "brand": "Tozo",
+    "price": 129,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "8mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "6h+18h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "Sim",
+      "IPX": "IPX8",
+      "Peso": "5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "IPX8 — imersão em água até 1m",
+      "Preço muito acessível",
+      "24h total",
+      "BT 5.3",
+      "Custo-benefício via importação"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Qualidade sonora básica",
+      "Suporte limitado no BR"
+    ],
+    "score": {
+      "Som": 60,
+      "Conforto": 66,
+      "Autonomia": 72,
+      "Custo-Benefício": 80,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Tozo+T10",
+    "ml": "https://lista.mercadolivre.com.br/tozo-t10",
+    "official": "https://www.tozostore.com"
+  },
+  {
+    "id": 436,
+    "name": "Tozo A3",
+    "brand": "Tozo",
+    "price": 159,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "5.5h+22h case",
+      "Recarga": "1h",
+      "ANC": "Não",
+      "Microfone": "ENC",
+      "IPX": "IPX5",
+      "Peso": "3.6g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "3.6g — ultracompacto",
+      "27.5h total",
+      "BT 5.3",
+      "ENC chamadas",
+      "Design minimalista"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "Autonomia curta por carga",
+      "Suporte limitado no BR"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 74,
+      "Autonomia": 74,
+      "Custo-Benefício": 78,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Tozo+A3",
+    "ml": "https://lista.mercadolivre.com.br/tozo-a3",
+    "official": "https://www.tozostore.com"
+  },
+  {
+    "id": 437,
+    "name": "Tozo HT2",
+    "brand": "Tozo",
+    "price": 249,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "60h sem ANC/35h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "Sim",
+      "Dobrável": "Sim",
+      "Peso": "240g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "60h sem ANC por preço baixo",
+      "ANC incluído",
+      "Dobrável",
+      "BT 5.3",
+      "Custo-benefício forte"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "Suporte limitado no BR",
+      "App inexistente"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 72,
+      "Autonomia": 92,
+      "Custo-Benefício": 82,
+      "Build": 60
+    },
+    "youtubeIds": [
+      "FQNBA5RO0HI",
+      "7cJVB9bS5FM"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Tozo+HT2",
+    "ml": "https://lista.mercadolivre.com.br/tozo-ht2",
+    "official": "https://www.tozostore.com"
+  },
+  {
+    "id": 440,
+    "name": "Ugreen HiTune Max5C",
+    "brand": "Ugreen",
+    "price": 499,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "70h sem ANC/40h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "260g",
+      "Codec": "SBC, AAC, LDAC, aptX Adaptive"
+    },
+    "pros": [
+      "LDAC + aptX Adaptive — raro na faixa",
+      "70h sem ANC",
+      "ANC funcional",
+      "4 mics",
+      "Custo-benefício muito forte"
+    ],
+    "cons": [
+      "Marca ainda crescendo no BR",
+      "App básico",
+      "ANC intermediário",
+      "Build não premium"
+    ],
+    "score": {
+      "Som": 80,
+      "Conforto": 78,
+      "Autonomia": 96,
+      "Custo-Benefício": 88,
+      "Build": 68
+    },
+    "youtubeIds": [
+      "5UBCnOC3tMk",
+      "KFAvUz1J5Ro"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "LDAC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Ugreen+HiTune+Max5",
+    "ml": "https://lista.mercadolivre.com.br/ugreen-hitune-max5",
+    "official": "https://www.ugreen.com"
+  },
+  {
+    "id": 441,
+    "name": "Ugreen HiTune T3",
+    "brand": "Ugreen",
+    "price": 199,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+28h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (35dB)",
+      "Microfone": "4 mics",
+      "IPX": "IPX5",
+      "Peso": "4.8g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "ANC 35dB por R$199",
+      "4 mics",
+      "IPX5",
+      "35h total",
+      "BT 5.3"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "ANC básico",
+      "App mínimo",
+      "Marca crescendo no BR"
+    ],
+    "score": {
+      "Som": 66,
+      "Conforto": 70,
+      "Autonomia": 82,
+      "Custo-Benefício": 84,
+      "Build": 62
+    },
+    "youtubeIds": [
+      "U8oiEjDWBOI",
+      "gznaBuYZW-s"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Ugreen+HiTune+T3",
+    "ml": "https://lista.mercadolivre.com.br/ugreen-hitune-t3",
+    "official": "https://www.ugreen.com"
+  },
+  {
+    "id": 445,
+    "name": "Tronsmart Apollo Bold",
+    "brand": "Tronsmart",
+    "price": 299,
+    "tier": "budget",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.0",
+      "Autonomia": "40h sem ANC/25h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "265g",
+      "Codec": "SBC, AAC, aptX"
+    },
+    "pros": [
+      "ANC 3 modos",
+      "aptX",
+      "40h sem ANC",
+      "4 mics",
+      "Design premium para o preço"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "BT 5.0",
+      "App básico",
+      "Build intermediário"
+    ],
+    "score": {
+      "Som": 72,
+      "Conforto": 74,
+      "Autonomia": 86,
+      "Custo-Benefício": 80,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "OWE3R4cQc9Q",
+      "KmNaFdBQpqQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Tronsmart+Apollo+Bold",
+    "ml": "https://lista.mercadolivre.com.br/tronsmart-apollo-bold",
+    "official": "https://www.tronsmart.com"
+  },
+  {
+    "id": 446,
+    "name": "Tronsmart Onyx Pure",
+    "brand": "Tronsmart",
+    "price": 149,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "7h+30h case",
+      "Recarga": "1.5h",
+      "ANC": "Não",
+      "Microfone": "4 mics ENC",
+      "IPX": "IPX5",
+      "Peso": "4.9g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "37h total",
+      "IPX5",
+      "4 mics ENC",
+      "BT 5.3",
+      "Custo-benefício ok"
+    ],
+    "cons": [
+      "Sem ANC",
+      "Sem LDAC",
+      "App básico",
+      "Marca nichada no BR"
+    ],
+    "score": {
+      "Som": 62,
+      "Conforto": 68,
+      "Autonomia": 82,
+      "Custo-Benefício": 80,
+      "Build": 58
+    },
+    "youtubeIds": [
+      "nJxHRNcG2QI",
+      "4vLpIv_gFao"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "Unboxing"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=Tronsmart+Onyx+Pure",
+    "ml": "https://lista.mercadolivre.com.br/tronsmart-onyx-pure",
+    "official": "https://www.tronsmart.com"
+  },
+  {
+    "id": 450,
+    "name": "JLab JBuds ANC 3",
+    "brand": "JLab",
+    "price": 299,
+    "tier": "budget",
+    "type": "In-ear (TWS)",
+    "specs": {
+      "Driver": "10mm",
+      "Bluetooth": "5.3",
+      "Autonomia": "9h+43h case",
+      "Recarga": "1.5h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "4 mics",
+      "IPX": "IP55",
+      "Peso": "5.5g/fone",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "52h total — excepcional",
+      "ANC 3 modos",
+      "IP55",
+      "4 mics",
+      "9h por carga",
+      "Custo-benefício forte"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "App básico",
+      "Marca pouco conhecida no BR",
+      "ANC intermediário"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 72,
+      "Autonomia": 96,
+      "Custo-Benefício": 84,
+      "Build": 66
+    },
+    "youtubeIds": [
+      "yOHRIqOJCNE",
+      "VZi2FxDa_aQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JLab+JBuds+ANC+3",
+    "ml": "https://lista.mercadolivre.com.br/jlab-jbuds-anc",
+    "official": "https://www.jlab.com"
+  },
+  {
+    "id": 451,
+    "name": "JLab Studio Pro ANC",
+    "brand": "JLab",
+    "price": 399,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "5.1",
+      "Autonomia": "50h sem ANC/25h ANC",
+      "Recarga": "2h",
+      "ANC": "Sim (3 modos)",
+      "Microfone": "4 mics",
+      "Dobrável": "Sim",
+      "Peso": "270g",
+      "Codec": "SBC, AAC"
+    },
+    "pros": [
+      "50h sem ANC",
+      "ANC 3 modos",
+      "4 mics",
+      "Dobrável",
+      "Custo-benefício ok"
+    ],
+    "cons": [
+      "Sem LDAC",
+      "BT 5.1",
+      "App básico",
+      "ANC intermediário"
+    ],
+    "score": {
+      "Som": 70,
+      "Conforto": 74,
+      "Autonomia": 90,
+      "Custo-Benefício": 78,
+      "Build": 64
+    },
+    "youtubeIds": [
+      "OWE3R4cQc9Q",
+      "KmNaFdBQpqQ"
+    ],
+    "youtubeLabels": [
+      "Review",
+      "ANC Test"
+    ],
+    "amazon": "https://www.amazon.com.br/s?k=JLab+Studio+Pro+ANC",
+    "ml": "https://lista.mercadolivre.com.br/jlab-studio-pro-anc",
+    "official": "https://www.jlab.com"
+  }
+]

@@ -1,0 +1,345 @@
+{
+  "checkedAt": "2026-10-16",
+  "identities": [
+    {
+      "keptId": 32,
+      "retiredId": 18,
+      "source": "https://www.soundcore.com/products/space-q45-a3040011",
+      "keptName": "Soundcore Space Q45",
+      "retired": {
+        "id": 18,
+        "name": "Soundcore Q45 (Anker)",
+        "brand": "Anker",
+        "price": 299,
+        "tier": "mid",
+        "type": "Over-ear",
+        "specs": {
+          "Driver": "40mm Hi-Res",
+          "Bluetooth": "5.3",
+          "Autonomia": "50h/40h ANC",
+          "Recarga": "4h",
+          "ANC": "Sim (adaptativo)",
+          "Microfone": "2 mics",
+          "Dobrável": "Sim",
+          "Peso": "253g",
+          "Codec": "SBC, AAC, LDAC"
+        },
+        "pros": [
+          "ANC adaptativo eficiente",
+          "LDAC Hi-Res",
+          "EQ 22 bandas",
+          "Confortável sessões longas"
+        ],
+        "cons": [
+          "ANC abaixo do premium",
+          "Transparência artificial",
+          "Build intermediário"
+        ],
+        "score": {
+          "Som": 80,
+          "Conforto": 82,
+          "Autonomia": 88,
+          "Custo-Benefício": 85,
+          "Build": 70
+        },
+        "youtubeIds": [
+          "OWE3R4cQc9Q",
+          "KmNaFdBQpqQ"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "ANC Test"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Anker+Soundcore+Q45",
+        "ml": "https://lista.mercadolivre.com.br/anker-soundcore-q45",
+        "official": "https://www.soundcore.com"
+      },
+      "reason": "Mesmo modelo com nome abreviado; variante e formato coincidem."
+    },
+    {
+      "keptId": 32,
+      "retiredId": 242,
+      "source": "https://www.soundcore.com/products/space-q45-a3040011",
+      "keptName": "Soundcore Space Q45",
+      "retired": {
+        "id": 242,
+        "name": "Soundcore Q45",
+        "brand": "Anker",
+        "price": 299,
+        "tier": "mid",
+        "type": "Over-ear",
+        "specs": {
+          "Driver": "40mm Hi-Res",
+          "Bluetooth": "5.3",
+          "Autonomia": "50h sem ANC/40h ANC",
+          "Recarga": "4h",
+          "ANC": "Sim (adaptativo)",
+          "Microfone": "2 mics",
+          "Dobrável": "Sim",
+          "Peso": "253g",
+          "Codec": "SBC, AAC, LDAC"
+        },
+        "pros": [
+          "ANC adaptativo eficiente",
+          "LDAC Hi-Res",
+          "EQ 22 bandas",
+          "50h sem ANC",
+          "Confortável em sessões longas"
+        ],
+        "cons": [
+          "ANC abaixo do premium",
+          "Transparência artificial",
+          "Sem certificação IP"
+        ],
+        "score": {
+          "Som": 80,
+          "Conforto": 82,
+          "Autonomia": 88,
+          "Custo-Benefício": 85,
+          "Build": 70
+        },
+        "youtubeIds": [
+          "OWE3R4cQc9Q",
+          "KmNaFdBQpqQ"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "ANC Test"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Soundcore+Q45",
+        "ml": "https://lista.mercadolivre.com.br/soundcore-q45",
+        "official": "https://www.soundcore.com"
+      },
+      "reason": "Mesmo modelo com nome abreviado; variante e formato coincidem."
+    },
+    {
+      "keptId": 52,
+      "retiredId": 250,
+      "source": "https://au.sennheiser-hearing.com/products/momentum-4-wireless",
+      "keptName": "Sennheiser Momentum 4",
+      "retired": {
+        "id": 250,
+        "name": "Sennheiser Momentum 4 Wireless",
+        "brand": "Sennheiser",
+        "price": 1699,
+        "tier": "premium",
+        "type": "Over-ear",
+        "specs": {
+          "Driver": "42mm",
+          "Bluetooth": "5.2",
+          "Autonomia": "60h ANC",
+          "Recarga": "2h/5min=4h",
+          "ANC": "Sim (Adaptive ANC)",
+          "Microfone": "4 mics TrueVoice",
+          "Dobrável": "Sim",
+          "Peso": "293g",
+          "Codec": "SBC, AAC, aptX Adaptive, LC3"
+        },
+        "pros": [
+          "60h com ANC — recorde entre premium",
+          "aptX Adaptive+LC3/LE Audio",
+          "Qualidade audiófila Sennheiser",
+          "ANC adaptativo eficiente",
+          "Dobrável",
+          "Carga rápida"
+        ],
+        "cons": [
+          "Sem LDAC",
+          "Preço premium",
+          "Pesado 293g"
+        ],
+        "score": {
+          "Som": 93,
+          "Conforto": 86,
+          "Autonomia": 96,
+          "Custo-Benefício": 74,
+          "Build": 84
+        },
+        "youtubeIds": [
+          "DKbvUMHEFOg",
+          "VTx8EWIqpNE"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "vs Sony XM5"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Sennheiser+Momentum+4",
+        "ml": "https://lista.mercadolivre.com.br/sennheiser-momentum-4",
+        "official": "https://br.sennheiser-hearing.com"
+      },
+      "reason": "Mesmo modelo com nome abreviado; variante e formato coincidem."
+    },
+    {
+      "keptId": 3,
+      "retiredId": 312,
+      "source": "https://www.documents.philips.com/assets/20240819/744a8d37570142c0ae62b1d1010d6358.pdf",
+      "keptName": "Philips TAH1205BK",
+      "retired": {
+        "id": 312,
+        "name": "Philips TAH1205",
+        "brand": "Philips",
+        "price": 129,
+        "tier": "budget",
+        "type": "Over-ear",
+        "specs": {
+          "Driver": "32mm",
+          "Bluetooth": "5.0",
+          "Autonomia": "15h",
+          "Recarga": "2h",
+          "ANC": "Não",
+          "Microfone": "Sim",
+          "Dobrável": "Sim",
+          "Peso": "148g",
+          "Codec": "SBC, AAC"
+        },
+        "pros": [
+          "Preço ~R$129",
+          "Carga 15min=3h",
+          "Leve e dobrável",
+          "Top vendas Amazon BR"
+        ],
+        "cons": [
+          "Sem ANC",
+          "Build plástico básico",
+          "Autonomia curta 15h"
+        ],
+        "score": {
+          "Som": 62,
+          "Conforto": 68,
+          "Autonomia": 70,
+          "Custo-Benefício": 86,
+          "Build": 55
+        },
+        "youtubeIds": [
+          "cQBKbp8ZBQI",
+          "mFQGkWDvVvI"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "Unboxing"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Philips+TAH1205",
+        "ml": "https://lista.mercadolivre.com.br/philips-tah1205",
+        "official": "https://www.philips.com.br"
+      },
+      "reason": "Mesmo produto/variante nos registros; nome anterior preservado como alias.",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "keptId": 49,
+      "retiredId": 301,
+      "source": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10",
+      "keptName": "Jabra Elite 10",
+      "retired": {
+        "id": 301,
+        "name": "Jabra Elite 10 (1ª geração)",
+        "brand": "Jabra",
+        "price": 1499,
+        "tier": "premium",
+        "type": "In-ear (TWS)",
+        "specs": {
+          "Driver": "10mm",
+          "Bluetooth": "5.3",
+          "Autonomia": "6h+27h case",
+          "Recarga": "1.5h",
+          "ANC": "Sim (Advanced ANC II)",
+          "Microfone": "6 mics",
+          "IPX": "IP57",
+          "Peso": "6.0g/fone",
+          "Codec": "SBC, AAC, aptX Lossless"
+        },
+        "pros": [
+          "aptX Lossless — qualidade CD",
+          "IP57",
+          "ANC Advanced II",
+          "6 mics chamadas líder",
+          "Multiponto 3 dispositivos"
+        ],
+        "cons": [
+          "Foco em produtividade mais que música",
+          "Sem LDAC",
+          "Autonomia curta (33h total)"
+        ],
+        "score": {
+          "Som": 86,
+          "Conforto": 84,
+          "Autonomia": 74,
+          "Custo-Benefício": 72,
+          "Build": 88
+        },
+        "youtubeIds": [
+          "yBDHUW3L5Ec",
+          "rJPa5VCKW9s"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "Call Quality"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Jabra+Elite+10+gen+1",
+        "ml": "https://lista.mercadolivre.com.br/jabra-elite-10-gen1",
+        "official": "https://www.jabra.com.br"
+      },
+      "reason": "Mesmo produto/variante nos registros; nome anterior preservado como alias.",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "keptId": 58,
+      "retiredId": 155,
+      "source": "https://support.apple.com/en-au/121205",
+      "keptName": "Apple AirPods Max",
+      "retired": {
+        "id": 155,
+        "name": "Apple AirPods Max (1ª geração)",
+        "brand": "Apple",
+        "price": 3299,
+        "tier": "flagship",
+        "type": "Over-ear",
+        "specs": {
+          "Driver": "40mm Apple exclusivo",
+          "Bluetooth": "5.0",
+          "Autonomia": "20h",
+          "Recarga": "USB-C",
+          "ANC": "Sim (Adaptive+Spatial Audio)",
+          "Microfone": "9 mics",
+          "Dobrável": "Não",
+          "Peso": "384g",
+          "Codec": "AAC (Apple Lossless)"
+        },
+        "pros": [
+          "Integração perfeita Apple",
+          "Spatial Audio e Dolby Atmos",
+          "Build premium alumínio/aço",
+          "ANC classe mundial",
+          "Design icônico"
+        ],
+        "cons": [
+          "Muito caro",
+          "Sem suporte Android",
+          "Pesado 384g",
+          "20h autonomia fraca",
+          "Inferior ao Max 2"
+        ],
+        "score": {
+          "Som": 94,
+          "Conforto": 86,
+          "Autonomia": 70,
+          "Custo-Benefício": 52,
+          "Build": 98
+        },
+        "youtubeIds": [
+          "oY9xFBJ-56w",
+          "SMGBJ1PWZKU"
+        ],
+        "youtubeLabels": [
+          "Review",
+          "Vale a pena?"
+        ],
+        "amazon": "https://www.amazon.com.br/s?k=Apple+AirPods+Max",
+        "ml": "https://lista.mercadolivre.com.br/apple-airpods-max",
+        "official": "https://www.apple.com/br"
+      },
+      "reason": "Mesmo produto/variante nos registros; nome anterior preservado como alias.",
+      "checkedAt": "2026-10-16"
+    }
+  ]
+}
