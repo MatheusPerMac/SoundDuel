@@ -1,5 +1,5 @@
 // ============================================================
-//  SOUNDDUEL — CONFIGURAÇÕES
+//  COMPARE FONES — CONFIGURAÇÕES
 //  Edite este arquivo para ativar afiliados e Google Ads
 // ============================================================
 const CONFIG = {
@@ -49,9 +49,9 @@ const CONFIG = {
   //  SEO & SITE
   // ----------------------------------------------------------
   site: {
-    name:        "SoundDuel",
+    name:        "Compare Fones",
     tagline:     "Compare Fones Bluetooth",
     description: "Compare fones Bluetooth lado a lado. Specs técnicas, prós, contras, vídeos e links de compra.",
-    url:         "https://seusite.com.br",
+    url:         "https://www.comparefones.com.br",
   }
 };

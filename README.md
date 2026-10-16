@@ -1,112 +1,46 @@
-# SoundDuel — Comparador de Fones Bluetooth
+# Compare Fones
 
-## Estrutura do projeto
+Comparador estático de fones Bluetooth: https://www.comparefones.com.br/.
 
-```
-soundduel/
-├── index.html       ← Site principal (não precisa editar)
-├── config.js        ← Configurações de AdSense e afiliados
-├── headphones.js    ← Banco de dados dos fones
-└── README.md        ← Este arquivo
-```
+## Estrutura atual
 
----
+- `index.html`: interface, estilos, busca e comparação de 2 a 4 fones.
+- `headphones.js`: catálogo único usado pelo site; 166 registros após a consolidação de nomes e aliases.
+- `catalog-review.js`: fontes por campo, pendências e regras para exibição de preços/especificações.
+- `metodologia.html`: informações editoriais. A página de privacidade foi retirada a pedido do usuário.
+- `prices.js` e `scripts/price-record.mjs`: cotações com origem, condições e expiração; processo em `docs/PROCESSO-PRECOS.md`.
+- `config.js`: configuração de anúncios e afiliados (desativados).
+- `guia/`: índice e três artigos; links `/?q=Nome+do+Fone` selecionam um modelo.
+- `vercel.json`: rotas dos artigos e redirecionamentos da cópia histórica `/soundduel/`.
+- `docs/catalogo-reconciliacao.json`: preserva os 37 pares de cadastros repetidos e os campos divergentes.
+- `scripts/serve.mjs`: servidor local de inspeção; simula as rotas e remove analytics somente das respostas locais.
+- `tests/integrity.test.mjs`: validação de catálogo, sintaxe, links, sitemap e rotas.
 
-## Como publicar no GitHub + Vercel
+## Desenvolvimento
 
-### 1. Criar repositório no GitHub
-1. Acesse github.com e crie uma conta (se não tiver)
-2. Clique em **New repository**
-3. Nome sugerido: `soundduel`
-4. Deixe **Public**, clique em **Create repository**
-5. Faça upload dos 3 arquivos: `index.html`, `config.js`, `headphones.js`
+Requer Node.js 22 ou superior. Não há dependências para instalar.
 
-### 2. Publicar na Vercel
-1. Acesse vercel.com e clique em **Sign up with GitHub**
-2. Clique em **Add New Project**
-3. Selecione o repositório `soundduel`
-4. Clique em **Deploy** — pronto, site no ar em ~30 segundos!
-
-Toda vez que você atualizar um arquivo no GitHub, a Vercel republica automaticamente.
-
----
-
-## Como adicionar novos fones (com ajuda do Claude)
-
-Basta pedir ao Claude:
-> "Adicione o [Nome do Fone] da [Marca] com preço R$XXX ao banco de dados do SoundDuel"
-
-O Claude vai gerar o bloco do novo fone. Você copia e cola no arquivo `headphones.js`,
-antes da linha `];` no final, e faz upload no GitHub.
-
-**Exemplo de como pedir:**
-> "Adicione o Sony WF-1000XM6 com preço R$1899, tier premium, TWS, com ANC avançado,
->  LDAC, BT 5.3, autonomia 12h+36h case. IDs de vídeo do YouTube: ABC123, DEF456"
-
----
-
-## Como ativar os links de afiliado
-
-Abra o arquivo `config.js` e edite:
-
-### Amazon
-```js
-affiliate: {
-  amazon: {
-    enabled: true,          // mude para true
-    tag: "seusite-20",      // sua tag de afiliado Amazon
-  },
-```
-Cadastro: https://afiliados.amazon.com.br
-
-### Mercado Livre
-```js
-  mercadolivre: {
-    enabled: true,
-    trackingPrefix: "https://mercadolivre.com/afiliados/SEUTAG?url=",
-  },
-```
-Cadastro: https://developers.mercadolivre.com.br/pt_br/afiliados
-
-### Shopee
-```js
-  shopee: {
-    enabled: true,
-    trackingPrefix: "https://s.shopee.com.br/SEULINK?url=",
-  },
-```
-Cadastro: https://affiliate.shopee.com.br
-
----
-
-## Como ativar o Google AdSense
-
-1. Crie uma conta em https://adsense.google.com
-2. Adicione seu site e aguarde aprovação (pode levar alguns dias)
-3. Após aprovado, copie seu **Publisher ID** (formato: ca-pub-XXXXXXXXXXXXXXXX)
-4. No painel do AdSense, crie 3 blocos de anúncio e copie os **Slot IDs**
-5. Abra `config.js` e preencha:
-
-```js
-adsense: {
-  enabled: true,                          // mude para true
-  publisherId: "ca-pub-1234567890123456", // seu Publisher ID
-  slots: {
-    banner_top:    "1234567890",          // Slot do banner do topo
-    banner_middle: "0987654321",          // Slot do banner do meio
-    banner_bottom: "1122334455",          // Slot do banner do rodapé
-  }
-},
+```sh
+node --test tests/*.test.mjs
+node scripts/serve.mjs
 ```
 
-6. Faça upload do `config.js` atualizado no GitHub → Vercel republica automaticamente.
+Abra http://127.0.0.1:4173/. A variável `PORT` permite outra porta.
 
----
+## Dados e comparação
 
-## Dicas para crescer o site
+O site compara informações previamente cadastradas; não consulta preços ao vivo e não usa IA nesta versão. Os contadores de marcas e modelos são calculados do catálogo. Os links de lojas e YouTube abrem buscas externas.
 
-- **SEO**: Adicione mais fones populares que as pessoas buscam no Google
-- **Redes sociais**: Compartilhe comparações como "Sony XM5 vs Bose QC45"
-- **Conteúdo**: Crie páginas de categoria (ex: melhores fones com ANC até R$500)
-- **Preços**: Atualize os preços periodicamente para manter relevância
+A consolidação inicial manteve o primeiro registro de cada identidade marca/modelo, preservando seu ID. O relatório de reconciliação continua como evidência histórica imutável. Correções posteriores com fontes ficam em `docs/correcoes-verificadas.json`; os campos pendentes são ocultados como “Em revisão”. Uma fonte confirma apenas os campos expressamente listados. Não juntar características incompatíveis entre variantes.
 
+Notas e listas de prós/contras sem método documentado permanecem preservadas nos arquivos, mas foram suspensas da interface. Preços antigos sem data de coleta não são mais exibidos. Sem cotação válida em `prices.js`, mostramos “Consultar loja”.
+
+Para cadastrar um fone, adicione uma entrada única ao array `HEADPHONES`, preserve o padrão de campos e execute os testes. O arquivo `soundduel/headphones.js` é histórico e não deve ser atualizado para alimentar o site principal.
+
+## Publicação
+
+A Vercel usa a raiz deste repositório e acompanha `main`. Leia `INSTRUCOES_DEPLOY.md`. Nunca confundir alteração local com correção publicada.
+
+## Pendências
+
+Todos os 166 registros foram examinados; 3 aliases adicionais foram unificados, deixando 163 registros únicos, dos quais 152 disponíveis e 11 suspensos. Foram confirmados 906 campos e 575 ficaram em revisão; 11 fichas têm todos os campos técnicos confirmados. Relatório: `docs/CONFERENCIA-CATALOGO.md`. As variantes de AirPods 4 foram separadas; divergências da própria fonte oficial do QCY H3 permanecem documentadas. A página de privacidade e o pedido de contato foram retirados conforme orientação do usuário. IA e monetização seguem desativadas. Estado por produto em `docs/estado-catalogo.json`.

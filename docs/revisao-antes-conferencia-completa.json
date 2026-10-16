@@ -1,0 +1,365 @@
+{
+  "2": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": [
+      {
+        "title": "Sony — codecs do WH-CH520",
+        "url": "https://helpguide.sony.net/mdr/2958/v1/en/contents/TP1000776911.html",
+        "fields": [
+          "Codec"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ]
+  },
+  "4": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": []
+  },
+  "5": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "6": {
+    "pendingSpecs": [
+      "Driver",
+      "Autonomia",
+      "ANC",
+      "IPX"
+    ],
+    "priceConflict": true,
+    "sources": []
+  },
+  "7": {
+    "pendingSpecs": [
+      "Autonomia",
+      "ANC"
+    ],
+    "priceConflict": true,
+    "sources": []
+  },
+  "8": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "9": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "10": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "13": {
+    "pendingSpecs": [
+      "Driver",
+      "Autonomia",
+      "Recarga",
+      "ANC",
+      "Microfone"
+    ],
+    "priceConflict": true,
+    "sources": []
+  },
+  "14": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "16": {
+    "pendingSpecs": [
+      "Autonomia"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "17": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": [
+      {
+        "title": "Edifier — W820NB original",
+        "url": "https://www.edifier.com/us/p/over-ear-on-ear-headphones/W820NB",
+        "fields": [
+          "Codec",
+          "Peso",
+          "Recarga",
+          "Autonomia",
+          "Bluetooth",
+          "Driver",
+          "ANC"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ]
+  },
+  "19": {
+    "pendingSpecs": [
+      "Driver",
+      "Autonomia",
+      "ANC",
+      "Microfone",
+      "IPX",
+      "Bluetooth",
+      "Recarga"
+    ],
+    "priceConflict": true,
+    "sources": [
+      {
+        "title": "QCY — tabela oficial, coluna H3",
+        "url": "https://www.qcy.com/pages/compare",
+        "fields": [
+          "Codec"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "note": "A própria página oficial diverge: título e imagens citam 60h/35h, tabela cita 55h/30h; Bluetooth 5.4 no texto e 5.3 na imagem. Esses campos aguardam confirmação da revisão de hardware.",
+    "evidence": [
+      {
+        "url": "https://www.qcy.com/products/qcy-h3-wireless-headphone",
+        "checkedAt": "2026-10-16",
+        "status": "conflicting-source"
+      }
+    ]
+  },
+  "20": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "21": {
+    "pendingSpecs": [
+      "Driver",
+      "ANC"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "23": {
+    "pendingSpecs": [
+      "ANC"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "26": {
+    "pendingSpecs": [
+      "Autonomia",
+      "Recarga",
+      "ANC",
+      "Microfone"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "27": {
+    "pendingSpecs": [
+      "Autonomia"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "29": {
+    "pendingSpecs": [
+      "Autonomia"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "30": {
+    "pendingSpecs": [
+      "Driver",
+      "Bluetooth",
+      "Autonomia"
+    ],
+    "priceConflict": true,
+    "sources": []
+  },
+  "31": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "32": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": [
+      {
+        "title": "Soundcore — Space Q45 (A3040)",
+        "url": "https://www.soundcore.com/products/space-q45-a3040011",
+        "fields": [
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "ANC",
+          "Microfone",
+          "Peso",
+          "Dobrável",
+          "Recarga"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "note": "Q45 e Q45 (Anker) são aliases deste cadastro. Autonomia declarada pelo fabricante."
+  },
+  "34": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "35": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "37": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "38": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "40": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": []
+  },
+  "41": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "42": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": [
+      {
+        "title": "Sony — codecs do WH-1000XM5",
+        "url": "https://helpguide.sony.net/mdr/wh1000xm5/v1/en/contents/TP1000534600.html",
+        "fields": [
+          "Codec"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ]
+  },
+  "43": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": []
+  },
+  "44": {
+    "pendingSpecs": [],
+    "priceConflict": true,
+    "sources": []
+  },
+  "45": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "48": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "50": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "51": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": []
+  },
+  "52": {
+    "pendingSpecs": [
+      "Peso",
+      "Dobrável"
+    ],
+    "priceConflict": false,
+    "sources": [
+      {
+        "title": "Sennheiser — Momentum 4 Wireless",
+        "url": "https://au.sennheiser-hearing.com/products/momentum-4-wireless",
+        "fields": [
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "ANC",
+          "Microfone",
+          "Codec"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "note": "Peso pendente: a página oficial consultada apresenta 14,5g, incompatível com o cadastro. Não adotamos esse valor sem confirmação."
+  },
+  "54": {
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": true,
+    "sources": [
+      {
+        "title": "Apple — AirPods 4 sem ANC",
+        "url": "https://support.apple.com/pt-br/121203",
+        "fields": [
+          "Driver",
+          "Chip",
+          "Bluetooth",
+          "Microfone",
+          "IPX",
+          "Peso",
+          "Autonomia",
+          "Recarga",
+          "ANC"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "note": "Variante sem ANC. A autonomia com estojo é o total, não uma carga adicional."
+  },
+  "55": {
+    "pendingSpecs": [
+      "Driver"
+    ],
+    "priceConflict": false,
+    "sources": []
+  },
+  "152": {
+    "pendingSpecs": [],
+    "priceConflict": false,
+    "sources": [
+      {
+        "title": "Apple — AirPods 4 com ANC",
+        "url": "https://support.apple.com/pt-br/121204",
+        "fields": [
+          "Driver",
+          "Chip",
+          "Bluetooth",
+          "Microfone",
+          "IPX",
+          "Peso",
+          "Autonomia",
+          "Recarga",
+          "ANC"
+        ],
+        "checkedAt": "2026-10-16"
+      }
+    ],
+    "note": "Variante com ANC. A autonomia com estojo é o total. Condições de teste na fonte."
+  }
+}

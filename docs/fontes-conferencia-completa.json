@@ -1,0 +1,2013 @@
+{
+  "checkedAt": "2026-10-16",
+  "findings": [
+    {
+      "id": 1,
+      "url": "https://www.jbl.com.pe/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw90add9e3/pdfs/JBL_Tune_510BT_SpecSheet_Spanish.pdf",
+      "values": {
+        "Driver": "32mm dinâmico",
+        "Peso": "160g"
+      }
+    },
+    {
+      "id": 2,
+      "url": "https://www.sony.com/electronics/support/wireless-headphones-bluetooth-headphones/wh-ch520/specifications",
+      "values": {
+        "Bluetooth": "5.2",
+        "Recarga": "Aproximadamente 3h",
+        "Codec": "SBC, AAC"
+      },
+      "note": "A página regional contém conversão incoerente de unidade do driver; não usar esse valor."
+    },
+    {
+      "id": 3,
+      "url": "https://www.documents.philips.com/assets/20231209/4bd0bdca378941ccb70eb0d3004b94a0.pdf",
+      "values": {
+        "Driver": "32mm",
+        "Bluetooth": "5.1",
+        "Microfone": "Sim (integrado)",
+        "Autonomia": "Até 15h",
+        "Dobrável": "Sim (plano)"
+      }
+    },
+    {
+      "id": 4,
+      "url": "https://www.qcy.com/products/qcy-t13-wireless-earphones",
+      "values": {
+        "Driver": "7,2mm dinâmico",
+        "Bluetooth": "5.1",
+        "Microfone": "4 microfones",
+        "ANC": "Não (ENC apenas em chamadas)",
+        "Autonomia": "Até 8h; até 40h no total com estojo",
+        "Recarga": "Aprox. 1,5h; 5min para até 1h",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 5,
+      "url": "https://global.jbl.com/wireless-earbuds/WAVE-BUDS.html",
+      "values": {
+        "Driver": "8mm",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 8h; até 32h no total com estojo",
+        "Recarga": "Até 2h; 10min para até 2h",
+        "Microfone": "Sim (integrado)",
+        "IPX": "IP54 nos fones / IPX2 no estojo"
+      },
+      "note": "O peso e a versão Bluetooth diferem entre PDFs regionais; conferir SKU antes de adotar."
+    },
+    {
+      "id": 6,
+      "url": "https://www.mi.com/latin-es/product/redmi-buds-5-pro/",
+      "values": {
+        "Driver": "11mm dinâmico + 10mm piezoelétrico",
+        "ANC": "Sim (até 52dB declarados; dependente da frequência)",
+        "Autonomia": "Até 38h no total com estojo (condições na fonte)",
+        "Codec": "LDAC confirmado; demais codecs não conferidos"
+      }
+    },
+    {
+      "id": 7,
+      "url": "https://www.qcy.com/products/qcy-ht05?spec=1328",
+      "values": {
+        "Driver": "10mm dinâmico",
+        "Bluetooth": "5.2",
+        "Microfone": "6 microfones",
+        "ANC": "Sim (híbrido)",
+        "Recarga": "Aprox. 1,5h; 5min para até 1h"
+      },
+      "note": "A própria fonte diverge: título 30h e tabela 32h com estojo; autonomia não homologada."
+    },
+    {
+      "id": 8,
+      "url": "https://www.mi.com/uk/product/redmi-buds-6-active/specs/",
+      "values": {
+        "Bluetooth": "5.4",
+        "Peso": "4g por fone",
+        "Recarga": "90min fones / 120min estojo",
+        "Autonomia": "Até 6h; até 30h no total com estojo"
+      }
+    },
+    {
+      "id": 9,
+      "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1944198e/pdfs/JBL%20Tune%20720BT_%20Specsheet_EN.pdf",
+      "values": {
+        "Driver": "40mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 76h",
+        "Recarga": "2h; 5min para até 3h",
+        "Microfone": "Sim",
+        "Dobrável": "Sim",
+        "Peso": "220g"
+      }
+    },
+    {
+      "id": 10,
+      "url": "https://www.edifier.com/int/global/p/over-ear-on-ear-headphones/w800bt-plus",
+      "values": {
+        "Driver": "40mm dinâmico",
+        "Bluetooth": "5.1",
+        "Autonomia": "Até 55h",
+        "Recarga": "Aproximadamente 2,5h",
+        "Microfone": "Sim (cVc 8.0 para chamadas)",
+        "Peso": "195g",
+        "Codec": "SBC, aptX"
+      }
+    },
+    {
+      "id": 13,
+      "url": "https://www.soundcore.com/au/products/soundcore-p30i",
+      "values": {
+        "Driver": "10mm",
+        "Autonomia": "Até 10h; até 45h no total com estojo (ANC desligado)",
+        "ANC": "Sim (adaptativo; até 42dB declarados)",
+        "Recarga": "10min para até 2h",
+        "IPX": "IP54"
+      }
+    },
+    {
+      "id": 13,
+      "url": "https://www.soundcore.com/products/p20i?variant=44448262488254",
+      "values": {
+        "Microfone": "4 microfones",
+        "Bluetooth": "5.4"
+      }
+    },
+    {
+      "id": 14,
+      "url": "https://www.edifier.com/us/p/true-wireless-earbuds/tws1-pro-2",
+      "values": {
+        "Driver": "10mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 4h com ANC / 6h sem; total com estojo: 16h / 24h",
+        "Recarga": "2h fones / 1,5h estojo",
+        "ANC": "Sim (até 42dB declarados)",
+        "Microfone": "Sim (redução de ruído em chamadas)",
+        "IPX": "IP54",
+        "Codec": "SBC"
+      },
+      "note": "44,5g é peso líquido do conjunto na fonte, não peso de cada fone; não comparar com peso unitário."
+    },
+    {
+      "id": 31,
+      "url": "https://www.soundcore.com/products/p20i?variant=44448262488254",
+      "values": {
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 10h; até 50h no total com estojo",
+        "Recarga": "10min para até 4h",
+        "Microfone": "6 microfones",
+        "IPX": "IPX4",
+        "ANC": "Sim (adaptativo)"
+      }
+    },
+    {
+      "id": 16,
+      "url": "https://www.samsung.com/latin/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaalta/",
+      "values": {
+        "Driver": "1 via personalizado (diâmetro não informado)",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 6h com ANC / 8,5h sem; total com estojo: 21h / 30h",
+        "ANC": "Sim",
+        "Microfone": "6 no conjunto (3 por fone)",
+        "Peso": "5,6g por fone",
+        "Codec": "SBC, AAC, Samsung Scalable Codec"
+      }
+    },
+    {
+      "id": 20,
+      "url": "https://www.mi.com/global/product/xiaomi-buds-5/specs/",
+      "values": {
+        "Bluetooth": "5.4",
+        "Peso": "4,2g por fone (±0,2g)",
+        "Recarga": "USB-C (tempo não informado na ficha)"
+      }
+    },
+    {
+      "id": 20,
+      "url": "https://www.mi.com/global/support/faq/details/KA-232740/",
+      "values": {
+        "Codec": "SBC, AAC, aptX, aptX Adaptive (Lossless), LC3"
+      }
+    },
+    {
+      "id": 22,
+      "url": "https://checkout.nothing.tech/products/ear-a?variant=42217837822091",
+      "values": {
+        "Driver": "11mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 5,5h com ANC / 9,5h sem; total com estojo: 24,5h / 42,5h",
+        "Recarga": "USB-C; 10min para até 10h com estojo (ANC desligado)",
+        "ANC": "Sim (adaptativo; até 45dB declarados)",
+        "Microfone": "3 por fone",
+        "IPX": "IP54 fones / IPX2 estojo",
+        "Peso": "4,8g por fone",
+        "Codec": "SBC, AAC, LDAC"
+      }
+    },
+    {
+      "id": 206,
+      "url": "https://www.mi.com/in/product/redmi-buds-5/specs/",
+      "values": {
+        "Driver": "12,4mm dinâmico",
+        "Bluetooth": "5.3",
+        "Microfone": "2 por fone",
+        "Codec": "SBC, AAC",
+        "ANC": "Sim (híbrido; até 46dB declarados)",
+        "IPX": "IP54",
+        "Recarga": "1h45; 10min para até 4h com estojo",
+        "Autonomia": "Até 8h com ANC / 10h sem; total com estojo: 30h / 38h",
+        "Peso": "10,25g o par (ficha Índia)"
+      },
+      "note": "Ficha regional M2316E1; condições: AAC, volume 50%. Não generalizar para variante com SKU distinto."
+    },
+    {
+      "id": 21,
+      "url": "https://www.mi.com/global/product/redmi-buds-6-pro/specs/",
+      "values": {
+        "Bluetooth": "5.3",
+        "Peso": "Aprox. 5,2g por fone"
+      }
+    },
+    {
+      "id": 21,
+      "url": "https://www.mi.com/global/support/faq/details/KA-516443/",
+      "values": {
+        "Codec": "SBC, AAC, LDAC",
+        "ANC": "Sim (adaptativo; até 55dB declarados)",
+        "Recarga": "Aprox. 1h fones / 2h conjunto"
+      }
+    },
+    {
+      "id": 24,
+      "url": "https://consumer.huawei.com/co/offer/live-streaming-offer/freebuds5i/specs//",
+      "values": {
+        "Driver": "10mm dinâmico",
+        "Bluetooth": "5.2",
+        "Peso": "Aprox. 4,9g por fone",
+        "ANC": "Sim",
+        "Autonomia": "Até 6h com ANC / 7,5h sem; total com estojo: 18,5h / 28h",
+        "Recarga": "Aprox. 60min fones / 110min estojo"
+      }
+    },
+    {
+      "id": 24,
+      "url": "https://consumer.huawei.com/hk/headphones/freebuds5i/specs/",
+      "values": {
+        "IPX": "IP54 nos fones; estojo sem proteção"
+      }
+    },
+    {
+      "id": 25,
+      "url": "https://checkout-es.nothing.tech/products/ear-2",
+      "values": {
+        "Driver": "11,6mm dinâmico",
+        "Codec": "SBC, AAC, LHDC 5.0",
+        "ANC": "Sim (adaptativo; até 40dB declarados)",
+        "Peso": "4,5g por fone",
+        "Autonomia": "Até 4h com ANC / 6,3h sem; total com estojo: 22,5h / 36h",
+        "Recarga": "USB-C ou Qi; 10min para até 8h com estojo (ANC desligado)",
+        "IPX": "IP54 fones / IP55 estojo",
+        "Microfone": "3 por fone"
+      }
+    },
+    {
+      "id": 23,
+      "url": "https://www.soundcore.com/products/liberty-4-nc-a3947z11",
+      "values": {
+        "Driver": "11mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 10h; até 50h no total com estojo",
+        "Recarga": "10min para até 4h",
+        "ANC": "Sim (Adaptive ANC 2.0)",
+        "Microfone": "6 microfones",
+        "IPX": "IPX4",
+        "Peso": "5,2g por fone",
+        "Codec": "LDAC confirmado; demais codecs não conferidos"
+      }
+    },
+    {
+      "id": 26,
+      "url": "https://www.motorola.com/we/en/moto-buds-plus",
+      "values": {
+        "Driver": "Dois drivers dinâmicos (diâmetros não informados nesta fonte)",
+        "Autonomia": "Até 8h; até 38h no total com estojo",
+        "ANC": "Sim (Sound by Bose)",
+        "Recarga": "Com suporte a carregamento sem fio"
+      }
+    },
+    {
+      "id": 27,
+      "url": "https://www.jbl.com/TUNE670NC.html",
+      "values": {
+        "Driver": "32mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 44h com ANC / 70h sem ANC",
+        "Recarga": "2h; 5min para até 3h",
+        "ANC": "Sim (adaptativo)",
+        "Microfone": "2 microfones",
+        "Dobrável": "Sim",
+        "Peso": "174g"
+      }
+    },
+    {
+      "id": 28,
+      "url": "https://global.jbl.com/over-ear-headphones/TUNE760NC-.html",
+      "values": {
+        "Driver": "40mm",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 35h com ANC / 50h sem ANC",
+        "Recarga": "2h",
+        "ANC": "Sim",
+        "Microfone": "2 microfones",
+        "Peso": "220g"
+      }
+    },
+    {
+      "id": 28,
+      "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6ea20572/pdfs/JBL_Tune_760NC_SpecSheet_Global_English.pdf",
+      "values": {
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 29,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wh-ch720n/specifications",
+      "values": {
+        "Driver": "30mm dinâmico",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 35h com ANC / 50h sem ANC",
+        "Recarga": "Aproximadamente 3,5h",
+        "Peso": "Aprox. 192g",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 30,
+      "url": "https://www.edifier.com/int/uk/p/over-ear-on-ear-headphones/w830nb",
+      "values": {
+        "Driver": "40mm dinâmico",
+        "Bluetooth": "5.4",
+        "Autonomia": "Até 54h com ANC / 94h sem ANC",
+        "Recarga": "Aproximadamente 1,5h",
+        "ANC": "Sim (híbrido; até 45dB declarados)",
+        "Microfone": "Sim (DNN para chamadas)",
+        "Peso": "Aprox. 267g"
+      },
+      "note": "Codec: ficha global lista LDAC/AAC/SBC; ficha canadense lista LDAC/SBC. AAC requer confirmação por variante."
+    },
+    {
+      "id": 30,
+      "url": "https://ca.edifier.com/products/w830nb?variant=67843040477488",
+      "values": {
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 33,
+      "url": "https://checkout-eu.nothing.tech/products/ear?variant=45027743072430",
+      "values": {
+        "Driver": "11mm dinâmico (cerâmico)",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 5,2h com ANC / 8,5h sem; total com estojo: 24h / 40,5h",
+        "Recarga": "USB-C; 10min para até 10h com estojo (ANC desligado)",
+        "ANC": "Sim (adaptativo; até 45dB declarados)",
+        "Peso": "4,62g por fone",
+        "Codec": "SBC, AAC, LDAC, LHDC 5.0"
+      }
+    },
+    {
+      "id": 34,
+      "url": "https://www.jbl.com/TUNE-BEAM.html",
+      "values": {
+        "Driver": "6mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 10h com ANC / 12h sem; até 48h totais com estojo",
+        "Recarga": "2h",
+        "ANC": "Sim",
+        "Microfone": "4 microfones",
+        "IPX": "IP54"
+      }
+    },
+    {
+      "id": 35,
+      "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-4",
+      "values": {
+        "Driver": "6mm",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 5,5h com ANC / 7h sem; total com estojo: 22h / 28h",
+        "Recarga": "Até 3,5h; 10min para até 1h",
+        "ANC": "Sim",
+        "Microfone": "4 microfones MEMS",
+        "IPX": "IP55",
+        "Peso": "4,6g por fone",
+        "Codec": "SBC, aptX"
+      }
+    },
+    {
+      "id": 36,
+      "url": "https://www.samsung.com/hk_en/news/product/samsung-wearable-devices-of-the-new-age/",
+      "values": {
+        "Driver": "2 vias (woofer + tweeter)",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 5h com ANC / 7,5h sem; total com estojo: 20h / 29h",
+        "Recarga": "Cabo ou Qi; 5min para até 1h",
+        "ANC": "Sim",
+        "Microfone": "3 por fone",
+        "Peso": "5g por fone",
+        "Codec": "SBC, AAC, Samsung Scalable"
+      }
+    },
+    {
+      "id": 37,
+      "url": "https://www.samsung.com/ca/business/audio-sound/galaxy-buds/galaxy-buds3-white-sm-r530nzwaxac/",
+      "values": {
+        "Driver": "11mm (1 via)",
+        "Bluetooth": "5.4",
+        "Autonomia": "Até 5h com ANC / 6h sem; total com estojo: 24h / 30h",
+        "ANC": "Sim (adaptativo)",
+        "Microfone": "6 no conjunto",
+        "Peso": "4,7g por fone",
+        "IPX": "IP57",
+        "Codec": "SBC, AAC, Samsung Seamless Codec, SSC-UHQ"
+      }
+    },
+    {
+      "id": 38,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wf-c700n/specifications",
+      "values": {
+        "Driver": "5mm",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 7,5h com ANC / 10h sem (por carga dos fones)",
+        "Recarga": "Aprox. 1,5h fones / 3h estojo",
+        "Peso": "Aprox. 4,6g por fone",
+        "IPX": "IPX4",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 44,
+      "url": "https://www.samsung.com/es/audio-sound/galaxy-buds/galaxy-buds2-pro-white-sm-r510nzwaphe/",
+      "values": {
+        "Driver": "2 vias coaxiais",
+        "Bluetooth": "5.3",
+        "ANC": "Sim",
+        "Microfone": "6 no conjunto",
+        "Peso": "5,5g por fone",
+        "Codec": "SBC, AAC, Samsung Seamless Codec HiFi"
+      }
+    },
+    {
+      "id": 39,
+      "url": "https://www.beatsbydre.com/us/earbuds/studio-buds-plus-wireless-noise-cancelling",
+      "values": {
+        "Autonomia": "Até 6h com ANC / 9h sem; total com estojo: 24h / 36h",
+        "Recarga": "USB-C; 5min para até 1h",
+        "ANC": "Sim",
+        "Microfone": "Sim (direcionais para voz)",
+        "IPX": "IPX4",
+        "Peso": "5g por fone"
+      },
+      "note": "Classe 1 Bluetooth não indica versão Bluetooth; diâmetro e codecs não especificados na página."
+    },
+    {
+      "id": 40,
+      "url": "https://cdn.sennheiser-hearing.com/product-documents/product-downloads/hd-450bt/Instruction%20manual%20HD%20450BT/Instruction_manual_HD_450BT.pdf",
+      "values": {
+        "Driver": "32mm dinâmico",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 30h com ANC",
+        "Recarga": "Aproximadamente 2h",
+        "ANC": "Sim",
+        "Microfone": "2 microfones omnidirecionais (beamforming)",
+        "Peso": "Aprox. 238g",
+        "Codec": "SBC, AAC, aptX, aptX Low Latency"
+      }
+    },
+    {
+      "id": 40,
+      "url": "https://global.sennheiser-hearing.com/products/hd-450bt",
+      "values": {
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 41,
+      "url": "https://www.sony.co.uk/electronics/headband-headphones/wh-1000xm4/specifications",
+      "values": {
+        "Driver": "40mm dinâmico",
+        "Resp. Freq.": "4Hz–40kHz com cabo; Bluetooth: 20Hz–20kHz / até 40kHz com LDAC",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 30h com ANC / 38h sem ANC",
+        "Recarga": "Aprox. 3h; 10min para até 5h",
+        "ANC": "Sim (processador QN1)",
+        "Microfone": "5 microfones",
+        "Dobrável": "Sim",
+        "Codec": "SBC, AAC, LDAC"
+      }
+    },
+    {
+      "id": 42,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wh-1000xm5/specifications",
+      "values": {
+        "Driver": "30mm dinâmico",
+        "Resp. Freq.": "4Hz–40kHz com cabo; Bluetooth: 20Hz–20kHz / até 40kHz com LDAC",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 30h com ANC / 40h sem ANC",
+        "Recarga": "Aproximadamente 3,5h",
+        "Peso": "Aprox. 250g",
+        "Codec": "SBC, AAC, LDAC"
+      }
+    },
+    {
+      "id": 43,
+      "url": "https://www.bose.com/pressroom/bose-introduces-quietcomfort-45",
+      "values": {
+        "Bluetooth": "5.1",
+        "ANC": "Sim",
+        "Microfone": "Sim (beamforming)",
+        "Dobrável": "Sim (plano)"
+      },
+      "note": "Suporte Bose informa 22h/2,25h; anúncio oficial informa 24h/2h. Autonomia e recarga ficam em revisão por divergência. TriPort não é o nome do ANC."
+    },
+    {
+      "id": 45,
+      "url": "https://www.samsung.com/ca/business/audio-sound/galaxy-buds/galaxy-buds3-pro-white-sm-r630nzwaxac/",
+      "values": {
+        "Driver": "2 vias",
+        "Bluetooth": "5.4",
+        "Autonomia": "Até 6h com ANC / 7h sem; total com estojo: 26h / 30h",
+        "ANC": "Sim (adaptativo)",
+        "Microfone": "6 no conjunto",
+        "IPX": "IP57",
+        "Peso": "5,4g por fone",
+        "Codec": "SBC, AAC, Samsung Seamless Codec, SSC-UHQ"
+      }
+    },
+    {
+      "id": 46,
+      "url": "https://consumer.huawei.com/my/headphones/freebuds-pro-3/specs//",
+      "values": {
+        "Driver": "11mm dinâmico + diafragma planar",
+        "Autonomia": "Até 4,5h com ANC / 6,5h sem; total com estojo: 22h / 31h",
+        "Recarga": "40min fones; estojo: 1h cabo / 150min sem fio",
+        "ANC": "Sim",
+        "Microfone": "3 de silício + 1 de condução óssea",
+        "IPX": "IP54 fones; estojo sem proteção",
+        "Peso": "5,8g por fone (±0,3g)",
+        "Codec": "SBC, AAC, LDAC, L2HC 2.0 (variante internacional)"
+      },
+      "note": "L2HC depende de aparelho Huawei compatível; não transportar especificação chinesa 3.0 para variante internacional."
+    },
+    {
+      "id": 47,
+      "url": "https://www.beatsbydre.com/headphones/solo4-wireless",
+      "values": {
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 50h",
+        "Recarga": "USB-C; 10min para até 5h",
+        "Microfone": "Digitais com beamforming (quantidade não informada)",
+        "Dobrável": "Sim",
+        "Peso": "217g"
+      },
+      "note": "Lossless confirmado apenas por USB-C/cabo; não usar como prova de codec Bluetooth LDAC/aptX."
+    },
+    {
+      "id": 48,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/linkbuds-s/specifications",
+      "values": {
+        "Driver": "5mm",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 6h com ANC / 9h sem (por carga dos fones)",
+        "Recarga": "Aprox. 2h fones / 3h estojo",
+        "Peso": "4,8g por fone",
+        "IPX": "IPX4",
+        "Codec": "SBC, AAC, LDAC, LC3 (firmware compatível)"
+      }
+    },
+    {
+      "id": 49,
+      "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10",
+      "values": {
+        "Driver": "10mm",
+        "ANC": "Sim (Jabra Advanced ANC)",
+        "Microfone": "6 microfones",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 301,
+      "url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10",
+      "values": {
+        "Driver": "10mm",
+        "ANC": "Sim (Jabra Advanced ANC)",
+        "Microfone": "6 microfones",
+        "Codec": "SBC, AAC"
+      },
+      "note": "Mesmo modelo da entrada Elite 10 (id49); consolidar aliases de primeira geração."
+    },
+    {
+      "id": 300,
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Elite-10-Gen2/Technical-specifications/RevA/EN-Jabra-Elite-10-G2-Tech-Specs-A4-WEB-240524.pdf",
+      "values": {
+        "Driver": "10mm",
+        "ANC": "Sim (Jabra Advanced ANC)",
+        "Microfone": "6 microfones",
+        "Codec": "SBC, AAC (ficha de lançamento)",
+        "IPX": "IP57",
+        "Peso": "5,5g por fone"
+      },
+      "note": "LE Audio do estojo não é codec aptX. Firmware pode alterar suporte; não afirmar aptX Lossless."
+    },
+    {
+      "id": 50,
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-55/Technical-specifications/RevB/tech_specs%2C-d-%2Cjabra_evolve2_55%2C-d-%2Cen-us%2C-d-%2C20230515.pdf",
+      "values": {
+        "Driver": "28mm",
+        "ANC": "Sim",
+        "Microfone": "4 estéreo / 3 mono",
+        "Peso": "130g estéreo / 79g mono",
+        "Codec": "SBC, AAC"
+      },
+      "note": "Variantes mono e estéreo têm pesos e quantidades de microfones diferentes."
+    },
+    {
+      "id": 51,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wf-1000xm5/specifications",
+      "values": {
+        "Driver": "8,4mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com ANC / 12h sem (por carga dos fones)",
+        "Recarga": "Aprox. 1,5h fones / 2h estojo (USB)",
+        "IPX": "IPX4",
+        "Peso": "Aprox. 5,9g por fone",
+        "Codec": "SBC, AAC, LDAC, LC3"
+      }
+    },
+    {
+      "id": 55,
+      "url": "https://support.apple.com/en-ph/111834",
+      "values": {
+        "Driver": "Alta amplitude, exclusivo Apple",
+        "ANC": "Sim",
+        "Microfone": "Duplos com beamforming + microfone interno",
+        "Peso": "5,3g por fone"
+      },
+      "note": "Cadastro não distingue estojo Lightning e USB-C. IPX4/IP54 e áudio lossless dependem da variante; confirmar antes de exibir."
+    },
+    {
+      "id": 56,
+      "url": "https://www.bose.com/pressroom/bose-announces-new-quietcomfort-ultra-headphones-and-earbuds",
+      "values": {
+        "Autonomia": "Até 24h sem áudio imersivo / 18h com áudio imersivo",
+        "ANC": "Sim",
+        "Dobrável": "Sim (plano)",
+        "Recarga": "USB-C"
+      },
+      "note": "Modelo de 2023 (primeira geração). Não misturar com Ultra 2ª geração."
+    },
+    {
+      "id": 57,
+      "url": "https://www.bose.com/pressroom/bose-announces-new-quietcomfort-ultra-headphones-and-earbuds",
+      "values": {
+        "ANC": "Sim (CustomTune)",
+        "IPX": "IPX4"
+      },
+      "note": "Modelo de 2023 (primeira geração). Fontes da 2ª geração não validam este cadastro."
+    },
+    {
+      "id": 58,
+      "url": "https://support.apple.com/en-au/121205",
+      "values": {
+        "Driver": "Dinâmico, exclusivo Apple",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 20h com ANC",
+        "Recarga": "USB-C; 5min para aprox. 1,5h",
+        "ANC": "Sim",
+        "Microfone": "9 no total (8 ANC; 3 voz, com 2 compartilhados)",
+        "Chip": "Apple H1 por lado"
+      },
+      "note": "Variante USB-C de 2024. Peso diverge entre páginas regionais (384,8g / 386,2g). Lossless exige cabo USB-C."
+    },
+    {
+      "id": 155,
+      "url": "https://support.apple.com/en-au/121205",
+      "values": {
+        "Driver": "Dinâmico, exclusivo Apple",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 20h com ANC",
+        "Recarga": "USB-C; 5min para aprox. 1,5h",
+        "ANC": "Sim",
+        "Microfone": "9 no total (8 ANC; 3 voz, com 2 compartilhados)",
+        "Chip": "Apple H1 por lado"
+      },
+      "note": "Duplicado da variante USB-C (id58) pelos dados do cadastro; consolidar nome e aliases."
+    },
+    {
+      "id": 150,
+      "url": "https://support.apple.com/en-us/125135",
+      "values": {
+        "Driver": "Alta amplitude, exclusivo Apple",
+        "Chip": "Apple H2",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com ANC; até 24h no total com estojo",
+        "Recarga": "USB-C, MagSafe, Qi ou Apple Watch; 5min ≈ 1h",
+        "ANC": "Sim",
+        "Microfone": "Duplos com beamforming + microfone interno",
+        "IPX": "IP57 fones e estojo",
+        "Peso": "5,55g por fone"
+      }
+    },
+    {
+      "id": 154,
+      "url": "https://support.apple.com/en-au/126620",
+      "values": {
+        "Driver": "Dinâmico, exclusivo Apple",
+        "Chip": "Apple H2 por lado",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 20h com ANC",
+        "Recarga": "USB-C; 5min para aprox. 1,5h",
+        "ANC": "Sim",
+        "Microfone": "9 no total (8 ANC; 3 voz, com 2 compartilhados)",
+        "Peso": "386,2g"
+      },
+      "note": "Lossless é via cabo USB-C, não comprova codec lossless Bluetooth."
+    },
+    {
+      "id": 100,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wh-1000xm6/specifications",
+      "values": {
+        "Driver": "30mm",
+        "Resp. Freq.": "4Hz–40kHz com cabo; Bluetooth: 20Hz–20kHz / até 40kHz com LDAC",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 30h com ANC / 40h sem ANC",
+        "Recarga": "Aproximadamente 3,5h",
+        "Peso": "Aprox. 254g",
+        "Microfone": "MEMS omnidirecionais (quantidade não informada nesta ficha)",
+        "ANC": "Sim (Adaptive NC Optimizer)",
+        "Codec": "SBC, AAC, LDAC, LC3"
+      }
+    },
+    {
+      "id": 107,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wf-c510/specifications",
+      "values": {
+        "Driver": "6mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com som ambiente / 11h sem (por carga)",
+        "Recarga": "Aprox. 1,5h fones / 3h estojo",
+        "IPX": "IPX4",
+        "Peso": "Aprox. 4,6g por fone",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 108,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wf-c500/specifications",
+      "values": {
+        "Driver": "5,8mm",
+        "Bluetooth": "5.0",
+        "Autonomia": "Até 10h por carga",
+        "Recarga": "Aprox. 2,5h fones / 3h estojo",
+        "IPX": "IPX4",
+        "Peso": "Aprox. 5,4g por fone",
+        "Codec": "SBC, AAC"
+      }
+    },
+    {
+      "id": 110,
+      "url": "https://www.sony.co.uk/electronics/support/wireless-headphones-bluetooth-headphones/wf-l910/specifications",
+      "values": {
+        "Driver": "11mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h por carga",
+        "Recarga": "Aprox. 1,5h fones / 2,5h estojo",
+        "IPX": "IPX4",
+        "Peso": "Aprox. 5,1g por fone",
+        "Codec": "SBC, AAC, LC3"
+      },
+      "note": "WF-L910 (LinkBuds Open). Cadastro anterior misturava dados do LinkBuds original."
+    },
+    {
+      "id": 111,
+      "url": "https://helpguide.sony.net/mdr/2977/v1/en/contents/TP1001273102.html",
+      "values": {
+        "Bluetooth": "5.3 (LE Audio) + transmissor USB 2,4GHz",
+        "Recarga": "Aprox. 2h fones / 3h estojo",
+        "Peso": "6,5g por fone branco/preto; 6,7g Glass Purple",
+        "Codec": "LC3"
+      },
+      "note": "SBC/AAC não suportados na conexão Bluetooth deste modelo. Transmissor USB é conexão distinta."
+    },
+    {
+      "id": 122,
+      "url": "https://global.jbl.com/on-ear-headphones/TUNE520BT.html",
+      "values": {
+        "Driver": "33mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 57h",
+        "Recarga": "2h; 5min para até 3h",
+        "Microfone": "1 microfone",
+        "Dobrável": "Sim",
+        "Peso": "157g"
+      }
+    },
+    {
+      "id": 123,
+      "url": "https://www.jbl.com/TOUR-ONE-M2.html",
+      "values": {
+        "Driver": "40mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 30h com ANC / 50h sem ANC",
+        "Recarga": "2h",
+        "ANC": "Sim (True Adaptive)",
+        "Microfone": "7 no total; 4 usados em chamadas",
+        "Dobrável": "Sim",
+        "Peso": "278g"
+      }
+    },
+    {
+      "id": 125,
+      "url": "https://www.jbl.com/WAVE-BEAM-2.html",
+      "values": {
+        "Driver": "8mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com ANC / 10h sem; até 40h totais com estojo (ANC desligado)",
+        "Recarga": "2h",
+        "ANC": "Sim",
+        "Microfone": "4 microfones",
+        "IPX": "IP54",
+        "Peso": "4,3g por fone"
+      }
+    },
+    {
+      "id": 126,
+      "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw62e8eda5/pdfs/LS_JBL_Tune%20Flex%202_QSG_Multilingual.pdf",
+      "values": {
+        "Driver": "12mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com ANC / 12h sem (por carga)",
+        "Recarga": "2h",
+        "Peso": "4,4g por fone / 4,2g Ghost Edition",
+        "IPX": "IP54"
+      }
+    },
+    {
+      "id": 128,
+      "url": "https://global.jbl.com/wireless-earbuds/TOUR-PRO-3.html",
+      "values": {
+        "Driver": "10,2mm dinâmico + armadura balanceada 5,1 × 2,8mm",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 8h com ANC / 11h sem; até 44h totais com estojo",
+        "Recarga": "2h",
+        "ANC": "Sim (True Adaptive 2.0)",
+        "Microfone": "6 microfones",
+        "Peso": "5,6g por fone"
+      }
+    },
+    {
+      "id": 129,
+      "url": "https://www.jbl.com/ENDURANCE-PEAK-3.html",
+      "values": {
+        "Driver": "10mm dinâmico",
+        "Bluetooth": "5.2",
+        "Autonomia": "Até 10h; até 50h no total com estojo",
+        "Recarga": "2h; 10min para até 1h",
+        "Microfone": "4 microfones",
+        "IPX": "IP68"
+      },
+      "note": "25g na página refere-se ao conjunto dos fones; falta confirmação clara de peso unitário."
+    },
+    {
+      "id": 130,
+      "url": "https://global.jbl.com/sport-earbuds/ENDURANCE-RACE-2.html",
+      "values": {
+        "Driver": "6,8mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "Até 12h; até 48h no total com estojo (ANC desligado)",
+        "Recarga": "10min para até 4h",
+        "ANC": "Sim",
+        "Microfone": "4 microfones",
+        "IPX": "IP68"
+      }
+    },
+    {
+      "id": 140,
+      "url": "https://www.samsung.com/de/audio-sound/galaxy-buds/galaxy-buds4-pro-black-sm-r640nzkadbt/",
+      "values": {
+        "Driver": "2 vias aprimorado",
+        "Bluetooth": "6.1",
+        "Autonomia": "Até 6h com ANC / 7h sem; total com estojo: 26h / 30h",
+        "ANC": "Sim (adaptativo)",
+        "Microfone": "6 no conjunto",
+        "IPX": "IP57",
+        "Peso": "5,1g por fone",
+        "Codec": "SBC, AAC, Samsung Seamless Codec, SSC-UHQ, LC3"
+      }
+    },
+    {
+      "id": 141,
+      "url": "https://www.samsung.com/sec/buds/galaxy-buds/galaxy-buds4/specs/",
+      "values": {
+        "Driver": "1 via",
+        "Bluetooth": "6.1",
+        "Autonomia": "Até 5h com ANC / 6h sem; total com estojo: 24h / 30h",
+        "ANC": "Sim (adaptativo)",
+        "Microfone": "6 no conjunto",
+        "IPX": "IP54",
+        "Peso": "4,6g por fone",
+        "Codec": "SBC, AAC, Samsung Seamless Codec, SSC-UHQ, LC3"
+      }
+    },
+    {
+      "id": 144,
+      "url": "https://www.samsung.com/latin/audio-sound/galaxy-buds/galaxy-buds3-fe-gray-sm-r420nzaalta/",
+      "values": {
+        "Driver": "1 via",
+        "Bluetooth": "5.4",
+        "ANC": "Sim",
+        "Microfone": "6 no conjunto",
+        "IPX": "IP54",
+        "Peso": "5g por fone",
+        "Codec": "SBC, AAC, Samsung Seamless Codec"
+      }
+    },
+    {
+      "id": 131,
+      "url": "https://global.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcc008ba0/pdfs/JBL_Live_Beam_3_Specsheet_EN.pdf",
+      "values": {
+        "Driver": "10mm dinâmico",
+        "Bluetooth": "5.3 fones / 5.1 estojo",
+        "Autonomia": "Até 10h com ANC / 9h adaptativo / 12h sem (por carga)",
+        "Recarga": "2h",
+        "Peso": "5g por fone"
+      }
+    },
+    {
+      "id": 131,
+      "url": "https://www.jbl.com/LIVEBEAM3.html?dwvar_LIVEBEAM3_color=Silver-AM-Current",
+      "values": {
+        "ANC": "Sim (True Adaptive)",
+        "Microfone": "6 microfones",
+        "IPX": "IP55"
+      }
+    },
+    {
+      "id": 145,
+      "url": "https://news.samsung.com/br/samsung-anuncia-galaxy-buds-core-no-brasil-cancelamento-de-ruido-e-integracao-com-galaxy-ai-para-todos",
+      "values": {
+        "Driver": "6,5mm",
+        "Bluetooth": "5.4",
+        "Autonomia": "Até 20h com ANC / 35h sem (total com estojo)",
+        "ANC": "Sim",
+        "Microfone": "3 por fone",
+        "IPX": "IP54",
+        "Codec": "SBC, AAC, Samsung Seamless Codec"
+      }
+    },
+    {
+      "id": 160,
+      "url": "https://support.bose.com/s/article/product-specifications-bose-quietcomfort-ultra-headphones-2nd-gen",
+      "values": {
+        "Bluetooth": "5.4",
+        "Autonomia": "Até 30h",
+        "Recarga": "3h; 15min para até 3h (2h com áudio imersivo)",
+        "Microfone": "Sim (integrado)"
+      }
+    },
+    {
+      "id": 161,
+      "url": "https://support.bose.com/s/article/quietcomfort-headphones-specifications",
+      "values": {
+        "Bluetooth": "5.1",
+        "Microfone": "Sim (integrado)",
+        "Recarga": "USB-C"
+      },
+      "note": "QuietComfort Headphones lançado em 2023; diferenciar de QC45 e Ultra."
+    },
+    {
+      "id": 201,
+      "url": "https://www.mi.com/au/product/redmi-buds-6/specs/",
+      "values": {
+        "Bluetooth": "5.4",
+        "Peso": "5g por fone",
+        "Recarga": "USB-C"
+      }
+    },
+    {
+      "id": 202,
+      "url": "https://www.mi.com/co/product/redmi-buds-6-lite/specs/",
+      "values": {
+        "Bluetooth": "5.3",
+        "Peso": "4,2g por fone (±0,2g)",
+        "Autonomia": "Até 7h; até 38h no total com estojo (AAC, 50% volume)",
+        "Recarga": "USB-C"
+      }
+    },
+    {
+      "id": 204,
+      "url": "https://www.mi.com/ph/product/redmi-buds-6-play/specs/",
+      "values": {
+        "Bluetooth": "5.4",
+        "Peso": "3,6g por fone",
+        "Autonomia": "Até 7,5h; até 36h no total com estojo",
+        "Recarga": "USB-C"
+      }
+    },
+    {
+      "id": 208,
+      "url": "https://www.mi.com/es/product/redmi-buds-4-pro/specs/",
+      "values": {
+        "Bluetooth": "5.3",
+        "Recarga": "USB-C"
+      }
+    },
+    {
+      "id": 209,
+      "url": "https://www.mi.com/us/product/redmi-buds-4-lite/specs/",
+      "values": {
+        "Bluetooth": "5.3",
+        "Peso": "3,92g por fone",
+        "Recarga": "90min fones / 120min estojo"
+      }
+    },
+    {
+      "id": 210,
+      "url": "https://www.mi.com/uk/support/article/KA-114731/",
+      "values": {
+        "Codec": "SBC"
+      }
+    },
+    {
+      "id": 220,
+      "url": "https://www.qcy.com/pt/products/qcy-h3-pro",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.4",
+        "ANC": "Sim, adaptativo (até 50 dB)",
+        "Codec": "LDAC, SBC",
+        "Peso": "231 g",
+        "Autonomia": "40 h com ANC / 55 h sem ANC",
+        "Dobrável": "Sim"
+      },
+      "note": "Página apresenta 6 microfones no título e 3 para chamadas; não confirmar quantidade total. USB-C confirmado, tempo não."
+    },
+    {
+      "id": 222,
+      "url": "https://www.qcy.com/es/products/qcy-h3s",
+      "values": {
+        "Driver": "40 mm + 13 mm",
+        "Bluetooth": "6.0",
+        "ANC": "Sim, adaptativo (até 56 dB)",
+        "Microfone": "7",
+        "Autonomia": "58 h com ANC / 102 h sem ANC",
+        "Peso": "240 g",
+        "Dobrável": "Sim"
+      },
+      "note": "LDAC confirmado, lista completa de codecs não localizada. USB-C confirmado; sem tempo. IP não declarado."
+    },
+    {
+      "id": 223,
+      "url": "https://www.qcy.com/es/products/qcy-h2-pro",
+      "values": {
+        "Bluetooth": "5.3",
+        "Dobrável": "Sim"
+      },
+      "note": "Nome oficial QCY H2 Pro. Página mistura 70/60 h, 40/10,8 mm e 1,5/2 h; não escolher especificações conflitantes."
+    },
+    {
+      "id": 224,
+      "url": "https://www.qcy.com/products/qcy-melobuds-pro",
+      "values": {
+        "Driver": "12 mm dinâmico",
+        "Bluetooth": "5.3",
+        "ANC": "Sim, adaptativo até 46 dB",
+        "Microfone": "6",
+        "Autonomia": "7,5 h com ANC / 8,5 h sem ANC; até 34 h com estojo"
+      }
+    },
+    {
+      "id": 244,
+      "url": "https://us.soundcore.com/products/soundcore-q11i",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "ANC": "Não",
+        "Microfone": "1",
+        "Autonomia": "60 h",
+        "Peso": "241 g",
+        "Recarga": "5 min para 4 h (carga rápida)"
+      }
+    },
+    {
+      "id": 243,
+      "url": "https://us.soundcore.com/products/soundcore-q11i",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "ANC": "Sim, híbrido",
+        "Microfone": "2",
+        "Autonomia": "40 h com ANC / 60 h sem ANC",
+        "Peso": "260 g",
+        "Recarga": "5 min para 4 h (carga rápida)"
+      }
+    },
+    {
+      "id": 240,
+      "url": "https://www.soundcore.com/eu/products/a3062-noise-cancelling-headphones",
+      "values": {
+        "ANC": "Sim, adaptativo",
+        "Autonomia": "40 h com ANC / 60 h sem ANC",
+        "Recarga": "5 min para 8 h (carga rápida)",
+        "Microfone": "4 para chamadas",
+        "Peso": "286,2 g",
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 32,
+      "url": "https://www.soundcore.com/eu/products/space-one-a3035011",
+      "values": {
+        "Driver": "40 mm, dupla camada",
+        "ANC": "Sim, adaptativo",
+        "Autonomia": "50 h com ANC / 65 h sem ANC",
+        "Recarga": "5 min para 4 h (carga rápida)",
+        "Microfone": "2 para chamadas",
+        "Peso": "292 g"
+      }
+    },
+    {
+      "id": 249,
+      "url": "https://support.soundcore.com/s/articlemanual?pn=A3968",
+      "values": {
+        "Driver": "11 mm dinâmico",
+        "Bluetooth": "5.3",
+        "Autonomia": "7 h com ANC / 12 h sem ANC; 28/48 h com estojo",
+        "Recarga": "1,5 h fones / 3 h estojo (USB-C)",
+        "IPX": "IP68 (fones)",
+        "ANC": "Sim, adaptativo"
+      }
+    },
+    {
+      "id": 248,
+      "url": "https://es.soundcore.com/blogs/earbuds/how-noise-canceling-headphones-work",
+      "values": {
+        "ANC": "Sim, adaptativo até 52 dB",
+        "Microfone": "6",
+        "Autonomia": "8 h com ANC / 10 h sem ANC; até 50 h com estojo",
+        "Recarga": "10 min para 3,5 h (carga rápida)"
+      },
+      "note": "LDAC confirmado; lista completa de codecs não localizada."
+    },
+    {
+      "id": 231,
+      "url": "https://www.edifier.com/global/p/over-ear-on-ear-headphones/w820nb-plus-new",
+      "values": {},
+      "note": "Página New Version agora informa Bluetooth 6.1 e 88 h, enquanto W820NB Plus original é 5.2/49 h. Não é possível atribuir essas fichas à variante V25 sem código exato."
+    },
+    {
+      "id": 234,
+      "url": "https://www.edifier.com/int/us/p/true-wireless-earbuds/neodots",
+      "values": {
+        "Driver": "10 mm dinâmico + armadura balanceada",
+        "Bluetooth": "5.4",
+        "Codec": "LDAC, AAC, SBC",
+        "ANC": "Sim, até 48 dB",
+        "IPX": "IP55",
+        "Autonomia": "12 h com ANC / 17 h sem ANC; 40/56 h com estojo",
+        "Recarga": "1 h fones / 1,5 h estojo; USB-C e sem fio"
+      },
+      "note": "64 g é peso líquido do conjunto; peso por fone não confirmado."
+    },
+    {
+      "id": 236,
+      "url": "https://3w.edifier.com/global/p/true-wireless-earbuds/tws-nb2-pro",
+      "values": {
+        "Driver": "10 mm dinâmico",
+        "Bluetooth": "5.0",
+        "Codec": "SBC",
+        "ANC": "Sim, híbrido",
+        "Microfone": "Sim, sistema duplo para chamadas",
+        "IPX": "IP54",
+        "Autonomia": "7 h com ANC / 9 h sem ANC; 25/32 h com estojo",
+        "Recarga": "1 h fones / 2 h estojo (USB-C)"
+      },
+      "note": "54 g é peso líquido; peso unitário não confirmado."
+    },
+    {
+      "id": 251,
+      "url": "https://support.sennheiser-hearing.com/hc/en-se/articles/37817890197021-ACCENTUM-Plus-Wireless-Specifications",
+      "values": {
+        "Driver": "37 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX, aptX Adaptive",
+        "ANC": "Sim, híbrido adaptativo",
+        "Autonomia": "Até 50 h com ANC",
+        "Recarga": "3,5 h (USB-C)",
+        "Peso": "227 g"
+      },
+      "note": "Microfones: tabela de suporte diz 2; manual diz 4 (2x2). Quantidade pendente."
+    },
+    {
+      "id": 252,
+      "url": "https://support.sennheiser-hearing.com/hc/en-ca/articles/37817763029789-ACCENTUM-Wireless-Specifications",
+      "values": {
+        "Driver": "37 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX, aptX HD",
+        "ANC": "Sim, híbrido",
+        "Microfone": "2",
+        "Autonomia": "Até 50 h com ANC",
+        "Recarga": "3 h (USB-C)",
+        "Peso": "222 g"
+      }
+    },
+    {
+      "id": 254,
+      "url": "https://support.sennheiser-hearing.com/hc/en-ie/articles/37818069144221-MOMENTUM-True-Wireless-4-Specifications",
+      "values": {
+        "Driver": "7 mm dinâmico",
+        "Bluetooth": "5.4",
+        "Codec": "SBC, AAC, aptX, aptX Adaptive/Lossless, LC3",
+        "ANC": "Sim, híbrido",
+        "Microfone": "3 por fone",
+        "Autonomia": "7 h com ANC / 7,5 h sem ANC; até 30 h com estojo",
+        "IPX": "IP54 (fones)",
+        "Peso": "6,2 g por fone",
+        "Recarga": "USB-C e Qi (tempo não confirmado)"
+      }
+    },
+    {
+      "id": 255,
+      "url": "https://cdn.sennheiser-hearing.com/product-documents/product-downloads/momentum-true-wireless-3/instruction_manual/Instruction_Manual_MOMENTUM_True_Wireless_3.pdf",
+      "values": {
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX, aptX Adaptive",
+        "IPX": "IPX4",
+        "Peso": "6 g por fone"
+      }
+    },
+    {
+      "id": 256,
+      "url": "https://support.sennheiser-hearing.com/hc/en-ca/articles/37845152498973-ACCENTUM-True-Wireless-Specifications",
+      "values": {
+        "Driver": "7 mm dinâmico",
+        "Bluetooth": "5.3",
+        "Codec": "SBC, AAC, aptX, LC3",
+        "ANC": "Sim, híbrido",
+        "Microfone": "2 por fone",
+        "Autonomia": "6 h com ANC / 8 h sem ANC; até 28 h com estojo",
+        "Recarga": "1,5 h; USB-C e Qi",
+        "IPX": "IP54 (fones)",
+        "Peso": "5,5 g por fone"
+      }
+    },
+    {
+      "id": 257,
+      "url": "https://cdn.sennheiser-hearing.com/product-documents/product-downloads/momentum-sport-refurbished/Instruction%20manual%20MOMENTUM%20Sport/Instruction_manual_MOMENTUM_Sport.pdf",
+      "values": {
+        "Driver": "10 mm dinâmico",
+        "ANC": "Sim, híbrido adaptativo",
+        "Microfone": "3 por fone",
+        "Autonomia": "6 h; 24 h com estojo (ANC e sensores ligados)",
+        "Recarga": "1,5 h; USB-C e Qi"
+      }
+    },
+    {
+      "id": 302,
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Elite-8-Active/Technical-specifications/RevA/EN-Jabra-Elite-8-Active-Tech-Sheet-A4-Web-160823.pdf",
+      "values": {
+        "Driver": "6 mm",
+        "Codec": "AAC, SBC",
+        "Peso": "5 g por fone",
+        "IPX": "IP68 fones / IP54 estojo",
+        "Microfone": "6",
+        "ANC": "Sim, híbrido adaptativo"
+      }
+    },
+    {
+      "id": 304,
+      "url": "https://www.jabra.com/_/media/Jabra_VXi_Product-Documentation/Jabra-Evolve2-Buds/Technical-specifications/RevB/EN-Jabra-Evolve2-Buds-Tech-sheet-Web_0211.pdf",
+      "values": {
+        "Driver": "6 mm",
+        "Codec": "AAC, SBC",
+        "Peso": "5,4 g por fone",
+        "IPX": "IP57",
+        "Microfone": "6 (4 para voz e 2 sensores VPU adicionais)",
+        "ANC": "Sim",
+        "Autonomia": "Até 8 h; até 33 h com estojo"
+      }
+    },
+    {
+      "id": 310,
+      "url": "https://acc.usa.philips.com/c-p/TAH8506BK_00/wireless-headphones",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.0",
+        "Codec": "AAC, SBC",
+        "Autonomia": "45 h com ANC / 60 h sem ANC",
+        "Recarga": "2 h (USB-C)",
+        "Peso": "279 g",
+        "Microfone": "1 para chamadas + 4 para ANC",
+        "ANC": "Sim, híbrido adaptativo",
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 313,
+      "url": "https://acc.usa.philips.com/c-p/TAT3217BK_00/true-wireless-headphones",
+      "values": {
+        "Driver": "10 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC",
+        "Autonomia": "6 h; 26 h com estojo",
+        "Recarga": "2 h (USB-C)",
+        "Microfone": "2 para chamadas",
+        "IPX": "IPX5"
+      }
+    },
+    {
+      "id": 311,
+      "url": "https://dev.zaha.philips.com/c-p/TAH5205BK_00/wireless-headphone",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.0",
+        "Codec": "SBC",
+        "Autonomia": "29 h",
+        "Recarga": "2 h (USB-C)",
+        "Peso": "210 g",
+        "Dobrável": "Sim"
+      }
+    },
+    {
+      "id": 314,
+      "url": "https://www.documents.philips.com/assets/20250429/c675942c61194f8b9a3db2ce002b6df2.pdf",
+      "values": {
+        "Bluetooth": "5.4",
+        "Codec": "SBC",
+        "Autonomia": "7 h; 32 h com estojo",
+        "Recarga": "2 h (USB-C)"
+      }
+    },
+    {
+      "id": 320,
+      "url": "https://help.shokz.com/s/article/S820-S821-OpenRun-Pro-2-Spec-Sheet",
+      "values": {
+        "Driver": "Condução óssea e aérea (DualPitch)",
+        "Bluetooth": "5.3",
+        "Codec": "SBC",
+        "Autonomia": "12 h",
+        "Recarga": "1 h (USB-C)",
+        "Peso": "30,3 g padrão / 30 g Mini",
+        "IPX": "IP55",
+        "Microfone": "2"
+      }
+    },
+    {
+      "id": 321,
+      "url": "https://help.shokz.com/s/article/S810-S811-OpenRun-Pro-Spec-Sheet",
+      "values": {
+        "Driver": "Condução óssea (TurboPitch)",
+        "Bluetooth": "5.1",
+        "Autonomia": "10 h",
+        "Recarga": "1 h (conector magnético)",
+        "Peso": "29 g",
+        "IPX": "IP55",
+        "Microfone": "2"
+      }
+    },
+    {
+      "id": 323,
+      "url": "https://shokz.com/products/openfitair",
+      "values": {
+        "Driver": "Condução aérea (DirectPitch)",
+        "Autonomia": "6 h; 28 h com estojo",
+        "Recarga": "1 h fones / 2 h estojo",
+        "Peso": "8,7 g por fone",
+        "IPX": "IP54 (fones)"
+      }
+    },
+    {
+      "id": 322,
+      "url": "https://help.shokz.com/s/product-detail?Id=a174x000006OuLYAA0",
+      "values": {
+        "Driver": "Condução óssea (PremiumPitch 2.0+)",
+        "Bluetooth": "5.1",
+        "Autonomia": "8 h",
+        "Recarga": "1,5 h; conector magnético ou USB-C conforme versão",
+        "Peso": "26 g",
+        "IPX": "IP67",
+        "Microfone": "2"
+      }
+    },
+    {
+      "id": 330,
+      "url": "https://haylou.com/ar/products/haylou-s35-anc",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "ANC": "Sim, híbrido até 42 dB",
+        "Autonomia": "40 h com ANC / 60 h sem ANC"
+      }
+    },
+    {
+      "id": 333,
+      "url": "https://productdoc.haylou.com/oss/BC01001/BC01001-ja.pdf",
+      "values": {
+        "Bluetooth": "5.2",
+        "Autonomia": "8 h",
+        "Recarga": "1,5 h",
+        "IPX": "IP67"
+      }
+    },
+    {
+      "id": 331,
+      "url": "https://haylou.com/es/blogs/news/unveiling-the-magic-embark-on-an-enchanting-sonic-journey-with-haylou-s30-anc",
+      "values": {
+        "Driver": "40 mm dinâmico com diafragma de titânio",
+        "ANC": "Sim, híbrido até 43 dB",
+        "Microfone": "5 integrados + microfone removível no kit Pro"
+      },
+      "note": "S30 Pro é kit do S30 ANC com microfone adicional, não foi comprovada uma geração distinta."
+    },
+    {
+      "id": 332,
+      "url": "https://haylou.com/es/blogs/news/unveiling-the-magic-embark-on-an-enchanting-sonic-journey-with-haylou-s30-anc",
+      "values": {
+        "Driver": "40 mm dinâmico com diafragma de titânio",
+        "ANC": "Sim, híbrido até 43 dB",
+        "Microfone": "5 integrados"
+      },
+      "note": "S30 Pro é kit do S30 ANC com microfone adicional, não foi comprovada uma geração distinta."
+    },
+    {
+      "id": 334,
+      "url": "https://haylou.com/ja/blogs/news/haylou-w1-true-wireless-earbuds-are-on-sale",
+      "values": {
+        "Driver": "Dinâmico + armadura balanceada Knowles",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX, aptX Adaptive",
+        "Microfone": "4"
+      },
+      "note": "Fontes oficiais variam entre 20 e 24 h totais; autonomia não confirmada."
+    },
+    {
+      "id": 334,
+      "url": "https://haylou.com/de/blogs/event/haylou-w1-wins-japanese-vgp-awards",
+      "values": {
+        "IPX": "IPX4"
+      }
+    },
+    {
+      "id": 335,
+      "url": "https://haylou.com/ko/blogs/news/haylou-product-model-status-update-exciting-new-releases-and-production-changes",
+      "values": {},
+      "note": "Identidade GT7 Neo listada pelo fabricante; especificações não localizadas na fonte."
+    },
+    {
+      "id": 340,
+      "url": "https://www.baseus.com/products/bowie-h1i-bluetooth-headphone",
+      "values": {
+        "Bluetooth": "5.3",
+        "Autonomia": "70 h com ANC / 100 h sem ANC",
+        "Recarga": "2 h (USB-C)",
+        "Codec": "LHDC, AAC, SBC",
+        "ANC": "Sim",
+        "Peso": "226 g (7,97 oz)"
+      }
+    },
+    {
+      "id": 343,
+      "url": "https://cz.baseus.com/en/products/a00054300226-z1",
+      "values": {
+        "Bluetooth": "5.3",
+        "Autonomia": "5 h; 22–25 h com estojo (volume 70%)",
+        "Recarga": "1,5 h (USB-C)"
+      }
+    },
+    {
+      "id": 341,
+      "url": "https://uk.baseus.com/pages/statement-of-compliance-for-psti-uk",
+      "values": {},
+      "note": "Modelo consta na declaração oficial; ficha de especificações da variante exata não localizada. Não usar MA10 sem Pro ou M2s Ultra."
+    },
+    {
+      "id": 342,
+      "url": "https://uk.baseus.com/pages/statement-of-compliance-for-psti-uk",
+      "values": {},
+      "note": "Modelo consta na declaração oficial; ficha de especificações da variante exata não localizada. Não usar MA10 sem Pro ou M2s Ultra."
+    },
+    {
+      "id": 352,
+      "url": "https://m.lenovo.com.cn/wiki/product-doc-27484.html",
+      "values": {
+        "Driver": "13 mm com diafragma composto",
+        "Codec": "AAC, SBC"
+      }
+    },
+    {
+      "id": 350,
+      "values": {},
+      "note": "Busca oficial Lenovo/Lenovo China não localizou ficha técnica verificável. Anúncios de terceiros e fórum não validam especificações."
+    },
+    {
+      "id": 351,
+      "values": {},
+      "note": "Busca oficial Lenovo/Lenovo China não localizou ficha técnica verificável. Anúncios de terceiros e fórum não validam especificações."
+    },
+    {
+      "id": 353,
+      "values": {},
+      "note": "Busca oficial Lenovo/Lenovo China não localizou ficha técnica verificável. Anúncios de terceiros e fórum não validam especificações."
+    },
+    {
+      "id": 360,
+      "url": "https://bangolufsenrmaskillgohel.blob.core.windows.net/zendesk-guide/User%20Guide%20Files/Headphones/Beoplay%20H95/Product-sheet_H95_EN.pdf",
+      "values": {
+        "Driver": "40 mm dinâmico de titânio",
+        "Bluetooth": "5.1",
+        "Codec": "SBC, AAC, aptX Adaptive",
+        "Autonomia": "38 h com ANC / 50 h sem ANC",
+        "ANC": "Sim, adaptativo",
+        "Peso": "323 g",
+        "Recarga": "3 h (USB-C)",
+        "Microfone": "4 para voz + 4 dedicados ao ANC"
+      }
+    },
+    {
+      "id": 361,
+      "url": "https://bangolufsenrmaskillgohel.blob.core.windows.net/zendesk-guide/User%20Guide%20Files/Headphones/Beoplay%20EX/Beoplay%20EX%20Product%20Sheet%20EN%20Dec2022.pdf",
+      "values": {
+        "Driver": "9,2 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX Adaptive",
+        "Autonomia": "6 h com ANC / 8 h sem ANC; 20/28 h com estojo",
+        "ANC": "Sim, adaptativo",
+        "Peso": "6 g por fone",
+        "Recarga": "1,5 h fones; estojo 1h45 USB-C / 2h15 Qi",
+        "Microfone": "6",
+        "IPX": "IP57"
+      }
+    },
+    {
+      "id": 362,
+      "url": "https://www.bang-olufsen.com/en/us/comparison/products/headphones/beoplay-portal/beoplay-h95",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "ANC": "Sim, adaptativo"
+      },
+      "note": "Portal existe em Xbox e PC/PlayStation; autonomia e conectividade exigem definição da variante."
+    },
+    {
+      "id": 370,
+      "url": "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw98d54e04/pdfs/AKG_N700NCM2_Spec_Sheet_English.pdf",
+      "values": {
+        "Driver": "40 mm",
+        "Bluetooth": "4.2",
+        "Codec": "Samsung Scalable Codec, SBC, AAC",
+        "Autonomia": "23 h Bluetooth + ANC / 32 h com fio + ANC",
+        "ANC": "Sim, adaptativo",
+        "Peso": "277 g",
+        "Recarga": "3 h",
+        "Microfone": "2",
+        "Dobrável": "Sim, plano"
+      }
+    },
+    {
+      "id": 371,
+      "url": "https://support.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw679b070d/pdfs/AKG_Y600NC_Wireless_Spec_Sheet_English.pdf",
+      "values": {
+        "Driver": "40 mm",
+        "Bluetooth": "5.0",
+        "Codec": "UHQ, AAC, SBC",
+        "Autonomia": "25 h Bluetooth + ANC / 35 h com fio + ANC",
+        "ANC": "Sim",
+        "Peso": "322 g",
+        "Recarga": "2 h (USB-C)",
+        "Microfone": "2"
+      }
+    },
+    {
+      "id": 372,
+      "url": "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa64ce233/pdfs/AKG_Y500_Spec_Sheet_English.pdf",
+      "values": {
+        "Driver": "40 mm",
+        "Bluetooth": "4.2",
+        "Autonomia": "33 h",
+        "Peso": "230 g",
+        "Recarga": "2,5 h",
+        "Microfone": "Sim"
+      },
+      "note": "AAC confirmado; lista completa não localizada."
+    },
+    {
+      "id": 373,
+      "url": "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw43b2f934/pdfs/AKG_N400NC_TWS_Spec_Sheet_English.pdf",
+      "values": {
+        "Driver": "8,2 mm",
+        "Bluetooth": "5.0",
+        "Codec": "AAC, SBC",
+        "ANC": "Sim",
+        "Autonomia": "5 h com ANC / 6 h sem ANC; até 12 h com estojo",
+        "Peso": "7,7 g por fone",
+        "Recarga": "2 h; USB-C e sem fio",
+        "IPX": "IPX7",
+        "Microfone": "Sim"
+      }
+    },
+    {
+      "id": 400,
+      "url": "https://www.skullcandy.com/products/crusher-anc-2-sensory-bass-headphones-with-active-noise-canceling",
+      "values": {
+        "Driver": "40 mm + Crusher sensorial",
+        "Bluetooth": "5.2",
+        "ANC": "Sim, ajustável",
+        "Autonomia": "50 h com ANC / 60 h sem ANC",
+        "Peso": "332 g",
+        "Recarga": "10 min para 4 h (USB-C, carga rápida)",
+        "Dobrável": "Sim",
+        "Microfone": "Sim; 4 para ANC"
+      }
+    },
+    {
+      "id": 403,
+      "url": "https://www.skullcandy.com/blogs/product-help/hesh-evo",
+      "values": {
+        "Bluetooth": "5.0",
+        "Autonomia": "36 h",
+        "Recarga": "1h45 (USB-C)"
+      }
+    },
+    {
+      "id": 401,
+      "url": "https://www.skullcandy.com/products/crusher-evo-sensory-bass-headphones-with-personal-sound",
+      "values": {
+        "Driver": "40 mm + Crusher sensorial",
+        "Bluetooth": "5.0",
+        "Autonomia": "40 h",
+        "Peso": "312 g",
+        "Recarga": "10 min para 4 h (USB-C, carga rápida)",
+        "Dobrável": "Sim",
+        "Microfone": "Sim"
+      }
+    },
+    {
+      "id": 402,
+      "url": "https://www.skullcandy.com/blogs/product-help/hesh-anc",
+      "values": {
+        "Bluetooth": "5.0",
+        "ANC": "Sim",
+        "Autonomia": "22 h com ANC / 30 h sem ANC",
+        "Recarga": "2 h (USB-C)"
+      }
+    },
+    {
+      "id": 404,
+      "url": "https://www.skullcandy.com/blogs/product-help/push-active",
+      "values": {
+        "Bluetooth": "5.2",
+        "Autonomia": "10 h; 44 h com estojo",
+        "Recarga": "1 h fones / 2 h estojo (USB-C)",
+        "IPX": "IP55"
+      }
+    },
+    {
+      "id": 405,
+      "url": "https://www.skullcandy.com/blogs/product-help",
+      "values": {},
+      "note": "Não localizado modelo oficial Grind ANC. Suporte lista Grind/Grind Fuel, Sesh ANC e Rail ANC separadamente. Identidade pendente; não transpor ficha."
+    },
+    {
+      "id": 411,
+      "url": "https://www.motorolasound.com/audio-products/true-wireless-earbuds/moto-buds-500-anc/",
+      "values": {
+        "Driver": "10 mm",
+        "Bluetooth": "5.3",
+        "ANC": "Sim",
+        "Autonomia": "6 h; 20 h com estojo",
+        "IPX": "IPX4",
+        "Microfone": "Sim, sistema duplo"
+      }
+    },
+    {
+      "id": 412,
+      "url": "https://www.motorola.com/we/en/moto-buds",
+      "values": {
+        "Driver": "12,4 mm dinâmico",
+        "ANC": "Sim",
+        "Autonomia": "Até 9 h; até 42 h com estojo",
+        "Microfone": "3 por fone"
+      }
+    },
+    {
+      "id": 413,
+      "url": "https://www.motorola.com/sa/en/moto-buds-loop",
+      "values": {
+        "Autonomia": "Até 8 h por carga",
+        "Recarga": "10 min para 3 h (carga rápida)"
+      },
+      "note": "Resistência a respingos sem certificação IP explicitada nesta fonte."
+    },
+    {
+      "id": 430,
+      "url": "https://www.jaybirdsport.com/content/dam/jaybird-com/assets/jaybird-web/user-guides/vista2/Jaybird%20Vista2%20User%20Guide%20-%20English.pdf",
+      "values": {
+        "Bluetooth": "5.0",
+        "Codec": "SBC, AAC",
+        "Autonomia": "Até 8 h sem ANC",
+        "Recarga": "2 h",
+        "ANC": "Sim"
+      },
+      "note": "Manual informa 4,8 g sem ponteiras; conferir variante antes de substituir peso com ponteiras."
+    },
+    {
+      "id": 421,
+      "url": "https://www.multilaser.com.br/fone-de-ouvido-intra-auricular-slim-pulse-ph352/p",
+      "values": {
+        "Bluetooth": "Não; conexão P2 com fio",
+        "Peso": "10 g"
+      },
+      "note": "Fora do escopo Bluetooth: PH352 oficial é Pulse Slim com fio P2, não headset sem fio. Retirar da seleção pública preservando registro."
+    },
+    {
+      "id": 420,
+      "values": {},
+      "note": "Código exato não localizado em fonte oficial nem em busca aberta confiável; identidade e todos os dados ficam pendentes."
+    },
+    {
+      "id": 425,
+      "values": {},
+      "note": "Código exato não localizado em fonte oficial nem em busca aberta confiável; identidade e todos os dados ficam pendentes."
+    },
+    {
+      "id": 426,
+      "values": {},
+      "note": "Código exato não localizado em fonte oficial nem em busca aberta confiável; identidade e todos os dados ficam pendentes."
+    },
+    {
+      "id": 435,
+      "url": "https://www.tozostore.com/collections/ipx8-waterproof-earbuds/products/t10?variant=48119125279009",
+      "values": {
+        "Driver": "8 mm dinâmico",
+        "Bluetooth": "5.3",
+        "Codec": "AAC, SBC",
+        "Autonomia": "10 h; 45 h com estojo (AAC, 50% volume)",
+        "Recarga": "2 h fones / 1,5 h estojo; USB-C e sem fio",
+        "IPX": "IPX8 (fones)"
+      },
+      "note": "Ficha corresponde à variante Bluetooth 5.3, sem transpor dados de revisões anteriores."
+    },
+    {
+      "id": 436,
+      "url": "https://www.tozostore.com/products/a3",
+      "values": {
+        "Driver": "14,2 mm dinâmico",
+        "Bluetooth": "5.3",
+        "Codec": "AAC, SBC",
+        "Autonomia": "5 h; 22 h com estojo (AAC, 50% volume)",
+        "Recarga": "1,5 h fones / 1,5 h estojo (USB-C)",
+        "Peso": "3,3 g por fone"
+      }
+    },
+    {
+      "id": 437,
+      "url": "https://www.tozostore.com/pages/ht2_coloryoursound",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.3",
+        "Codec": "AAC, SBC",
+        "Autonomia": "40 h com ANC / 60 h sem ANC",
+        "Recarga": "2 h (USB-C)",
+        "Peso": "254,5 g",
+        "ANC": "Sim, híbrido adaptativo",
+        "Microfone": "3 para chamadas"
+      }
+    },
+    {
+      "id": 431,
+      "url": "https://support.jaybirdsport.com/hc/en-150/articles/4402511828631-Jaybird-RUN-XT",
+      "values": {},
+      "note": "Modelo confirmado no suporte; ficha técnica não acessível no conteúdo retornado."
+    },
+    {
+      "id": 440,
+      "url": "https://www.ugreen.com/th-th/products/th-35757",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.4",
+        "Codec": "LDAC, AAC, SBC",
+        "ANC": "Sim, híbrido adaptativo até 43 dB",
+        "Autonomia": "45 h com ANC / 75 h sem ANC",
+        "Microfone": "Sim",
+        "Recarga": "USB-C (tempo não confirmado)"
+      }
+    },
+    {
+      "id": 441,
+      "url": "https://eu.ugreen.com/fr/products/ugreen-hitune-t3-active-noise-cancelling-earbuds?variant=54084698440028",
+      "values": {
+        "Driver": "10 mm dinâmico",
+        "ANC": "Sim",
+        "Autonomia": "7 h; 24 h com estojo",
+        "Microfone": "Sim"
+      }
+    },
+    {
+      "id": 445,
+      "url": "https://www.tronsmart.com/all-for-music.htm",
+      "values": {
+        "Bluetooth": "5.0",
+        "Codec": "aptX, AAC, SBC",
+        "ANC": "Sim, híbrido até 35 dB",
+        "Autonomia": "Até 10 h; mais de 30 h com estojo (50% volume)",
+        "Microfone": "6",
+        "IPX": "IP45",
+        "Recarga": "10 min para 1 h (USB-C, carga rápida)"
+      }
+    },
+    {
+      "id": 446,
+      "url": "https://www.tronsmart.com/products/tronsmart-onyx-pure-hybrid-dual-driver-headphones",
+      "values": {
+        "Driver": "Dinâmico + armadura balanceada",
+        "Bluetooth": "5.3",
+        "Autonomia": "7 h; 32 h com estojo (50% volume)",
+        "Microfone": "2",
+        "IPX": "IPX5",
+        "Recarga": "1,5 h fones / 2 h estojo"
+      },
+      "note": "38 g refere-se ao produto; peso individual não confirmado."
+    },
+    {
+      "id": 450,
+      "url": "https://help.jlab.com/pages/jbuds-anc-3-product-support",
+      "values": {
+        "Driver": "10 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC",
+        "ANC": "Sim, híbrido",
+        "Microfone": "6 (2 para ENC)",
+        "IPX": "IP55",
+        "Autonomia": "7,5 h com ANC / 9 h sem ANC; 34/42 h com estojo",
+        "Recarga": "2 h fones / 2,5 h estojo (USB-C)"
+      },
+      "note": "Peso 9,6 g na ficha é total do par; não atribuir a um fone."
+    },
+    {
+      "id": 451,
+      "url": "https://help.jlab.com/pages/studio-pro-anc-tech-specs",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.0",
+        "Codec": "SBC",
+        "ANC": "Sim",
+        "Microfone": "Sim, MEMS",
+        "IPX": "Não informado pelo fabricante (NA)",
+        "Autonomia": "43 h com ANC / 45 h sem ANC",
+        "Recarga": "1h43 (USB-C)",
+        "Peso": "222 g"
+      }
+    },
+    {
+      "id": 11,
+      "url": "https://haylou.com/ja/products/haylou-purfree-lite",
+      "values": {
+        "Bluetooth": "5.2",
+        "IPX": "IP55",
+        "Autonomia": "10 h"
+      },
+      "note": "Modelo BC04; cadastro anterior confundia com fone OWS de 16 mm. Fonte cita aptX, mas não valida lista completa ou aptX Lossless."
+    },
+    {
+      "id": 12,
+      "values": {},
+      "note": "Não localizado modelo T20 ANC em fonte oficial QCY. Não assumir que é o T20/AilyPods nem confirmar ANC."
+    },
+    {
+      "id": 226,
+      "values": {},
+      "note": "Busca nos domínios QCY não retornou ficha técnica. Manual regional localizado, vínculo oficial ainda não comprovado."
+    },
+    {
+      "id": 15,
+      "url": "https://www.documents.philips.com/assets/20250519/aadb342f3f4a49d2900db2e20070890f.pdf",
+      "values": {
+        "Bluetooth": "5.4",
+        "Codec": "SBC",
+        "Autonomia": "55 h",
+        "Recarga": "2 h (USB-C)"
+      }
+    },
+    {
+      "id": 17,
+      "url": "https://www.edifier.com/us/p/over-ear-on-ear-headphones/W820NB",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "Bluetooth": "5.0",
+        "Codec": "SBC",
+        "Autonomia": "29 h com ANC / 49 h sem ANC",
+        "Recarga": "1,5 h (USB-C)",
+        "Peso": "220 g",
+        "ANC": "Sim, híbrido até 38 dB",
+        "Microfone": "Sim"
+      }
+    },
+    {
+      "id": 19,
+      "url": "https://www.qcy.com/products/qcy-h3-wireless-headphone?spec=1314",
+      "values": {
+        "Driver": "40 mm dinâmico",
+        "ANC": "Sim, híbrido adaptativo até 43 dB",
+        "Peso": "293 g"
+      },
+      "note": "Ficha atual se contradiz: título 60 h/6 mics, tabela 55 h/3 mics e imagem Bluetooth 5.3 vs texto 5.4. Autonomia, Bluetooth, quantidade de microfones e recarga pendentes."
+    },
+    {
+      "id": 52,
+      "url": "https://support.sennheiser-hearing.com/hc/en-sg/articles/37791406604189-MOMENTUM-4-Wireless-Specifications",
+      "values": {
+        "Driver": "42 mm dinâmico",
+        "Bluetooth": "5.2",
+        "Codec": "SBC, AAC, aptX, aptX Adaptive",
+        "Autonomia": "Até 60 h com ANC",
+        "Recarga": "2 h (USB-C)",
+        "ANC": "Sim, híbrido adaptativo",
+        "Microfone": "2 por lado"
+      }
+    },
+    {
+      "id": 53,
+      "url": "https://www.beatsbydre.com/support/earbuds/beats-fit-pro",
+      "values": {
+        "Autonomia": "Até 6 h; até 24 h com estojo",
+        "ANC": "Sim",
+        "Recarga": "USB-C (tempo não confirmado)"
+      }
+    },
+    {
+      "id": 3,
+      "url": "https://www.documents.philips.com/assets/20231119/a86c22d1235d4f259acdb0bf00490094.pdf",
+      "values": {
+        "Bluetooth": "5.1",
+        "Codec": "SBC",
+        "Autonomia": "15 h (reforço de graves desligado)",
+        "Recarga": "2 h (micro-USB)"
+      }
+    },
+    {
+      "id": 312,
+      "url": "https://www.documents.philips.com/assets/20231119/a86c22d1235d4f259acdb0bf00490094.pdf",
+      "values": {
+        "Bluetooth": "5.1",
+        "Codec": "SBC",
+        "Autonomia": "15 h (reforço de graves desligado)",
+        "Recarga": "2 h (micro-USB)"
+      }
+    },
+    {
+      "id": 163,
+      "url": "https://support.bose.com/article/quietcomfort-ultra-earbuds-2nd-gen-specifications",
+      "values": {
+        "Bluetooth": "5.3",
+        "IPX": "IPX4",
+        "Microfone": "Sim",
+        "Autonomia": "6 h sem áudio imersivo / 4 h com; estojo acrescenta 18 h",
+        "Recarga": "2 h fones / 3 h estojo (USB-C); estojo sem fio"
+      }
+    },
+    {
+      "id": 164,
+      "url": "https://www.bose.com/pressroom/quietcomfort-earbuds-ii",
+      "values": {
+        "Bluetooth": "5.3",
+        "IPX": "IPX4",
+        "Microfone": "Sim",
+        "ANC": "Sim, CustomTune",
+        "Autonomia": "Até 6 h; estojo oferece mais 3 cargas",
+        "Recarga": "1 h fones / 3 h estojo (USB-C)"
+      }
+    },
+    {
+      "id": 3,
+      "url": "https://www.documents.philips.com/assets/20240819/744a8d37570142c0ae62b1d1010d6358.pdf",
+      "values": {
+        "Peso": "126 g"
+      }
+    },
+    {
+      "id": 312,
+      "url": "https://www.documents.philips.com/assets/20240819/744a8d37570142c0ae62b1d1010d6358.pdf",
+      "values": {
+        "Peso": "126 g"
+      }
+    },
+    {
+      "id": 54,
+      "url": "https://support.apple.com/pt-br/121203",
+      "values": {},
+      "note": "Ficha sem ANC conferida na rodada anterior; mantidos campos com fonte. Codec não informado na ficha."
+    },
+    {
+      "id": 152,
+      "url": "https://support.apple.com/en-gb/121204",
+      "values": {},
+      "note": "Variante com ANC, fonte reconferida. Mantidos valores anteriores: 4 h ANC/5 h sem, 20/30 h totais, USB-C/Qi/Apple Watch; codecs não informados."
+    }
+  ]
+}
