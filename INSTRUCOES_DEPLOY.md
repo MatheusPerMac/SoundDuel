@@ -1,72 +1,26 @@
-# Instruções de Deploy
+# Publicação do Compare Fones
 
-## Problema Comum: Alterações não aparecem
+## Alvo confirmado
 
-### Causa provável:
-- Cache do navegador
-- Cache do Vercel/CDN
-- Arquivos antigos no GitHub
+- GitHub: MatheusPerMac/SoundDuel.
+- Vercel: equipe matheus-pereira-machados-projects, projeto sound-duel.
+- Produção: https://www.comparefones.com.br/.
+- Branch de produção: main. Root Directory vazio (raiz). Framework Other.
 
----
+## Fluxo de trabalho
 
-## Solução Passo a Passo
+1. Trabalhar em branch codex/… e revisar o diff.
+2. Executar `node --test tests/*.test.mjs`.
+3. Abrir a versão local com `node scripts/serve.mjs` e testar seleção, troca, cancelamento, remoção, comparação de 2 e 4 fones, links dos guias e largura móvel.
+4. Solicitar autorização específica antes de push/deploy. Um push em main publica automaticamente.
+5. Quando autorizado, validar uma prévia Vercel e especialmente os redirects/rewrites reais; o servidor local apenas simula essas regras.
+6. Publicar somente a versão revisada e autorizada. Conferir projeto, branch e commit antes da ação.
+7. Após publicar, verificar domínio real, commit do deployment, comparação, catálogos, imagem social, sitemap e redirects antigos.
 
-### 1. Limpar repositório GitHub
-```bash
-# No terminal local, dentro da pasta do projeto:
-git pull origin main
-```
+Não atualizar os dois index.html em paralelo: a raiz é a fonte principal. A pasta soundduel é histórica; suas URLs têm redirects configurados. Não forçar deploy com alterações de espaço nem atribuir divergência a cache sem conferir commit e pasta publicada.
 
-### 2. Extrair ZIP e substituir arquivos
-1. Baixar `soundduel-updated.zip`
-2. Extrair conteúdo
-3. Substituir APENAS estes 2 arquivos no repositório local:
-   - `index.html` (raiz)
-   - `soundduel/index.html`
+## Escopo desta primeira correção
 
-### 3. Fazer commit e push
-```bash
-git add index.html soundduel/index.html
-git commit -m "fix: adicionar logos SVG nos botões de compra + busca dinâmica YouTube"
-git push origin main
-```
+Correções preparadas localmente; nenhuma publicação ou alteração de conta realizada. Não há deployment checks configurados no painel inspecionado. O suporte a IA foi retirado da interface porque a integração anterior não tinha autenticação nem backend. Um serviço de IA real exige implementação e configuração próprias.
 
-### 4. Invalidar cache do Vercel
-1. Acessar dashboard Vercel
-2. Ir em projeto → Settings → General
-3. Clicar em "Redeploy" ou "Clear Build Cache"
-4. Fazer novo deploy
-
-### 5. Limpar cache do navegador
-**Chrome/Edge:**
-- `Ctrl + Shift + R` (Windows/Linux)
-- `Cmd + Shift + R` (Mac)
-
-**Ou:**
-- `Ctrl + Shift + Delete`
-- Selecionar "Cached images and files"
-- Limpar
-
----
-
-## Verificação
-
-Após deploy, verificar se:
-1. Seção "Reviews no YouTube" tem botão gradiente roxo (não thumbnails)
-2. Headers das tabelas têm 3 botões coloridos (laranja, amarelo, vermelho)
-3. Botões têm logos SVG (não emojis)
-
----
-
-## Se ainda não funcionar
-
-### Teste local:
-1. Abrir `index.html` direto no navegador
-2. Selecionar 2+ fones
-3. Clicar "Comparar agora"
-4. Verificar se botões aparecem corretamente
-
-### Forçar novo build Vercel:
-1. Fazer qualquer alteração mínima (adicionar espaço)
-2. Commit e push
-3. Aguardar novo deploy
+A segunda rodada revisou os três guias, acrescentou fontes por campo e páginas informativas. A página de privacidade foi posteriormente retirada por solicitação do usuário. Antes da publicação, considerar os limites em `docs/REVISAO-2026-10-16.md` e `docs/TERCEIRA-RODADA.md`, e `docs/CONFERENCIA-CATALOGO.md`, incluindo as pendências factuais do catálogo. O preview local remove trackers; isso não comprova o comportamento das tags em produção.

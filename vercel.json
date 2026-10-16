@@ -1,5 +1,25 @@
 {
   "rewrites": [
-    { "source": "/guia/:slug", "destination": "/guia/:slug.html" }
+    {
+      "source": "/guia/:slug",
+      "destination": "/guia/:slug.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/soundduel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/soundduel/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/soundduel/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    }
   ]
 }
