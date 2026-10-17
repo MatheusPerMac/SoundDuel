@@ -194,7 +194,7 @@ test('REG-UI-08 tela estreita sem overflow e tabela com rolagem própria', async
 });
 
 
-test('REG-UI-09 três lojas usam link individual e voltam a busca ao expirar', async ({page}) => {
+test('REG-UI-09 links individuais prevalecem e expiração usa homepage afiliada quando permitida', async ({page}) => {
  const now=Date.parse('2026-10-17T12:00:00Z');
  await page.clock.install({time:new Date(now)});
  await page.goto('/?q=JBL+Tune+510BT');
@@ -221,10 +221,11 @@ test('REG-UI-09 três lojas usam link individual e voltam a busca ao expirar', a
   }
  }
  await page.clock.runFor(61000);
- for(const market of ['amazon','mercado_livre','shopee']) {
+ for(const [market,url,label] of [['amazon','https://www.amazon.com.br/?tag=test-20','Ir à loja (afiliado)'],['mercado_livre',null,'Buscar'],['shopee','https://s.shopee.com.br/3B8GGu8zvO','Ir à loja (afiliado)']]) {
   for(const target of await page.locator('[data-offer-id="1"][data-offer-marketplace="'+market+'"]').all()) {
-   await expect(target).toContainText('Buscar');
-   await expect(target).not.toHaveAttribute('href',/meli\.la|s\.shopee|tag=test/);
+   await expect(target).toContainText(label);
+   if(url) await expect(target).toHaveAttribute('href',url);
+   else await expect(target).toHaveAttribute('href',/lista\.mercadolivre\.com\.br/);
   }
  }
  const width=await page.evaluate(()=>({scroll:document.documentElement.scrollWidth,client:document.documentElement.clientWidth}));
@@ -251,8 +252,8 @@ test('REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte
  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toHaveAttribute('href',offers.find(o=>o.marketplace==='amazon').affiliateUrl);
  await page.clock.fastForward(86401000);
  await expect(page.locator('[data-price-id="452"]').first()).toHaveText('Consultar loja');
- await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Buscar');
- await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toContainText('Buscar');
+ await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Ir à loja (afiliado)');
+ await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toContainText('Ir à loja (afiliado)');
  await expect(table.getByRole('link',{name:'JBL — Tune 530BT, especificações oficiais'})).toHaveAttribute('href','https://www.jbl.com.br/TUNE530BT.html');
  await page.screenshot({path:testInfo.outputPath('novo-modelo.png'),fullPage:true});
 });

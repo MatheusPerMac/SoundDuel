@@ -39,6 +39,8 @@ const CONFIG = {
     },
     shopee: {
       enabled: true,
+      // Página inicial convertida pela API oficial de afiliados em 17/10/2026.
+      homepageAffiliateUrl: "https://s.shopee.com.br/3B8GGu8zvO",
       // Prefixo da URL de rastreamento Shopee
       // Ex: "https://s.shopee.com.br/SEULINK?url="
       trackingPrefix: "",

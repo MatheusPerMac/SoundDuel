@@ -432,12 +432,23 @@
     },
     {
       "id": "REG-UI-09",
-      "reason": "Seis botões e expiração; Shopee com prova API autenticada sem reviewCount",
+      "reason": "Seis botões: anúncio individual prevalece; ao expirar Amazon/Shopee usam homepage afiliada e ML conserva busca",
       "addedAt": "2026-10-17",
       "tests": [
         {
           "file": "tests/e2e/comparator.spec.mjs",
-          "name": "REG-UI-09 três lojas usam link individual e voltam a busca ao expirar"
+          "name": "REG-UI-09 links individuais prevalecem e expiração usa homepage afiliada quando permitida"
+        }
+      ]
+    },
+    {
+      "id": "REG-OFFER-04",
+      "reason": "Fallback de homepage só com link afiliado válido: Amazon usa tag real, Shopee URL da API, ML não permite homepage afiliada; não confundir com anúncio individual",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/purchase-offers.test.mjs",
+          "name": "REG-OFFER-04 oferta individual prevalece; sem ela homepage afiliada só nas lojas permitidas"
         }
       ]
     },
