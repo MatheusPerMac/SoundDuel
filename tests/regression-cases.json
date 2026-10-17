@@ -583,6 +583,17 @@
           "name": "REG-COVERAGE-01 relatório cobre cada modelo e loja sem confundir pendências com ofertas"
         }
       ]
+    },
+    {
+      "id": "REG-COVERAGE-02",
+      "reason": "REG-COVERAGE-02 exige produto destacado, preço e conversão individual verificados nos anúncios Mercado Livre",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/marketplace-coverage.test.mjs",
+          "name": "REG-COVERAGE-02 coleta Mercado Livre publica só destino afiliado e preço conferidos"
+        }
+      ]
     }
   ]
 }
