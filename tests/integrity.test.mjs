@@ -12,12 +12,20 @@ let server,base;
 before(async()=>{server=createServer();await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));base='http://127.0.0.1:'+server.address().port;});
 after(async()=>{await new Promise(resolve=>server.close(resolve));});
 
-test('catálogo sem IDs nem identidades duplicadas, com dados obrigatórios',()=>{
+test('catálogo sem IDs nem identidades duplicadas, com dados obrigatórios',async()=>{
+  const additions=JSON.parse(await read('docs/novos-modelos.json')).records;
   assert.equal(new Set(catalog.map(h=>h.id)).size,catalog.length);
   assert.equal(new Set(catalog.map(h=>h.brand.toLowerCase()+'|'+h.name.toLowerCase())).size,catalog.length);
   for(const h of catalog){
-    assert.ok(h.name&&h.brand&&h.type&&Number.isFinite(h.price)&&h.price>0,h.name);
-    assert.ok(h.specs&&h.score&&h.pros.length&&h.cons.length,h.name);
+    assert.ok(h.name&&h.brand&&h.type&&h.specs&&h.score,h.name);
+    if(additions.some(row=>row.id===h.id)) {
+      assert.equal(h.price,null,h.name); // Novos registros não inventam preço histórico nem notas.
+      assert.deepEqual(Object.keys(h.score),[]);
+      assert.equal(h.pros.length,0); assert.equal(h.cons.length,0);
+    } else {
+      assert.ok(Number.isFinite(h.price)&&h.price>0,h.name);
+      assert.ok(h.pros.length&&h.cons.length,h.name);
+    }
     for(const score of Object.values(h.score))assert.ok(score>=0&&score<=100,h.name);
     for(const key of ['amazon','ml'])assert.equal(new URL(h[key]).protocol,'https:');
   }

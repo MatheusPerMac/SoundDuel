@@ -10823,6 +10823,76 @@ const CATALOG_REVIEW = {
       }
     },
     "note": "Revisão por campo. Dados sem confirmação permanecem em revisão. Campos em revisão não são especificações confirmadas."
+  },
+  "452": {
+    "sources": [
+      {
+        "title": "JBL — Tune 530BT, especificações oficiais",
+        "url": "https://www.jbl.com.br/TUNE530BT.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "Microfone",
+          "Dobrável",
+          "Peso",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "pendingSpecs": [
+      "ANC",
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-17",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "ANC": {
+        "status": "not_confirmed",
+        "reason": "Não confirmado pela fonte consultada."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Dobrável": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Não confirmado pela fonte consultada."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      }
+    },
+    "note": "Novo cadastro com fonte oficial. ANC e codecs em revisão. Sem nota editorial ou cotação. Conteúdo da caixa conflitante na própria fonte; não adotado."
   }
 };
 const PUBLIC_HEADPHONES = HEADPHONES.filter(h => CATALOG_REVIEW[h.id]?.catalogStatus === "available");

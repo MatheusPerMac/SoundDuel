@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "id": 452,
+      "name": "JBL Tune 530BT",
+      "checkedAt": "2026-10-17",
+      "source": "https://www.jbl.com.br/TUNE530BT.html",
+      "policy": "Sem preço histórico, notas, prós/contras ou vídeos inventados. Classificação budget editorial baseada no preço anunciado pelo fabricante na consulta, não cotação de loja.",
+      "conflicts": [
+        {
+          "field": "Conteúdo da caixa",
+          "values": [
+            "Cabo de carregamento não incluído",
+            "1 cabo de carregamento USB-C"
+          ],
+          "decision": "Não incluir este campo até reconciliação."
+        }
+      ]
+    }
+  ]
+}

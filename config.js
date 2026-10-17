@@ -32,13 +32,13 @@ const CONFIG = {
       tag: "seutag-20",  // Sua tag de afiliado Amazon (ex: meusite-20)
     },
     mercadolivre: {
-      enabled: false,
+      enabled: true,
       // Prefixo da URL de rastreamento ML
       // Ex: "https://mercadolivre.com/afiliados/SEUTAG?url="
       trackingPrefix: "",
     },
     shopee: {
-      enabled: false,
+      enabled: true,
       // Prefixo da URL de rastreamento Shopee
       // Ex: "https://s.shopee.com.br/SEULINK?url="
       trackingPrefix: "",

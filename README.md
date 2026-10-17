@@ -21,7 +21,10 @@ Comparador estático de fones Bluetooth: https://www.comparefones.com.br/.
 Requer Node.js 22 ou superior. Não há dependências para instalar.
 
 ```sh
-node --test tests/*.test.mjs
+pnpm install --frozen-lockfile --ignore-scripts
+pnpm test:install
+git config --local core.hooksPath .githooks
+node scripts/regression.mjs
 node scripts/serve.mjs
 ```
 
@@ -35,7 +38,9 @@ A consolidação inicial manteve o primeiro registro de cada identidade marca/mo
 
 Notas e listas de prós/contras sem método documentado permanecem preservadas nos arquivos, mas foram suspensas da interface. Preços antigos sem data de coleta não são mais exibidos. Sem cotação válida em `prices.js`, mostramos “Consultar loja”.
 
-Para cadastrar um fone, adicione uma entrada única ao array `HEADPHONES`, preserve o padrão de campos e execute os testes. O arquivo `soundduel/headphones.js` é histórico e não deve ser atualizado para alimentar o site principal.
+Para cadastrar um fone, adicione uma entrada única ao array `HEADPHONES`, preserve o padrão de campos e execute a regressão completa. O arquivo `soundduel/headphones.js` é histórico e não deve ser atualizado para alimentar o site principal.
+
+Toda alteração exige `node scripts/regression.mjs` após a última edição. Cada correção ou desenvolvimento deve atualizar os testes e `tests/regression-cases.json`. A suíte cobre dados e interface em Chromium desktop/mobile; veja [procedimento, evidências e limites](docs/REGRESSAO.md). Hooks locais e workflow de CI executam a mesma suíte.
 
 ## Publicação
 

@@ -1,0 +1,511 @@
+{
+  "policy": "Toda correção, ajuste ou desenvolvimento deve acrescentar ou atualizar o caso pertinente e executar node scripts/regression.mjs. Não remover cobertura para obter aprovação.",
+  "cases": [
+    {
+      "id": "REG-BASE-01",
+      "reason": "cada registro original tem decisão rastreável sem perda de identidade",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/catalog-audit.test.mjs",
+          "name": "cada registro original tem decisão rastreável sem perda de identidade"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-02",
+      "reason": "todo campo exibido exige fonte e pendência nunca vaza o valor legado",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/catalog-audit.test.mjs",
+          "name": "todo campo exibido exige fonte e pendência nunca vaza o valor legado"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-03",
+      "reason": "cadastros suspensos não entram no catálogo selecionável",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/catalog-audit.test.mjs",
+          "name": "cadastros suspensos não entram no catálogo selecionável"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-04",
+      "reason": "contadores e entradas da UI usam apenas o catálogo disponível",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/catalog-audit.test.mjs",
+          "name": "contadores e entradas da UI usam apenas o catálogo disponível"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-05",
+      "reason": "divergências não aparecem como valores confirmados; cenário legado isolado de cotações reais cobertas por REG-LIVE-01",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/editorial.test.mjs",
+          "name": "divergências não aparecem como valores confirmados"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-06",
+      "reason": "correções de codecs têm fonte e preservam a identidade",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/editorial.test.mjs",
+          "name": "correções de codecs têm fonte e preservam a identidade"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-07",
+      "reason": "conteúdo não promete testes, rankings antigos ou notas sem método",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/editorial.test.mjs",
+          "name": "conteúdo não promete testes, rankings antigos ou notas sem método"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-08",
+      "reason": "aliases não criam duas identidades nem quebram nomes antigos",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/identity.test.mjs",
+          "name": "aliases não criam duas identidades nem quebram nomes antigos"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-09",
+      "reason": "variantes de AirPods 4 não compartilham ANC nem autonomia errados",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/identity.test.mjs",
+          "name": "variantes de AirPods 4 não compartilham ANC nem autonomia errados"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-10",
+      "reason": "Preserva dados legados e exige preço nulo e ausência de notas inventadas para novos modelos documentados",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "catálogo sem IDs nem identidades duplicadas, com dados obrigatórios"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-11",
+      "reason": "reconciliação preserva os registros conflitantes e os IDs canônicos",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "reconciliação preserva os registros conflitantes e os IDs canônicos"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-12",
+      "reason": "scripts publicados têm sintaxe válida",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "scripts publicados têm sintaxe válida"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-13",
+      "reason": "todas as URLs do sitemap e a imagem social existem",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "todas as URLs do sitemap e a imagem social existem"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-14",
+      "reason": "URLs antigas redirecionam à raiz e preservam a pesquisa",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "URLs antigas redirecionam à raiz e preservam a pesquisa"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-15",
+      "reason": "modelos vinculados no guia existem no catálogo",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "modelos vinculados no guia existem no catálogo"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-16",
+      "reason": "comparador não faz chamada de IA sem backend",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "comparador não faz chamada de IA sem backend"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-17",
+      "reason": "preview não envia analytics e não expõe arquivos Git",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/integrity.test.mjs",
+          "name": "preview não envia analytics e não expõe arquivos Git"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-18",
+      "reason": "registro rejeita preço inválido, variante errada e fonte sem oferta",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/prices.test.mjs",
+          "name": "registro rejeita preço inválido, variante errada e fonte sem oferta"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-19",
+      "reason": "cotação expirada e futura nunca vira preço atual",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/prices.test.mjs",
+          "name": "cotação expirada e futura nunca vira preço atual"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-20",
+      "reason": "dados da cotação não injetam HTML e preços legados não são usados",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/prices.test.mjs",
+          "name": "dados da cotação não injetam HTML e preços legados não são usados"
+        }
+      ]
+    },
+    {
+      "id": "REG-BASE-21",
+      "reason": "base publicada não contém cotações fictícias",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/prices.test.mjs",
+          "name": "base publicada não contém cotações fictícias"
+        }
+      ]
+    },
+    {
+      "id": "REG-DATA-01",
+      "reason": "todas as correções registradas preservam o valor corrigido",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/regression-contract.test.mjs",
+          "name": "REG-DATA-01 todas as correções registradas preservam o valor corrigido"
+        }
+      ]
+    },
+    {
+      "id": "REG-DATA-02",
+      "reason": "relatório de cobertura corresponde ao catálogo atual",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/regression-contract.test.mjs",
+          "name": "REG-DATA-02 relatório de cobertura corresponde ao catálogo atual"
+        }
+      ]
+    },
+    {
+      "id": "REG-SAFE-01",
+      "reason": "AdSense e Amazon desativados; apenas Shopee/ML ativados com ofertas verificadas e autorização. Privacidade continua removida.",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/regression-contract.test.mjs",
+          "name": "REG-SAFE-01 apenas afiliados autorizados ativos e privacidade removida"
+        }
+      ]
+    },
+    {
+      "id": "REG-META-01",
+      "reason": "matriz de regressão aponta para testes executáveis",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/regression-contract.test.mjs",
+          "name": "REG-META-01 matriz de regressão aponta para testes executáveis"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-01",
+      "reason": "seleção de dois e quatro modelos, sem duplicatas",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-01 seleção de dois e quatro modelos, sem duplicatas"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-02",
+      "reason": "troca, cancelar, Escape, clique externo e remoção",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-02 troca, cancelar, Escape, clique externo e remoção"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-03",
+      "reason": "digitação antes do foco atrasado preserva filtro e teclado",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-03 digitação antes do foco atrasado preserva filtro e teclado"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-04",
+      "reason": "links antigos, aliases, consulta parcial e suspensos",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-04 links antigos, aliases, consulta parcial e suspensos"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-05",
+      "reason": "valores corrigidos, fontes, preços e ausência de notas inventadas",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-05 valores corrigidos, fontes, preços e ausência de notas inventadas"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-06",
+      "reason": "variantes AirPods, chip separado de driver",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-06 variantes AirPods, chip separado de driver"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-07",
+      "reason": "cotação vence com a página aberta e ao recuperar visibilidade",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-07 cotação vence com a página aberta e ao recuperar visibilidade"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-08",
+      "reason": "tela estreita sem overflow e tabela com rolagem própria",
+      "addedAt": "2026-10-16",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-08 tela estreita sem overflow e tabela com rolagem própria"
+        }
+      ]
+    },
+    {
+      "id": "REG-AGENT-01",
+      "reason": "REG-AGENT-01 escolhe menor preço elegível por loja sem misturar variantes",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/weekly-offers.test.mjs",
+          "name": "REG-AGENT-01 escolhe menor preço elegível por loja sem misturar variantes"
+        }
+      ]
+    },
+    {
+      "id": "REG-AGENT-02",
+      "reason": "REG-AGENT-02 rejeita evidência ausente expirada e preço não comparável",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/weekly-offers.test.mjs",
+          "name": "REG-AGENT-02 rejeita evidência ausente expirada e preço não comparável"
+        }
+      ]
+    },
+    {
+      "id": "REG-AGENT-03",
+      "reason": "REG-AGENT-03 valida domínio e produto e não depende da ordem dos candidatos",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/weekly-offers.test.mjs",
+          "name": "REG-AGENT-03 valida domínio e produto e não depende da ordem dos candidatos"
+        }
+      ]
+    },
+    {
+      "id": "REG-AGENT-04",
+      "reason": "REG-AGENT-04 aceita URL ML de produto individual e exige condição de pagamento",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/weekly-offers.test.mjs",
+          "name": "REG-AGENT-04 aceita URL ML de produto individual e exige condição de pagamento"
+        }
+      ]
+    },
+    {
+      "id": "REG-OFFER-01",
+      "reason": "REG-OFFER-01 links individuais exigem conversão destino e validade confirmados",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/purchase-offers.test.mjs",
+          "name": "REG-OFFER-01 links individuais exigem conversão destino e validade confirmados"
+        }
+      ]
+    },
+    {
+      "id": "REG-OFFER-02",
+      "reason": "Perfis sociais não são destino final; preserva anúncio ML e rejeita troca de vendedor; fixtures isoladas",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/purchase-offers.test.mjs",
+          "name": "REG-OFFER-02 perfis sociais não são destino final e base não contém fixtures"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-09",
+      "reason": "Seis botões e expiração; Shopee com prova API autenticada sem reviewCount",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-09 três lojas usam link individual e voltam a busca ao expirar"
+        }
+      ]
+    },
+    {
+      "id": "REG-NEW-01",
+      "reason": "REG-NEW-01 cadastro novo tem identidade fonte e pendências sem preço ou notas inventadas",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/new-model.test.mjs",
+          "name": "REG-NEW-01 cadastro novo tem identidade fonte e pendências sem preço ou notas inventadas"
+        }
+      ]
+    },
+    {
+      "id": "REG-UI-10",
+      "reason": "REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte; oferta real do novo modelo e retorno à busca após 24h",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/e2e/comparator.spec.mjs",
+          "name": "REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte"
+        }
+      ]
+    },
+    {
+      "id": "REG-SHOPEE-01",
+      "reason": "REG-SHOPEE-01 API oficial seleciona e revalida IDs sem navegador nem avaliações inventadas",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/shopee-official.test.mjs",
+          "name": "REG-SHOPEE-01 API oficial seleciona e revalida IDs sem navegador nem avaliações inventadas"
+        }
+      ]
+    },
+    {
+      "id": "REG-SHOPEE-02",
+      "reason": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço rating baixo e revalidação divergente; rejeita geração posterior, tokens dispersos, Buds+ e variantes ANC/Plus",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/shopee-official.test.mjs",
+          "name": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço rating baixo e revalidação divergente"
+        }
+      ]
+    },
+    {
+      "id": "REG-OFFER-03",
+      "reason": "REG-OFFER-03 Shopee aceita comprovação autenticada da API sem exigir abertura do produto",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/purchase-offers.test.mjs",
+          "name": "REG-OFFER-03 Shopee aceita comprovação autenticada da API sem exigir abertura do produto"
+        }
+      ]
+    },
+    {
+      "id": "REG-LIVE-01",
+      "reason": "Ativação autorizada: dados reais com evidências, ausência de fixtures, menor cotação cadastrada e expiração",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/purchase-offers.test.mjs",
+          "name": "REG-LIVE-01 ofertas publicadas têm prova válida cotação correspondente e expiração"
+        }
+      ]
+    }
+  ]
+}
