@@ -322,7 +322,7 @@
     },
     {
       "id": "REG-UI-05",
-      "reason": "valores corrigidos, fontes, preços e ausência de notas inventadas",
+      "reason": "Valida dados e ausência de notas; relógio após validade mantém cenário sem cotação mesmo quando modelos ganham ofertas reais",
       "addedAt": "2026-10-16",
       "tests": [
         {
@@ -531,7 +531,7 @@
     },
     {
       "id": "REG-SHOPEE-04",
-      "reason": "REG-SHOPEE-04 vendedores comuns não liberam peças capas nem outras gerações",
+      "reason": "Exclui acessórios em português e inglês, incluindo replacement silicone eartips, sem exigir loja oficial",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -559,6 +559,28 @@
         {
           "file": "tests/amazon-offers.test.mjs",
           "name": "REG-AMAZON-02 conversão exige afiliado mesmo ASIN tag e validade"
+        }
+      ]
+    },
+    {
+      "id": "REG-AMAZON-03",
+      "reason": "REG-AMAZON-03 identifica grafias e rejeita famílias ou peças diferentes",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/amazon-offers.test.mjs",
+          "name": "REG-AMAZON-03 identifica grafias e rejeita famílias ou peças diferentes"
+        }
+      ]
+    },
+    {
+      "id": "REG-COVERAGE-01",
+      "reason": "REG-COVERAGE-01 relatório cobre cada modelo e loja sem confundir pendências com ofertas",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/marketplace-coverage.test.mjs",
+          "name": "REG-COVERAGE-01 relatório cobre cada modelo e loja sem confundir pendências com ofertas"
         }
       ]
     }

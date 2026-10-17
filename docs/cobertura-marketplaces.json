@@ -1,0 +1,3016 @@
+{
+  "generatedAt": "2026-10-17T13:55:46.512Z",
+  "publicModels": 153,
+  "targetLinks": 459,
+  "verifiedLinks": 124,
+  "modelsWithThree": 1,
+  "byMarketplace": {
+    "amazon": 66,
+    "mercado_livre": 1,
+    "shopee": 57
+  },
+  "coverage": [
+    {
+      "productId": 1,
+      "model": "JBL Tune 510BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:52.789Z",
+          "validUntil": "2026-10-18T13:50:52.789Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 2,
+      "model": "Sony WH-CH520",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:55.335Z",
+          "validUntil": "2026-10-18T13:50:55.335Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:56.287Z",
+          "validUntil": "2026-10-18T13:49:56.287Z"
+        }
+      ]
+    },
+    {
+      "productId": 3,
+      "model": "Philips TAH1205BK",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 4,
+      "model": "QCY T13",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:58.617Z",
+          "validUntil": "2026-10-18T13:50:58.617Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:56.979Z",
+          "validUntil": "2026-10-18T13:49:56.979Z"
+        }
+      ]
+    },
+    {
+      "productId": 5,
+      "model": "JBL Wave Buds",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:57.642Z",
+          "validUntil": "2026-10-18T13:49:57.642Z"
+        }
+      ]
+    },
+    {
+      "productId": 6,
+      "model": "Redmi Buds 5 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:02.045Z",
+          "validUntil": "2026-10-18T13:51:02.045Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:57.906Z",
+          "validUntil": "2026-10-18T13:49:57.906Z"
+        }
+      ]
+    },
+    {
+      "productId": 7,
+      "model": "QCY HT05 MeloBuds ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:58.167Z",
+          "validUntil": "2026-10-18T13:49:58.167Z"
+        }
+      ]
+    },
+    {
+      "productId": 8,
+      "model": "Redmi Buds 6 Active",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:05.336Z",
+          "validUntil": "2026-10-18T13:51:05.336Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:58.417Z",
+          "validUntil": "2026-10-18T13:49:58.417Z"
+        }
+      ]
+    },
+    {
+      "productId": 9,
+      "model": "JBL Tune 720BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:07.584Z",
+          "validUntil": "2026-10-18T13:51:07.584Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:58.688Z",
+          "validUntil": "2026-10-18T13:49:58.688Z"
+        }
+      ]
+    },
+    {
+      "productId": 10,
+      "model": "Edifier W800BT Plus",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:10.837Z",
+          "validUntil": "2026-10-18T13:51:10.837Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:58.938Z",
+          "validUntil": "2026-10-18T13:49:58.938Z"
+        }
+      ]
+    },
+    {
+      "productId": 11,
+      "model": "HAYLOU Purfree Lite",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 13,
+      "model": "Soundcore P30i",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:14.728Z",
+          "validUntil": "2026-10-18T13:51:14.728Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:59.195Z",
+          "validUntil": "2026-10-18T13:49:59.195Z"
+        }
+      ]
+    },
+    {
+      "productId": 14,
+      "model": "Edifier TWS1 Pro 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 15,
+      "model": "Philips TAH2300BK",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:59.702Z",
+          "validUntil": "2026-10-18T13:49:59.702Z"
+        }
+      ]
+    },
+    {
+      "productId": 16,
+      "model": "Samsung Galaxy Buds FE",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 17,
+      "model": "Edifier W820NB",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:49:59.983Z",
+          "validUntil": "2026-10-18T13:49:59.983Z"
+        }
+      ]
+    },
+    {
+      "productId": 19,
+      "model": "QCY H3 ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:18.306Z",
+          "validUntil": "2026-10-18T13:51:18.306Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:00.252Z",
+          "validUntil": "2026-10-18T13:50:00.252Z"
+        }
+      ]
+    },
+    {
+      "productId": 20,
+      "model": "Xiaomi Buds 5",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 21,
+      "model": "Redmi Buds 6 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:21.505Z",
+          "validUntil": "2026-10-18T13:51:21.505Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:00.523Z",
+          "validUntil": "2026-10-18T13:50:00.523Z"
+        }
+      ]
+    },
+    {
+      "productId": 22,
+      "model": "Nothing Ear (a)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:24.188Z",
+          "validUntil": "2026-10-18T13:51:24.188Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 23,
+      "model": "Soundcore Liberty 4 NC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:27.704Z",
+          "validUntil": "2026-10-18T13:51:27.704Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "revalidation_failed"
+        }
+      ]
+    },
+    {
+      "productId": 24,
+      "model": "HUAWEI FreeBuds 5i",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:45.657Z",
+          "validUntil": "2026-10-18T13:51:45.657Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:01.099Z",
+          "validUntil": "2026-10-18T13:50:01.099Z"
+        }
+      ]
+    },
+    {
+      "productId": 25,
+      "model": "Nothing Ear (2)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 26,
+      "model": "Motorola Moto Buds+",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 27,
+      "model": "JBL Tune 670NC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 28,
+      "model": "JBL Tune 760NC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 29,
+      "model": "Sony WH-CH720N",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:48.080Z",
+          "validUntil": "2026-10-18T13:51:48.080Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "manual_review_pending"
+        }
+      ]
+    },
+    {
+      "productId": 30,
+      "model": "Edifier W830NB",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:50.446Z",
+          "validUntil": "2026-10-18T13:51:50.446Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:01.756Z",
+          "validUntil": "2026-10-18T13:50:01.756Z"
+        }
+      ]
+    },
+    {
+      "productId": 31,
+      "model": "Soundcore Space A40",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:53.734Z",
+          "validUntil": "2026-10-18T13:51:53.734Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:01.995Z",
+          "validUntil": "2026-10-18T13:50:01.995Z"
+        }
+      ]
+    },
+    {
+      "productId": 32,
+      "model": "Soundcore Space Q45",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:56.795Z",
+          "validUntil": "2026-10-18T13:51:56.795Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:02.291Z",
+          "validUntil": "2026-10-18T13:50:02.291Z"
+        }
+      ]
+    },
+    {
+      "productId": 33,
+      "model": "Nothing Ear",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 34,
+      "model": "JBL Tune Beam",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 35,
+      "model": "Jabra Elite 4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 36,
+      "model": "Samsung Galaxy Buds 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 37,
+      "model": "Samsung Galaxy Buds 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:51:59.142Z",
+          "validUntil": "2026-10-18T13:51:59.142Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 38,
+      "model": "Sony WF-C700N",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:01.325Z",
+          "validUntil": "2026-10-18T13:52:01.325Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:02.607Z",
+          "validUntil": "2026-10-18T13:50:02.607Z"
+        }
+      ]
+    },
+    {
+      "productId": 39,
+      "model": "Beats Studio Buds+",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:02.895Z",
+          "validUntil": "2026-10-18T13:50:02.895Z"
+        }
+      ]
+    },
+    {
+      "productId": 40,
+      "model": "Sennheiser HD 450BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:03.685Z",
+          "validUntil": "2026-10-18T13:52:03.685Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 41,
+      "model": "Sony WH-1000XM4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:06.400Z",
+          "validUntil": "2026-10-18T13:52:06.400Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:03.138Z",
+          "validUntil": "2026-10-18T13:50:03.138Z"
+        }
+      ]
+    },
+    {
+      "productId": 42,
+      "model": "Sony WH-1000XM5",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:09.504Z",
+          "validUntil": "2026-10-18T13:52:09.504Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:03.396Z",
+          "validUntil": "2026-10-18T13:50:03.396Z"
+        }
+      ]
+    },
+    {
+      "productId": 43,
+      "model": "Bose QuietComfort 45",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:12.045Z",
+          "validUntil": "2026-10-18T13:52:12.045Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:03.674Z",
+          "validUntil": "2026-10-18T13:50:03.674Z"
+        }
+      ]
+    },
+    {
+      "productId": 44,
+      "model": "Samsung Galaxy Buds 2 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 45,
+      "model": "Samsung Galaxy Buds 3 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:14.250Z",
+          "validUntil": "2026-10-18T13:52:14.250Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 46,
+      "model": "HUAWEI FreeBuds Pro 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 47,
+      "model": "Beats Solo 4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:16.485Z",
+          "validUntil": "2026-10-18T13:52:16.485Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:03.969Z",
+          "validUntil": "2026-10-18T13:50:03.969Z"
+        }
+      ]
+    },
+    {
+      "productId": 48,
+      "model": "Sony LinkBuds S",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 49,
+      "model": "Jabra Elite 10 (1ª geração)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 50,
+      "model": "Jabra Evolve2 55",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 51,
+      "model": "Sony WF-1000XM5",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:19.244Z",
+          "validUntil": "2026-10-18T13:52:19.244Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 52,
+      "model": "Sennheiser Momentum 4 Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:38.096Z",
+          "validUntil": "2026-10-18T13:52:38.096Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 53,
+      "model": "Beats Fit Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 54,
+      "model": "Apple AirPods 4 (sem ANC)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 55,
+      "model": "Apple AirPods Pro 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "pagination_incomplete"
+        }
+      ]
+    },
+    {
+      "productId": 56,
+      "model": "Bose QuietComfort Ultra",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:40.698Z",
+          "validUntil": "2026-10-18T13:52:40.698Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 57,
+      "model": "Bose QC Ultra Earbuds",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 58,
+      "model": "Apple AirPods Max (USB-C, 2024)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 100,
+      "model": "Sony WH-1000XM6",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:43.621Z",
+          "validUntil": "2026-10-18T13:52:43.621Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:04.262Z",
+          "validUntil": "2026-10-18T13:50:04.262Z"
+        }
+      ]
+    },
+    {
+      "productId": 107,
+      "model": "Sony WF-C510",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 108,
+      "model": "Sony WF-C500",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 110,
+      "model": "Sony LinkBuds Open",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 111,
+      "model": "Sony INZONE Buds (WF-G700N)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:04.508Z",
+          "validUntil": "2026-10-18T13:50:04.508Z"
+        }
+      ]
+    },
+    {
+      "productId": 122,
+      "model": "JBL Tune 520BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:46.988Z",
+          "validUntil": "2026-10-18T13:52:46.988Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "verified",
+          "checkedAt": "2026-10-17T04:15:32.444Z",
+          "validUntil": "2026-10-18T04:15:32.444Z"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:04.978Z",
+          "validUntil": "2026-10-18T13:50:04.978Z"
+        }
+      ]
+    },
+    {
+      "productId": 123,
+      "model": "JBL Tour One M2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 125,
+      "model": "JBL Wave Beam 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:49.890Z",
+          "validUntil": "2026-10-18T13:52:49.890Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:05.238Z",
+          "validUntil": "2026-10-18T13:50:05.238Z"
+        }
+      ]
+    },
+    {
+      "productId": 126,
+      "model": "JBL Tune Flex 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:52.437Z",
+          "validUntil": "2026-10-18T13:52:52.437Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:05.585Z",
+          "validUntil": "2026-10-18T13:50:05.585Z"
+        }
+      ]
+    },
+    {
+      "productId": 128,
+      "model": "JBL Tour Pro 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:05.920Z",
+          "validUntil": "2026-10-18T13:50:05.920Z"
+        }
+      ]
+    },
+    {
+      "productId": 129,
+      "model": "JBL Endurance Peak 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:54.859Z",
+          "validUntil": "2026-10-18T13:52:54.859Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 130,
+      "model": "JBL Endurance Race 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:52:57.182Z",
+          "validUntil": "2026-10-18T13:52:57.182Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:06.165Z",
+          "validUntil": "2026-10-18T13:50:06.165Z"
+        }
+      ]
+    },
+    {
+      "productId": 131,
+      "model": "JBL Live Beam 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:00.416Z",
+          "validUntil": "2026-10-18T13:53:00.416Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 140,
+      "model": "Samsung Galaxy Buds 4 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:02.830Z",
+          "validUntil": "2026-10-18T13:53:02.830Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 141,
+      "model": "Samsung Galaxy Buds 4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:05.097Z",
+          "validUntil": "2026-10-18T13:53:05.097Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:06.646Z",
+          "validUntil": "2026-10-18T13:50:06.646Z"
+        }
+      ]
+    },
+    {
+      "productId": 144,
+      "model": "Samsung Galaxy Buds 3 FE",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:07.542Z",
+          "validUntil": "2026-10-18T13:53:07.542Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 145,
+      "model": "Samsung Galaxy Buds Core",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:10.267Z",
+          "validUntil": "2026-10-18T13:53:10.267Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:06.975Z",
+          "validUntil": "2026-10-18T13:50:06.975Z"
+        }
+      ]
+    },
+    {
+      "productId": 150,
+      "model": "Apple AirPods Pro 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:12.419Z",
+          "validUntil": "2026-10-18T13:53:12.419Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "pagination_incomplete"
+        }
+      ]
+    },
+    {
+      "productId": 152,
+      "model": "Apple AirPods 4 (com ANC)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 154,
+      "model": "Apple AirPods Max 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 160,
+      "model": "Bose QuietComfort Ultra Headphones 2ª gen",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 161,
+      "model": "Bose QuietComfort (nova versão)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 163,
+      "model": "Bose QuietComfort Ultra Earbuds 2ª gen",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 164,
+      "model": "Bose QuietComfort Earbuds II",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "manual_review_pending"
+        }
+      ]
+    },
+    {
+      "productId": 201,
+      "model": "Redmi Buds 6",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:49.547Z",
+          "validUntil": "2026-10-18T13:53:49.547Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:07.639Z",
+          "validUntil": "2026-10-18T13:50:07.639Z"
+        }
+      ]
+    },
+    {
+      "productId": 202,
+      "model": "Redmi Buds 6 Lite",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:51.735Z",
+          "validUntil": "2026-10-18T13:53:51.735Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:08.023Z",
+          "validUntil": "2026-10-18T13:50:08.023Z"
+        }
+      ]
+    },
+    {
+      "productId": 204,
+      "model": "Redmi Buds 6 Play",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:54.170Z",
+          "validUntil": "2026-10-18T13:53:54.170Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:08.365Z",
+          "validUntil": "2026-10-18T13:50:08.365Z"
+        }
+      ]
+    },
+    {
+      "productId": 206,
+      "model": "Redmi Buds 5",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:56.353Z",
+          "validUntil": "2026-10-18T13:53:56.353Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:08.839Z",
+          "validUntil": "2026-10-18T13:50:08.839Z"
+        }
+      ]
+    },
+    {
+      "productId": 208,
+      "model": "Redmi Buds 4 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 209,
+      "model": "Redmi Buds 4 Lite",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:09.104Z",
+          "validUntil": "2026-10-18T13:50:09.104Z"
+        }
+      ]
+    },
+    {
+      "productId": 210,
+      "model": "Xiaomi Air 3 SE",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 220,
+      "model": "QCY H3 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:09.404Z",
+          "validUntil": "2026-10-18T13:50:09.404Z"
+        }
+      ]
+    },
+    {
+      "productId": 222,
+      "model": "QCY H3S ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:09.689Z",
+          "validUntil": "2026-10-18T13:50:09.689Z"
+        }
+      ]
+    },
+    {
+      "productId": 223,
+      "model": "QCY H2 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:09.973Z",
+          "validUntil": "2026-10-18T13:50:09.973Z"
+        }
+      ]
+    },
+    {
+      "productId": 224,
+      "model": "QCY HT08 MeloBuds Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:10.251Z",
+          "validUntil": "2026-10-18T13:50:10.251Z"
+        }
+      ]
+    },
+    {
+      "productId": 234,
+      "model": "Edifier NeoDots",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 236,
+      "model": "Edifier TWS NB2 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 240,
+      "model": "Soundcore Space One Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:53:58.834Z",
+          "validUntil": "2026-10-18T13:53:58.834Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 243,
+      "model": "Soundcore Q30",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:01.782Z",
+          "validUntil": "2026-10-18T13:54:01.782Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:10.641Z",
+          "validUntil": "2026-10-18T13:50:10.641Z"
+        }
+      ]
+    },
+    {
+      "productId": 244,
+      "model": "Soundcore Q11i",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:04.570Z",
+          "validUntil": "2026-10-18T13:54:04.570Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 248,
+      "model": "Soundcore P31i",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:07.573Z",
+          "validUntil": "2026-10-18T13:54:07.573Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:10.884Z",
+          "validUntil": "2026-10-18T13:50:10.884Z"
+        }
+      ]
+    },
+    {
+      "productId": 249,
+      "model": "Soundcore Sport X20",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 251,
+      "model": "Sennheiser Accentum Plus Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 252,
+      "model": "Sennheiser Accentum Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 254,
+      "model": "Sennheiser Momentum True Wireless 4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:09.846Z",
+          "validUntil": "2026-10-18T13:54:09.846Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 255,
+      "model": "Sennheiser Momentum True Wireless 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:12.156Z",
+          "validUntil": "2026-10-18T13:54:12.156Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 256,
+      "model": "Sennheiser Accentum True Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 257,
+      "model": "Sennheiser Momentum Sport",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 300,
+      "model": "Jabra Elite 10 (2ª geração)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 302,
+      "model": "Jabra Elite 8 Active",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 304,
+      "model": "Jabra Evolve2 Buds",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 310,
+      "model": "Philips TAH8506",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:14.754Z",
+          "validUntil": "2026-10-18T13:54:14.754Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:11.136Z",
+          "validUntil": "2026-10-18T13:50:11.136Z"
+        }
+      ]
+    },
+    {
+      "productId": 311,
+      "model": "Philips TAH5205",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 313,
+      "model": "Philips TAT3217",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 314,
+      "model": "Philips TAT2000",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 320,
+      "model": "Shokz OpenRun Pro 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:17.558Z",
+          "validUntil": "2026-10-18T13:54:17.558Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:11.388Z",
+          "validUntil": "2026-10-18T13:50:11.388Z"
+        }
+      ]
+    },
+    {
+      "productId": 321,
+      "model": "Shokz OpenRun Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:20.279Z",
+          "validUntil": "2026-10-18T13:54:20.279Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 322,
+      "model": "Shokz OpenRun",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:22.548Z",
+          "validUntil": "2026-10-18T13:54:22.548Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:11.717Z",
+          "validUntil": "2026-10-18T13:50:11.717Z"
+        }
+      ]
+    },
+    {
+      "productId": 323,
+      "model": "Shokz OpenFit Air",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:36.739Z",
+          "validUntil": "2026-10-18T13:54:36.739Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 330,
+      "model": "Haylou S35 ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:38.933Z",
+          "validUntil": "2026-10-18T13:54:38.933Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:11.994Z",
+          "validUntil": "2026-10-18T13:50:11.994Z"
+        }
+      ]
+    },
+    {
+      "productId": 331,
+      "model": "Haylou S30 ANC (kit Pro)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 332,
+      "model": "Haylou S30 ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:12.308Z",
+          "validUntil": "2026-10-18T13:50:12.308Z"
+        }
+      ]
+    },
+    {
+      "productId": 333,
+      "model": "Haylou PurFree BC01",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 334,
+      "model": "Haylou W1",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 335,
+      "model": "Haylou GT7 Neo",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 340,
+      "model": "Baseus H1i Bowie",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:41.862Z",
+          "validUntil": "2026-10-18T13:54:41.862Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 341,
+      "model": "Baseus Bowie MA10 Pro",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 342,
+      "model": "Baseus Bowie M2s",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:12.583Z",
+          "validUntil": "2026-10-18T13:50:12.583Z"
+        }
+      ]
+    },
+    {
+      "productId": 343,
+      "model": "Baseus Bowie EZ10",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:44.397Z",
+          "validUntil": "2026-10-18T13:54:44.397Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:12.866Z",
+          "validUntil": "2026-10-18T13:50:12.866Z"
+        }
+      ]
+    },
+    {
+      "productId": 352,
+      "model": "Lenovo XT96",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 360,
+      "model": "Bang & Olufsen Beoplay H95",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 361,
+      "model": "Bang & Olufsen Beoplay EX",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 362,
+      "model": "Bang & Olufsen Beoplay Portal",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 370,
+      "model": "AKG N700NC M2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 371,
+      "model": "AKG Y600NC Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 372,
+      "model": "AKG Y500 Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 373,
+      "model": "AKG N400NC TWS",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 400,
+      "model": "Skullcandy Crusher ANC 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:46.702Z",
+          "validUntil": "2026-10-18T13:54:46.702Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 401,
+      "model": "Skullcandy Crusher Evo",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:49.074Z",
+          "validUntil": "2026-10-18T13:54:49.074Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:13.145Z",
+          "validUntil": "2026-10-18T13:50:13.145Z"
+        }
+      ]
+    },
+    {
+      "productId": 402,
+      "model": "Skullcandy Hesh ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:51.900Z",
+          "validUntil": "2026-10-18T13:54:51.900Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:13.402Z",
+          "validUntil": "2026-10-18T13:50:13.402Z"
+        }
+      ]
+    },
+    {
+      "productId": 403,
+      "model": "Skullcandy Hesh Evo",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:54.361Z",
+          "validUntil": "2026-10-18T13:54:54.361Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:13.677Z",
+          "validUntil": "2026-10-18T13:50:13.677Z"
+        }
+      ]
+    },
+    {
+      "productId": 404,
+      "model": "Skullcandy Push Active",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:56.512Z",
+          "validUntil": "2026-10-18T13:54:56.512Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 411,
+      "model": "Motorola Moto Buds 500 ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 412,
+      "model": "Motorola Moto Buds",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 413,
+      "model": "Motorola Moto Buds Loop",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:54:58.928Z",
+          "validUntil": "2026-10-18T13:54:58.928Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:14.123Z",
+          "validUntil": "2026-10-18T13:50:14.123Z"
+        }
+      ]
+    },
+    {
+      "productId": 430,
+      "model": "Jaybird Vista 2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 431,
+      "model": "Jaybird Run XT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 435,
+      "model": "TOZO T10 (Bluetooth 5.3)",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 436,
+      "model": "Tozo A3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:14.374Z",
+          "validUntil": "2026-10-18T13:50:14.374Z"
+        }
+      ]
+    },
+    {
+      "productId": 437,
+      "model": "Tozo HT2",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:55:01.265Z",
+          "validUntil": "2026-10-18T13:55:01.265Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 440,
+      "model": "Ugreen HiTune Max5C",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:14.630Z",
+          "validUntil": "2026-10-18T13:50:14.630Z"
+        }
+      ]
+    },
+    {
+      "productId": 441,
+      "model": "Ugreen HiTune T3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 445,
+      "model": "Tronsmart Apollo Bold",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 446,
+      "model": "Tronsmart Onyx Pure",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 450,
+      "model": "JLab JBuds ANC 3",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 451,
+      "model": "JLab Studio Pro ANC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "no_verified_offer"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 452,
+      "model": "JBL Tune 530BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:55:03.754Z",
+          "validUntil": "2026-10-18T13:55:03.754Z"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "login_captcha_blocked"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-17T13:50:14.964Z",
+          "validUntil": "2026-10-18T13:50:14.964Z"
+        }
+      ]
+    }
+  ]
+}
