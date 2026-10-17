@@ -3,16 +3,16 @@ const PRICE_QUOTES = [
   {
     "productId": 2,
     "productName": "Sony WH-CH520",
-    "amount": 399,
+    "amount": 299,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "M.C.P.S.Comercios",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1556718783/58258709483",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço anunciado; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Headset-Sony-WH-CH520-Bluetooth-microfone/dp/B0BS1PRC4L/ref=sr_1_45?dib=eyJ2IjoiMSJ9.1_Hx0oz-R8vD4xIE8c8L110AqEHuFBobTUsy4o_olS5dAmcXvG4yta5uEmO3hoQ-wiMndjNluhhHJ7J9S7w5lfVN4qlRT0pYUeY_85cQBBOSc_R2x5CRbNvFEeg12iWas0lBB00fHEbu23RQ6R7MkYiFWkmdxwThMrgMIJAMWvAZQtjlG4Yphd1NYdzoRXRl4w2UYd3TRPnoccUSk9ACsHUpvYj7E7IArSbVv4YQHquEpkWHjm_0_o41oAzrvdweO41SJJvw9PN-pbWy4IkISfi0o-JvvxyNPm0jWua1muY.GowycypC_-3LzdntKnF69wRKXLOmDlHZZZGgTcNGqmY&dib_tag=se&keywords=Sony+WH-CH520&qid=1792215846&sr=8-45&ufe=app_do%3Aamzn1.fos.039ad06c-756b-42cf-b2ab-dcc42e7aa5c9",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:42:59.133Z",
-    "validUntil": "2026-10-18T04:42:59.133Z"
+    "checkedAt": "2026-10-17T13:50:55.335Z",
+    "validUntil": "2026-10-18T13:50:55.335Z"
   },
   {
     "productId": 4,
@@ -25,8 +25,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/935991633/26189191705",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:42:59.778Z",
-    "validUntil": "2026-10-18T04:42:59.778Z"
+    "checkedAt": "2026-10-17T13:49:56.979Z",
+    "validUntil": "2026-10-18T13:49:56.979Z"
   },
   {
     "productId": 5,
@@ -39,22 +39,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/500550748/58218935640",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:00.591Z",
-    "validUntil": "2026-10-18T04:43:00.591Z"
+    "checkedAt": "2026-10-17T13:49:57.642Z",
+    "validUntil": "2026-10-18T13:49:57.642Z"
   },
   {
     "productId": 6,
     "productName": "Redmi Buds 5 Pro",
-    "amount": 379,
+    "amount": 350.55,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Digital Pro Store",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1788845018/58258735268",
+    "merchant": "Amazon",
+    "seller": "Speed Comércio",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Xiaomi-Bluetooth-integrado-qualidade-cancelamento/dp/B0CQKHK626/ref=sr_1_101?dib=eyJ2IjoiMSJ9.CIYcZ1Y_3gsxcqYfRZULMo9KN11n96awoV_A7qemekymRIMWSiirSxnVw4C52OpPW5sAVGj1cCkoPOuysWaIJqsC8GXwN8C0bIVeJHMq9YBoTlhGzA9S820z1a_zHg0asEZCodSJGG1vfXbwgACwo2g-PMTCy5V64JSUSVXTnmkexOm03C8zP441WbPHZV77gRj0AkYacxfsfT0_7g8AAch7Pf9oB9yOH0qzX3-OCG_I--81SbeRnn9cLDEisJzPgXAy8clrvUXUmL9t77utFVuIPAoUqPmsROWUXNFm-ok.8DgNCMjZFuZ2X6-YAbewN8A7StXxQeGxbwGxl2vffaQ&dib_tag=se&keywords=Redmi%2BBuds%2B5%2BPro&qid=1792215886&sr=8-101&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&xpid=vKRtojZ3wC7P_&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:00.868Z",
-    "validUntil": "2026-10-18T04:43:00.868Z"
+    "checkedAt": "2026-10-17T13:51:02.045Z",
+    "validUntil": "2026-10-18T13:51:02.045Z"
   },
   {
     "productId": 7,
@@ -67,8 +67,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1425469479/58267346180",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:01.115Z",
-    "validUntil": "2026-10-18T04:43:01.115Z"
+    "checkedAt": "2026-10-17T13:49:58.167Z",
+    "validUntil": "2026-10-18T13:49:58.167Z"
   },
   {
     "productId": 8,
@@ -81,8 +81,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/219122299/18798211115",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:01.380Z",
-    "validUntil": "2026-10-18T04:43:01.380Z"
+    "checkedAt": "2026-10-17T13:49:58.417Z",
+    "validUntil": "2026-10-18T13:49:58.417Z"
   },
   {
     "productId": 9,
@@ -95,36 +95,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/778397589/52615208612",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:01.648Z",
-    "validUntil": "2026-10-18T04:43:01.648Z"
+    "checkedAt": "2026-10-17T13:49:58.688Z",
+    "validUntil": "2026-10-18T13:49:58.688Z"
   },
   {
     "productId": 10,
     "productName": "Edifier W800BT Plus",
-    "amount": 369.9,
+    "amount": 274.55,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Loja Alldaz",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/562121984/58207771191",
+    "merchant": "Amazon",
+    "seller": "TRANCOSO INFORMATICA",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Ouvido-Headset-EDIFIER-W800BT-PLUS/dp/B08P2K1J73/ref=sr_1_46?dib=eyJ2IjoiMSJ9.G8-M8aCBw6m_4wOz9vz34UJiRlcCJh5jVurDxFHiD4ALPo2v-Uf2ZyeNk5rENJVzaoTHZ3LIOylUrhfgakVH_WBkzwvKOeYQL8QdS0Q3-5LrZtLHVxTIxmlgPTyWBA7DTpPxEVteGb3xpK2druCKGF47gF7px1kw5mKj3DLLBTRmegYDxXga32F0saCRjEfJnhWOq9xyMBk3jgwEKK_5RzXHJyd6RGZMcu6cQdp2OZ4c_9BWpEKyx5ibin4im5xHQ4ChYKIwPgrDI7V7ZI9-FN8zwV_u9GESVnSFXEw81Cw.MyO5PUIB1ryvtqa4MqQ8NmivJFldyKRBBGdFPV16wOA&dib_tag=se&keywords=Edifier%2BW800BT%2BPlus&qid=1792215912&sr=8-46&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:01.925Z",
-    "validUntil": "2026-10-18T04:43:01.925Z"
+    "checkedAt": "2026-10-17T13:51:10.837Z",
+    "validUntil": "2026-10-18T13:51:10.837Z"
   },
   {
     "productId": 13,
     "productName": "Soundcore P30i",
-    "amount": 199.9,
+    "amount": 186.67,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "eFacini",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/405653989/57463107196",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C/ref=sr_1_47?dib=eyJ2IjoiMSJ9.C2NCirnvKjqo7KmjVnkNQdv0Y2Xo9CmMYEeCDYntMFoFBMoFsf-Qpj0Qct05JlmczCR25F8pKiYfR990Z2yQ0B_l1isCD8M_hxy4HLOX4r1qN-cR8PMLFdN_RZdrHBAATsQVzSASVFR9L9GHByFfQj2kA3IMLfhqollyC_aCvyY0QWQZncHQTfz7tEwZX8JvhnXkPZDgO9g_nxLB_jL2DEYp_DJVfGS36GOxpib6kOoq6elDtMfUCGptgqHpbze6Eqr4iZu4WNAdRbLGprJtTuw3d7npzYRP1l_pm6OI73w.mHAXSWQA_tHjlLQJ8Dx7vT9ZUoXye4QoznTuxo_SZlo&dib_tag=se&keywords=Soundcore%2BP30i&qid=1792215924&sr=8-47&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:02.183Z",
-    "validUntil": "2026-10-18T04:43:02.183Z"
+    "checkedAt": "2026-10-17T13:51:14.728Z",
+    "validUntil": "2026-10-18T13:51:14.728Z"
   },
   {
     "productId": 15,
@@ -137,8 +137,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/410066889/22394864777",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:02.429Z",
-    "validUntil": "2026-10-18T04:43:02.429Z"
+    "checkedAt": "2026-10-17T13:49:59.702Z",
+    "validUntil": "2026-10-18T13:49:59.702Z"
   },
   {
     "productId": 17,
@@ -151,8 +151,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/971951301/58217249136",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:02.685Z",
-    "validUntil": "2026-10-18T04:43:02.685Z"
+    "checkedAt": "2026-10-17T13:49:59.983Z",
+    "validUntil": "2026-10-18T13:49:59.983Z"
   },
   {
     "productId": 19,
@@ -165,36 +165,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/239168233/27350696719",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:02.927Z",
-    "validUntil": "2026-10-18T04:43:02.927Z"
+    "checkedAt": "2026-10-17T13:50:00.252Z",
+    "validUntil": "2026-10-18T13:50:00.252Z"
   },
   {
     "productId": 21,
     "productName": "Redmi Buds 6 Pro",
-    "amount": 459,
+    "amount": 379.9,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Escala Fast",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/295736938/41175612271",
+    "merchant": "Amazon",
+    "seller": "Onix Games",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/realista-resolu%C3%A7%C3%A3o-cancelamento-compat%C3%ADvel-dispositivo/dp/B0DPXSS7KX/ref=sr_1_117?dib=eyJ2IjoiMSJ9.3h_UGtzwxF_QEyALvJX8kxcgN63q98xLKB0UVpqLA6hQlStlqpdFT1VfY_y_8zpAsni8jGJDAlbizWXACOPjcMEMi5uB24GVERLnjqCu-O_ffDRJP1J1SUth1ypumqS0DpMtl8B88_sVjLrjDeIKOYTT8sqSBezyGq8fzUvbuEntJgSDSilP-vDYRoNqbPfCByLfWtuKKEtbXPRVL9ce9ZtVoBR1WiBuaaws1h8CP4HsCatdyEsdMI1e4OMQk3KbIQdiBrYaWsoO0-cs8_q_5eJ79cU_2q1UFNRlt8K6Jsw.Wu_UFW5HV78o2uFJjr_1pYSp9Bsz3fNTP47P9SgPEtQ&dib_tag=se&keywords=Redmi%2BBuds%2B6%2BPro&qid=1792215978&sr=8-117&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&xpid=iUgqoIbpuEXep&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:03.193Z",
-    "validUntil": "2026-10-18T04:43:03.193Z"
-  },
-  {
-    "productId": 23,
-    "productName": "Soundcore Liberty 4 NC",
-    "amount": 479,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Mais3reembalados",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/572705990/58219615410",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:03.459Z",
-    "validUntil": "2026-10-18T04:43:03.459Z"
+    "checkedAt": "2026-10-17T13:51:21.505Z",
+    "validUntil": "2026-10-18T13:51:21.505Z"
   },
   {
     "productId": 24,
@@ -207,8 +193,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/344381236/42983561009",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:03.701Z",
-    "validUntil": "2026-10-18T04:43:03.701Z"
+    "checkedAt": "2026-10-17T13:50:01.099Z",
+    "validUntil": "2026-10-18T13:50:01.099Z"
   },
   {
     "productId": 30,
@@ -221,36 +207,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/684175785/43382959523",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:04.187Z",
-    "validUntil": "2026-10-18T04:43:04.187Z"
+    "checkedAt": "2026-10-17T13:50:01.756Z",
+    "validUntil": "2026-10-18T13:50:01.756Z"
   },
   {
     "productId": 31,
     "productName": "Soundcore Space A40",
-    "amount": 450,
+    "amount": 355.58,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Tech_Dreams",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1932873830/58268920227",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Space-Anker-Ouvido-Bluetooth/dp/B0B1LJFBPY/ref=sr_1_38?dib=eyJ2IjoiMSJ9.5evqnQjOeBzFuQY5mUV-5S2laMOMiAiRyJXu9IBCxbOpT0xASvLDE9aljV4oOf6fai6pUt4dwHdZq7QJkMR4_30kCSPSjb07dL1JI4mCAMosIetWhjO1QiP6Q4gFd3dNAb8JitaTxtzKuEr07wmsroCTDtQp8nWiuywxanNNTL55cNDj7ZLlczdNXozpfMrw8gfiKt1oWHRqok7NIh7cA43zqZkrPYR2Ga88X9lnQ26QgQaVUMucW3V129rFH3_grGnp4vwyf3JtrZJw5__yp29ow_sDHefyD8UCRqUFi3E.V-mbi35OVIUJCHoaaA3d_28Y0SLirwiQKBQKDrC6PUU&dib_tag=se&keywords=Soundcore%2BSpace%2BA40&qid=1792216029&sr=8-38&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:04.453Z",
-    "validUntil": "2026-10-18T04:43:04.453Z"
+    "checkedAt": "2026-10-17T13:51:53.734Z",
+    "validUntil": "2026-10-18T13:51:53.734Z"
   },
   {
     "productId": 32,
     "productName": "Soundcore Space Q45",
-    "amount": 770,
+    "amount": 721.05,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "PointdosGamesMadureira",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/326774653/58218495402",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Space-Headphone-Bluetooth-Over-Ear/dp/B0B5VHRX7F/ref=sr_1_44?dib=eyJ2IjoiMSJ9._tySwuQr-bFqUHqUbTbAaHh3z0q9jwTuEUHZKUEWJSutOw2uKYabjg1Cd1bJbh-Hws3yJIVSw2lHvPzpz8UN5O1VQridSZIz7P47B-6CTtOA-NrNsHF39ErTgM9N5AFv22CDLVcxnK8ZMTfyfdIYsU2n4vf_thMacHaK5ajy4Xy-2nao2WqVk-BjcNnBWKa8_N_bmKo7NPYRrhi2sbIzf4tQKmeFVZrFbo6x63h9nEcBPgE1uiYiq14CQQbKQRquM3v8N-82bALafeBqqLYkflG0PG_p2yhDTG2fUYtmeSk.3Dq43pbOVVCwbmzurS9_pSUscFOpNKaVg1wB9OSpOHc&dib_tag=se&keywords=Soundcore%2BSpace%2BQ45&qid=1792216034&sr=8-44&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:04.702Z",
-    "validUntil": "2026-10-18T04:43:04.702Z"
+    "checkedAt": "2026-10-17T13:51:56.795Z",
+    "validUntil": "2026-10-18T13:51:56.795Z"
   },
   {
     "productId": 38,
@@ -263,8 +249,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1748798216/58256737561",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:04.958Z",
-    "validUntil": "2026-10-18T04:43:04.958Z"
+    "checkedAt": "2026-10-17T13:50:02.607Z",
+    "validUntil": "2026-10-18T13:50:02.607Z"
   },
   {
     "productId": 39,
@@ -277,22 +263,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1334285878/58256600218",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:05.211Z",
-    "validUntil": "2026-10-18T04:43:05.211Z"
+    "checkedAt": "2026-10-17T13:50:02.895Z",
+    "validUntil": "2026-10-18T13:50:02.895Z"
   },
   {
     "productId": 41,
     "productName": "Sony WH-1000XM4",
-    "amount": 1666,
+    "amount": 1519.05,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Imagem Hitech Oficial",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1344289546/23892936391",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sony-WH-1000XM4-Cancelling-cancelamento-WH-1000XM4BMUC/dp/B0863TXGM3/ref=sr_1_128?dib=eyJ2IjoiMSJ9.IGVt5oz2re2c9fqZC-oJbw1G1pAeGBRDzU-l6ZYixHTJLJdKP5FWHQfkwJkNuZnYYGYn0BB1BH8sdk9H_rp98tVEuscbdMzpSS21t-j7Vfsj8HGPM-8LZwCqAqx_Vj1FTlI3FdxZF6VxwAcHbpD08nlBAhrHQAN3L6dRw9Tq4Aazl9xdzwxN8P9P2n15NgyQxlFtBhNfXFXC0C2CW2iPXmdeEoCQW0hJ5lGxqyYmj5yR_F4h2CUy6RB1A2iGML5n42zHxR-hECp7l6dZTW86LoUeKjbM9H9rRwR7f8vc28U.YZHewm-JizaXG_S6BHBNlGjvg14T4uCL7SM9jFOMyzw&dib_tag=se&keywords=Sony+WH-1000XM4&qid=1792216158&sr=8-128&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=us_hFyy_6gCZ2",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:05.454Z",
-    "validUntil": "2026-10-18T04:43:05.454Z"
+    "checkedAt": "2026-10-17T13:52:06.400Z",
+    "validUntil": "2026-10-18T13:52:06.400Z"
   },
   {
     "productId": 42,
@@ -305,22 +291,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1881867894/22195187502",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:05.691Z",
-    "validUntil": "2026-10-18T04:43:05.691Z"
+    "checkedAt": "2026-10-17T13:50:03.396Z",
+    "validUntil": "2026-10-18T13:50:03.396Z"
   },
   {
     "productId": 43,
     "productName": "Bose QuietComfort 45",
-    "amount": 1999,
+    "amount": 1173.6,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "LIVE IMPORTS 10",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/343840894/58219675035",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Bose-QuietComfort-ouvido-Bluetooth-cancelamento/dp/B098FKXT8L/ref=sr_1_40?dib=eyJ2IjoiMSJ9.dSp5CYBM2rRweSg6hzMiDm_42fVElWKYzvWDW54m_Ot7G1lAZocpIQ25gKlXuEODmVuAZJK7KUH2GJV1aX2UuCt--ohdPhLKQYGYCNSI8RzKFH1TOtcQV6q8zHgZ_FerazuSjRAZO7fBOB8Gpz4TKk2SjbthQSn9C_0F-_9uP4CcYPq7oFPw612n2TKENUa2aQhBE9jk8rl7ua0C3YqlHinXnisiOw2dnVXLlCd33Jbp8Mbd7K8aOWGSpIGLncJAgnzoqry88IFCqD91junVxL79xVOphCOQuyESQxKLp04._OiT2OU4J33wES8t4eDNr86mazgQSWPcTX1vCXAVkes&dib_tag=se&keywords=Bose+QuietComfort+45&qid=1792216182&sr=8-40&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:05.937Z",
-    "validUntil": "2026-10-18T04:43:05.937Z"
+    "checkedAt": "2026-10-17T13:52:12.045Z",
+    "validUntil": "2026-10-18T13:52:12.045Z"
   },
   {
     "productId": 47,
@@ -333,22 +319,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1662882727/58215418215",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:06.185Z",
-    "validUntil": "2026-10-18T04:43:06.185Z"
+    "checkedAt": "2026-10-17T13:50:03.969Z",
+    "validUntil": "2026-10-18T13:50:03.969Z"
   },
   {
     "productId": 100,
     "productName": "Sony WH-1000XM6",
-    "amount": 3299,
+    "amount": 2198,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Rivau BR",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1360571160/23498693451",
+    "merchant": "Amazon",
+    "seller": "NexTT",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sony-WH-1000XM6-Cancelamento-Adapt%C3%A1vel-Resolu%C3%A7%C3%A3o/dp/B0F3PQHWTZ/ref=sr_1_124?dib=eyJ2IjoiMSJ9.qEMDVzWVrA8eMPEn-MTiN86fcgifbQizEZkz7O1u0QqqaUhg3quuCyqzydUIsNwen73OD98bwMrIsCw0I6qi1YyKAlEavyxxnhE1tjZKgLwdYyU16kDu63EjuZML5Cr9WgArY-9cIgyGYwVMCOnyVmlmvrBrGUP-IrlMEpFLPatZEYV-jopbF2z19QgvBgoAKHiMo4RudJYCkFg7AJVLK3B3wpEkW7VGxjpMcHgSupOvVaB8-Jpiot99e1P18LkVntBi8s1XNtXnfz9zLkCL500H4CKXcxM7Tf2hndRB4V0.jxxw70jsIRh4RSXrcsivSudlt9zFtFH8hB6t_tQtRuM&dib_tag=se&keywords=Sony%2BWH-1000XM6&qid=1792216298&sr=8-124&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=cTtmt5KqquSvE&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:06.434Z",
-    "validUntil": "2026-10-18T04:43:06.434Z"
+    "checkedAt": "2026-10-17T13:52:43.621Z",
+    "validUntil": "2026-10-18T13:52:43.621Z"
   },
   {
     "productId": 111,
@@ -361,8 +347,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1615230188/58253245201",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:06.688Z",
-    "validUntil": "2026-10-18T04:43:06.688Z"
+    "checkedAt": "2026-10-17T13:50:04.508Z",
+    "validUntil": "2026-10-18T13:50:04.508Z"
   },
   {
     "productId": 122,
@@ -375,36 +361,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1467946435/41281910522",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:06.942Z",
-    "validUntil": "2026-10-18T04:43:06.942Z"
+    "checkedAt": "2026-10-17T13:50:04.978Z",
+    "validUntil": "2026-10-18T13:50:04.978Z"
   },
   {
     "productId": 125,
     "productName": "JBL Wave Beam 2",
-    "amount": 315.68,
+    "amount": 267.9,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Gazin Oficial",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1082747237/22994874367",
+    "merchant": "Amazon",
+    "seller": "Mega Byte Magazine",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Ouvido-JBL-Bluetooth-Auricular-Resistente/dp/B0DHL5V4QT/ref=sr_1_58?dib=eyJ2IjoiMSJ9.ean1Q3FQvj04v-EJ8kPgaSSTawtjIqlRMsFTVSwnezPLmOd_HXm8Xd9qR-ieNhcYW27z6EfmaYBlxydeqZFoimhFla91wbeDsnG800XmEO-HEes2JXISderfCF76FsjkBGFbP7JS7Bw94ljXVXXMFNYNclhnH03HU4jQyM2brcyS8y-2Wvj2ZRr3yIzoKJ8dLR3touOY16meIOCMPqQk3ypEdMo25PEjc2I6EzQA-YUTTPrZdjW-8ApJm7Fb3Ib9xKiIedM8ItWY7tovTb1aBzXep96cPv5PFSNA7Ce9P0M.bUEEveKYePnTzkhk0Qv4PVmZURxUUkQ7HL4xqJV6UE8&dib_tag=se&keywords=JBL%2BWave%2BBeam%2B2&qid=1792216332&sr=8-58&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&xpid=nigiS3PZZrP4a&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:07.181Z",
-    "validUntil": "2026-10-18T04:43:07.181Z"
+    "checkedAt": "2026-10-17T13:52:49.890Z",
+    "validUntil": "2026-10-18T13:52:49.890Z"
   },
   {
     "productId": 126,
     "productName": "JBL Tune Flex 2",
-    "amount": 564,
+    "amount": 341.05,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Loja Mastercell",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1013785477/58259317468",
+    "merchant": "Amazon",
+    "seller": "Loja JBL Oficial",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-Ouvido-Bluetooth-JBL-Tune/dp/B0DK3V92CB/ref=sr_1_55?dib=eyJ2IjoiMSJ9.ve3kQsyZZyIYOmVgK75BxPnSNNlvabJh1LnqKV8AHcTL8HwknaYvcBQ2cXZ3Y8UDUHjyTfLa465hOnhbHeTPuSBrKXJz0zXa0QZLttGK9IL3bXdf8qoKQwknyn1khGi_8V1mejYdKhYRFghy5phpqD7-wErQyJzoUG1kSsfiJRtmRLdhavnzIkhLA16B5deOaQhBE9jk8rl7ua0C3YqlHq-X77xp6lfal2l4DDlVUIDmzML5pbQ502Mr8JSloV23UuhEYXEvvH8qoWF3o-UsYe4V6mMF9WPlew3vFqjtaB0.gxAgLAKZcGh9N5qsQLcU-KyWZVy9yt4V1L8LHEaJ2aw&dib_tag=se&keywords=JBL+Tune+Flex+2&qid=1792216338&sr=8-55&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b&xpid=5kv3upuXDDp9K",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:07.447Z",
-    "validUntil": "2026-10-18T04:43:07.447Z"
+    "checkedAt": "2026-10-17T13:52:52.437Z",
+    "validUntil": "2026-10-18T13:52:52.437Z"
   },
   {
     "productId": 128,
@@ -417,8 +403,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1013785477/23094944313",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:07.711Z",
-    "validUntil": "2026-10-18T04:43:07.711Z"
+    "checkedAt": "2026-10-17T13:50:05.920Z",
+    "validUntil": "2026-10-18T13:50:05.920Z"
   },
   {
     "productId": 130,
@@ -431,36 +417,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1241424533/23598524764",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:08.045Z",
-    "validUntil": "2026-10-18T04:43:08.045Z"
+    "checkedAt": "2026-10-17T13:50:06.165Z",
+    "validUntil": "2026-10-18T13:50:06.165Z"
   },
   {
     "productId": 141,
     "productName": "Samsung Galaxy Buds 4",
-    "amount": 1132.2,
+    "amount": 930.91,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Magalu",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1929663743/58219468952",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Samsung-Galaxy-Ouvido-Gemini-Branco/dp/B0GMKCC31R/ref=sr_1_36?dib=eyJ2IjoiMSJ9.sDHnamJDAYOA_JGcKMuBoawhw-8FsBjuU2mTa1MkJE6bTXSz0n18LbLXnSBy1z2bb3HPDksvySKx2YLfzob47WboFoAD2UpBAROfXyy11BtIC8Cv6UTn6-pAo9NNw3OXqud3fbPv8r9Y_wI-vh3nP3O8aOUIBa-enRlmMVloSM4gbAvUmflt2J571oQGajfOMJFGuvh608kFwrYqZPf36kXNx2WPeNSBJykMUIGPlgUwdM_rLtzsGpxB1Waz3aAOkd0BK9XRa8sJmE-p67Gl45Rl7GdAoEJO0bV0YJLlIB8.godtUnSocW4QTpl3Ai69HVwdw-2R_fjvNhseYAdwsPw&dib_tag=se&keywords=Samsung%2BGalaxy%2BBuds%2B4&qid=1792216378&sr=8-36&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:08.321Z",
-    "validUntil": "2026-10-18T04:43:08.321Z"
+    "checkedAt": "2026-10-17T13:53:05.097Z",
+    "validUntil": "2026-10-18T13:53:05.097Z"
   },
   {
     "productId": 145,
     "productName": "Samsung Galaxy Buds Core",
-    "amount": 239.9,
+    "amount": 194.1,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "fernandosanz",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/356228448/58270380327",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Samsung-Galaxy-cancelamento-interprete-inteligente/dp/B0FP8KDP36/ref=sr_1_47?dib=eyJ2IjoiMSJ9.MoKMk_ATgz2oNYHTvi3aItvAcnD31C6IYOSJ-UiGtxn_GGNcReS-EUTuJtCNOd4hisqk4VVLW8bV4sv0YqhiqkE_JmfcSBES5JmbipuUVtj8LOz75L127SLQ5mMOTtVLBytifhf0zbLf3e_5-kQwprOUEGdoK_5HrksEhCGtbhoCBxQFDweQmmh0UuBo_iosAvJyCyhYqiadt78Adk9BsFkFmA41tYM5nf2b11W9_ozSs0IECJZ6JgKvmNpX1030dk9rpxpr4SOTfxKeahV7XYliSo0trXfk-Qw3bvxjCoI.etEey1KGiNd9jWXW3J541NKNRlOq-HOjIn507RjDjLc&dib_tag=se&keywords=Samsung%2BGalaxy%2BBuds%2BCore&qid=1792216391&sr=8-47&ufe=app_do%3Aamzn1.fos.2b4f80ea-3310-4d2c-80ab-309ecec12fae&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:08.592Z",
-    "validUntil": "2026-10-18T04:43:08.592Z"
+    "checkedAt": "2026-10-17T13:53:10.267Z",
+    "validUntil": "2026-10-18T13:53:10.267Z"
   },
   {
     "productId": 201,
@@ -473,22 +459,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/582697410/58216139377",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:09.076Z",
-    "validUntil": "2026-10-18T04:43:09.076Z"
+    "checkedAt": "2026-10-17T13:50:07.639Z",
+    "validUntil": "2026-10-18T13:50:07.639Z"
   },
   {
     "productId": 202,
     "productName": "Redmi Buds 6 Lite",
-    "amount": 160,
+    "amount": 147.25,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "JSELETROSHOLTDA",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1835097707/58217923643",
+    "merchant": "Amazon",
+    "seller": "GiGu Store",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-Bluetooth-Redmi-Buds-Preto/dp/B0DNKJKNMQ/ref=sr_1_52?dib=eyJ2IjoiMSJ9.-GsrBQFzYPorj8R--yAOG7SPB2B3VdEoFSY24YUn-LbdOtSre1rMx8jUPtMthguOScA0rYejv7N528xei_CtXH33jpn8GQTcF_3vPf5iUGVCOCwjGSyNCn3rgwAs96lpg2LXRZARizXMzMDYfIEcMu4pITGQDSTXmREzVeCY2gHVFqiiQPLDUANQvuiIn7N3faYs5F1d8zaR2xCklb6qeU_lLkm4Xl64tdLZ5eaU3i5t4HXt-pTU9D0m_5dBKcFDXaKDKW8oNkhRLbsPyk-JqhM6ORK1OS8camak3C1kKUI.M4_jvg7US4xHadgKacuZfo6B1S8oz84uuFFTDIaBIKE&dib_tag=se&keywords=Redmi+Buds+6+Lite&qid=1792216426&sr=8-52&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12&xpid=NRPDoKWO-O4RQ",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:09.332Z",
-    "validUntil": "2026-10-18T04:43:09.332Z"
+    "checkedAt": "2026-10-17T13:53:51.735Z",
+    "validUntil": "2026-10-18T13:53:51.735Z"
   },
   {
     "productId": 204,
@@ -501,22 +487,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1531407690/58262152217",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:09.632Z",
-    "validUntil": "2026-10-18T04:43:09.632Z"
+    "checkedAt": "2026-10-17T13:50:08.365Z",
+    "validUntil": "2026-10-18T13:50:08.365Z"
   },
   {
     "productId": 206,
     "productName": "Redmi Buds 5",
-    "amount": 310,
+    "amount": 284.9,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "JSELETROSHOLTDA",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1835097707/58268001006",
+    "merchant": "Amazon",
+    "seller": "Onix Games",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Ouvido-Xiaomi-cancelamento-bateria-Branco/dp/B0CQKF98K3/ref=sr_1_108?dib=eyJ2IjoiMSJ9.3Mg9UPFhCn8t8mhXRTHAbVy0vl6E3Bgfl1P2e3Wl2yDuHIcr7saeU3bLdbrpE2w3CYCsL1GTTdd-asyG9b5NApEOJYgAJ6mDX1hO31z3H3AhdpyvpdCiaba4zmlg2BToBGFbP7JS7Bw94ljXVXXMFC8EUOae10RQj1-_xoaDO2AthnzBqzfMf37yvDWmM3pnLR3touOY16meIOCMPqQk38pXf7j2r40cthnMmEYyCg3sCatdyEsdMI1e4OMQk3Kbe6-pVRVOeieLA1p7b-eqAQXv5vyRw5f0ugRdUZtahGk.AyV34sL6vbDVpBQbqn9xIuSCaLxQeedRMVVhVIahbac&dib_tag=se&keywords=Redmi+Buds+5&qid=1792216449&sr=8-108&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&xpid=_NUE1qCGweWz-",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:09.866Z",
-    "validUntil": "2026-10-18T04:43:09.866Z"
+    "checkedAt": "2026-10-17T13:53:56.353Z",
+    "validUntil": "2026-10-18T13:53:56.353Z"
   },
   {
     "productId": 209,
@@ -529,8 +515,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/238239777/58254493948",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:10.099Z",
-    "validUntil": "2026-10-18T04:43:10.099Z"
+    "checkedAt": "2026-10-17T13:50:09.104Z",
+    "validUntil": "2026-10-18T13:50:09.104Z"
   },
   {
     "productId": 220,
@@ -543,8 +529,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1934751284/58219969802",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:10.341Z",
-    "validUntil": "2026-10-18T04:43:10.341Z"
+    "checkedAt": "2026-10-17T13:50:09.404Z",
+    "validUntil": "2026-10-18T13:50:09.404Z"
   },
   {
     "productId": 222,
@@ -557,8 +543,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1790623928/58211879000",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:10.614Z",
-    "validUntil": "2026-10-18T04:43:10.614Z"
+    "checkedAt": "2026-10-17T13:50:09.689Z",
+    "validUntil": "2026-10-18T13:50:09.689Z"
   },
   {
     "productId": 223,
@@ -571,8 +557,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1790623928/58261975918",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:10.869Z",
-    "validUntil": "2026-10-18T04:43:10.869Z"
+    "checkedAt": "2026-10-17T13:50:09.973Z",
+    "validUntil": "2026-10-18T13:50:09.973Z"
   },
   {
     "productId": 224,
@@ -585,8 +571,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/239168233/28253692946",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:11.150Z",
-    "validUntil": "2026-10-18T04:43:11.150Z"
+    "checkedAt": "2026-10-17T13:50:10.251Z",
+    "validUntil": "2026-10-18T13:50:10.251Z"
   },
   {
     "productId": 243,
@@ -599,50 +585,50 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/405653989/57060849618",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:11.395Z",
-    "validUntil": "2026-10-18T04:43:11.395Z"
+    "checkedAt": "2026-10-17T13:50:10.641Z",
+    "validUntil": "2026-10-18T13:50:10.641Z"
   },
   {
     "productId": 248,
     "productName": "Soundcore P31i",
-    "amount": 319,
+    "amount": 284.04,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "gamevibe",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1910836609/55615491473",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Reprodu%C3%A7%C3%A3o-Carregamento/dp/B0FNWCYLZN/ref=sr_1_36?dib=eyJ2IjoiMSJ9.MJfvz5I3XlYyuqkMyHXvWbqWABA1Auz0EdzNLEYPJH5zffR9Y7s6WE0AUktazZ734o_Bc1HEd3PSykSEXPo0iu7VKPWLTToZKP09tyHO12lE6PqjAQ6camZ7ymZ7s75-Qrd2DbDzU29O9_KabMWfFFbsBrt1j4t9RdetT8h_aVSSUDPGe8M-Xz6yzvlAZuwirJKIuvwvx82V6WgYUD6lWF7opiE1z_h-Q4DsSigwTT_GrfeuzOu6vEw4-83pPdjUnhwzHGbksXEuc-JUMmU3fOIINo1k0rVB8lz8nOTpZUw.Dhpiyjg-HCbj3w_bGFqaODJ31_UTyhETjwXuifrOFVM&dib_tag=se&keywords=Soundcore%2BP31i&qid=1792216605&sr=8-36&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:11.639Z",
-    "validUntil": "2026-10-18T04:43:11.639Z"
+    "checkedAt": "2026-10-17T13:54:07.573Z",
+    "validUntil": "2026-10-18T13:54:07.573Z"
   },
   {
     "productId": 310,
     "productName": "Philips TAH8506",
-    "amount": 529,
+    "amount": 427.4,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "GicaMagazine",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1075235227/22799447065",
+    "merchant": "Amazon",
+    "seller": "Barato Bazar",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Philips-Headphone-Bluetooth-TAH8506BK-00/dp/B09Q6BQBSC/ref=sr_1_14?dib=eyJ2IjoiMSJ9.QJp_MFIz67GScwn1vQdr-oVKHmb4wUzbQmtJwyc2nyfFLhHmxmKvvmYAHPnWFeg2e1wc87qpkXfIv9-J2DKsIGCafX_9w1Y4wH2NzrM6S9AD6oxVSzuL27UkqSR91eCS3M7biUK5ST1RPUq9xWdLmpdaoBEZVfOgiiEksyDba0MdSfR5IUkFHlyEegI57Tr3OEsm4-bOtpmAadsBk5GD1P8eOjd_HD8d4d2Fprd7XLlDSaKyg3iJU2t9jRrXNXaROzWhIVp2DHuA19tLqewvFQ.cjmaSZSMcR9UmGITjtzipRoZJUr5FQnpm0B_tJSQhXw&dib_tag=se&keywords=philips+tah8506bk&qid=1792216649&sr=8-14&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:11.895Z",
-    "validUntil": "2026-10-18T04:43:11.895Z"
+    "checkedAt": "2026-10-17T13:54:14.754Z",
+    "validUntil": "2026-10-18T13:54:14.754Z"
   },
   {
     "productId": 320,
     "productName": "Shokz OpenRun Pro 2",
-    "amount": 1399,
+    "amount": 998.34,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "BRNOWSPORTS",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/396389621/58268007408",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Shokz-Condu%C3%A7%C3%A3o-%C3%93ssea-OpenRun-Preto/dp/B0DM27684P/ref=sr_1_86?dib=eyJ2IjoiMSJ9.vV8Hm2Q72A7PZs1DWs_FNnLrrfnwLr9pGCEV9J4KD6fJ4RRFb0gQ9DRuf7CyQMK4Diz70cwAUBzYrKcNJ2ilR0KfCHEY4qSoYKDTbtiIanwfaBW3Zd90McCZfTQj63GtTSyZb54KBgWA28VZNaH0PY57iuxE-trcwN9IpJ6O6UAlKzuB-UUsU7V2DDE9aNUxoXi8OvFP5tcZHO0b20U98CPMC1jIkr-CdeFF1IMKd2y7bLSiSbSB_86ofqVvZKgw03ErLWojxVsTweqdWqh0PG0AS9TjaxzEhf-ZPRii8EA.wdcjnsQseI2TGSHo5ntkAkZlz7XZoznWjmRI9EljJD0&dib_tag=se&keywords=Shokz%2BOpenRun%2BPro%2B2&qid=1792216658&sr=8-86&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=Ven8hmrWsPmIS&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:12.166Z",
-    "validUntil": "2026-10-18T04:43:12.166Z"
+    "checkedAt": "2026-10-17T13:54:17.558Z",
+    "validUntil": "2026-10-18T13:54:17.558Z"
   },
   {
     "productId": 322,
@@ -655,8 +641,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1006215031/53562252353",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:12.467Z",
-    "validUntil": "2026-10-18T04:43:12.467Z"
+    "checkedAt": "2026-10-17T13:50:11.717Z",
+    "validUntil": "2026-10-18T13:50:11.717Z"
   },
   {
     "productId": 330,
@@ -669,8 +655,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/214519889/18099959481",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:13.941Z",
-    "validUntil": "2026-10-18T04:43:13.941Z"
+    "checkedAt": "2026-10-17T13:50:11.994Z",
+    "validUntil": "2026-10-18T13:50:11.994Z"
   },
   {
     "productId": 332,
@@ -683,8 +669,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1778774594/58211891747",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:14.233Z",
-    "validUntil": "2026-10-18T04:43:14.233Z"
+    "checkedAt": "2026-10-17T13:50:12.308Z",
+    "validUntil": "2026-10-18T13:50:12.308Z"
   },
   {
     "productId": 342,
@@ -697,78 +683,78 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/214839973/23396199204",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:14.505Z",
-    "validUntil": "2026-10-18T04:43:14.505Z"
+    "checkedAt": "2026-10-17T13:50:12.583Z",
+    "validUntil": "2026-10-18T13:50:12.583Z"
   },
   {
     "productId": 343,
     "productName": "Baseus Bowie EZ10",
-    "amount": 250,
+    "amount": 170.9,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "@lojaavulsa",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/453022395/18297746739",
+    "merchant": "Amazon",
+    "seller": "ACHADINHOS DE FORMIGA",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-ouvido-Bluetooth-Baseus_Bowie-EZ10/dp/B0CPWXLPWY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.id_kEVtd8lUXMZCionfqYQiCiGkj4mzx_xqrq_LtmPgRUwRdYR6XICtbbNnyeN-6.MFqv-OWNHT1Vj9uscPlyG0cwyZJ4zZTTPEGdJPdV68M&dib_tag=se&keywords=Baseus+Bowie+EZ10&qid=1792216703&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:14.859Z",
-    "validUntil": "2026-10-18T04:43:14.859Z"
+    "checkedAt": "2026-10-17T13:54:44.397Z",
+    "validUntil": "2026-10-18T13:54:44.397Z"
   },
   {
     "productId": 401,
     "productName": "Skullcandy Crusher Evo",
-    "amount": 999.9,
+    "amount": 854.9,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Bimbo Eletrônicos",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1547167146/58211004984",
+    "merchant": "Amazon",
+    "seller": "MAUROSPBRGAMES®",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-Ouvido-sem-Skullcandy-Crusher/dp/B0G6LZ2TVK/ref=sr_1_14_mod_primary_new?dib=eyJ2IjoiMSJ9.PkM4-HB8aEZMM9kDTknni5aGi0jvNHWiSoNleGflV65JIAOSKpOtQhuW1S8NhnitYqusH9PDTENmzOajEGpFls-Q6WSYbcGLLJqNQEhNM4DZM9zl55GxMYa95mMj8hc2h4tLqYo4whupf-BHXbVCj8q2DCH1BWUvEia6TcqYqbaExsxjxYRssq9eG7brXfGFMuzZr-0cbXk7LQoEkinGfP6WHQV89JSxeXckr_Ji6ImDs1oeu6MrUrwB5yTe3d-QNO9FYEb8rpyzskrdvlaAnRM34QjOhJoILKDCVQUeW8k.95586VeS2VB6PLaSZNKV8HmljZ9249OjmNC5gm8bb-c&dib_tag=se&keywords=Skullcandy+Crusher+Evo&qid=1792216718&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-14",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:15.110Z",
-    "validUntil": "2026-10-18T04:43:15.110Z"
+    "checkedAt": "2026-10-17T13:54:49.074Z",
+    "validUntil": "2026-10-18T13:54:49.074Z"
   },
   {
     "productId": 402,
     "productName": "Skullcandy Hesh ANC",
-    "amount": 690,
+    "amount": 617.4,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Papelarices",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/679267566/58219984825",
+    "merchant": "Amazon",
+    "seller": "MAUROSPBRGAMES®",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Bluetooth-Skullcandy-Over-Ear-Cancelamento-Ambiente/dp/B08G1XKY6N/ref=sr_1_113?dib=eyJ2IjoiMSJ9.qwyH-VeON3fe2TuLIY5paT6v_GD2v2gRe6ypOk3SZvpSCWtpUxWJEmEbDskeQ8N5Wh8cZTtuEdsSD-KL5u3lHfjfcz3SUpCsm1hryDJ0P9UREHg6H2ko2usg5Nx3kfbW7-FDXf7dAG3zntRpjxFSHapV37MyIOpUBVdnpuCUDCNURWgTY93VR-0ii23aY6lKbb8nA3-Ay77nUCB0CrQmNxExSc8vu932h3AFO4kY0prN7UoUXBvtSxyqaf-tAxOyoxAvaN7WkAKu_LUih453Dxa_rzkR41mOtmyZTLSWS1s.hkgBPyWswcb8Bwgk7rcM6S8DercybULqXv4mCiUgrPM&dib_tag=se&keywords=Skullcandy%2BHesh%2BANC&qid=1792216723&sr=8-113&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=NEa5h_6FkxGux&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:15.369Z",
-    "validUntil": "2026-10-18T04:43:15.369Z"
+    "checkedAt": "2026-10-17T13:54:51.900Z",
+    "validUntil": "2026-10-18T13:54:51.900Z"
   },
   {
     "productId": 403,
     "productName": "Skullcandy Hesh Evo",
-    "amount": 579.9,
+    "amount": 417.05,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Bimbo Eletrônicos",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1547167146/58210475537",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço anunciado; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-Ouvido-Over-Ear-Skullcandy-Hesh/dp/B08G1Y1V26/ref=sr_1_5?dib=eyJ2IjoiMSJ9.0nvaOeO5I_9Z4fzvbraHxZC67EWHruIgfCP5Rk4a_MjVnFBwXnQqrncTUyFvxpoMvPL_7rCmQaXvO71MJ5QXU697wHPY8NoP5wM4GhQqGNAqdhAfvoRK3crCz9TqhWYmshFiu631Xvk3SMiBt711uI0DrwEk_g3ViVxePGdGYomtcjzNqwEFNlgo0nsTlIa2BFDaRIlMKeyrWHjIpS4vDvOta_HrSYDrNVv9-uxMxZqi2QhLGZCGmncwZQgm6bMJ.SaJ1zbBt1-qmP5nn8qZxNWyg_wwwyDE3s_pXhtCXf5o&dib_tag=se&keywords=Skullcandy%2BHesh%2BEvo&qid=1792216734&sr=8-5&ufe=app_do%3Aamzn1.fos.8f854eee-6ae2-4fe8-a624-159df7eff2c9&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:15.678Z",
-    "validUntil": "2026-10-18T04:43:15.678Z"
+    "checkedAt": "2026-10-17T13:54:54.361Z",
+    "validUntil": "2026-10-18T13:54:54.361Z"
   },
   {
     "productId": 413,
     "productName": "Motorola Moto Buds Loop",
-    "amount": 999,
+    "amount": 616.62,
     "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Loja Oficial Motorola",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1627665738/58202173684",
+    "merchant": "Amazon",
+    "seller": "PRIZMO",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-ouvido-Motorola-Moto-Buds/dp/B0FNS185R2/ref=sr_1_5?dib=eyJ2IjoiMSJ9.GQYdefQ8Z_jngP7DsY675V5IujuCiHfWRmDtNgJhuld_3m4_H0wDGKoYYi0J71Qbi0kct4t2GFYBXiKH5PWlrc5cdkesvD1mYZsH2Mpa7QiE9Ank7BldcGZhgsuFS8R3p_iwfVn9-w96e3WG-BN97g.wSWbom1u908nRRtLbeTE8U1b5kGVGoesdeluYVY42kI&dib_tag=se&keywords=Motorola%2BMoto%2BBuds%2BLoop&qid=1792216741&sr=8-5&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&th=1",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:16.012Z",
-    "validUntil": "2026-10-18T04:43:16.012Z"
+    "checkedAt": "2026-10-17T13:54:58.928Z",
+    "validUntil": "2026-10-18T13:54:58.928Z"
   },
   {
     "productId": 436,
@@ -781,8 +767,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1163157664/20498184201",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:16.261Z",
-    "validUntil": "2026-10-18T04:43:16.261Z"
+    "checkedAt": "2026-10-17T13:50:14.374Z",
+    "validUntil": "2026-10-18T13:50:14.374Z"
   },
   {
     "productId": 440,
@@ -795,22 +781,372 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1082132739/46118047999",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:43:16.548Z",
-    "validUntil": "2026-10-18T04:43:16.548Z"
+    "checkedAt": "2026-10-17T13:50:14.630Z",
+    "validUntil": "2026-10-18T13:50:14.630Z"
   },
   {
     "productId": 452,
     "productName": "JBL Tune 530BT",
-    "amount": 185.15,
+    "amount": 186.2,
     "currency": "BRL",
     "merchant": "Amazon",
-    "seller": "MEGABYTE MAGAZINE LTDA - MG",
-    "conditions": "Bege; R$185,15 no Pix/NuPay, sem frete. Menor entre anúncios verificados; cobertura parcial da busca.",
-    "sourceUrl": "https://www.amazon.com.br/dp/B0GM19N68Z",
+    "seller": "Imagem Hitech FULL",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF/ref=sr_1_29?dib=eyJ2IjoiMSJ9.zgzs4AmLauNtBN7c1AX5j2xfMt3pv4nEmC10s-ot-wQPfRkNugIVkq1hsUE3WA2-HrJWnIJ0IbSmB4WZiX5sqwAlw0d0ilu7UrMzOt-T6HjVdp1jTRr34W4EErCWClUKKAaANe_2YVinZDertkeGVRM9tVrzm5EtuhbQ48WkWZ2_FbR1qDPuK62NtuMWOw1VrLsI-rWf-U9hfmTDa6NOMQ94V5UsCrYOac9_2NA4YkugYcZlmnsVX1UA5ng8Hnr4G2nkEGPro_xZDpltPzIb-PwXJ0OC9jiK29UqtOfbV7E.nZwF3SLbt5g4xp663FzpFPxixblJPW2xIeZJu16Z9SE&dib_tag=se&keywords=JBL+Tune+530BT&qid=1792216766&sr=8-29&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-17T04:40:33.009Z",
-    "validUntil": "2026-10-18T04:40:33.009Z"
+    "checkedAt": "2026-10-17T13:55:03.754Z",
+    "validUntil": "2026-10-18T13:55:03.754Z"
+  },
+  {
+    "productId": 1,
+    "productName": "JBL Tune 510BT",
+    "amount": 232.75,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "DOMUS SHOP",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/JBL-Ouvido-510BT-Bluetooth-M-POWER/dp/B09NRQ5ND4/ref=sr_1_54?dib=eyJ2IjoiMSJ9.BvwYCk2AmW1bENKapchzgx6Lc2COo6JM--2lebpUm8aZJ6Qvu2GGa_LcuYHMYecPOVG45t28lsP_Pz4iQYavTPlfjUvy4chlOJGwTHiELwTmI0Uiqa-WH3QNUNvd0ljDB5W9kPdblENxBd1TzdFx7pjBmoObI8eW9GYuqmgeD0TxUfHz0cFh-AlPNaFs_GgX0o4QN4GhpTOMsjr2TK7qNppDs9NcVBkiBSoANYawI2VlEHDPhXfdMGGttjLUP7UOWVfmmvlXC9xmUsFQ04RMk9pSp3tzU-r7yJJp0SFaO4k.wuGkDbaGovyo9lLGilIgtRKTZdOvucKZeJGa4XpCZL8&dib_tag=se&keywords=JBL+Tune+510BT&qid=1792215843&sr=8-54&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&xpid=yL5jp9hSkgtfv",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:50:52.789Z",
+    "validUntil": "2026-10-18T13:50:52.789Z"
+  },
+  {
+    "productId": 22,
+    "productName": "Nothing Ear (a)",
+    "amount": 719.15,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "KLS Shop Oficial",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Nothing-Integra%C3%A7%C3%A3o-Cancelamento-Equalizador-Microfones/dp/B0CXPRHTNB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.cpiskb3JixbXJC4rshZ0p1n5FQBKN71W1JT3tP7LVNzxI7pEKHylXFQ5CzLrP3Q5db3LM2em_31rBloFXXqMMTnIxnu5_8r9BDqfjJzLRCcKnjhnE5i5mXuL56yoBHMz_FJyoQ1Eg2iGELLTCzmFHNrsJPMy94mzjrjtNiBy3EdaJ5QVXqgYN4fHLAr-R_C6.GIK-D5jMZUDnjW5YvphmyR-gE8KM_wQRWLpr_5R46bo&dib_tag=se&keywords=Nothing+Ear+%28a%29&qid=1792215983&sr=8-6&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:51:24.188Z",
+    "validUntil": "2026-10-18T13:51:24.188Z"
+  },
+  {
+    "productId": 23,
+    "productName": "Soundcore Liberty 4 NC",
+    "amount": 398.05,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Carregamento-Bluetooth/dp/B0BZV4QFP8/ref=sr_1_63?dib=eyJ2IjoiMSJ9.3h_UGtzwxF_QEyALvJX8kxcgN63q98xLKB0UVpqLA6h4A3KWyefx6uXpYObU2Wm8BVjRij6wzinuUZCCFoh3f9sPpsZIk-CCSIANFtAO5rH3mkFGRYYpF5VSR0MgmY8_FdniHhIOp7p3cBbjbn56K3eoGI6rM9HMnWSnxQTZkaq3VsS_s8rtruYbpZKS5aC-RhjfIqybgethaF7pQBJODjY9O79J1HJ3PzLOHCA1ZET061ITE-OaEufwyW6f0JN8TiYHuOqHDkq04Nq5g56gJHSA9R2orjSw_sn7oZHaTAk.gWqaASwhiO--lHvFcmrDeRMfhFWxNIIXHGGQEifyt9Y&dib_tag=se&keywords=Soundcore%2BLiberty%2B4%2BNC&qid=1792215987&sr=8-63&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6&xpid=pus0IvUoX9FYO&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:51:27.704Z",
+    "validUntil": "2026-10-18T13:51:27.704Z"
+  },
+  {
+    "productId": 29,
+    "productName": "Sony WH-CH720N",
+    "amount": 1137.15,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "KLS Shop Oficial",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sony-WH-CH720N-Casque-Bluetooth-t%C3%A9l%C3%A9phoniques/dp/B0BSGR9C4P/ref=sr_1_56?dib=eyJ2IjoiMSJ9.MB5ddfA0SmCmo8l_djlHvIK4guzk9acZgMtil1f8xCTr14SLBcz1AltxsIf5PNq9I3pJseTZpbV-AEUxyVVs94v-B4xD5pDADPap7UfcAkswFj06AvZLkhm8JVl_Us8aSfeVLt5Yq2Mw_BMTeUmlH_IDV72SMzrBZCy_1WNjXsStUzkbzpHi3bsa8A-d6TV4uiNnawLIaBr5tT_dTedrA4yQNV7ywc5d9ZLmLdgajkr_8l14ftmJSHbSC7ro6pgkvT6NWtDDhW-sWTvrKQhOwLPPgHDl0p2BEgydoC19iHk.INxAW6afLQKf6OA_VIxOPIgZm5cm2yktFvDWN4TFy5Q&dib_tag=se&keywords=sony+wh-ch710n&qid=1792216024&sr=8-56&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=8LxtK-zMPnTos",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:51:48.080Z",
+    "validUntil": "2026-10-18T13:51:48.080Z"
+  },
+  {
+    "productId": 37,
+    "productName": "Samsung Galaxy Buds 3",
+    "amount": 709.65,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "JPL Comercial LTDA",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/imersivo-Cancelamento-Simultan%C3%AAa-Equalizador-Adaptativo/dp/B0D936LKRP/ref=sr_1_38?dib=eyJ2IjoiMSJ9.vHc38mg00EWTYLbksdAhVWvG81Ic7cL4O6lBzbwi4LdP9W14QrIjCIRL2ByF44yaukHuqVFDMfDQqE5kYYM1Dob07SFmZMhdkUcdHDiNQan1HAXGLuGTL9JapniXuQuhS5LzOuCQsZzMDOVEk9TUaZkzhUMoO0ggElCCB7zA5zNsx1wVKmY_aN0CUOJ3aBm5RJSt-KKO57xVd3DqgYyvxYc2JzGL6C-SJ7So89sxlkrHE2Jwip0EbvJxHrlDeHGQN6LIAVzJb7Scf6OenA_-vyIm2S14J3ImHI58xO3FTZk.Jn83WWFY0lmVlQ7UJDtqsIOjYyIIm385jRfVofHZeRw&dib_tag=se&keywords=Samsung%2BGalaxy%2BBuds%2B3&qid=1792216085&sr=8-38&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:51:59.142Z",
+    "validUntil": "2026-10-18T13:51:59.142Z"
+  },
+  {
+    "productId": 40,
+    "productName": "Sennheiser HD 450BT",
+    "amount": 875.1,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fone-sem-Sennheiser-450BT-Preto/dp/B083T4XJDY/ref=sr_1_33?dib=eyJ2IjoiMSJ9.rvKAxQ4CV-A4NE3-iKwVv_9kAnz73JNprhEgP0kXSw8Gc5j5YdrvRI-wRca06ULMxijQp_2kZtndFbNwEoBMafM0HPQBzppnr8jv66nFg-0xRedVZXMyQwNlw1t7Gn2yH3nNsDuPqfGvwGJKAY1DtIoMwhY2FYDiZPh_--M29YsKGZjsYfrgmJyTrwMN2KKBC_Qt_7b55KEOnOC7hEUlQYI7XZRtYr-cHWwDhkc4p7oRabxLq-nFdjWERu-f-8q16i7q2AUQK6-o2toEJ2Abhk-8FgSA3ejMTOHo5WzFBYQ.qyZLx1edV8qLVsm-PJwDsOA6uRr68d2v2tE6mCWiQRw&dib_tag=se&keywords=Sennheiser+HD+450BT&qid=1792216104&sr=8-33&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:03.685Z",
+    "validUntil": "2026-10-18T13:52:03.685Z"
+  },
+  {
+    "productId": 45,
+    "productName": "Samsung Galaxy Buds 3 Pro",
+    "amount": 1527.6,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Froidzoid",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/SAMSUNG-cancelamento-confort%C3%A1vel-redesenhado-latino-americana/dp/B0D9C8VNSN/ref=sr_1_55?dib=eyJ2IjoiMSJ9.Xv3t7B8KGWkbcXMEMJck41fs2xeK_IV38pvysT39-RR7Pg84EL3TYxYOTy4QLc4umvkh2uOTp8uhT51jJlhBBnXhyImX29V-0LGX5Chzx0JpvrcB5wud7XBneA5b3nzlETzGruCUvQNc05dDTBLX2Q.5DVW0TD1wyUa9I_IO-eNaIneVgaumlTDHuKbfWxcFTs&dib_tag=se&keywords=Samsung+Galaxy+Buds+3+Pro&qid=1792216196&sr=8-55&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=DOb1qnOHneX_B",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:14.250Z",
+    "validUntil": "2026-10-18T13:52:14.250Z"
+  },
+  {
+    "productId": 51,
+    "productName": "Sony WF-1000XM5",
+    "amount": 1235.09,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sony-WF-1000XM5-Dual-core-Noise-cancelling-Wireless/dp/B0C345M3T7/ref=sr_1_106?dib=eyJ2IjoiMSJ9.uB3gE3Mr8QFP3wPStscNY31ZygFTCtAKmU7dNRGkPiQu6DbW0SstG4tFDDn13WM0H9j8z3sghVnGia451FxSwg8-QW3_KBAEqXnQ_zPnfeCAXA8v1SXBkjQpEPFYuV6kn8haR8g4ScSiaz0l4IgkMKmkRXcOvoNoAv8JkVaXerWwdj6uYrj47Lgp11835oASE01XGbobMeI14BARCNSMkZkWIrlkxme-yrOMP69BGx17gcgHsyhPfZFl107h70V0rIVHvK6tE6EeFxGyYWhdermn6CwmUvEDz248LQBsoJA.Z2mjzmXJRlajSHrTJ7TeqXqTbsr3P_fGzMBOR-KsSbk&dib_tag=se&keywords=sony+wh-1000xm5&qid=1792216262&sr=8-106&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=jb5hwet2bXOWU",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:19.244Z",
+    "validUntil": "2026-10-18T13:52:19.244Z"
+  },
+  {
+    "productId": 52,
+    "productName": "Sennheiser Momentum 4 Wireless",
+    "amount": 1657.8,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Addventure ⭐⭐⭐⭐⭐",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sennheiser-Cancelamento-Adaptativo-Microfones-Personalizavel/dp/B0B6G9TPNQ/ref=sr_1_55?dib=eyJ2IjoiMSJ9.wTGqRxMkBmU13qHZCOqBKz8ye-Vt6nZJBFeJMSs0HnNhjaahO-QLd9XA4jrDC0jYEkjQBhDBHd18S4LnJleYEqisIMnjoHVHgU9dAueWB9Je74T5Je-U1v_ry3bXhJhobSpx1WsR2sukPNdvqbS3Q6b5sqI4zMi2wNDpBTUVoeN4yTBfqjGqDgwU6WSCTpNkGSoYVQyO-mg8QQNhF4Q0YUsYJwrwn4zqXUKcQvf1Md-yG2aKZuyu0Tu8T_H-iTlsp6K5iRiH7DS9uyKyffys-WB3WToqdy7U5F9IjNo9DQk.XyGDNz0m18mmoiu4R4JwLblE7AUKiZ3bHUrm2D-4D7Y&dib_tag=se&keywords=Sennheiser+Momentum+4+Wireless&qid=1792216268&sr=8-55&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=YKP7kKBI2QFbK",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:38.096Z",
+    "validUntil": "2026-10-18T13:52:38.096Z"
+  },
+  {
+    "productId": 56,
+    "productName": "Bose QuietComfort Ultra",
+    "amount": 1624.5,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "NexTT",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Bose-QuietComfort-Ultra-Wireless-Headset/dp/B0CCZ1L489/ref=sr_1_86?dib=eyJ2IjoiMSJ9.0jEbgvoGRXfJrlq68MNYK70yxzuLox1i9R8Rqa4KKkEbT3KSiPqd4H4eZ0OC25R_pV-YcqMOO44mLWK6GW5CCf1JKqgvyPdjcbwy4XJO4wEj8HGPM-8LZwCqAqx_Vj1FPUU2PXGjZbtf2hegYq4Q_4VzdXjKgIB5qMKcjEQQkabxLJBpR4n_7vkb-3JioegZzEb-3VK4UbBFW9r7ltnNxaPSG9f_PbQBcN0dqkl_alo9JPjKViZBEN8WO3q3Kj3E42zHxR-hECp7l6dZTW86Lp_rBX1gTAsGqJBksvfMGPc.bq7ia96BYCPiOeegkGvSIALOokI1wxU68ZATTmZ4vng&dib_tag=se&keywords=Bose+QuietComfort+Ultra&qid=1792216286&sr=8-86&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=2L4hJH9f7mJZM",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:40.698Z",
+    "validUntil": "2026-10-18T13:52:40.698Z"
+  },
+  {
+    "productId": 129,
+    "productName": "JBL Endurance Peak 3",
+    "amount": 674.4,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Power.Shoppe",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/JBL-JBLENDURPEAK3BLKAM-Endurance-Peak-3/dp/B0BQPW9R9H/ref=sr_1_91?dib=eyJ2IjoiMSJ9.T_qp311wc08wnbjJfYSj0b8QthNCyd8PEUo7BRhtBbKl5mW1D94H8D3mPr3U0B3Hbb_nxVB31rImokylISRkmlX3TwY2XpnP_UQi1ZaIVPnh9nneKP49tmAk3V9M_z45Tt7RMZr9wc-kRjuLw9_HU7hqJ_Wn1w98e9EeETWn04HG-cyZkVGCulfm0WMAdQ2-46oGVs8vN_XvkaBzAr2tQZ41s9Hpf_bZvkcUJDz7UM-C7oIU6ota2I478lquvlm10jSTcSDk0zmuouxVUuIQh0FWkWxdNGyoNIjitiqqNzM.kTU0r7VvfTQcbH1RtJliDvab2Y7bco_S_T8y6CiXl6g&dib_tag=se&keywords=JBL+Endurance+Peak+3&qid=1792216349&sr=8-91&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=ySb66HXkW4dNo",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:52:54.859Z",
+    "validUntil": "2026-10-18T13:52:54.859Z"
+  },
+  {
+    "productId": 131,
+    "productName": "JBL Live Beam 3",
+    "amount": 593.24,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Loja Mastercell",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/JBL-Bluetooth-Auricular-Cancelamento-Resistente/dp/B0D44L7TFD/ref=sr_1_67?dib=eyJ2IjoiMSJ9.D66OAMpRPGyhSHG_HscC4e9n-yBTr6PxE5_Ccd3K-LEgD7N_GPZ71yOa4x1gKJC0bBPBBU_NhxIxop4ybodstEFuM1sXmoDRdi14xsmtu2Dd-n9Lo0raxdMu9vh3V8z315v6cLkpDFyjs5eJYQUS8MhCTQVIY6nh06NyCC6OzgHBltsEshutRlcjR80XLyLesHJx0vIiaGgmQcgKrtopaqVrFhFUFH93Zi-vQ8Qw8HozKdja7gs6BikM_nx1Wzqn1W9z17PRNSKVWAIN54wdTG_gaCoZuKVaApkplZo3waM.SPDV9efbK-nESPt1rHYsf-0vS8Et4Ddcs6j8Yzck49s&dib_tag=se&keywords=JBL%2BLive%2BBeam%2B3&qid=1792216371&sr=8-67&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=M4HbJid7WdLdm&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:53:00.416Z",
+    "validUntil": "2026-10-18T13:53:00.416Z"
+  },
+  {
+    "productId": 140,
+    "productName": "Samsung Galaxy Buds 4 Pro",
+    "amount": 1187.49,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "GX Progress Singapore",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Samsung-Galaxy-Ouvido-Auto-falante-Aprimorado/dp/B0GQDGVP68/ref=sr_1_50?dib=eyJ2IjoiMSJ9.IIli-w_8m-0hUuRGRu_8s-Kut0NfPGaNFWatfZS79lAEeD26Rxt7xz2NiCWKZ19gVFBSrlmw2DDUFAqbymi856ZTTvPe8W2QARpjy8GrnwJB5K2Z7tZxH22_F2BX7mzinYEXq36IOTLXsV6ChsTWnK1X-bQP4tjTkLAG38uNxPNtDJeiQi-0OwnjUU-72aOmM9Ge9LHu2oPTPxQqOAbyxjyxxFGodSWx9ZmE_HAFDSw._nKXKxFzIYcxVOfWfcaDA7VtWktumRZq3qO2ET649Ws&dib_tag=se&keywords=Samsung%2BGalaxy%2BBuds%2B4%2BPro&qid=1792216377&sr=8-50&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=zvfCwmn_5XTjx&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:53:02.830Z",
+    "validUntil": "2026-10-18T13:53:02.830Z"
+  },
+  {
+    "productId": 144,
+    "productName": "Samsung Galaxy Buds 3 FE",
+    "amount": 698.98,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Samsung-Galaxy-Buds3-Ouvido-Cancelamento/dp/B0FSGL8YCN/ref=sr_1_22?dib=eyJ2IjoiMSJ9.TAR-plYlhZVHwn186BR9Q949Y2U2xbKrXExwj4PaKQLvzHFpSYRGgO4V0NrbNEqPjz8V3hsXSd2yOb_q8CcwoMhQsfSNAnplgRdxAqdSxQ3UOrwMYEtJLJoPb7LhqlwQBIqndqHaveuwtAfNPv-RbbXtVCOmpR92EbtQ3kbdVpICZNW_E7_rZDRFsd-DyTNeNF06HPdwjd0jdjglCSd1xCnXnisiOw2dnVXLlCd33JalMf912QXfd95FalDuRR9Nu32babbC-M8Bhf2c5_p_RFyrprXSZbgwFHLCJbjeAME.0f6ASe5SLo2ge_axtBQZRshrTfCCA_AF-xe7-nM_ln4&dib_tag=se&keywords=Samsung+Galaxy+Buds+3+FE&qid=1792216380&sr=8-22&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:53:07.542Z",
+    "validUntil": "2026-10-18T13:53:07.542Z"
+  },
+  {
+    "productId": 150,
+    "productName": "Apple AirPods Pro 3",
+    "amount": 1999,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Amazon.com.br",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT/ref=sr_1_59?dib=eyJ2IjoiMSJ9.FmIJ9Sa6A0PMgiTs5u-EDMfN9AaXp30I1xKHbYhOm2WeSLSiygufgV9BF-XZBl1BtJ2K4P7GGI22j2ShXEsMZ5EFCj5vERzslmJ_5B7kpvUs1uE58Pft-g8SkNuizJ1hsYtcSRZs_7loX7E_sjNkyEO3tvjU-AlNjlshfjepfwB-dJTmD_xh0QaHgbj_ot7J.NPKaywOXqrIbOU15-B8ZkEqA1M4-GRrYcv0h9r3i810&dib_tag=se&keywords=Apple+AirPods+Pro+3&qid=1792216400&sr=8-59&ufe=app_do%3Aamzn1.fos.9e2bb3df-d202-4393-aa85-f9546298d910&xpid=wyxqXd6gT-MnM",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:53:12.419Z",
+    "validUntil": "2026-10-18T13:53:12.419Z"
+  },
+  {
+    "productId": 240,
+    "productName": "Soundcore Space One Pro",
+    "amount": 1039,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço anunciado; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Space-Adaptativo-Headphone-Over-Ear/dp/B0CZ8G716J/ref=sr_1_57?dib=eyJ2IjoiMSJ9.16bBfWRKnwXVSK2C8PWIF_-ELYu-OrnA3-euUHQBkjP7ak7DjLtnXTAurHeUkKLvBECVXvl0jCw_ENn1lRBQJOlNLgjOk8yszibsBOgb7NuLGXpvHjoHaYEjaSi_DzvQuNcgq6bVkp_FZuoT2QN9xfBJ4FR-xBpb0YMGFYRCg-kGl2tMJmkzaOer84fBdHMDOSa4mEeliAtV02yAa7QLACLFmrn7_aCpjUmh7wirdjvnGtPhu3GpsaUu7WfeLWHrwf_HjT_PVJl5b44zjjDv2QXSttjxRx5DazlIgHoFjBQ.RnT0jtAtLaBA6d0qs9xnt2zvdaC-YiQ0xNSxFUTi4ys&dib_tag=se&keywords=Soundcore%2BSpace%2BOne%2BPro&qid=1792216487&sr=8-57&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=6rcEGgtjJLOqB&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:53:58.834Z",
+    "validUntil": "2026-10-18T13:53:58.834Z"
+  },
+  {
+    "productId": 244,
+    "productName": "Soundcore Q11i",
+    "amount": 189,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "AnkerDirect BR",
+    "conditions": "Preço anunciado; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/soundcore-Bluetooth-Headphone-Destac%C3%A1veis-Multiponto/dp/B0DJW5G283/ref=sr_1_9?dib=eyJ2IjoiMSJ9.D34qxbqMTg3Se6KwsWh0mXWJ4G6my_A8wYlDUzah-DpEnZbrmc_7oqMc3z4mW3i3G_EHKQGpVUDvuGhUT0oN_gnkms_aqDYa2uEpK19cFwq-Exs5XGmtY29ckfkwaO9lU9HLQFgwfUC38EJzrIEn7ujGEd8fnYklFSF_n8gABvbFQ1MJ3GYcXfv4LsPs_-dq11UYC-iUod-ZCx6bhNXTE2PnwsPGU0L_GDSFz7MCeTD9uvC9JqHsT_50jcUwn86_d_xb2icILtmAIZmmNxGjgBOOsdXA7hTPXBucppaAbK0.Uxa1RO4Q_XmDIVO8QvJv24jEmrp--725VZeVVzIvYM8&dib_tag=se&keywords=Soundcore%2BQ11i&qid=1792216495&sr=8-9&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:04.570Z",
+    "validUntil": "2026-10-18T13:54:04.570Z"
+  },
+  {
+    "productId": 254,
+    "productName": "Sennheiser Momentum True Wireless 4",
+    "amount": 1815.92,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Addventure ⭐⭐⭐⭐⭐",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sennheiser-Inteligentes-Bluetooth-Cristalino-Confort%C3%A1vel/dp/B0CTHY1JNJ/ref=sr_1_68?dib=eyJ2IjoiMSJ9.As-tMWIBQ0iVr_v-DxA0ZMOnn4N_LS_yLR7bMIf7SSLfPnRhJAepzJSOCOmOkUdXLF-86n_neqS4qFuDgHhBUUUU0Xx5OOr8xhuwUq3Eq3YXI8r5_PWdbMWD5croPtJ6SFCorGmwdyvY3i8d-RbgayKQL7-NQeNJeiOv21nBR8whHyf_GDfLoZtapgtEq5FOlWpt6O-LHkwpUiDxO4v2IdybjJUas0F013gminSXbIqZQoP-4h5s2dsWzmnQJc8rqanVM5Oo__jMecCpuw4lNhgVEMOVT0Q0MpIBtfVSLK8.RyvWsLMSahB1-zQsCi-KQMgGGZtTC02rs91hN2LU300&dib_tag=se&keywords=Sennheiser%2BMomentum%2BTrue%2BWireless%2B4&qid=1792216621&sr=8-68&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=JQqFV0EUppHVo&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:09.846Z",
+    "validUntil": "2026-10-18T13:54:09.846Z"
+  },
+  {
+    "productId": 255,
+    "productName": "Sennheiser Momentum True Wireless 3",
+    "amount": 949.05,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Addventure ⭐⭐⭐⭐⭐",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Sennheiser-Consumer-Audio-intra-auriculares-conectividade/dp/B09T8YPFV2/ref=sr_1_10?dib=eyJ2IjoiMSJ9.qkCiZl2RAV6E-Z7sYttpQykpEJd3D7O6tq75_-SvF-jIItjTAkGg0fH72rVoSOREv-vYLftPRp5GFbLz9kFrYsW9fr8JL8zcbXjFcGu6uWWdZng-qA-KUyYzy2XwTYV2qite8Cg-sRpqtBQC09X4TNhl5X-HkVtk3jTDJnz6v_OrVLdNzAy0FxG8nZAhkPyb4IKTrcBaj4u-cXIkxI1xRPVJobF9j5TJyNeZQPD1OE41gyzMKbySNRkKyDP64vKr.7Ea80geTRWPxSzlJpZHjQ2i0qiB8WZm8f79OkiOFngs&dib_tag=se&keywords=Sennheiser+Momentum+True+Wireless+3&qid=1792216623&sr=8-10&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:12.156Z",
+    "validUntil": "2026-10-18T13:54:12.156Z"
+  },
+  {
+    "productId": 321,
+    "productName": "Shokz OpenRun Pro",
+    "amount": 947.15,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "NexTT",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Shokz-OpenRun-Pro-esportivos-resistentes/dp/B09BVXT8TJ/ref=sr_1_31?dib=eyJ2IjoiMSJ9.USfzSvS9pR6XkPUtzLeMxe7mONjEiWaDJeGv8xbIbgPTREyjPvn79Nl3aPrNjajpKpgfFjkpkuNjeubTPtp3Yn_8QhtBH9G5vi4Hr2Fm6DCTcSbD93_RawVlPx5SFGW-2JlpbTHSauPx4hIUnfFLD5SpIFuFM2Sg95LrT8HvtXIsz9J0yrvJFcdJck_RYhp5LwRxugsJGEqOjUq9iRRm-JdrEhObOAGWhV56uyOHfDACFfQ5lkshzJW3L6Kos5YD1WajtCX6wkJ0dRKr8oHm8ba5_VQGvCFK4lYDGDTe4Q8.x62yZEfI5fA1B2eaPn_V1jIaUUTiovVGa_wA_3kSqds&dib_tag=se&keywords=Shokz%2BOpenRun%2BPro&qid=1792216665&sr=8-31&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:20.279Z",
+    "validUntil": "2026-10-18T13:54:20.279Z"
+  },
+  {
+    "productId": 323,
+    "productName": "Shokz OpenFit Air",
+    "amount": 599.07,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "Orbitek",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Shokz-Fone-Ouvido-Aberto-OpenFit/dp/B0DD5DFGG5/ref=sr_1_23?dib=eyJ2IjoiMSJ9.51YhHFbClnur144b6V00Z8iOOfrfY0Tk2Eh1BM-vCOtKrNbBsdKtw-cs0g2phcp2wCmUa44oIsP1-4K8dGj8A78tB40DcsC6G05RrnQ3zu7nk1Jz4gS2Fl2E26Ta5c5gS_CiebQNsS2GWw7qQAzWp-fEqzL1uQc2x45Iw1BM9RS-RIMCGhTVBdi8AdrB3wK5bLWQJfoksqAzdv9WuCmCK9yGsFhe4nWUarNfEbrPFln4J_VyoNvAD4REkLX632b2wHg5AEYFWNlw6N5dpdcolY1d0W8hR63-VEdVhaEW4xQ.E35Fn4_R7iriqNHX7G6a5p7UY62YJuWOMh0Pp9kTso8&dib_tag=se&keywords=Shokz%2BOpenFit%2BAir&qid=1792216683&sr=8-23&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&th=1",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:36.739Z",
+    "validUntil": "2026-10-18T13:54:36.739Z"
+  },
+  {
+    "productId": 340,
+    "productName": "Baseus H1i Bowie",
+    "amount": 767.59,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "LSL Store Imports",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Fones-Ouvido-Baseus-Cancelamento-Branco/dp/B0C9YN45GG/ref=sr_1_6?dib=eyJ2IjoiMSJ9.Aq2N6cgRPtArknnS2JsxouEGCu1shH_Lpv5vHw4AvpDixNqgdqR-vAMU6V4m0KixQ_IBZckmCAab1YkT1ARHXwKq0TW4WLFIA3DIhDNVaV4.UggRhinaN2NYGSVXAXTtGqG089Oo3Lgu2vFBVUQXEDo&dib_tag=se&keywords=baseus+h1+bowie&qid=1792216694&sr=8-6&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:41.862Z",
+    "validUntil": "2026-10-18T13:54:41.862Z"
+  },
+  {
+    "productId": 400,
+    "productName": "Skullcandy Crusher ANC 2",
+    "amount": 1111.5,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "REDELINE",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Skullcandy-Crusher-ANC-Discontinued-Manufacturer/dp/B0C9L8ZR6Q/ref=sr_1_22?dib=eyJ2IjoiMSJ9.jg71qIjeRPwF0MwE_t6omE2D76e7_p6wnx7b_oLDfEZHmLj-Fdd7FWlcaaa5JVlJx8aA-O0KSx20q3LCxlMid7OCNmip2vmKNJP_laQrJhOK3FhPHDoY4598Fig1TL5WF37G-_GZtD2Ik9p1URoMojmNkcbdE-ty9UfbP5Ht5AP7GmW47NvPTMhAb4yRw9IVz3tlUjOWU6KdkCGmcmunJ5QaoCq7nmTbs-N5UlTc7uvZMNYz5QscLsoZspb_UNgRkDoi8xDrj0M_Ni_uiyR2D89oETPJnhj0xuxkYuJzfk0.lCFxrsoSvsLjuayH9C-E950y8dSyqAjofEUqVL96p4s&dib_tag=se&keywords=Skullcandy+Crusher+ANC+2&qid=1792216716&sr=8-22&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:46.702Z",
+    "validUntil": "2026-10-18T13:54:46.702Z"
+  },
+  {
+    "productId": 404,
+    "productName": "Skullcandy Push Active",
+    "amount": 1192.17,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "The Buy Box Store",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/Skullcandy-ouvido-intra-auricular-Active-Wireless/dp/B08X22SQ9B/ref=sr_1_16?dib=eyJ2IjoiMSJ9.p2fJ6w9OWrqDRwKKcG8rfusNgsABYB92vAI4t8HDiEpRkKFMlYIT-Lf-uwtoIggDjRcwmhp-s5KRWi8lApQ-MjAm8E0BxkCuCz8oQo5eNxrwaGNGkZlQFTapL7LBUJlFqeGSeIAFh5d4FZV9S2ZBqLAVac6qrEhebxRDdL973T1Z1XP3plqsIPmBY4q4dwt5VzY66ey4LVpnx3292eP7QvLVPbJRsiuhgwnPXfq9HzvLAVXErhoKGBAVAzMb6-lJ95Bid7MVz3M_iHKUAaaiCKCMx1fbYa-PTa-3X-za1mc.9uokEC0MDhexkl7ElAISUKm7Wr6TGidfCs0EpA4cCG8&dib_tag=se&keywords=Skullcandy+Push+Active&qid=1792216736&sr=8-16&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:54:56.512Z",
+    "validUntil": "2026-10-18T13:54:56.512Z"
+  },
+  {
+    "productId": 437,
+    "productName": "Tozo HT2",
+    "amount": 276.44,
+    "currency": "BRL",
+    "merchant": "Amazon",
+    "seller": "YOU GREEN",
+    "conditions": "Preço à vista no Pix/NuPay; sem frete. Menor entre os anúncios verificados.",
+    "sourceUrl": "https://www.amazon.com.br/cancelamento-h%C3%ADbrido-TOZO-Bluetooth-reprodu%C3%A7%C3%A3o/dp/B07KY8G9NM/ref=sr_1_13?dib=eyJ2IjoiMSJ9.8tvJIj7ybiU5Duzk0TDmuyAXuFfVctB_7kVV-Ny8R0_3WXosa1q0VtVfLLY4tzR4YgamPr--3kjrzQP8SkxNTt2EXBoGO3pOuMP4aQnGmrLYkj00lQUx4VO2xxqap9YYT3V38VUyg544n8hAOhQm_9gJ90vHrTKA49_IRth_g1qYSSqL__OU9QhH12sSRNbRqwaOyssT8PXyPnxGgDwNrGYNG7hiXubBD9gL4oMYO9EptM8sAlec7NVlFW67wO0vMqgRVGhHLt5u-XqjyzEhTis-DYw3IiLjYZZehi9D2DA._AzXHW4BTS7BDxjuHpFH0zvTD0uTRRLFPL2N4ixMmaM&dib_tag=se&keywords=Tozo+HT2&qid=1792216757&sr=8-13&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-17T13:55:01.265Z",
+    "validUntil": "2026-10-18T13:55:01.265Z"
   }
 ];
 

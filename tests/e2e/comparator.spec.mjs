@@ -126,6 +126,9 @@ test('REG-UI-04 links antigos, aliases, consulta parcial e suspensos', async ({ 
 });
 
 test('REG-UI-05 valores corrigidos, fontes, preços e ausência de notas inventadas', async ({ page }) => {
+  // Exercise the no-valid-quote state independently of new real offers being added.
+  const quotes=vm.runInNewContext(await source('prices.js')+';PRICE_QUOTES');
+  await page.clock.install({time:new Date(Math.max(...quotes.map(q=>Date.parse(q.validUntil)))+1000)});
   await page.goto('/?q=JBL+Tune+510BT');
   await choose(page, 2, 'Edifier W800BT Plus');
   await compare(page);

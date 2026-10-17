@@ -36,7 +36,7 @@ test('REG-SHOPEE-02 API rejeita modelo acessório faixa preço e revalidação d
  await assert.rejects(()=>selectAndRevalidateShopee([base],{...options,requestExact:async()=>{throw Error('API offline')}}),/API offline/);
 });
 test('REG-SHOPEE-04 vendedores comuns não liberam peças capas nem outras gerações',()=>{
- for(const accessory of ['Bolsa','Caso','Protetor','Ponteiras','Tampões','Alto falante','Bandana dobradiça','Corda','Tampa','Peça','Caixa aberta','Para']) {
+ for(const accessory of ['Replacement Silicone Eartips','Ear Tips','Replacement pads','Refurbished','Bolsa','Caso','Protetor','Ponteiras','Tampões','Alto falante','Bandana dobradiça','Corda','Tampa','Peça','Caixa aberta','Para']) {
   assert.equal(normalizeShopeeOfficial({...base,shopType:[],productName:accessory+' JBL Tune 520BT'},options),null,accessory);
  }
  for(const [model,productName] of [['Nothing Ear','Nothing Ear stick'],['Haylou W1','Haylou W1 ANC'],['Bose QuietComfort Ultra','Fone Bose QuietComfort Ultra Wireless 2 Noise Canceling']])assert.equal(normalizeShopeeOfficial({...base,productName},{...options,model}),null);
