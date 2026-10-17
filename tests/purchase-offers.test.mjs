@@ -6,7 +6,7 @@ const source = await readFile(new URL('../purchase-offers.js',import.meta.url),'
 const now = Date.parse('2026-10-17T12:00:00Z');
 function runtime(offers) {
  const ctx=vm.createContext({URL,URLSearchParams,Date, input:offers});
- vm.runInContext('const CONFIG={affiliate:{amazon:{enabled:true,tag:"test-20"},mercadolivre:{enabled:true},shopee:{enabled:true}}};'+source+'; PURCHASE_OFFERS.length=0; PURCHASE_OFFERS.push(...input);',ctx);
+ vm.runInContext('const CONFIG={affiliate:{amazon:{enabled:true,tag:"test-20"},mercadolivre:{enabled:true},shopee:{enabled:true,homepageAffiliateUrl:"https://s.shopee.com.br/HomeTest"}}};'+source+'; PURCHASE_OFFERS.length=0; PURCHASE_OFFERS.push(...input);',ctx);
  return ctx;
 }
 const base={productId:1,marketplace:'amazon',selectionVerified:true,variantConfirmed:true,conversionVerified:true,destinationVerified:true,
@@ -64,6 +64,22 @@ test('REG-OFFER-02 perfis sociais não são destino final e base não contém fi
  }
  assert.equal(vm.runInContext('PURCHASE_OFFERS.length',runtime([])),0);
  const ctx=runtime([]);
- assert.match(vm.runInContext("purchaseUrl({id:1,name:'Fone Teste'},'shopee')",ctx),/search\?keyword=Fone%20Teste/);
- assert.equal(vm.runInContext("purchaseLabel({id:1,name:'Fone'},'amazon','Amazon')",ctx),'Amazon · Buscar');
+ assert.equal(vm.runInContext("purchaseUrl({id:1,name:'Fone Teste'},'shopee')",ctx),'https://s.shopee.com.br/HomeTest');
+ assert.equal(vm.runInContext("purchaseLabel({id:1,name:'Fone'},'amazon','Amazon')",ctx),'Amazon · Ir à loja (afiliado)');
+});
+
+test('REG-OFFER-04 oferta individual prevalece; sem ela homepage afiliada só nas lojas permitidas',()=>{
+ const hp="{id:1,name:'Fone Teste'}";
+ const current={...base,checkedAt:new Date(Date.now()-60_000).toISOString(),validUntil:new Date(Date.now()+60_000).toISOString()};
+ const ctx=runtime([current]);
+ assert.equal(vm.runInContext(`purchaseUrl(${hp},'amazon')`,ctx),base.affiliateUrl);
+ assert.equal(vm.runInContext(`purchaseLabel(${hp},'amazon','Amazon')`,ctx),'Amazon · Oferta afiliada');
+ assert.equal(vm.runInContext(`purchaseUrl(${hp},'amazon')`,runtime([])),'https://www.amazon.com.br/?tag=test-20');
+ assert.equal(vm.runInContext(`purchaseUrl(${hp},'shopee')`,runtime([])),'https://s.shopee.com.br/HomeTest');
+ assert.match(vm.runInContext(`purchaseUrl(${hp},'mercado_livre')`,runtime([])),/^https:\/\/lista\.mercadolivre\.com\.br\/Fone%20Teste$/);
+ assert.equal(vm.runInContext(`purchaseLabel(${hp},'mercado_livre','Mercado Livre')`,runtime([])),'Mercado Livre · Buscar');
+ vm.runInContext('CONFIG.affiliate.amazon.tag=""; CONFIG.affiliate.shopee.homepageAffiliateUrl="https://evil.example/redirect"',ctx);
+ assert.match(vm.runInContext(`purchaseUrl(${hp},'amazon')`,ctx),/^https:\/\/www\.amazon\.com\.br\/s\?k=/);
+ assert.match(vm.runInContext(`purchaseUrl(${hp},'shopee')`,ctx),/^https:\/\/shopee\.com\.br\/search\?keyword=/);
+ assert.equal(vm.runInContext(`purchaseLabel(${hp},'shopee','Shopee')`,ctx),'Shopee · Buscar');
 });

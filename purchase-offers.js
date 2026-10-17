@@ -5336,9 +5336,26 @@ function currentPurchaseOffer(id, marketplace, now = Date.now()) {
   }).sort((a,b) => Date.parse(b.checkedAt) - Date.parse(a.checkedAt))[0] || null;
 }
 
+function purchaseHomepageAffiliateUrl(marketplace) {
+  if (marketplace === 'amazon' && CONFIG.affiliate.amazon?.enabled &&
+      /^[a-z0-9-]{2,50}$/i.test(CONFIG.affiliate.amazon.tag)) {
+    return 'https://www.amazon.com.br/?tag=' + encodeURIComponent(CONFIG.affiliate.amazon.tag);
+  }
+  if (marketplace === 'shopee' && CONFIG.affiliate.shopee?.enabled) {
+    try {
+      const url = new URL(CONFIG.affiliate.shopee.homepageAffiliateUrl);
+      if (url.protocol === 'https:' && !url.username && !url.password && !url.search && !url.hash &&
+          ['s.shopee.com.br', 'shope.ee'].includes(url.hostname) && /^\/[a-z0-9_-]+$/i.test(url.pathname)) return url.href;
+    } catch {}
+  }
+  return null;
+}
+
 function purchaseUrl(hp, marketplace) {
   const offer = currentPurchaseOffer(hp.id, marketplace);
   if (offer) return offer.affiliateUrl;
+  const homepage = purchaseHomepageAffiliateUrl(marketplace);
+  if (homepage) return homepage;
   const q = encodeURIComponent(hp.name);
   if (marketplace === 'amazon') return 'https://www.amazon.com.br/s?k=' + q;
   if (marketplace === 'mercado_livre') return 'https://lista.mercadolivre.com.br/' + q;
@@ -5346,5 +5363,6 @@ function purchaseUrl(hp, marketplace) {
 }
 
 function purchaseLabel(hp, marketplace, name) {
-  return currentPurchaseOffer(hp.id, marketplace) ? name + ' · Oferta afiliada' : name + ' · Buscar';
+  if (currentPurchaseOffer(hp.id, marketplace)) return name + ' · Oferta afiliada';
+  return purchaseHomepageAffiliateUrl(marketplace) ? name + ' · Ir à loja (afiliado)' : name + ' · Buscar';
 }
