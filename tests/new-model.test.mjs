@@ -1,0 +1,22 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import vm from 'node:vm';
+const read=p=>readFile(new URL('../'+p,import.meta.url),'utf8');
+test('REG-NEW-01 cadastro novo tem identidade fonte e pendências sem preço ou notas inventadas',async()=>{
+ const ctx=vm.createContext({});
+ vm.runInContext(await read('headphones.js')+'\n'+await read('catalog-review.js'),ctx);
+ const h=vm.runInContext('HEADPHONES.filter(h=>h.name==="JBL Tune 530BT")',ctx);
+ assert.equal(h.length,1); assert.equal(h[0].id,452);
+ assert.equal(h[0].price,null); assert.equal(Object.keys(h[0].score).length,0);
+ assert.equal(h[0].specs.Bluetooth,'6.0'); assert.equal(h[0].type,'On-ear');
+ assert.equal(vm.runInContext('catalogSpec(HEADPHONES.find(h=>h.id===452),"ANC")',ctx),'Em revisão');
+ const r=vm.runInContext('CATALOG_REVIEW[452]',ctx);
+ assert.equal(r.sources[0].checkedAt,'2026-10-17');
+ assert.equal(r.sources[0].url,'https://www.jbl.com.br/TUNE530BT.html');
+ assert.ok(r.sources[0].fields.includes('Bluetooth'));
+ assert.equal(vm.runInContext('PUBLIC_HEADPHONES.filter(h=>h.id===452).length',ctx),1);
+ const record=JSON.parse(await read('docs/novos-modelos.json')).records.find(r=>r.id===452);
+ assert.equal(record.conflicts[0].values.length,2);
+ assert.ok(!Object.hasOwn(h[0].specs,'Conteúdo da caixa'));
+});

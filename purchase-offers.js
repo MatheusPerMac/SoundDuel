@@ -1,0 +1,923 @@
+// Ofertas verificadas em 17/10/2026; expiram em até 24h. Evidências privadas fora do site.
+const PURCHASE_OFFERS = [
+  {
+    "productId": 4,
+    "model": "QCY T13",
+    "marketplace": "shopee",
+    "variantKey": "qcy t13",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "239168233",
+    "itemId": "24074343496",
+    "seller": "QCY Official Store.br",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 129,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/239168233/24074343496",
+    "affiliateUrl": "https://s.shopee.com.br/AUuqBEULLF",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:20.179Z",
+    "validUntil": "2026-10-18T04:13:20.179Z",
+    "shopeeApiEvidence": {
+      "itemId": 24074343496,
+      "shopId": 239168233,
+      "shopName": "QCY Official Store.br",
+      "shopType": [
+        1
+      ],
+      "productName": "QCY T13 Fone De Ouvido Inteligente Sem Fio TWS 4 Microfones ENC HD Com Controle De Toque  40H",
+      "productLink": "https://shopee.com.br/product/239168233/24074343496",
+      "offerLink": "https://s.shopee.com.br/AUuqBEULLF",
+      "priceMin": "129",
+      "priceMax": "129",
+      "ratingStar": "4.9",
+      "commissionRate": "0.08",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/239168233/24074343496",
+    "apiRevalidatedAt": "2026-10-17T04:13:20.179Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 9,
+    "model": "JBL Tune 720BT",
+    "marketplace": "shopee",
+    "variantKey": "jbl tune 720bt",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "778397589",
+    "itemId": "52615208612",
+    "seller": "ITX-GAMER",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 299,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/778397589/52615208612",
+    "affiliateUrl": "https://s.shopee.com.br/7KxoPPxzul",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:20.925Z",
+    "validUntil": "2026-10-18T04:13:20.925Z",
+    "shopeeApiEvidence": {
+      "itemId": 52615208612,
+      "shopId": 778397589,
+      "shopName": "ITX-GAMER",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Bluetooth JBL Tune 720BT, Over-Ear, Sem Fio, 76h Bateria, Branco - JBLT720BTWHT",
+      "productLink": "https://shopee.com.br/product/778397589/52615208612",
+      "offerLink": "https://s.shopee.com.br/7KxoPPxzul",
+      "priceMin": "299",
+      "priceMax": "299",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/778397589/52615208612",
+    "apiRevalidatedAt": "2026-10-17T04:13:20.925Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 13,
+    "model": "Soundcore P30i",
+    "marketplace": "shopee",
+    "variantKey": "soundcore p30i",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1051446617",
+    "itemId": "58162614315",
+    "seller": "Tudão Tech  Ltda",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 222.9,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1051446617/58162614315",
+    "affiliateUrl": "https://s.shopee.com.br/BUdsFYDX5",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:21.513Z",
+    "validUntil": "2026-10-18T04:13:21.513Z",
+    "shopeeApiEvidence": {
+      "itemId": 58162614315,
+      "shopId": 1051446617,
+      "shopName": "Tudão Tech  Ltda",
+      "shopType": [
+        1
+      ],
+      "productName": "FONE DE OUVIDO SOUNDCORE P30I BLUETOOTH 5.3 MULTIPONTO 50H",
+      "productLink": "https://shopee.com.br/product/1051446617/58162614315",
+      "offerLink": "https://s.shopee.com.br/BUdsFYDX5",
+      "priceMin": "222.9",
+      "priceMax": "222.9",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1051446617/58162614315",
+    "apiRevalidatedAt": "2026-10-17T04:13:21.513Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 19,
+    "model": "QCY H3 ANC",
+    "marketplace": "shopee",
+    "variantKey": "qcy h3 anc",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "239168233",
+    "itemId": "27350696719",
+    "seller": "QCY Official Store.br",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 239,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/239168233/27350696719",
+    "affiliateUrl": "https://s.shopee.com.br/8KqLbGgejn",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:21.834Z",
+    "validUntil": "2026-10-18T04:13:21.834Z",
+    "shopeeApiEvidence": {
+      "itemId": 27350696719,
+      "shopId": 239168233,
+      "shopName": "QCY Official Store.br",
+      "shopType": [
+        1
+      ],
+      "productName": "QCY H3 ANC Fones De Ouvido Sem Fio Bluetooth 5.4 Sobre Fone 43dB Com Cancelamento De Ruído 60H",
+      "productLink": "https://shopee.com.br/product/239168233/27350696719",
+      "offerLink": "https://s.shopee.com.br/8KqLbGgejn",
+      "priceMin": "239",
+      "priceMax": "239",
+      "ratingStar": "4.9",
+      "commissionRate": "0.08",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/239168233/27350696719",
+    "apiRevalidatedAt": "2026-10-17T04:13:21.834Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 24,
+    "model": "HUAWEI FreeBuds 5i",
+    "marketplace": "shopee",
+    "variantKey": "huawei freebuds 5i",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1494995608",
+    "itemId": "41776286360",
+    "seller": "HUAWEI Loja Oficial",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 355,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1494995608/41776286360",
+    "affiliateUrl": "https://s.shopee.com.br/80DVCezWY1",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:22.136Z",
+    "validUntil": "2026-10-18T04:13:22.136Z",
+    "shopeeApiEvidence": {
+      "itemId": 41776286360,
+      "shopId": 1494995608,
+      "shopName": "HUAWEI Loja Oficial",
+      "shopType": [
+        1
+      ],
+      "productName": "HUAWEI FreeBuds 5i | Fone de Ouvido Sem Fio | Som de Alta Resolução | 28h de Reprodução Contínua",
+      "productLink": "https://shopee.com.br/product/1494995608/41776286360",
+      "offerLink": "https://s.shopee.com.br/80DVCezWY1",
+      "priceMin": "355",
+      "priceMax": "355",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1494995608/41776286360",
+    "apiRevalidatedAt": "2026-10-17T04:13:22.136Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 41,
+    "model": "Sony WH-1000XM4",
+    "marketplace": "shopee",
+    "variantKey": "sony wh 1000xm4",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1344289546",
+    "itemId": "23892936391",
+    "seller": "Imagem Hitech Oficial",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 1666,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1344289546/23892936391",
+    "affiliateUrl": "https://s.shopee.com.br/Lo44aWm6o",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:22.418Z",
+    "validUntil": "2026-10-18T04:13:22.418Z",
+    "shopeeApiEvidence": {
+      "itemId": 23892936391,
+      "shopId": 1344289546,
+      "shopName": "Imagem Hitech Oficial",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de ouvido Sony WH-1000XM4 sem fio Bluetooth e com Cancelamento de Ruído",
+      "productLink": "https://shopee.com.br/product/1344289546/23892936391",
+      "offerLink": "https://s.shopee.com.br/Lo44aWm6o",
+      "priceMin": "1666",
+      "priceMax": "1666",
+      "ratingStar": "4.9",
+      "commissionRate": "0.1",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1344289546/23892936391",
+    "apiRevalidatedAt": "2026-10-17T04:13:22.418Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 42,
+    "model": "Sony WH-1000XM5",
+    "marketplace": "shopee",
+    "variantKey": "sony wh 1000xm5",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1344289546",
+    "itemId": "22797756950",
+    "seller": "Imagem Hitech Oficial",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 2399,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1344289546/22797756950",
+    "affiliateUrl": "https://s.shopee.com.br/8V9lnb615R",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:22.729Z",
+    "validUntil": "2026-10-18T04:13:22.729Z",
+    "shopeeApiEvidence": {
+      "itemId": 22797756950,
+      "shopId": 1344289546,
+      "shopName": "Imagem Hitech Oficial",
+      "shopType": [
+        1
+      ],
+      "productName": "Sony WH-1000XM5 Os melhores fones de ouvido sem fio - cancelamento de ruidos automatico",
+      "productLink": "https://shopee.com.br/product/1344289546/22797756950",
+      "offerLink": "https://s.shopee.com.br/8V9lnb615R",
+      "priceMin": "2399",
+      "priceMax": "2399",
+      "ratingStar": "4.9",
+      "commissionRate": "0.1",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1344289546/22797756950",
+    "apiRevalidatedAt": "2026-10-17T04:13:22.729Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 122,
+    "model": "JBL Tune 520BT",
+    "marketplace": "shopee",
+    "variantKey": "jbl tune 520bt",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "778397589",
+    "itemId": "47406482981",
+    "seller": "ITX-GAMER",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 229.3,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/778397589/47406482981",
+    "affiliateUrl": "https://s.shopee.com.br/AAHzkKwFAW",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:23.185Z",
+    "validUntil": "2026-10-18T04:13:23.185Z",
+    "shopeeApiEvidence": {
+      "itemId": 47406482981,
+      "shopId": 778397589,
+      "shopName": "ITX-GAMER",
+      "shopType": [
+        1
+      ],
+      "productName": "Headphone Bluetooth JBL Tune 520BT, On-Ear, Bateria de 57 Horas, Som Pure Bass",
+      "productLink": "https://shopee.com.br/product/778397589/47406482981",
+      "offerLink": "https://s.shopee.com.br/AAHzkKwFAW",
+      "priceMin": "229.3",
+      "priceMax": "229.3",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/778397589/47406482981",
+    "apiRevalidatedAt": "2026-10-17T04:13:23.185Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 125,
+    "model": "JBL Wave Beam 2",
+    "marketplace": "shopee",
+    "variantKey": "jbl wave beam 2",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1082747237",
+    "itemId": "22994874367",
+    "seller": "Gazin Oficial",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 315.68,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1082747237/22994874367",
+    "affiliateUrl": "https://s.shopee.com.br/6fi7cGTr6a",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:23.447Z",
+    "validUntil": "2026-10-18T04:13:23.447Z",
+    "shopeeApiEvidence": {
+      "itemId": 22994874367,
+      "shopId": 1082747237,
+      "shopName": "Gazin Oficial",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido JBL Wave Beam 2 sem Fio Bluetooth",
+      "productLink": "https://shopee.com.br/product/1082747237/22994874367",
+      "offerLink": "https://s.shopee.com.br/6fi7cGTr6a",
+      "priceMin": "315.68",
+      "priceMax": "315.68",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1082747237/22994874367",
+    "apiRevalidatedAt": "2026-10-17T04:13:23.447Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 145,
+    "model": "Samsung Galaxy Buds Core",
+    "marketplace": "shopee",
+    "variantKey": "samsung galaxy buds core",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "342086228",
+    "itemId": "43371694047",
+    "seller": "BUMPER MAGAZINE",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 277.99,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/342086228/43371694047",
+    "affiliateUrl": "https://s.shopee.com.br/BUdsKWCM4",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:23.684Z",
+    "validUntil": "2026-10-18T04:13:23.684Z",
+    "shopeeApiEvidence": {
+      "itemId": 43371694047,
+      "shopId": 342086228,
+      "shopName": "BUMPER MAGAZINE",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Sem Fio Samsung Galaxy Buds Core Branco",
+      "productLink": "https://shopee.com.br/product/342086228/43371694047",
+      "offerLink": "https://s.shopee.com.br/BUdsKWCM4",
+      "priceMin": "277.99",
+      "priceMax": "277.99",
+      "ratingStar": "4.9",
+      "commissionRate": "0.11",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/342086228/43371694047",
+    "apiRevalidatedAt": "2026-10-17T04:13:23.684Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 202,
+    "model": "Redmi Buds 6 Lite",
+    "marketplace": "shopee",
+    "variantKey": "redmi buds 6 lite",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "582435128",
+    "itemId": "58253680983",
+    "seller": "Commshop",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 209,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/582435128/58253680983",
+    "affiliateUrl": "https://s.shopee.com.br/1gJRf6hgMM",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:23.940Z",
+    "validUntil": "2026-10-18T04:13:23.940Z",
+    "shopeeApiEvidence": {
+      "itemId": 58253680983,
+      "shopId": 582435128,
+      "shopName": "Commshop",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Xiaomi Bluetooth Redmi Buds 6 Lite Preto XM810",
+      "productLink": "https://shopee.com.br/product/582435128/58253680983",
+      "offerLink": "https://s.shopee.com.br/1gJRf6hgMM",
+      "priceMin": "209",
+      "priceMax": "209",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/582435128/58253680983",
+    "apiRevalidatedAt": "2026-10-17T04:13:23.940Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 204,
+    "model": "Redmi Buds 6 Play",
+    "marketplace": "shopee",
+    "variantKey": "redmi buds 6 play",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "337570318",
+    "itemId": "49467816595",
+    "seller": "LOJAS MINEIRAS  LOJA OFICIAL ",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 113.9,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/337570318/49467816595",
+    "affiliateUrl": "https://s.shopee.com.br/6fi7cIK6uj",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:24.195Z",
+    "validUntil": "2026-10-18T04:13:24.195Z",
+    "shopeeApiEvidence": {
+      "itemId": 49467816595,
+      "shopId": 337570318,
+      "shopName": "LOJAS MINEIRAS  LOJA OFICIAL ",
+      "shopType": [
+        1
+      ],
+      "productName": "Xiaomi Redmi Buds 6 Play Fone Bluetooth 5.4 TWS Sem Fio Driver 10mm IPX4 Preto",
+      "productLink": "https://shopee.com.br/product/337570318/49467816595",
+      "offerLink": "https://s.shopee.com.br/6fi7cIK6uj",
+      "priceMin": "113.9",
+      "priceMax": "113.9",
+      "ratingStar": "5",
+      "commissionRate": "0.1",
+      "periodStartTime": 1789324360,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/337570318/49467816595",
+    "apiRevalidatedAt": "2026-10-17T04:13:24.195Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 223,
+    "model": "QCY H2 Pro",
+    "marketplace": "shopee",
+    "variantKey": "qcy h2 pro",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1790623928",
+    "itemId": "58261975918",
+    "seller": "QCY Áudio Oficial Brasil",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 189,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1790623928/58261975918",
+    "affiliateUrl": "https://s.shopee.com.br/20wI3jX4XE",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:24.482Z",
+    "validUntil": "2026-10-18T04:13:24.482Z",
+    "shopeeApiEvidence": {
+      "itemId": 58261975918,
+      "shopId": 1790623928,
+      "shopName": "QCY Áudio Oficial Brasil",
+      "shopType": [
+        1
+      ],
+      "productName": "Headphone QCY H2 Pro Fone Sem Fio Bluetooth 5.3 Até 60H de Reprodução",
+      "productLink": "https://shopee.com.br/product/1790623928/58261975918",
+      "offerLink": "https://s.shopee.com.br/20wI3jX4XE",
+      "priceMin": "189",
+      "priceMax": "189",
+      "ratingStar": "4.9",
+      "commissionRate": "0.1",
+      "periodStartTime": 1784789943,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1790623928/58261975918",
+    "apiRevalidatedAt": "2026-10-17T04:13:24.482Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 224,
+    "model": "QCY HT08 MeloBuds Pro",
+    "marketplace": "shopee",
+    "variantKey": "qcy ht08 melobuds pro",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "239168233",
+    "itemId": "28253692946",
+    "seller": "QCY Official Store.br",
+    "rating": 4.9,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 192.99,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/239168233/28253692946",
+    "affiliateUrl": "https://s.shopee.com.br/9KisnD5IE6",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:24.725Z",
+    "validUntil": "2026-10-18T04:13:24.725Z",
+    "shopeeApiEvidence": {
+      "itemId": 28253692946,
+      "shopId": 239168233,
+      "shopName": "QCY Official Store.br",
+      "shopType": [
+        1
+      ],
+      "productName": "QCY HT08 MeloBuds Pro ANC Bluetooth 5.3 Fones De Ouvido Sem Fio 46dB Híbrido Hi-Res LDAC",
+      "productLink": "https://shopee.com.br/product/239168233/28253692946",
+      "offerLink": "https://s.shopee.com.br/9KisnD5IE6",
+      "priceMin": "192.99",
+      "priceMax": "192.99",
+      "ratingStar": "4.9",
+      "commissionRate": "0.08",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/239168233/28253692946",
+    "apiRevalidatedAt": "2026-10-17T04:13:24.725Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 332,
+    "model": "Haylou S30 ANC",
+    "marketplace": "shopee",
+    "variantKey": "haylou s30 anc",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1163157664",
+    "itemId": "21398149859",
+    "seller": "Beelink_BR",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 393.99,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1163157664/21398149859",
+    "affiliateUrl": "https://s.shopee.com.br/9fLjBpzDhL",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:24.998Z",
+    "validUntil": "2026-10-18T04:13:24.998Z",
+    "shopeeApiEvidence": {
+      "itemId": 21398149859,
+      "shopId": 1163157664,
+      "shopName": "Beelink_BR",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Sem Fio Haylou S30 Anc Bluetooth 5.4 Azul",
+      "productLink": "https://shopee.com.br/product/1163157664/21398149859",
+      "offerLink": "https://s.shopee.com.br/9fLjBpzDhL",
+      "priceMin": "393.99",
+      "priceMax": "393.99",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1163157664/21398149859",
+    "apiRevalidatedAt": "2026-10-17T04:13:24.998Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 413,
+    "model": "Motorola Moto Buds Loop",
+    "marketplace": "shopee",
+    "variantKey": "motorola moto buds loop",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1627665738",
+    "itemId": "58202173684",
+    "seller": "Loja Oficial Motorola",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 999,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1627665738/58202173684",
+    "affiliateUrl": "https://s.shopee.com.br/5fpaQNCsLG",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:25.265Z",
+    "validUntil": "2026-10-18T04:13:25.265Z",
+    "shopeeApiEvidence": {
+      "itemId": 58202173684,
+      "shopId": 1627665738,
+      "shopName": "Loja Oficial Motorola",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de ouvido Sem Fio Motorola Moto Buds Loop by Bose - Bluetooth, open-ear, OWS",
+      "productLink": "https://shopee.com.br/product/1627665738/58202173684",
+      "offerLink": "https://s.shopee.com.br/5fpaQNCsLG",
+      "priceMin": "999",
+      "priceMax": "999",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1627665738/58202173684",
+    "apiRevalidatedAt": "2026-10-17T04:13:25.265Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 436,
+    "model": "Tozo A3",
+    "marketplace": "shopee",
+    "variantKey": "tozo a3",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1163157664",
+    "itemId": "20498184201",
+    "seller": "Beelink_BR",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 130.99,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1163157664/20498184201",
+    "affiliateUrl": "https://s.shopee.com.br/1qcrrSJlkj",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:25.524Z",
+    "validUntil": "2026-10-18T04:13:25.524Z",
+    "shopeeApiEvidence": {
+      "itemId": 20498184201,
+      "shopId": 1163157664,
+      "shopName": "Beelink_BR",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Sem Fio Tozo A3 Bluetooth 5.3 Branco",
+      "productLink": "https://shopee.com.br/product/1163157664/20498184201",
+      "offerLink": "https://s.shopee.com.br/1qcrrSJlkj",
+      "priceMin": "130.99",
+      "priceMax": "130.99",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1163157664/20498184201",
+    "apiRevalidatedAt": "2026-10-17T04:13:25.524Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 452,
+    "model": "JBL Tune 530BT",
+    "marketplace": "shopee",
+    "variantKey": "jbl tune 530bt",
+    "variantConfirmed": true,
+    "variantScope": "Modelo exato; cor não restringida, preço único da oferta",
+    "shopId": "1097151802",
+    "itemId": "57664479955",
+    "seller": "Cadê Meu Eletro®",
+    "rating": 5,
+    "reviewCount": null,
+    "ratingScope": "product",
+    "amount": 239.9,
+    "currency": "BRL",
+    "sourceUrl": "https://shopee.com.br/product/1097151802/57664479955",
+    "affiliateUrl": "https://s.shopee.com.br/9fLjBr7XxG",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "availabilityStatus": "active_affiliate_offer",
+    "checkedAt": "2026-10-17T04:13:25.783Z",
+    "validUntil": "2026-10-18T04:13:25.783Z",
+    "shopeeApiEvidence": {
+      "itemId": 57664479955,
+      "shopId": 1097151802,
+      "shopName": "Cadê Meu Eletro®",
+      "shopType": [
+        1
+      ],
+      "productName": "Fone de Ouvido Bluetooth JBL Tune 530BT,  Over-Ear, Sem Fio, Até 76 Horas de Bateria - Azul",
+      "productLink": "https://shopee.com.br/product/1097151802/57664479955",
+      "offerLink": "https://s.shopee.com.br/9fLjBr7XxG",
+      "priceMin": "239.9",
+      "priceMax": "239.9",
+      "ratingStar": "5",
+      "commissionRate": "0.06",
+      "periodStartTime": 1776135600,
+      "periodEndTime": 32503651199
+    },
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "verificationMethod": "shopee_official_api",
+    "resolvedUrl": "https://shopee.com.br/product/1097151802/57664479955",
+    "apiRevalidatedAt": "2026-10-17T04:13:25.783Z",
+    "evidence": "productOfferV2 consultado por shopId/itemId; productLink e offerLink vinculados na resposta autenticada. Não representa navegação no site, estoque físico ou comissão confirmada."
+  },
+  {
+    "productId": 122,
+    "model": "JBL Tune 520BT",
+    "marketplace": "mercado_livre",
+    "variantKey": "jbl-tune-520bt-preto",
+    "variantConfirmed": true,
+    "selectionVerified": true,
+    "conversionVerified": true,
+    "destinationVerified": true,
+    "rating": 4.9,
+    "reviewCount": 38127,
+    "amount": 199,
+    "currency": "BRL",
+    "seller": "Ragnarok",
+    "conditions": "Preto; preço público à vista, sem frete. Última unidade observada. Menor entre anúncios elegíveis verificados na busca registrada.",
+    "sourceUrl": "https://www.mercadolivre.com.br/jbl-fone-de-ouvido-sem-fio-tune520bt-dobravel-bateria-57h/p/MLB23997257?wid=MLB7825882988",
+    "resolvedUrl": "https://www.mercadolivre.com.br/jbl-fone-de-ouvido-sem-fio-tune520bt-dobravel-bateria-57h/p/MLB23997257#wid=MLB7825882988",
+    "affiliateUrl": "https://meli.la/1kvLNHb",
+    "checkedAt": "2026-10-17T04:15:32.444Z",
+    "validUntil": "2026-10-18T04:15:32.444Z",
+    "evidence": "Página do produto: novo, preto, R$199, 4.9/38127, loja oficial Ragnarok, última unidade. Barra Afiliados retornou meli.la; perfil intermediário e link destacado confirmaram catálogo MLB23997257 e anúncio MLB7825882988. Busca de seis páginas na homologação; demais modelos ML pendentes.",
+    "verificationMethod": "browser"
+  }
+];
+
+function purchaseProductKey(value, marketplace) {
+  try {
+    const u = new URL(value);
+    if (u.protocol !== 'https:' || u.username || u.password) return null;
+    if (marketplace === 'amazon' && /^(www\.)?amazon\.com\.br$/.test(u.hostname)) return u.pathname.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})(?:\/|$)/i)?.[1] || null;
+    if (marketplace === 'mercado_livre' && /^(?:www\.|produto\.)?mercadolivre\.com\.br$/.test(u.hostname)) return u.pathname.match(/(?:\/p\/|\/up\/|\/)(MLBU?\d+|MLB-\d+)(?:[-/]|$)/i)?.[1]?.replace('-', '') || null;
+    if (marketplace === 'shopee' && /^(www\.)?shopee\.com\.br$/.test(u.hostname)) {
+      const ids = u.pathname.match(/(?:\/product\/(\d+)\/(\d+)|-i\.(\d+)\.(\d+))\/?$/);
+      return ids ? (ids[1] || ids[3]) + '/' + (ids[2] || ids[4]) : null;
+    }
+  } catch {}
+  return null;
+}
+
+function currentPurchaseOffer(id, marketplace, now = Date.now()) {
+  const configKey = marketplace === 'mercado_livre' ? 'mercadolivre' : marketplace;
+  if (!CONFIG.affiliate[configKey]?.enabled) return null;
+  return PURCHASE_OFFERS.filter(o => {
+    const checked = Date.parse(o.checkedAt), until = Date.parse(o.validUntil);
+    const api = o.shopeeApiEvidence;
+    const apiProof = marketplace === 'shopee' && o.verificationMethod === 'shopee_official_api' && api &&
+      o.apiRevalidatedAt === o.checkedAt && api.offerLink === o.affiliateUrl &&
+      purchaseProductKey(api.productLink, marketplace) === String(api.shopId) + '/' + String(api.itemId) &&
+      purchaseProductKey(api.productLink, marketplace) === purchaseProductKey(o.sourceUrl, marketplace) &&
+      api.shopType?.includes(1) && Number(api.ratingStar) === o.rating &&
+      Number(api.priceMin) === o.amount && Number(api.priceMax) === o.amount && o.amount > 0 &&
+      Number(api.commissionRate) > 0 && Number(api.commissionRate) <= 1 &&
+      Number(api.periodStartTime) * 1000 <= now && now < Number(api.periodEndTime) * 1000;
+    if (o.productId !== id || o.marketplace !== marketplace || o.selectionVerified !== true ||
+      o.variantConfirmed !== true || o.conversionVerified !== true || o.destinationVerified !== true ||
+      !Number.isFinite(o.rating) || o.rating < 4 || o.rating > 5 ||
+      (!(Number.isInteger(o.reviewCount) && o.reviewCount >= 1) && !apiProof) ||
+      (o.verificationMethod === 'shopee_official_api' && !apiProof) || !o.evidence ||
+      !(checked <= now && now < until && until - checked <= 86400000)) return false;
+    const key = purchaseProductKey(o.sourceUrl, marketplace);
+    if (!key || key !== purchaseProductKey(o.resolvedUrl, marketplace)) return false;
+    try {
+      if (marketplace === 'mercado_livre') {
+        const listing = value => {
+          const url = new URL(value);
+          const hash = new URLSearchParams(url.hash.slice(1));
+          return url.searchParams.get('wid') || hash.get('wid') || url.searchParams.get('pdp_filters')?.match(/item_id:(MLB\d+)/)?.[1] || null;
+        };
+        const sourceListing = listing(o.sourceUrl);
+        if (sourceListing && sourceListing !== listing(o.resolvedUrl)) return false;
+      }
+      const u = new URL(o.affiliateUrl);
+      if (u.protocol !== 'https:' || u.username || u.password) return false;
+      if (marketplace === 'amazon') return purchaseProductKey(u.href, marketplace) === key &&
+        /^[a-z0-9-]{2,50}$/i.test(CONFIG.affiliate.amazon.tag) && u.searchParams.get('tag') === CONFIG.affiliate.amazon.tag;
+      if (marketplace === 'mercado_livre') return u.hostname === 'meli.la' && /^\/[a-z0-9_-]+$/i.test(u.pathname);
+      return marketplace === 'shopee' && ['s.shopee.com.br', 'shope.ee'].includes(u.hostname) && /^\/[a-z0-9_-]+$/i.test(u.pathname);
+    } catch { return false; }
+  }).sort((a,b) => Date.parse(b.checkedAt) - Date.parse(a.checkedAt))[0] || null;
+}
+
+function purchaseUrl(hp, marketplace) {
+  const offer = currentPurchaseOffer(hp.id, marketplace);
+  if (offer) return offer.affiliateUrl;
+  const q = encodeURIComponent(hp.name);
+  if (marketplace === 'amazon') return 'https://www.amazon.com.br/s?k=' + q;
+  if (marketplace === 'mercado_livre') return 'https://lista.mercadolivre.com.br/' + q;
+  return 'https://shopee.com.br/search?keyword=' + q;
+}
+
+function purchaseLabel(hp, marketplace, name) {
+  return currentPurchaseOffer(hp.id, marketplace) ? name + ' · Oferta afiliada' : name + ' · Buscar';
+}

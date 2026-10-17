@@ -8,6 +8,8 @@ vm.runInContext(await read('headphones.js')+'\n'+await read('prices.js')+'\n'+aw
 const get=expression=>vm.runInContext(expression,ctx);
 
 test('divergências não aparecem como valores confirmados',async()=>{
+  // Isolate historical catalog prices; verified live quotes have their own contract.
+  get('PRICE_QUOTES.length=0');
   const {records}=JSON.parse(await read('docs/catalogo-reconciliacao.json'));
   for(const row of records){
     for(const key of new Set([...Object.keys(row.kept.specs),...Object.keys(row.retired.specs)])){

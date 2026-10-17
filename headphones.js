@@ -8048,5 +8048,33 @@ const HEADPHONES = [
     "amazon": "https://www.amazon.com.br/s?k=JLab+Studio+Pro+ANC",
     "ml": "https://lista.mercadolivre.com.br/jlab-studio-pro-anc",
     "official": "https://www.jlab.com"
+  },
+  {
+    "id": 452,
+    "name": "JBL Tune 530BT",
+    "brand": "JBL",
+    "price": null,
+    "tier": "budget",
+    "type": "On-ear",
+    "specs": {
+      "Driver": "33mm",
+      "Bluetooth": "6.0",
+      "Autonomia": "Até 76h",
+      "Recarga": "2h",
+      "ANC": "Em revisão",
+      "Microfone": "2 microfones",
+      "Dobrável": "Sim",
+      "Peso": "152g",
+      "Codec": "Em revisão",
+      "Multiponto": "Sim"
+    },
+    "score": {},
+    "pros": [],
+    "cons": [],
+    "youtubeIds": [],
+    "youtubeLabels": [],
+    "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+530BT",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-530bt",
+    "official": "https://www.jbl.com.br/TUNE530BT.html"
   }
 ];

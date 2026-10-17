@@ -10,7 +10,7 @@
 ## Fluxo de trabalho
 
 1. Trabalhar em branch codex/… e revisar o diff.
-2. Executar `node --test tests/*.test.mjs`.
+2. Executar `node scripts/regression.mjs` depois da última alteração e exigir aprovação integral, incluindo Chromium desktop/mobile. Atualizar testes e `tests/regression-cases.json` para cada correção ou desenvolvimento; seguir `docs/REGRESSAO.md`.
 3. Abrir a versão local com `node scripts/serve.mjs` e testar seleção, troca, cancelamento, remoção, comparação de 2 e 4 fones, links dos guias e largura móvel.
 4. Solicitar autorização específica antes de push/deploy. Um push em main publica automaticamente.
 5. Quando autorizado, validar uma prévia Vercel e especialmente os redirects/rewrites reais; o servidor local apenas simula essas regras.
