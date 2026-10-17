@@ -48,7 +48,8 @@ test('REG-DATA-02 relatório de cobertura corresponde ao catálogo atual', async
 test('REG-SAFE-01 apenas afiliados autorizados ativos e privacidade removida', async () => {
   const config = vm.runInContext('CONFIG', ctx);
   assert.equal(config.adsense.enabled, false);
-  assert.equal(config.affiliate.amazon.enabled, false);
+  assert.equal(config.affiliate.amazon.enabled, true);
+  assert.equal(config.affiliate.amazon.tag, 'machadomath0e-20');
   assert.equal(config.affiliate.mercadolivre.enabled, true);
   assert.equal(config.affiliate.shopee.enabled, true);
   assert.doesNotMatch(await read('sitemap.xml'), /privacidade/i);

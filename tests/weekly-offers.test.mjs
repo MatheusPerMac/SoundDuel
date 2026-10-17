@@ -10,16 +10,23 @@ const base = { productId: 1, variantKey: options.variantKey, variantConfirmed: t
   seller: 'Fixture', evidence: 'Fixture isolada; nao e oferta real', publicPrice: true,
   paymentMethod: 'standard', conditions: 'Pagamento publico sem cupom',
   checkedAt: '2026-10-17T11:00:00Z' };
+test('REG-AGENT-05 ausência de nota ou avaliações não bloqueia menor preço',()=>{
+ for(const marketplace of ['amazon','mercado_livre','shopee']){
+  const sourceUrl=marketplace==='amazon'?base.sourceUrl:marketplace==='shopee'?'https://shopee.com.br/product/123/456':'https://www.mercadolivre.com.br/p/MLB123';
+  const cheap={...base,marketplace,sourceUrl,amount:50,rating:null,reviewCount:null,authenticityConfirmed:undefined};
+  assert.equal(selectWeeklyOffers([{...cheap,amount:100,rating:5},cheap],options).selected[marketplace].amount,50);
+ }
+});
 
 test('REG-AGENT-01 escolhe menor preço elegível por loja sem misturar variantes', () => {
   const ml = { ...base, marketplace: 'mercado_livre', sourceUrl: 'https://produto.mercadolivre.com.br/MLB-123456789-fone', amount: 120 };
   const shopee = { ...base, marketplace: 'shopee', sourceUrl: 'https://shopee.com.br/product/123/456', amount: 90 };
   const result = selectWeeklyOffers([base, { ...base, amount: 80 }, ml, shopee,
     { ...base, amount: 1, rating: 3.9 }, { ...base, amount: 2, variantKey: 'other' }], options);
-  assert.equal(result.selected.amazon.amount, 80);
+  assert.equal(result.selected.amazon.amount, 1);
   assert.equal(result.selected.mercado_livre.amount, 120);
   assert.equal(result.selected.shopee.amount, 90);
-  assert.equal(result.rejected.length, 2);
+  assert.equal(result.rejected.length, 1);
   assert.deepEqual(result.missing, []);
 });
 
@@ -33,7 +40,7 @@ test('REG-AGENT-04 aceita URL ML de produto individual e exige condição de pag
 });
 
 test('REG-AGENT-02 rejeita evidência ausente expirada e preço não comparável', () => {
-  for (const patch of [{ rating: null }, { rating: 5.1 }, { ratingScope: 'seller' }, { reviewCount: 0 },
+  for (const patch of [
     { checkedAt: '2026-10-16T12:00:00Z' }, { checkedAt: '2026-10-18T12:00:00Z' },
     { amount: NaN }, { publicPrice: false }, { condition: 'used' }, { inStock: false },
     { authenticityConfirmed: false }, { evidence: '' }, { variantConfirmed: false },

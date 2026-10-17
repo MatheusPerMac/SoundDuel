@@ -18,10 +18,9 @@ export function selectWeeklyOffers(candidates, { productId, variantKey, now = Da
     const reasons = [];
     if (c.productId !== productId || c.variantKey !== variantKey || c.variantConfirmed !== true) reasons.push('variante');
     if (!MARKETPLACES.includes(c.marketplace) || !isProductUrl(c.sourceUrl, c.marketplace)) reasons.push('destino');
-    if (!Number.isFinite(c.rating) || c.rating < 4 || c.rating > 5 || c.ratingScope !== 'product') reasons.push('avaliacao');
-    if (!Number.isInteger(c.reviewCount) || c.reviewCount < 1) reasons.push('sem_avaliacoes');
+    // Ratings are optional metadata, never an eligibility or ranking criterion.
     if (c.currency !== 'BRL' || !Number.isFinite(c.amount) || c.amount <= 0 || c.priceConfirmed !== true) reasons.push('preco');
-    if (c.inStock !== true || c.condition !== 'new' || c.authenticityConfirmed !== true) reasons.push('disponibilidade_autenticidade');
+    if (c.inStock !== true || c.condition !== 'new' || c.authenticityConfirmed === false) reasons.push('disponibilidade_autenticidade');
     if (!c.seller || !c.evidence || c.publicPrice !== true) reasons.push('evidencia_condicoes');
     if (!['standard', 'pix'].includes(c.paymentMethod) || typeof c.conditions !== 'string' || !c.conditions.trim()) reasons.push('condicao_pagamento');
     const age = now - Date.parse(c.checkedAt);

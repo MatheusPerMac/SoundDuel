@@ -256,7 +256,7 @@
     },
     {
       "id": "REG-SAFE-01",
-      "reason": "AdSense e Amazon desativados; apenas Shopee/ML ativados com ofertas verificadas e autorização. Privacidade continua removida.",
+      "reason": "Autorização explícita de afiliados; conversão Amazon real com tag verificada em 17/10/2026; AdSense desativado",
       "addedAt": "2026-10-16",
       "tests": [
         {
@@ -366,7 +366,7 @@
     },
     {
       "id": "REG-AGENT-01",
-      "reason": "REG-AGENT-01 escolhe menor preço elegível por loja sem misturar variantes",
+      "reason": "REG-AGENT-01 escolhe menor preço elegível por loja sem misturar variantes; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -377,7 +377,7 @@
     },
     {
       "id": "REG-AGENT-02",
-      "reason": "REG-AGENT-02 rejeita evidência ausente expirada e preço não comparável",
+      "reason": "REG-AGENT-02 rejeita evidência ausente expirada e preço não comparável; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -388,7 +388,7 @@
     },
     {
       "id": "REG-AGENT-03",
-      "reason": "REG-AGENT-03 valida domínio e produto e não depende da ordem dos candidatos",
+      "reason": "REG-AGENT-03 valida domínio e produto e não depende da ordem dos candidatos; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -399,7 +399,7 @@
     },
     {
       "id": "REG-AGENT-04",
-      "reason": "REG-AGENT-04 aceita URL ML de produto individual e exige condição de pagamento",
+      "reason": "REG-AGENT-04 aceita URL ML de produto individual e exige condição de pagamento; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -454,7 +454,7 @@
     },
     {
       "id": "REG-UI-10",
-      "reason": "REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte; oferta real do novo modelo e retorno à busca após 24h",
+      "reason": "REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte; oferta real do novo modelo e retorno à busca após 24h; Amazon ativo aponta para URL afiliada verificada e ambos expiram",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -465,7 +465,7 @@
     },
     {
       "id": "REG-SHOPEE-01",
-      "reason": "REG-SHOPEE-01 API oficial seleciona e revalida IDs sem navegador nem avaliações inventadas",
+      "reason": "REG-SHOPEE-01 API oficial seleciona e revalida IDs sem navegador nem avaliações inventadas; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -476,12 +476,12 @@
     },
     {
       "id": "REG-SHOPEE-02",
-      "reason": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço rating baixo e revalidação divergente; rejeita geração posterior, tokens dispersos, Buds+ e variantes ANC/Plus",
+      "reason": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço e revalidação divergente; política autorizada: nota opcional, vendedor comum e menor preço verificado",
       "addedAt": "2026-10-17",
       "tests": [
         {
           "file": "tests/shopee-official.test.mjs",
-          "name": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço rating baixo e revalidação divergente"
+          "name": "REG-SHOPEE-02 API rejeita modelo acessório faixa preço e revalidação divergente"
         }
       ]
     },
@@ -504,6 +504,61 @@
         {
           "file": "tests/purchase-offers.test.mjs",
           "name": "REG-LIVE-01 ofertas publicadas têm prova válida cotação correspondente e expiração"
+        }
+      ]
+    },
+    {
+      "id": "REG-AGENT-05",
+      "reason": "REG-AGENT-05 ausência de nota ou avaliações não bloqueia menor preço",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/weekly-offers.test.mjs",
+          "name": "REG-AGENT-05 ausência de nota ou avaliações não bloqueia menor preço"
+        }
+      ]
+    },
+    {
+      "id": "REG-SHOPEE-03",
+      "reason": "REG-SHOPEE-03 nota opcional e ANC separado não descartam modelo correto",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/shopee-official.test.mjs",
+          "name": "REG-SHOPEE-03 nota opcional e ANC separado não descartam modelo correto"
+        }
+      ]
+    },
+    {
+      "id": "REG-SHOPEE-04",
+      "reason": "REG-SHOPEE-04 vendedores comuns não liberam peças capas nem outras gerações",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/shopee-official.test.mjs",
+          "name": "REG-SHOPEE-04 vendedores comuns não liberam peças capas nem outras gerações"
+        }
+      ]
+    },
+    {
+      "id": "REG-AMAZON-01",
+      "reason": "REG-AMAZON-01 seleciona menor preço sem nota e exclui acessórios ou outro modelo",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/amazon-offers.test.mjs",
+          "name": "REG-AMAZON-01 seleciona menor preço sem nota e exclui acessórios ou outro modelo"
+        }
+      ]
+    },
+    {
+      "id": "REG-AMAZON-02",
+      "reason": "REG-AMAZON-02 conversão exige afiliado mesmo ASIN tag e validade",
+      "addedAt": "2026-10-17",
+      "tests": [
+        {
+          "file": "tests/amazon-offers.test.mjs",
+          "name": "REG-AMAZON-02 conversão exige afiliado mesmo ASIN tag e validade"
         }
       ]
     }
