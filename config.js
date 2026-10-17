@@ -28,8 +28,8 @@ const CONFIG = {
   // ----------------------------------------------------------
   affiliate: {
     amazon: {
-      enabled: false,
-      tag: "seutag-20",  // Sua tag de afiliado Amazon (ex: meusite-20)
+      enabled: true,
+      tag: "machadomath0e-20",  // Sua tag de afiliado Amazon (ex: meusite-20)
     },
     mercadolivre: {
       enabled: true,

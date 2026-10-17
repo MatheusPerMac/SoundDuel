@@ -36,7 +36,7 @@ test('REG-OFFER-03 Shopee aceita comprovação autenticada da API sem exigir abe
  const o={...base,marketplace:'shopee',amount:200,reviewCount:null,sourceUrl:'https://shopee.com.br/product/123/456',resolvedUrl:'https://shopee.com.br/product/123/456',affiliateUrl:'https://s.shopee.com.br/test',verificationMethod:'shopee_official_api',apiRevalidatedAt:base.checkedAt};
  o.shopeeApiEvidence={shopId:'123',itemId:'456',productLink:o.sourceUrl,offerLink:o.affiliateUrl,shopType:[1],ratingStar:'4',priceMin:'200',priceMax:'200',commissionRate:'0.06',periodStartTime:1792100000,periodEndTime:1792400000};
  assert.equal(vm.runInContext(`currentPurchaseOffer(1,'shopee',${now}).affiliateUrl`,runtime([o])),o.affiliateUrl);
- for(const patch of [{offerLink:'https://s.shopee.com.br/other'},{itemId:'999'},{priceMax:'201'},{ratingStar:'3'},{periodEndTime:1}]) {
+ for(const patch of [{offerLink:'https://s.shopee.com.br/other'},{itemId:'999'},{priceMax:'201'},{periodEndTime:1}]) {
   assert.equal(vm.runInContext(`currentPurchaseOffer(1,'shopee',${now})`,runtime([{...o,shopeeApiEvidence:{...o.shopeeApiEvidence,...patch}}])),null);
  }
  assert.equal(vm.runInContext(`currentPurchaseOffer(1,'shopee',${now})`,runtime([{...o,verificationMethod:'browser'}])),null);
@@ -44,11 +44,12 @@ test('REG-OFFER-03 Shopee aceita comprovação autenticada da API sem exigir abe
 
 test('REG-OFFER-01 links individuais exigem conversão destino e validade confirmados',()=>{
  assert.equal(vm.runInContext(`currentPurchaseOffer(1,'amazon',${now}).affiliateUrl`,runtime([base])),base.affiliateUrl);
+ for(const patch of [{rating:null,reviewCount:null},{rating:0,reviewCount:0},{rating:2,reviewCount:1}])assert.equal(vm.runInContext(`currentPurchaseOffer(1,'amazon',${now}).affiliateUrl`,runtime([{...base,...patch}])),base.affiliateUrl);
  for(const patch of [{conversionVerified:false},{destinationVerified:false},{selectionVerified:false},
   {affiliateUrl:'https://www.amazon.com.br/dp/B012345678?tag=other-20'},
   {resolvedUrl:'https://www.amazon.com.br/dp/B012345679'},
   {validUntil:'2026-10-17T12:00:00Z'},{validUntil:'2026-10-24T13:00:00Z'},
-  {rating:3.9},{reviewCount:0},{affiliateUrl:'javascript:alert(1)'}]) {
+  {affiliateUrl:'javascript:alert(1)'}]) {
   assert.equal(vm.runInContext(`currentPurchaseOffer(1,'amazon',${now})`,runtime([{...base,...patch}])),null);
  }
 });

@@ -231,7 +231,8 @@ test('REG-UI-09 três lojas usam link individual e voltam a busca ao expirar', a
 test('REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte', async ({page},testInfo) => {
  const quotes=vm.runInNewContext(await source('prices.js')+';PRICE_QUOTES');
  const quote=quotes.find(q=>q.productId===452);
- await page.clock.install({time:new Date(quote.checkedAt)});
+ const offers=vm.runInNewContext(await source('purchase-offers.js')+';PURCHASE_OFFERS').filter(o=>o.productId===452);
+ await page.clock.install({time:new Date(Math.max(...offers.map(o=>Date.parse(o.checkedAt))))});
  await page.goto('/?q=JBL+Tune+530BT');
  await expect(card(page,1)).toContainText('JBL Tune 530BT');
  await choose(page,2,'JBL Tune 510BT');
@@ -244,9 +245,11 @@ test('REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte
  await expect(table).toContainText('Em revisão');
  await expect(page.locator('[data-price-id="452"]').first()).toHaveText(quote.amount.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}));
  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Oferta afiliada');
+ await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toHaveAttribute('href',offers.find(o=>o.marketplace==='amazon').affiliateUrl);
  await page.clock.fastForward(86401000);
  await expect(page.locator('[data-price-id="452"]').first()).toHaveText('Consultar loja');
  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Buscar');
+ await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toContainText('Buscar');
  await expect(table.getByRole('link',{name:'JBL — Tune 530BT, especificações oficiais'})).toHaveAttribute('href','https://www.jbl.com.br/TUNE530BT.html');
  await page.screenshot({path:testInfo.outputPath('novo-modelo.png'),fullPage:true});
 });

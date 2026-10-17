@@ -1,22 +1,24 @@
 // API evidence is independent of the consumer website and its CAPTCHA.
+import {isAccessoryOrReplica} from './offer-title.mjs';
 const clean=value=>String(value??'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/\+/g,' plus ').replace(/[^a-z0-9]+/g,' ').trim();
 export function normalizeShopeeOfficial(node,{productId,model,now=new Date()}={}) {
  const title=clean(node?.productName),tokens=clean(model).split(' ');
  if(!Number.isInteger(productId)||tokens.length<2||!tokens.every(t=>title.split(' ').includes(t))) return null;
- const identity=clean(model),position=(' '+title+' ').indexOf(' '+identity+' ');
+ // ANC is often a feature elsewhere in the title; keep the model identity contiguous.
+ const identity=tokens.filter(t=>t!=='anc').join(' '),position=(' '+title+' ').indexOf(' '+identity+' ');
  if(position<0)return null;
  const suffix=(' '+title+' ').slice(position+identity.length+2).trim();
- if(/^\d+(?:\s|$)/.test(suffix))return null;
+ if(/^(?:\d+|x)(?:\s|$)/.test(suffix))return null;
  // A title for a different named edition must not match its base model.
- for(const edition of ['pro','plus','mini','max','lite','ultra','fe','play','active','core','loop','nc']) {
+ for(const edition of ['pro','plus','mini','max','lite','ultra','fe','play','active','core','loop','nc','stick']) {
   if(title.split(' ').includes(edition)!==tokens.includes(edition)) return null;
  }
- if(/\b(?:t13|t20|airpods 4)\b/.test(clean(model)) && /\banc\b/.test(title)!==tokens.includes('anc')) return null;
- if(/\b(almofadas?|espumas?|arco|reposicao|capa|case|usado|reembalado|outlet|replica|clone|compativel|similar)\b/.test(title)) return null;
- if(!Array.isArray(node.shopType)||!node.shopType.includes(1)) return null;
- const shopId=String(node.shopId),itemId=String(node.itemId),rating=Number(node.ratingStar),amount=Number(node.priceMin),max=Number(node.priceMax);
+ if(/\b(?:t13|t20|haylou w1|airpods 4)\b/.test(clean(model)) && /\banc\b/.test(title)!==tokens.includes('anc')) return null;
+ if(clean(model)==='bose quietcomfort ultra' && /\bultra (?:wireless )?2\b/.test(title))return null;
+ if(isAccessoryOrReplica(title)) return null;
+ const shopId=String(node.shopId),itemId=String(node.itemId),rating=node.ratingStar!=null&&Number(node.ratingStar)>0&&Number(node.ratingStar)<=5?Number(node.ratingStar):null,amount=Number(node.priceMin),max=Number(node.priceMax);
  const epoch=now.getTime()/1000,start=Number(node.periodStartTime),end=Number(node.periodEndTime);
- if(!/^\d+$/.test(shopId)||!/^\d+$/.test(itemId)||!node.shopName||node.ratingStar==null||!Number.isFinite(rating)||rating<4||rating>5||!Number.isFinite(amount)||amount<=0||amount!==max||!(Number(node.commissionRate)>0&&Number(node.commissionRate)<=1)||!Number.isFinite(epoch)||!Number.isFinite(start)||!Number.isFinite(end)||start>epoch||end<=epoch) return null;
+ if(!/^\d+$/.test(shopId)||!/^\d+$/.test(itemId)||!node.shopName||!Number.isFinite(amount)||amount<=0||amount!==max||!(Number(node.commissionRate)>0&&Number(node.commissionRate)<=1)||!Number.isFinite(epoch)||!Number.isFinite(start)||!Number.isFinite(end)||start>epoch||end<=epoch) return null;
  let source,affiliate;
  try {
   source=new URL(node.productLink);affiliate=new URL(node.offerLink);
