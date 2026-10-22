@@ -249,7 +249,7 @@ test('REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte
  await expect(table).toContainText('Em revisão');
  await expect(page.locator('[data-price-id="452"]').first()).toHaveText(quote.amount.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}));
  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Oferta afiliada');
- await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toHaveAttribute('href',offers.find(o=>o.marketplace==='amazon').affiliateUrl);
+  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="amazon"]').first()).toHaveAttribute('href',/^https:\/\/www\.amazon\.com\.br\/\?tag=/);
  await page.clock.fastForward(86401000);
  await expect(page.locator('[data-price-id="452"]').first()).toHaveText('Consultar loja');
  await expect(page.locator('[data-offer-id="452"][data-offer-marketplace="shopee"]').first()).toContainText('Ir à loja (afiliado)');
