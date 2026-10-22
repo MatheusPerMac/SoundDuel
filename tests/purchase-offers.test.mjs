@@ -26,8 +26,8 @@ test('REG-LIVE-01 ofertas publicadas têm prova válida cotação correspondente
   if(o.marketplace==='shopee')assert.equal(o.verificationMethod,'shopee_official_api');
  }
  for(const q of quotes){
-  const selected=offers.filter(o=>o.productId===q.productId).sort((a,b)=>a.amount-b.amount)[0];
-  assert.equal(q.amount,selected.amount);assert.equal(q.sourceUrl,selected.sourceUrl);
+  const selected=offers.find(o=>o.productId===q.productId&&o.sourceUrl===q.sourceUrl&&o.amount===q.amount&&o.checkedAt===q.checkedAt);
+  assert.ok(selected);
   assert.equal(vm.runInContext(`currentPriceQuote(${q.productId},${Date.parse(q.validUntil)})`,ctx),null);
  }
 });

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T16:18:23.175Z",
-  "publicModels": 153,
-  "targetLinks": 459,
-  "verifiedLinks": 157,
+  "generatedAt": "2026-10-22T12:02:10.057Z",
+  "publicModels": 155,
+  "targetLinks": 465,
+  "verifiedLinks": 160,
   "modelsWithThree": 15,
   "byMarketplace": {
     "amazon": 66,
     "mercado_livre": 34,
-    "shopee": 57
+    "shopee": 60
   },
   "coverage": [
     {
@@ -18,15 +18,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:50:52.789Z",
-          "validUntil": "2026-10-18T13:50:52.789Z"
+          "validUntil": "2026-10-18T13:50:52.789Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -38,17 +41,21 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:50:55.335Z",
-          "validUntil": "2026-10-18T13:50:55.335Z"
+          "validUntil": "2026-10-18T13:50:55.335Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
           "checkedAt": "2026-10-17T13:49:56.287Z",
-          "validUntil": "2026-10-18T13:49:56.287Z"
+          "validUntil": "2026-10-18T13:49:56.287Z",
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "preço atípico, revisão de anúncio pendente"
         }
       ]
     },
@@ -58,17 +65,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:48:49.241Z",
-          "validUntil": "2026-10-18T15:48:49.241Z"
+          "validUntil": "2026-10-18T15:48:49.241Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -80,17 +90,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:50:58.617Z",
-          "validUntil": "2026-10-18T13:50:58.617Z"
+          "validUntil": "2026-10-18T13:50:58.617Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:56.979Z",
-          "validUntil": "2026-10-18T13:49:56.979Z"
+          "checkedAt": "2026-10-22T11:57:10.897Z",
+          "validUntil": "2026-10-23T11:57:10.897Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -100,17 +113,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:57.642Z",
-          "validUntil": "2026-10-18T13:49:57.642Z"
+          "checkedAt": "2026-10-22T11:57:12.042Z",
+          "validUntil": "2026-10-23T11:57:12.042Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -122,19 +138,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:02.045Z",
-          "validUntil": "2026-10-18T13:51:02.045Z"
+          "validUntil": "2026-10-18T13:51:02.045Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:49:33.426Z",
-          "validUntil": "2026-10-18T15:49:33.426Z"
+          "validUntil": "2026-10-18T15:49:33.426Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:57.906Z",
-          "validUntil": "2026-10-18T13:49:57.906Z"
+          "checkedAt": "2026-10-22T11:57:13.041Z",
+          "validUntil": "2026-10-23T11:57:13.041Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -144,17 +163,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:58.167Z",
-          "validUntil": "2026-10-18T13:49:58.167Z"
+          "checkedAt": "2026-10-22T11:57:13.719Z",
+          "validUntil": "2026-10-23T11:57:13.719Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -166,17 +188,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:05.336Z",
-          "validUntil": "2026-10-18T13:51:05.336Z"
+          "validUntil": "2026-10-18T13:51:05.336Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:58.417Z",
-          "validUntil": "2026-10-18T13:49:58.417Z"
+          "checkedAt": "2026-10-22T11:57:15.430Z",
+          "validUntil": "2026-10-23T11:57:15.430Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -188,17 +213,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:07.584Z",
-          "validUntil": "2026-10-18T13:51:07.584Z"
+          "validUntil": "2026-10-18T13:51:07.584Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:58.688Z",
-          "validUntil": "2026-10-18T13:49:58.688Z"
+          "checkedAt": "2026-10-22T11:57:16.187Z",
+          "validUntil": "2026-10-23T11:57:16.187Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -210,19 +238,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:10.837Z",
-          "validUntil": "2026-10-18T13:51:10.837Z"
+          "validUntil": "2026-10-18T13:51:10.837Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:49:40.717Z",
-          "validUntil": "2026-10-18T15:49:40.717Z"
+          "validUntil": "2026-10-18T15:49:40.717Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:58.938Z",
-          "validUntil": "2026-10-18T13:49:58.938Z"
+          "checkedAt": "2026-10-22T11:57:16.952Z",
+          "validUntil": "2026-10-23T11:57:16.952Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -232,15 +263,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -252,17 +286,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:14.728Z",
-          "validUntil": "2026-10-18T13:51:14.728Z"
+          "validUntil": "2026-10-18T13:51:14.728Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:59.195Z",
-          "validUntil": "2026-10-18T13:49:59.195Z"
+          "checkedAt": "2026-10-22T11:57:18.757Z",
+          "validUntil": "2026-10-23T11:57:18.757Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -272,15 +309,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -290,19 +330,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:49:43.744Z",
-          "validUntil": "2026-10-18T15:49:43.744Z"
+          "validUntil": "2026-10-18T15:49:43.744Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:59.702Z",
-          "validUntil": "2026-10-18T13:49:59.702Z"
+          "checkedAt": "2026-10-22T11:57:19.620Z",
+          "validUntil": "2026-10-23T11:57:19.620Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -312,17 +355,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:49:59.917Z",
-          "validUntil": "2026-10-18T15:49:59.917Z"
+          "validUntil": "2026-10-18T15:49:59.917Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -332,17 +378,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:49:59.983Z",
-          "validUntil": "2026-10-18T13:49:59.983Z"
+          "checkedAt": "2026-10-22T11:57:25.727Z",
+          "validUntil": "2026-10-23T11:57:25.727Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -354,19 +403,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:18.306Z",
-          "validUntil": "2026-10-18T13:51:18.306Z"
+          "validUntil": "2026-10-18T13:51:18.306Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:50:05.169Z",
-          "validUntil": "2026-10-18T15:50:05.169Z"
+          "validUntil": "2026-10-18T15:50:05.169Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:00.252Z",
-          "validUntil": "2026-10-18T13:50:00.252Z"
+          "checkedAt": "2026-10-22T11:57:26.464Z",
+          "validUntil": "2026-10-23T11:57:26.464Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -376,15 +428,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -396,17 +451,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:21.505Z",
-          "validUntil": "2026-10-18T13:51:21.505Z"
+          "validUntil": "2026-10-18T13:51:21.505Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:00.523Z",
-          "validUntil": "2026-10-18T13:50:00.523Z"
+          "checkedAt": "2026-10-22T11:57:28.544Z",
+          "validUntil": "2026-10-23T11:57:28.544Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -418,15 +476,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:24.188Z",
-          "validUntil": "2026-10-18T13:51:24.188Z"
+          "validUntil": "2026-10-18T13:51:24.188Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -438,15 +499,19 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:27.704Z",
-          "validUntil": "2026-10-18T13:51:27.704Z"
+          "validUntil": "2026-10-18T13:51:27.704Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "revalidation_failed"
+          "status": "revalidation_failed",
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "vendedor identificado como reembalados; condição do item não comprovada"
         }
       ]
     },
@@ -458,17 +523,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:45.657Z",
-          "validUntil": "2026-10-18T13:51:45.657Z"
+          "validUntil": "2026-10-18T13:51:45.657Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:01.099Z",
-          "validUntil": "2026-10-18T13:50:01.099Z"
+          "checkedAt": "2026-10-22T11:57:31.695Z",
+          "validUntil": "2026-10-23T11:57:31.695Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -478,15 +546,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -496,15 +567,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -514,15 +588,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -532,17 +609,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:51:37.818Z",
-          "validUntil": "2026-10-18T15:51:37.818Z"
+          "validUntil": "2026-10-18T15:51:37.818Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -554,15 +634,19 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:48.080Z",
-          "validUntil": "2026-10-18T13:51:48.080Z"
+          "validUntil": "2026-10-18T13:51:48.080Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "preço atípico, revisão de anúncio pendente"
         }
       ]
     },
@@ -574,17 +658,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:50.446Z",
-          "validUntil": "2026-10-18T13:51:50.446Z"
+          "validUntil": "2026-10-18T13:51:50.446Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:01.756Z",
-          "validUntil": "2026-10-18T13:50:01.756Z"
+          "checkedAt": "2026-10-22T11:57:35.622Z",
+          "validUntil": "2026-10-23T11:57:35.622Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -596,17 +683,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:53.734Z",
-          "validUntil": "2026-10-18T13:51:53.734Z"
+          "validUntil": "2026-10-18T13:51:53.734Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:01.995Z",
-          "validUntil": "2026-10-18T13:50:01.995Z"
+          "checkedAt": "2026-10-22T11:57:36.367Z",
+          "validUntil": "2026-10-23T11:57:36.367Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -618,17 +708,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:56.795Z",
-          "validUntil": "2026-10-18T13:51:56.795Z"
+          "validUntil": "2026-10-18T13:51:56.795Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:02.291Z",
-          "validUntil": "2026-10-18T13:50:02.291Z"
+          "checkedAt": "2026-10-22T11:57:37.047Z",
+          "validUntil": "2026-10-23T11:57:37.047Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -638,15 +731,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -656,15 +752,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -674,15 +773,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -692,17 +794,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:52:03.490Z",
-          "validUntil": "2026-10-18T15:52:03.490Z"
+          "validUntil": "2026-10-18T15:52:03.490Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -714,15 +819,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:51:59.142Z",
-          "validUntil": "2026-10-18T13:51:59.142Z"
+          "validUntil": "2026-10-18T13:51:59.142Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -734,17 +842,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:01.325Z",
-          "validUntil": "2026-10-18T13:52:01.325Z"
+          "validUntil": "2026-10-18T13:52:01.325Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:02.607Z",
-          "validUntil": "2026-10-18T13:50:02.607Z"
+          "checkedAt": "2026-10-22T11:57:45.922Z",
+          "validUntil": "2026-10-23T11:57:45.922Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -754,17 +865,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:02.895Z",
-          "validUntil": "2026-10-18T13:50:02.895Z"
+          "checkedAt": "2026-10-22T11:57:47.230Z",
+          "validUntil": "2026-10-23T11:57:47.230Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -776,15 +890,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:03.685Z",
-          "validUntil": "2026-10-18T13:52:03.685Z"
+          "validUntil": "2026-10-18T13:52:03.685Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -796,19 +913,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:06.400Z",
-          "validUntil": "2026-10-18T13:52:06.400Z"
+          "validUntil": "2026-10-18T13:52:06.400Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:52:40.912Z",
-          "validUntil": "2026-10-18T15:52:40.912Z"
+          "validUntil": "2026-10-18T15:52:40.912Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
           "checkedAt": "2026-10-17T13:50:03.138Z",
-          "validUntil": "2026-10-18T13:50:03.138Z"
+          "validUntil": "2026-10-18T13:50:03.138Z",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -820,17 +940,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:09.504Z",
-          "validUntil": "2026-10-18T13:52:09.504Z"
+          "validUntil": "2026-10-18T13:52:09.504Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:03.396Z",
-          "validUntil": "2026-10-18T13:50:03.396Z"
+          "checkedAt": "2026-10-22T11:57:50.078Z",
+          "validUntil": "2026-10-23T11:57:50.078Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -842,19 +965,23 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:12.045Z",
-          "validUntil": "2026-10-18T13:52:12.045Z"
+          "validUntil": "2026-10-18T13:52:12.045Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:52:47.634Z",
-          "validUntil": "2026-10-18T15:52:47.634Z"
+          "validUntil": "2026-10-18T15:52:47.634Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
           "checkedAt": "2026-10-17T13:50:03.674Z",
-          "validUntil": "2026-10-18T13:50:03.674Z"
+          "validUntil": "2026-10-18T13:50:03.674Z",
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "preço atípico, revisão de anúncio pendente"
         }
       ]
     },
@@ -864,15 +991,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -884,15 +1014,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:14.250Z",
-          "validUntil": "2026-10-18T13:52:14.250Z"
+          "validUntil": "2026-10-18T13:52:14.250Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -902,15 +1035,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -922,17 +1058,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:16.485Z",
-          "validUntil": "2026-10-18T13:52:16.485Z"
+          "validUntil": "2026-10-18T13:52:16.485Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:03.969Z",
-          "validUntil": "2026-10-18T13:50:03.969Z"
+          "checkedAt": "2026-10-22T11:57:57.775Z",
+          "validUntil": "2026-10-23T11:57:57.775Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -942,17 +1081,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:53:04.604Z",
-          "validUntil": "2026-10-18T15:53:04.604Z"
+          "validUntil": "2026-10-18T15:53:04.604Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -962,15 +1104,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -980,15 +1125,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1000,15 +1148,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:19.244Z",
-          "validUntil": "2026-10-18T13:52:19.244Z"
+          "validUntil": "2026-10-18T13:52:19.244Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1020,15 +1171,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:38.096Z",
-          "validUntil": "2026-10-18T13:52:38.096Z"
+          "validUntil": "2026-10-18T13:52:38.096Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1038,15 +1192,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1056,15 +1213,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1074,15 +1234,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "pagination_incomplete"
+          "status": "pagination_incomplete",
+          "weeklyStatus": "pagination_incomplete"
         }
       ]
     },
@@ -1094,15 +1257,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:40.698Z",
-          "validUntil": "2026-10-18T13:52:40.698Z"
+          "validUntil": "2026-10-18T13:52:40.698Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1112,15 +1278,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1130,15 +1299,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1150,17 +1322,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:43.621Z",
-          "validUntil": "2026-10-18T13:52:43.621Z"
+          "validUntil": "2026-10-18T13:52:43.621Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:04.262Z",
-          "validUntil": "2026-10-18T13:50:04.262Z"
+          "checkedAt": "2026-10-22T11:58:22.068Z",
+          "validUntil": "2026-10-23T11:58:22.068Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1170,15 +1345,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1188,17 +1366,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T15:56:18.736Z",
-          "validUntil": "2026-10-18T15:56:18.736Z"
+          "validUntil": "2026-10-18T15:56:18.736Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1208,15 +1389,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1226,17 +1410,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:04.508Z",
-          "validUntil": "2026-10-18T13:50:04.508Z"
+          "checkedAt": "2026-10-22T11:58:24.126Z",
+          "validUntil": "2026-10-23T11:58:24.126Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1248,19 +1435,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:46.988Z",
-          "validUntil": "2026-10-18T13:52:46.988Z"
+          "validUntil": "2026-10-18T13:52:46.988Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T04:15:32.444Z",
-          "validUntil": "2026-10-18T04:15:32.444Z"
+          "validUntil": "2026-10-18T04:15:32.444Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:04.978Z",
-          "validUntil": "2026-10-18T13:50:04.978Z"
+          "checkedAt": "2026-10-22T11:58:25.209Z",
+          "validUntil": "2026-10-23T11:58:25.209Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1270,15 +1460,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1290,19 +1483,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:49.890Z",
-          "validUntil": "2026-10-18T13:52:49.890Z"
+          "validUntil": "2026-10-18T13:52:49.890Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:05.238Z",
-          "validUntil": "2026-10-18T13:50:05.238Z"
+          "checkedAt": "2026-10-22T11:58:26.397Z",
+          "validUntil": "2026-10-23T11:58:26.397Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1314,17 +1510,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:52.437Z",
-          "validUntil": "2026-10-18T13:52:52.437Z"
+          "validUntil": "2026-10-18T13:52:52.437Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:05.585Z",
-          "validUntil": "2026-10-18T13:50:05.585Z"
+          "checkedAt": "2026-10-22T11:58:27.043Z",
+          "validUntil": "2026-10-23T11:58:27.043Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1334,19 +1533,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:05.920Z",
-          "validUntil": "2026-10-18T13:50:05.920Z"
+          "checkedAt": "2026-10-22T11:58:27.876Z",
+          "validUntil": "2026-10-23T11:58:27.876Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1358,15 +1560,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:54.859Z",
-          "validUntil": "2026-10-18T13:52:54.859Z"
+          "validUntil": "2026-10-18T13:52:54.859Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1378,17 +1583,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:52:57.182Z",
-          "validUntil": "2026-10-18T13:52:57.182Z"
+          "validUntil": "2026-10-18T13:52:57.182Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:06.165Z",
-          "validUntil": "2026-10-18T13:50:06.165Z"
+          "checkedAt": "2026-10-22T11:58:29.030Z",
+          "validUntil": "2026-10-23T11:58:29.030Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1400,15 +1608,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:00.416Z",
-          "validUntil": "2026-10-18T13:53:00.416Z"
+          "validUntil": "2026-10-18T13:53:00.416Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1420,15 +1631,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:02.830Z",
-          "validUntil": "2026-10-18T13:53:02.830Z"
+          "validUntil": "2026-10-18T13:53:02.830Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1440,17 +1654,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:05.097Z",
-          "validUntil": "2026-10-18T13:53:05.097Z"
+          "validUntil": "2026-10-18T13:53:05.097Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:06.646Z",
-          "validUntil": "2026-10-18T13:50:06.646Z"
+          "checkedAt": "2026-10-22T11:58:34.515Z",
+          "validUntil": "2026-10-23T11:58:34.515Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1462,17 +1679,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:07.542Z",
-          "validUntil": "2026-10-18T13:53:07.542Z"
+          "validUntil": "2026-10-18T13:53:07.542Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:02:54.049Z",
-          "validUntil": "2026-10-18T16:02:54.049Z"
+          "validUntil": "2026-10-18T16:02:54.049Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1484,17 +1704,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:10.267Z",
-          "validUntil": "2026-10-18T13:53:10.267Z"
+          "validUntil": "2026-10-18T13:53:10.267Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:06.975Z",
-          "validUntil": "2026-10-18T13:50:06.975Z"
+          "checkedAt": "2026-10-22T11:58:37.667Z",
+          "validUntil": "2026-10-23T11:58:37.667Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1506,15 +1729,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:12.419Z",
-          "validUntil": "2026-10-18T13:53:12.419Z"
+          "validUntil": "2026-10-18T13:53:12.419Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "pagination_incomplete"
+          "status": "pagination_incomplete",
+          "weeklyStatus": "pagination_incomplete"
         }
       ]
     },
@@ -1524,15 +1750,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1542,15 +1771,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1560,17 +1792,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:29.278Z",
-          "validUntil": "2026-10-18T16:03:29.278Z"
+          "validUntil": "2026-10-18T16:03:29.278Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1580,17 +1815,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:31.171Z",
-          "validUntil": "2026-10-18T16:03:31.171Z"
+          "validUntil": "2026-10-18T16:03:31.171Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1600,15 +1838,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1618,17 +1859,21 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:39.423Z",
-          "validUntil": "2026-10-18T16:03:39.423Z"
+          "validUntil": "2026-10-18T16:03:39.423Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "preço atípico, revisão de anúncio pendente"
         }
       ]
     },
@@ -1640,17 +1885,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:49.547Z",
-          "validUntil": "2026-10-18T13:53:49.547Z"
+          "validUntil": "2026-10-18T13:53:49.547Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:07.639Z",
-          "validUntil": "2026-10-18T13:50:07.639Z"
+          "checkedAt": "2026-10-22T11:58:59.483Z",
+          "validUntil": "2026-10-23T11:58:59.483Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1662,19 +1910,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:51.735Z",
-          "validUntil": "2026-10-18T13:53:51.735Z"
+          "validUntil": "2026-10-18T13:53:51.735Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:42.804Z",
-          "validUntil": "2026-10-18T16:03:42.804Z"
+          "validUntil": "2026-10-18T16:03:42.804Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:08.023Z",
-          "validUntil": "2026-10-18T13:50:08.023Z"
+          "checkedAt": "2026-10-22T11:59:00.958Z",
+          "validUntil": "2026-10-23T11:59:00.958Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1686,19 +1937,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:54.170Z",
-          "validUntil": "2026-10-18T13:53:54.170Z"
+          "validUntil": "2026-10-18T13:53:54.170Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:45.449Z",
-          "validUntil": "2026-10-18T16:03:45.449Z"
+          "validUntil": "2026-10-18T16:03:45.449Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:08.365Z",
-          "validUntil": "2026-10-18T13:50:08.365Z"
+          "checkedAt": "2026-10-22T11:59:04.374Z",
+          "validUntil": "2026-10-23T11:59:04.374Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1710,19 +1964,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:56.353Z",
-          "validUntil": "2026-10-18T13:53:56.353Z"
+          "validUntil": "2026-10-18T13:53:56.353Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:47.243Z",
-          "validUntil": "2026-10-18T16:03:47.243Z"
+          "validUntil": "2026-10-18T16:03:47.243Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:08.839Z",
-          "validUntil": "2026-10-18T13:50:08.839Z"
+          "checkedAt": "2026-10-22T11:59:06.461Z",
+          "validUntil": "2026-10-23T11:59:06.461Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1732,15 +1989,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1750,19 +2010,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:03:50.212Z",
-          "validUntil": "2026-10-18T16:03:50.212Z"
+          "validUntil": "2026-10-18T16:03:50.212Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:09.104Z",
-          "validUntil": "2026-10-18T13:50:09.104Z"
+          "checkedAt": "2026-10-22T11:59:07.813Z",
+          "validUntil": "2026-10-23T11:59:07.813Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1772,15 +2035,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1790,17 +2056,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:09.404Z",
-          "validUntil": "2026-10-18T13:50:09.404Z"
+          "checkedAt": "2026-10-22T11:59:09.306Z",
+          "validUntil": "2026-10-23T11:59:09.306Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1810,17 +2079,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:09.689Z",
-          "validUntil": "2026-10-18T13:50:09.689Z"
+          "checkedAt": "2026-10-22T11:59:10.643Z",
+          "validUntil": "2026-10-23T11:59:10.643Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1830,17 +2102,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:09.973Z",
-          "validUntil": "2026-10-18T13:50:09.973Z"
+          "checkedAt": "2026-10-22T11:59:11.397Z",
+          "validUntil": "2026-10-23T11:59:11.397Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1850,17 +2125,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:10.251Z",
-          "validUntil": "2026-10-18T13:50:10.251Z"
+          "checkedAt": "2026-10-22T11:59:12.185Z",
+          "validUntil": "2026-10-23T11:59:12.185Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1870,15 +2148,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1888,15 +2169,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1908,15 +2192,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:53:58.834Z",
-          "validUntil": "2026-10-18T13:53:58.834Z"
+          "validUntil": "2026-10-18T13:53:58.834Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1928,17 +2215,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:01.782Z",
-          "validUntil": "2026-10-18T13:54:01.782Z"
+          "validUntil": "2026-10-18T13:54:01.782Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:10.641Z",
-          "validUntil": "2026-10-18T13:50:10.641Z"
+          "checkedAt": "2026-10-22T11:59:15.568Z",
+          "validUntil": "2026-10-23T11:59:15.568Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1950,15 +2240,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:04.570Z",
-          "validUntil": "2026-10-18T13:54:04.570Z"
+          "validUntil": "2026-10-18T13:54:04.570Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -1970,17 +2263,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:07.573Z",
-          "validUntil": "2026-10-18T13:54:07.573Z"
+          "validUntil": "2026-10-18T13:54:07.573Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:10.884Z",
-          "validUntil": "2026-10-18T13:50:10.884Z"
+          "checkedAt": "2026-10-22T11:59:16.815Z",
+          "validUntil": "2026-10-23T11:59:16.815Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -1990,15 +2286,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2008,15 +2307,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2026,15 +2328,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2046,15 +2351,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:09.846Z",
-          "validUntil": "2026-10-18T13:54:09.846Z"
+          "validUntil": "2026-10-18T13:54:09.846Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2066,17 +2374,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:12.156Z",
-          "validUntil": "2026-10-18T13:54:12.156Z"
+          "validUntil": "2026-10-18T13:54:12.156Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2086,15 +2397,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2104,15 +2418,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2122,15 +2439,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2140,15 +2460,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2158,15 +2481,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2178,19 +2504,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:14.754Z",
-          "validUntil": "2026-10-18T13:54:14.754Z"
+          "validUntil": "2026-10-18T13:54:14.754Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:04:35.233Z",
-          "validUntil": "2026-10-18T16:04:35.233Z"
+          "validUntil": "2026-10-18T16:04:35.233Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:11.136Z",
-          "validUntil": "2026-10-18T13:50:11.136Z"
+          "checkedAt": "2026-10-22T11:59:22.711Z",
+          "validUntil": "2026-10-23T11:59:22.711Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2200,15 +2529,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2218,15 +2550,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2236,15 +2571,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2256,17 +2594,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:17.558Z",
-          "validUntil": "2026-10-18T13:54:17.558Z"
+          "validUntil": "2026-10-18T13:54:17.558Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:11.388Z",
-          "validUntil": "2026-10-18T13:50:11.388Z"
+          "checkedAt": "2026-10-22T11:59:24.839Z",
+          "validUntil": "2026-10-23T11:59:24.839Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2278,15 +2619,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:20.279Z",
-          "validUntil": "2026-10-18T13:54:20.279Z"
+          "validUntil": "2026-10-18T13:54:20.279Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2298,17 +2642,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:22.548Z",
-          "validUntil": "2026-10-18T13:54:22.548Z"
+          "validUntil": "2026-10-18T13:54:22.548Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:11.717Z",
-          "validUntil": "2026-10-18T13:50:11.717Z"
+          "checkedAt": "2026-10-22T11:59:26.627Z",
+          "validUntil": "2026-10-23T11:59:26.627Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2320,15 +2667,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:36.739Z",
-          "validUntil": "2026-10-18T13:54:36.739Z"
+          "validUntil": "2026-10-18T13:54:36.739Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2340,19 +2690,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:38.933Z",
-          "validUntil": "2026-10-18T13:54:38.933Z"
+          "validUntil": "2026-10-18T13:54:38.933Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:04:42.828Z",
-          "validUntil": "2026-10-18T16:04:42.828Z"
+          "validUntil": "2026-10-18T16:04:42.828Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:11.994Z",
-          "validUntil": "2026-10-18T13:50:11.994Z"
+          "checkedAt": "2026-10-22T11:59:27.982Z",
+          "validUntil": "2026-10-23T11:59:27.982Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2362,15 +2715,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2380,19 +2736,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:12.308Z",
-          "validUntil": "2026-10-18T13:50:12.308Z"
+          "checkedAt": "2026-10-22T11:59:29.162Z",
+          "validUntil": "2026-10-23T11:59:29.162Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2402,15 +2761,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2420,15 +2782,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2438,17 +2803,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:04:58.686Z",
-          "validUntil": "2026-10-18T16:04:58.686Z"
+          "validUntil": "2026-10-18T16:04:58.686Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2460,15 +2828,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:41.862Z",
-          "validUntil": "2026-10-18T13:54:41.862Z"
+          "validUntil": "2026-10-18T13:54:41.862Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2478,15 +2849,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2496,17 +2870,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:12.583Z",
-          "validUntil": "2026-10-18T13:50:12.583Z"
+          "checkedAt": "2026-10-22T11:59:32.420Z",
+          "validUntil": "2026-10-23T11:59:32.420Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2518,17 +2895,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:44.397Z",
-          "validUntil": "2026-10-18T13:54:44.397Z"
+          "validUntil": "2026-10-18T13:54:44.397Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:12.866Z",
-          "validUntil": "2026-10-18T13:50:12.866Z"
+          "checkedAt": "2026-10-22T11:59:33.313Z",
+          "validUntil": "2026-10-23T11:59:33.313Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2538,15 +2918,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2556,15 +2939,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "affiliate_ineligible"
+          "status": "affiliate_ineligible",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2574,15 +2960,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2592,15 +2981,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2610,15 +3002,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2628,15 +3023,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2646,15 +3044,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2664,15 +3065,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2684,15 +3088,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:46.702Z",
-          "validUntil": "2026-10-18T13:54:46.702Z"
+          "validUntil": "2026-10-18T13:54:46.702Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2704,17 +3111,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:49.074Z",
-          "validUntil": "2026-10-18T13:54:49.074Z"
+          "validUntil": "2026-10-18T13:54:49.074Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:13.145Z",
-          "validUntil": "2026-10-18T13:50:13.145Z"
+          "checkedAt": "2026-10-22T11:59:37.957Z",
+          "validUntil": "2026-10-23T11:59:37.957Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2726,17 +3136,20 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:51.900Z",
-          "validUntil": "2026-10-18T13:54:51.900Z"
+          "validUntil": "2026-10-18T13:54:51.900Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:13.402Z",
-          "validUntil": "2026-10-18T13:50:13.402Z"
+          "checkedAt": "2026-10-22T11:59:38.839Z",
+          "validUntil": "2026-10-23T11:59:38.839Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2748,19 +3161,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:54.361Z",
-          "validUntil": "2026-10-18T13:54:54.361Z"
+          "validUntil": "2026-10-18T13:54:54.361Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:05:19.516Z",
-          "validUntil": "2026-10-18T16:05:19.516Z"
+          "validUntil": "2026-10-18T16:05:19.516Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:13.677Z",
-          "validUntil": "2026-10-18T13:50:13.677Z"
+          "checkedAt": "2026-10-22T11:59:39.647Z",
+          "validUntil": "2026-10-23T11:59:39.647Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2772,15 +3188,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:56.512Z",
-          "validUntil": "2026-10-18T13:54:56.512Z"
+          "validUntil": "2026-10-18T13:54:56.512Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2790,17 +3209,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2810,15 +3232,20 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "manual_review_pending"
+          "status": "manual_review_pending",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "verified",
+          "checkedAt": "2026-10-22T11:59:41.397Z",
+          "validUntil": "2026-10-23T11:59:41.397Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2830,19 +3257,22 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:54:58.928Z",
-          "validUntil": "2026-10-18T13:54:58.928Z"
+          "validUntil": "2026-10-18T13:54:58.928Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:05:23.159Z",
-          "validUntil": "2026-10-18T16:05:23.159Z"
+          "validUntil": "2026-10-18T16:05:23.159Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:14.123Z",
-          "validUntil": "2026-10-18T13:50:14.123Z"
+          "checkedAt": "2026-10-22T11:59:42.142Z",
+          "validUntil": "2026-10-23T11:59:42.142Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2852,15 +3282,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2870,15 +3303,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2888,15 +3324,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2906,19 +3345,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:05:34.870Z",
-          "validUntil": "2026-10-18T16:05:34.870Z"
+          "validUntil": "2026-10-18T16:05:34.870Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:14.374Z",
-          "validUntil": "2026-10-18T13:50:14.374Z"
+          "checkedAt": "2026-10-22T11:59:44.106Z",
+          "validUntil": "2026-10-23T11:59:44.106Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2930,15 +3372,18 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:55:01.265Z",
-          "validUntil": "2026-10-18T13:55:01.265Z"
+          "validUntil": "2026-10-18T13:55:01.265Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2948,19 +3393,22 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:05:37.430Z",
-          "validUntil": "2026-10-18T16:05:37.430Z"
+          "validUntil": "2026-10-18T16:05:37.430Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:14.630Z",
-          "validUntil": "2026-10-18T13:50:14.630Z"
+          "checkedAt": "2026-10-22T11:59:45.740Z",
+          "validUntil": "2026-10-23T11:59:45.740Z",
+          "weeklyStatus": "verified"
         }
       ]
     },
@@ -2970,15 +3418,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -2988,15 +3439,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -3006,15 +3460,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -3024,15 +3481,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -3042,15 +3502,18 @@
       "marketplaces": [
         {
           "marketplace": "amazon",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
-          "status": "no_verified_offer"
+          "status": "no_verified_offer",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
-          "status": "no_eligible_offer"
+          "status": "no_eligible_offer",
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -3062,21 +3525,85 @@
           "marketplace": "amazon",
           "status": "verified",
           "checkedAt": "2026-10-17T13:55:03.754Z",
-          "validUntil": "2026-10-18T13:55:03.754Z"
+          "validUntil": "2026-10-18T13:55:03.754Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "mercado_livre",
           "status": "verified",
           "checkedAt": "2026-10-17T16:16:40.354Z",
-          "validUntil": "2026-10-18T16:16:40.354Z"
+          "validUntil": "2026-10-18T16:16:40.354Z",
+          "weeklyStatus": "not_collected_this_run"
         },
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-17T13:50:14.964Z",
-          "validUntil": "2026-10-18T13:50:14.964Z"
+          "checkedAt": "2026-10-22T11:59:48.448Z",
+          "validUntil": "2026-10-23T11:59:48.448Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 453,
+      "model": "JBL Tune 730BT",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-22T12:00:31.698Z",
+          "validUntil": "2026-10-23T12:00:31.698Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 454,
+      "model": "JBL Tune 780NC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-22T12:00:33.132Z",
+          "validUntil": "2026-10-23T12:00:33.132Z",
+          "weeklyStatus": "verified"
         }
       ]
     }
-  ]
+  ],
+  "activeLinksAsOf": 57,
+  "weeklyRun": {
+    "date": "2026-10-22",
+    "scope": "Shopee: 155 modelos públicos pesquisados via API; Amazon e Mercado Livre não revalidados nesta rodada.",
+    "shopee": {
+      "searched": 155,
+      "apiSelected": 62,
+      "publishedFresh": 57,
+      "manualReview": 5,
+      "paginationIncomplete": 2
+    },
+    "amazon": "not_collected_this_run",
+    "mercado_livre": "not_collected_this_run",
+    "historicalLinksMayBeExpired": true
+  }
 }

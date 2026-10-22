@@ -1,4 +1,3 @@
-// Revisão por campo: fonte não confirma a ficha inteira.
 const CATALOG_REVIEW = {
   "1": {
     "sources": [
@@ -10893,6 +10892,146 @@ const CATALOG_REVIEW = {
       }
     },
     "note": "Novo cadastro com fonte oficial. ANC e codecs em revisão. Sem nota editorial ou cotação. Conteúdo da caixa conflitante na própria fonte; não adotado."
+  },
+  "453": {
+    "sources": [
+      {
+        "title": "JBL — JBL Tune 730BT, especificações oficiais",
+        "url": "https://www.jbl.com.br/TUNE730BT.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "Microfone",
+          "Dobrável",
+          "Peso",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec",
+      "ANC"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-22",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "ANC": {
+        "status": "not_confirmed",
+        "reason": "Não confirmado pela fonte consultada."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Dobrável": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Não confirmado pela fonte consultada."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace, nota editorial, prós/contras ou vídeos inventados. Codec em revisão."
+  },
+  "454": {
+    "sources": [
+      {
+        "title": "JBL — JBL Tune 780NC, especificações oficiais",
+        "url": "https://www.jbl.com.br/TUNE780NC.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "ANC",
+          "Microfone",
+          "Dobrável",
+          "Peso",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-22",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "ANC": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Dobrável": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Não confirmado pela fonte consultada."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido nas especificações oficiais JBL."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace, nota editorial, prós/contras ou vídeos inventados. Codec em revisão."
   }
 };
 const PUBLIC_HEADPHONES = HEADPHONES.filter(h => CATALOG_REVIEW[h.id]?.catalogStatus === "available");

@@ -8076,5 +8076,61 @@ const HEADPHONES = [
     "amazon": "https://www.amazon.com.br/s?k=JBL+Tune+530BT",
     "ml": "https://lista.mercadolivre.com.br/jbl-tune-530bt",
     "official": "https://www.jbl.com.br/TUNE530BT.html"
+  },
+  {
+    "id": 453,
+    "name": "JBL Tune 730BT",
+    "brand": "JBL",
+    "price": null,
+    "tier": "mid",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "6.0",
+      "Autonomia": "Até 76h",
+      "Recarga": "~2h",
+      "ANC": "Em revisão",
+      "Microfone": "2 microfones",
+      "Dobrável": "Sim",
+      "Peso": "218,2g",
+      "Codec": "Em revisão",
+      "Multiponto": "Sim"
+    },
+    "score": {},
+    "pros": [],
+    "cons": [],
+    "youtubeIds": [],
+    "youtubeLabels": [],
+    "amazon": "https://www.amazon.com.br/s?k=JBL%20Tune%20730BT",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-730bt",
+    "official": "https://www.jbl.com.br/TUNE730BT.html"
+  },
+  {
+    "id": 454,
+    "name": "JBL Tune 780NC",
+    "brand": "JBL",
+    "price": null,
+    "tier": "premium",
+    "type": "Over-ear",
+    "specs": {
+      "Driver": "40mm",
+      "Bluetooth": "6.0",
+      "Autonomia": "Até 76h (ANC desligado); até 50h (ANC ligado)",
+      "Recarga": "2h",
+      "ANC": "Adaptativo",
+      "Microfone": "4 microfones",
+      "Dobrável": "Sim",
+      "Peso": "225,2g",
+      "Codec": "Em revisão",
+      "Multiponto": "Sim"
+    },
+    "score": {},
+    "pros": [],
+    "cons": [],
+    "youtubeIds": [],
+    "youtubeLabels": [],
+    "amazon": "https://www.amazon.com.br/s?k=JBL%20Tune%20780NC",
+    "ml": "https://lista.mercadolivre.com.br/jbl-tune-780nc",
+    "official": "https://www.jbl.com.br/TUNE780NC.html"
   }
 ];

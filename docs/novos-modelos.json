@@ -16,6 +16,28 @@
           "decision": "Não incluir este campo até reconciliação."
         }
       ]
+    },
+    {
+      "id": 453,
+      "name": "JBL Tune 730BT",
+      "checkedAt": "2026-10-22",
+      "source": "https://www.jbl.com.br/TUNE730BT.html",
+      "policy": "Apenas identidade e especificações confirmadas na página oficial JBL. Sem cotação de marketplace, nota, prós/contras ou vídeo sem prova.",
+      "conflicts": []
+    },
+    {
+      "id": 454,
+      "name": "JBL Tune 780NC",
+      "checkedAt": "2026-10-22",
+      "source": "https://www.jbl.com.br/TUNE780NC.html",
+      "policy": "Apenas identidade e especificações confirmadas na página oficial JBL. Sem cotação de marketplace, nota, prós/contras ou vídeo sem prova.",
+      "conflicts": [
+        {
+          "field": "Microfones",
+          "values": ["4 microfones na ficha técnica", "2 microfones beamforming para chamadas no texto descritivo"],
+          "decision": "A ficha usa 4 microfones totais; o texto descreve um subconjunto dedicado a chamadas."
+        }
+      ]
     }
   ]
 }

@@ -465,7 +465,7 @@
     },
     {
       "id": "REG-UI-10",
-      "reason": "REG-UI-10 novo modelo entra pela busca compara e mostra data real da fonte; oferta real do novo modelo e retorno à busca após 24h; Amazon ativo aponta para URL afiliada verificada e ambos expiram",
+      "reason": "Modelo novo entra pela busca; Shopee atual oferece anúncio individual, Amazon expirada cai para afiliado genérico, ambos expiram",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -509,7 +509,7 @@
     },
     {
       "id": "REG-LIVE-01",
-      "reason": "Ativação autorizada: dados reais com evidências, ausência de fixtures, menor cotação cadastrada e expiração",
+      "reason": "Cotações têm prova correspondente e expiração; ofertas antigas mantêm data própria sem se passarem por preço atual",
       "addedAt": "2026-10-17",
       "tests": [
         {
@@ -603,6 +603,28 @@
         {
           "file": "tests/marketplace-coverage.test.mjs",
           "name": "REG-COVERAGE-02 coleta Mercado Livre publica só destino afiliado e preço conferidos"
+        }
+      ]
+    },
+    {
+      "id": "REG-NEW-02",
+      "reason": "Dois novos JBL têm identidade única, origem oficial, campos comprovados e sem preço ou nota inventados",
+      "addedAt": "2026-10-22",
+      "tests": [
+        {
+          "file": "tests/new-model.test.mjs",
+          "name": "REG-NEW-02 dois modelos JBL novos têm identidade única e apenas especificações oficiais"
+        }
+      ]
+    },
+    {
+      "id": "REG-COVERAGE-03",
+      "reason": "Rodada semanal separa ofertas atuais da Shopee, histórico expirado e anúncios em revisão",
+      "addedAt": "2026-10-22",
+      "tests": [
+        {
+          "file": "tests/marketplace-coverage.test.mjs",
+          "name": "REG-COVERAGE-03 rodada semanal distingue ofertas frescas de histórico expirado e revisões"
         }
       ]
     }

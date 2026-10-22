@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-17T03:49:12.104Z",
+  "generatedAt": "2026-10-22T11:59:00.489Z",
   "scope": "Cobertura das fontes cadastradas; este relatório não faz verificação factual automática.",
   "summary": {
-    "products": 164,
-    "available": 153,
+    "products": 166,
+    "available": 155,
     "withheld": 11,
-    "withVerifiedFields": 149,
+    "withVerifiedFields": 151,
     "fullyVerified": 11,
-    "withPendingFields": 153,
-    "verifiedFields": 914,
-    "pendingFields": 577
+    "withPendingFields": 155,
+    "verifiedFields": 931,
+    "pendingFields": 580
   },
   "products": [
     {
@@ -12222,6 +12222,171 @@
         }
       ],
       "note": "Novo cadastro com fonte oficial. ANC e codecs em revisão. Sem nota editorial ou cotação. Conteúdo da caixa conflitante na própria fonte; não adotado."
+    },
+    {
+      "id": 453,
+      "name": "JBL Tune 730BT",
+      "aliases": [],
+      "catalogStatus": "available",
+      "verifiedFields": [
+        "Driver",
+        "Bluetooth",
+        "Autonomia",
+        "Recarga",
+        "Microfone",
+        "Dobrável",
+        "Peso",
+        "Multiponto"
+      ],
+      "pendingFields": [
+        "Codec",
+        "ANC"
+      ],
+      "unverifiedFields": [],
+      "fieldStatus": {
+        "Driver": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Bluetooth": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Autonomia": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Recarga": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "ANC": {
+          "status": "not_confirmed",
+          "reason": "Não confirmado pela fonte consultada."
+        },
+        "Microfone": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Dobrável": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Peso": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Codec": {
+          "status": "not_confirmed",
+          "reason": "Não confirmado pela fonte consultada."
+        },
+        "Multiponto": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        }
+      },
+      "sources": [
+        {
+          "title": "JBL — JBL Tune 730BT, especificações oficiais",
+          "url": "https://www.jbl.com.br/TUNE730BT.html",
+          "fields": [
+            "type",
+            "Driver",
+            "Bluetooth",
+            "Autonomia",
+            "Recarga",
+            "Microfone",
+            "Dobrável",
+            "Peso",
+            "Multiponto"
+          ],
+          "checkedAt": "2026-10-22"
+        }
+      ],
+      "note": "Cadastro com fonte oficial; sem preço de marketplace, nota editorial, prós/contras ou vídeos inventados. Codec em revisão."
+    },
+    {
+      "id": 454,
+      "name": "JBL Tune 780NC",
+      "aliases": [],
+      "catalogStatus": "available",
+      "verifiedFields": [
+        "Driver",
+        "Bluetooth",
+        "Autonomia",
+        "Recarga",
+        "ANC",
+        "Microfone",
+        "Dobrável",
+        "Peso",
+        "Multiponto"
+      ],
+      "pendingFields": [
+        "Codec"
+      ],
+      "unverifiedFields": [],
+      "fieldStatus": {
+        "Driver": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Bluetooth": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Autonomia": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Recarga": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "ANC": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Microfone": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Dobrável": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Peso": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        },
+        "Codec": {
+          "status": "not_confirmed",
+          "reason": "Não confirmado pela fonte consultada."
+        },
+        "Multiponto": {
+          "status": "verified",
+          "reason": "Conferido nas especificações oficiais JBL."
+        }
+      },
+      "sources": [
+        {
+          "title": "JBL — JBL Tune 780NC, especificações oficiais",
+          "url": "https://www.jbl.com.br/TUNE780NC.html",
+          "fields": [
+            "type",
+            "Driver",
+            "Bluetooth",
+            "Autonomia",
+            "Recarga",
+            "ANC",
+            "Microfone",
+            "Dobrável",
+            "Peso",
+            "Multiponto"
+          ],
+          "checkedAt": "2026-10-22"
+        }
+      ],
+      "note": "Cadastro com fonte oficial; sem preço de marketplace, nota editorial, prós/contras ou vídeos inventados. Codec em revisão."
     }
   ]
 }

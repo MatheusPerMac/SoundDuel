@@ -46,3 +46,25 @@ test('REG-COVERAGE-02 coleta Mercado Livre publica só destino afiliado e preço
   if(offer.paymentMethod==='pix')assert.match(offer.conditions,/Pix/);
  }
 });
+
+test('REG-COVERAGE-03 rodada semanal distingue ofertas frescas de histórico expirado e revisões',()=>{
+ const ctx=vm.createContext({});
+ for(const file of ['headphones.js','catalog-review.js','purchase-offers.js'])vm.runInContext(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8'),ctx);
+ const report=JSON.parse(fs.readFileSync(new URL('../docs/cobertura-marketplaces.json',import.meta.url)));
+ const offers=vm.runInContext('PURCHASE_OFFERS',ctx);
+ assert.equal(report.weeklyRun.date,'2026-10-22');
+ assert.equal(report.weeklyRun.shopee.searched,report.publicModels);
+ assert.equal(report.weeklyRun.shopee.apiSelected,report.weeklyRun.shopee.publishedFresh+report.weeklyRun.shopee.manualReview);
+ assert.equal(report.weeklyRun.amazon,'not_collected_this_run');
+ assert.equal(report.weeklyRun.mercado_livre,'not_collected_this_run');
+ const fresh=offers.filter(o=>o.marketplace==='shopee'&&o.checkedAt.startsWith('2026-10-22'));
+ assert.equal(fresh.length,report.weeklyRun.shopee.publishedFresh);
+ assert.equal(report.activeLinksAsOf,fresh.length);
+ for(const row of report.coverage){
+  for(const entry of row.marketplaces){
+   if(entry.marketplace!=='shopee')assert.equal(entry.weeklyStatus,'not_collected_this_run');
+   if(entry.weeklyStatus==='verified'&&entry.marketplace==='shopee')assert.ok(fresh.some(o=>o.productId===row.productId));
+   if(entry.weeklyStatus==='manual_review')assert.ok(!fresh.some(o=>o.productId===row.productId));
+  }
+ }
+});
