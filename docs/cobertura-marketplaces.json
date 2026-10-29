@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T12:02:10.057Z",
-  "publicModels": 155,
-  "targetLinks": 465,
-  "verifiedLinks": 160,
+  "generatedAt": "2026-10-29T12:04:19.852Z",
+  "publicModels": 161,
+  "targetLinks": 483,
+  "verifiedLinks": 166,
   "modelsWithThree": 15,
   "byMarketplace": {
     "amazon": 66,
     "mercado_livre": 34,
-    "shopee": 60
+    "shopee": 66
   },
   "coverage": [
     {
@@ -101,8 +101,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:10.897Z",
-          "validUntil": "2026-10-23T11:57:10.897Z",
+          "checkedAt": "2026-10-29T11:58:53.116Z",
+          "validUntil": "2026-10-30T11:58:53.116Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -124,8 +124,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:12.042Z",
-          "validUntil": "2026-10-23T11:57:12.042Z",
+          "checkedAt": "2026-10-29T11:58:53.896Z",
+          "validUntil": "2026-10-30T11:58:53.896Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -151,8 +151,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:13.041Z",
-          "validUntil": "2026-10-23T11:57:13.041Z",
+          "checkedAt": "2026-10-29T11:58:54.842Z",
+          "validUntil": "2026-10-30T11:58:54.842Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -174,8 +174,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:13.719Z",
-          "validUntil": "2026-10-23T11:57:13.719Z",
+          "checkedAt": "2026-10-29T11:58:55.536Z",
+          "validUntil": "2026-10-30T11:58:55.536Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -199,8 +199,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:15.430Z",
-          "validUntil": "2026-10-23T11:57:15.430Z",
+          "checkedAt": "2026-10-29T11:58:58.080Z",
+          "validUntil": "2026-10-30T11:58:58.080Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -224,8 +224,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:16.187Z",
-          "validUntil": "2026-10-23T11:57:16.187Z",
+          "checkedAt": "2026-10-29T11:58:59.019Z",
+          "validUntil": "2026-10-30T11:58:59.019Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -251,8 +251,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:16.952Z",
-          "validUntil": "2026-10-23T11:57:16.952Z",
+          "checkedAt": "2026-10-29T11:58:59.906Z",
+          "validUntil": "2026-10-30T11:58:59.906Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -297,8 +297,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:18.757Z",
-          "validUntil": "2026-10-23T11:57:18.757Z",
+          "checkedAt": "2026-10-29T11:59:01.931Z",
+          "validUntil": "2026-10-30T11:59:01.931Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -343,8 +343,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:19.620Z",
-          "validUntil": "2026-10-23T11:57:19.620Z",
+          "checkedAt": "2026-10-29T11:59:02.825Z",
+          "validUntil": "2026-10-30T11:59:02.825Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -389,8 +389,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:25.727Z",
-          "validUntil": "2026-10-23T11:57:25.727Z",
+          "checkedAt": "2026-10-29T11:59:09.870Z",
+          "validUntil": "2026-10-30T11:59:09.870Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -416,8 +416,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:26.464Z",
-          "validUntil": "2026-10-23T11:57:26.464Z",
+          "checkedAt": "2026-10-29T11:59:10.639Z",
+          "validUntil": "2026-10-30T11:59:10.639Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -462,8 +462,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:28.544Z",
-          "validUntil": "2026-10-23T11:57:28.544Z",
+          "checkedAt": "2026-10-29T11:59:12.875Z",
+          "validUntil": "2026-10-30T11:59:12.875Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -534,8 +534,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:31.695Z",
-          "validUntil": "2026-10-23T11:57:31.695Z",
+          "checkedAt": "2026-10-29T11:59:17.184Z",
+          "validUntil": "2026-10-30T11:59:17.184Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -669,8 +669,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:35.622Z",
-          "validUntil": "2026-10-23T11:57:35.622Z",
+          "checkedAt": "2026-10-29T11:59:20.967Z",
+          "validUntil": "2026-10-30T11:59:20.967Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -694,8 +694,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:36.367Z",
-          "validUntil": "2026-10-23T11:57:36.367Z",
+          "checkedAt": "2026-10-29T11:59:21.677Z",
+          "validUntil": "2026-10-30T11:59:21.677Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -721,7 +721,7 @@
           "status": "verified",
           "checkedAt": "2026-10-22T11:57:37.047Z",
           "validUntil": "2026-10-23T11:57:37.047Z",
-          "weeklyStatus": "verified"
+          "weeklyStatus": "no_eligible_offer"
         }
       ]
     },
@@ -853,8 +853,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:45.922Z",
-          "validUntil": "2026-10-23T11:57:45.922Z",
+          "checkedAt": "2026-10-29T11:59:32.292Z",
+          "validUntil": "2026-10-30T11:59:32.292Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -876,8 +876,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:47.230Z",
-          "validUntil": "2026-10-23T11:57:47.230Z",
+          "checkedAt": "2026-10-29T11:59:33.284Z",
+          "validUntil": "2026-10-30T11:59:33.284Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -951,8 +951,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:50.078Z",
-          "validUntil": "2026-10-23T11:57:50.078Z",
+          "checkedAt": "2026-10-29T11:59:36.611Z",
+          "validUntil": "2026-10-30T11:59:36.611Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1069,8 +1069,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:57:57.775Z",
-          "validUntil": "2026-10-23T11:57:57.775Z",
+          "checkedAt": "2026-10-29T11:59:44.057Z",
+          "validUntil": "2026-10-30T11:59:44.057Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1244,8 +1244,10 @@
         },
         {
           "marketplace": "shopee",
-          "status": "pagination_incomplete",
-          "weeklyStatus": "pagination_incomplete"
+          "status": "verified",
+          "weeklyStatus": "verified",
+          "checkedAt": "2026-10-29T12:00:01.369Z",
+          "validUntil": "2026-10-30T12:00:01.369Z"
         }
       ]
     },
@@ -1333,8 +1335,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:22.068Z",
-          "validUntil": "2026-10-23T11:58:22.068Z",
+          "checkedAt": "2026-10-29T12:00:06.016Z",
+          "validUntil": "2026-10-30T12:00:06.016Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1421,8 +1423,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:24.126Z",
-          "validUntil": "2026-10-23T11:58:24.126Z",
+          "checkedAt": "2026-10-29T12:00:11.288Z",
+          "validUntil": "2026-10-30T12:00:11.288Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1448,8 +1450,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:25.209Z",
-          "validUntil": "2026-10-23T11:58:25.209Z",
+          "checkedAt": "2026-10-29T12:00:13.053Z",
+          "validUntil": "2026-10-30T12:00:13.053Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1496,8 +1498,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:26.397Z",
-          "validUntil": "2026-10-23T11:58:26.397Z",
+          "checkedAt": "2026-10-29T12:00:15.264Z",
+          "validUntil": "2026-10-30T12:00:15.264Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1521,8 +1523,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:27.043Z",
-          "validUntil": "2026-10-23T11:58:27.043Z",
+          "checkedAt": "2026-10-29T12:00:16.727Z",
+          "validUntil": "2026-10-30T12:00:16.727Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1546,8 +1548,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:27.876Z",
-          "validUntil": "2026-10-23T11:58:27.876Z",
+          "checkedAt": "2026-10-29T12:00:18.169Z",
+          "validUntil": "2026-10-30T12:00:18.169Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1594,8 +1596,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:29.030Z",
-          "validUntil": "2026-10-23T11:58:29.030Z",
+          "checkedAt": "2026-10-29T12:00:19.914Z",
+          "validUntil": "2026-10-30T12:00:19.914Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1665,8 +1667,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:34.515Z",
-          "validUntil": "2026-10-23T11:58:34.515Z",
+          "checkedAt": "2026-10-29T12:00:30.439Z",
+          "validUntil": "2026-10-30T12:00:30.439Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1715,8 +1717,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:37.667Z",
-          "validUntil": "2026-10-23T11:58:37.667Z",
+          "checkedAt": "2026-10-29T12:00:34.821Z",
+          "validUntil": "2026-10-30T12:00:34.821Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1740,7 +1742,8 @@
         {
           "marketplace": "shopee",
           "status": "pagination_incomplete",
-          "weeklyStatus": "pagination_incomplete"
+          "weeklyStatus": "manual_review",
+          "weeklyReason": "preço atípico, identidade do produto não comprovada"
         }
       ]
     },
@@ -1896,8 +1899,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:58:59.483Z",
-          "validUntil": "2026-10-23T11:58:59.483Z",
+          "checkedAt": "2026-10-29T12:01:08.867Z",
+          "validUntil": "2026-10-30T12:01:08.867Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1923,8 +1926,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:00.958Z",
-          "validUntil": "2026-10-23T11:59:00.958Z",
+          "checkedAt": "2026-10-29T12:01:11.582Z",
+          "validUntil": "2026-10-30T12:01:11.582Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1950,8 +1953,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:04.374Z",
-          "validUntil": "2026-10-23T11:59:04.374Z",
+          "checkedAt": "2026-10-29T12:01:14.565Z",
+          "validUntil": "2026-10-30T12:01:14.565Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -1977,8 +1980,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:06.461Z",
-          "validUntil": "2026-10-23T11:59:06.461Z",
+          "checkedAt": "2026-10-29T12:01:17.915Z",
+          "validUntil": "2026-10-30T12:01:17.915Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2023,8 +2026,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:07.813Z",
-          "validUntil": "2026-10-23T11:59:07.813Z",
+          "checkedAt": "2026-10-29T12:01:19.942Z",
+          "validUntil": "2026-10-30T12:01:19.942Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2067,8 +2070,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:09.306Z",
-          "validUntil": "2026-10-23T11:59:09.306Z",
+          "checkedAt": "2026-10-29T12:01:22.409Z",
+          "validUntil": "2026-10-30T12:01:22.409Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2090,8 +2093,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:10.643Z",
-          "validUntil": "2026-10-23T11:59:10.643Z",
+          "checkedAt": "2026-10-29T12:01:23.535Z",
+          "validUntil": "2026-10-30T12:01:23.535Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2113,8 +2116,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:11.397Z",
-          "validUntil": "2026-10-23T11:59:11.397Z",
+          "checkedAt": "2026-10-29T12:01:24.484Z",
+          "validUntil": "2026-10-30T12:01:24.484Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2136,8 +2139,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:12.185Z",
-          "validUntil": "2026-10-23T11:59:12.185Z",
+          "checkedAt": "2026-10-29T12:01:25.256Z",
+          "validUntil": "2026-10-30T12:01:25.256Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2226,8 +2229,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:15.568Z",
-          "validUntil": "2026-10-23T11:59:15.568Z",
+          "checkedAt": "2026-10-29T12:01:29.930Z",
+          "validUntil": "2026-10-30T12:01:29.930Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2274,8 +2277,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:16.815Z",
-          "validUntil": "2026-10-23T11:59:16.815Z",
+          "checkedAt": "2026-10-29T12:01:31.258Z",
+          "validUntil": "2026-10-30T12:01:31.258Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2517,8 +2520,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:22.711Z",
-          "validUntil": "2026-10-23T11:59:22.711Z",
+          "checkedAt": "2026-10-29T12:01:40.822Z",
+          "validUntil": "2026-10-30T12:01:40.822Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2605,8 +2608,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:24.839Z",
-          "validUntil": "2026-10-23T11:59:24.839Z",
+          "checkedAt": "2026-10-29T12:01:43.105Z",
+          "validUntil": "2026-10-30T12:01:43.105Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2653,8 +2656,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:26.627Z",
-          "validUntil": "2026-10-23T11:59:26.627Z",
+          "checkedAt": "2026-10-29T12:01:45.437Z",
+          "validUntil": "2026-10-30T12:01:45.437Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2703,8 +2706,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:27.982Z",
-          "validUntil": "2026-10-23T11:59:27.982Z",
+          "checkedAt": "2026-10-29T12:01:48.104Z",
+          "validUntil": "2026-10-30T12:01:48.104Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2749,8 +2752,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:29.162Z",
-          "validUntil": "2026-10-23T11:59:29.162Z",
+          "checkedAt": "2026-10-29T12:01:49.586Z",
+          "validUntil": "2026-10-30T12:01:49.586Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2881,8 +2884,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:32.420Z",
-          "validUntil": "2026-10-23T11:59:32.420Z",
+          "checkedAt": "2026-10-29T12:01:53.181Z",
+          "validUntil": "2026-10-30T12:01:53.181Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -2906,8 +2909,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:33.313Z",
-          "validUntil": "2026-10-23T11:59:33.313Z",
+          "checkedAt": "2026-10-29T12:01:54.038Z",
+          "validUntil": "2026-10-30T12:01:54.038Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3122,8 +3125,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:37.957Z",
-          "validUntil": "2026-10-23T11:59:37.957Z",
+          "checkedAt": "2026-10-29T12:01:58.772Z",
+          "validUntil": "2026-10-30T12:01:58.772Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3147,8 +3150,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:38.839Z",
-          "validUntil": "2026-10-23T11:59:38.839Z",
+          "checkedAt": "2026-10-29T12:01:59.955Z",
+          "validUntil": "2026-10-30T12:01:59.955Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3174,8 +3177,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:39.647Z",
-          "validUntil": "2026-10-23T11:59:39.647Z",
+          "checkedAt": "2026-10-29T12:02:01.351Z",
+          "validUntil": "2026-10-30T12:02:01.351Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3243,8 +3246,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:41.397Z",
-          "validUntil": "2026-10-23T11:59:41.397Z",
+          "checkedAt": "2026-10-29T12:02:03.378Z",
+          "validUntil": "2026-10-30T12:02:03.378Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3270,8 +3273,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:42.142Z",
-          "validUntil": "2026-10-23T11:59:42.142Z",
+          "checkedAt": "2026-10-29T12:02:04.506Z",
+          "validUntil": "2026-10-30T12:02:04.506Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3358,8 +3361,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:44.106Z",
-          "validUntil": "2026-10-23T11:59:44.106Z",
+          "checkedAt": "2026-10-29T12:02:08.009Z",
+          "validUntil": "2026-10-30T12:02:08.009Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3406,8 +3409,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:45.740Z",
-          "validUntil": "2026-10-23T11:59:45.740Z",
+          "checkedAt": "2026-10-29T12:02:10.139Z",
+          "validUntil": "2026-10-30T12:02:10.139Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3538,8 +3541,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T11:59:48.448Z",
-          "validUntil": "2026-10-23T11:59:48.448Z",
+          "checkedAt": "2026-10-29T12:02:13.182Z",
+          "validUntil": "2026-10-30T12:02:13.182Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3561,8 +3564,8 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T12:00:31.698Z",
-          "validUntil": "2026-10-23T12:00:31.698Z",
+          "checkedAt": "2026-10-29T12:02:14.056Z",
+          "validUntil": "2026-10-30T12:02:14.056Z",
           "weeklyStatus": "verified"
         }
       ]
@@ -3584,23 +3587,159 @@
         {
           "marketplace": "shopee",
           "status": "verified",
-          "checkedAt": "2026-10-22T12:00:33.132Z",
-          "validUntil": "2026-10-23T12:00:33.132Z",
+          "checkedAt": "2026-10-29T12:02:14.884Z",
+          "validUntil": "2026-10-30T12:02:14.884Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 455,
+      "model": "JBL Quantum 950",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-29T12:03:24.685Z",
+          "validUntil": "2026-10-30T12:03:24.685Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 456,
+      "model": "JBL Endurance Pace",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-29T12:03:25.446Z",
+          "validUntil": "2026-10-30T12:03:25.446Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 457,
+      "model": "JBL Live 680NC",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "no_eligible_offer"
+        }
+      ]
+    },
+    {
+      "productId": 458,
+      "model": "JBL Endurance Run 3 Wireless",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-29T12:03:26.775Z",
+          "validUntil": "2026-10-30T12:03:26.775Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 459,
+      "model": "JBL Endurance Zone",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-29T12:03:27.589Z",
+          "validUntil": "2026-10-30T12:03:27.589Z",
+          "weeklyStatus": "verified"
+        }
+      ]
+    },
+    {
+      "productId": 460,
+      "model": "JBL Live Beam 4",
+      "marketplaces": [
+        {
+          "marketplace": "amazon",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "mercado_livre",
+          "status": "not_collected_this_run",
+          "weeklyStatus": "not_collected_this_run"
+        },
+        {
+          "marketplace": "shopee",
+          "status": "verified",
+          "checkedAt": "2026-10-29T12:03:28.355Z",
+          "validUntil": "2026-10-30T12:03:28.355Z",
           "weeklyStatus": "verified"
         }
       ]
     }
   ],
-  "activeLinksAsOf": 57,
+  "activeLinksAsOf": 62,
   "weeklyRun": {
-    "date": "2026-10-22",
-    "scope": "Shopee: 155 modelos públicos pesquisados via API; Amazon e Mercado Livre não revalidados nesta rodada.",
+    "date": "2026-10-29",
+    "scope": "Shopee: 161 modelos públicos pesquisados via API; Amazon e Mercado Livre ainda não revalidados nesta rodada.",
     "shopee": {
-      "searched": 155,
-      "apiSelected": 62,
-      "publishedFresh": 57,
-      "manualReview": 5,
-      "paginationIncomplete": 2
+      "searched": 161,
+      "apiSelected": 68,
+      "publishedFresh": 62,
+      "manualReview": 6,
+      "paginationIncomplete": 0
     },
     "amazon": "not_collected_this_run",
     "mercado_livre": "not_collected_this_run",

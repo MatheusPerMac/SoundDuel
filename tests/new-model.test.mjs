@@ -41,3 +41,28 @@ test('REG-NEW-02 dois modelos JBL novos têm identidade única e apenas especifi
  }
  assert.equal(records.find(r=>r.id===454).conflicts[0].field,'Microfones');
 });
+
+test('REG-NEW-03 seis lançamentos JBL têm fonte oficial e campos conflitantes suspensos',async()=>{
+ const ctx=vm.createContext({});
+ vm.runInContext(await read('headphones.js')+'\n'+await read('catalog-review.js'),ctx);
+ const records=JSON.parse(await read('docs/novos-modelos.json')).records;
+ const expected=[
+  [455,'JBL Quantum 950','QUANTUM950'],[456,'JBL Endurance Pace','ENDURANCE-PACE'],
+  [457,'JBL Live 680NC','LIVE680NC'],[458,'JBL Endurance Run 3 Wireless','ENDURANCE-RUN-3-WIRELESS'],
+  [459,'JBL Endurance Zone','ENDURANCEZONE'],[460,'JBL Live Beam 4','LIVEBEAM4']
+ ];
+ for(const [id,name,slug] of expected){
+  const products=vm.runInContext(`HEADPHONES.filter(h=>h.id===${id})`,ctx);
+  assert.equal(products.length,1);
+  assert.equal(products[0].name,name);
+  assert.equal(products[0].price,null);
+  assert.equal(Object.keys(products[0].score).length,0);
+  assert.equal(vm.runInContext(`PUBLIC_HEADPHONES.filter(h=>h.id===${id}).length`,ctx),1);
+  const review=vm.runInContext(`CATALOG_REVIEW[${id}]`,ctx);
+  assert.equal(review.sources[0].url,`https://www.jbl.com.br/${slug}.html`);
+  assert.equal(review.sources[0].checkedAt,'2026-10-29');
+  assert.equal(records.find(r=>r.id===id).source,review.sources[0].url);
+ }
+ assert.equal(vm.runInContext('catalogSpec(HEADPHONES.find(h=>h.id===456),"Microfone")',ctx),'Em revisão');
+ assert.equal(records.find(r=>r.id===456).conflicts[0].values.length,2);
+});

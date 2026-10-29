@@ -627,6 +627,17 @@
           "name": "REG-COVERAGE-03 rodada semanal distingue ofertas frescas de histórico expirado e revisões"
         }
       ]
+    },
+    {
+      "id": "REG-NEW-03",
+      "reason": "Seis novos JBL têm identidade e fonte oficial sem preço, nota ou campo conflitante inventado",
+      "addedAt": "2026-10-29",
+      "tests": [
+        {
+          "file": "tests/new-model.test.mjs",
+          "name": "REG-NEW-03 seis lançamentos JBL têm fonte oficial e campos conflitantes suspensos"
+        }
+      ]
     }
   ]
 }

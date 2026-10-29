@@ -1,4 +1,4 @@
-// Cotações com data própria; consultar validUntil antes de exibir qualquer preço.
+// Cotações individuais com data própria; somente as não expiradas podem ser exibidas como atuais.
 const PRICE_QUOTES = [
   {
     "productId": 2,
@@ -547,216 +547,6 @@ const PRICE_QUOTES = [
     "validUntil": "2026-10-18T16:16:40.354Z"
   },
   {
-    "productId": 4,
-    "productName": "QCY T13",
-    "amount": 109.99,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "QCY Official Store.br",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/239168233/24074343496",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:10.897Z",
-    "validUntil": "2026-10-23T11:57:10.897Z"
-  },
-  {
-    "productId": 5,
-    "productName": "JBL Wave Buds",
-    "amount": 395.47,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "ELETRO ENTER",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/500550748/58218935640",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:12.042Z",
-    "validUntil": "2026-10-23T11:57:12.042Z"
-  },
-  {
-    "productId": 6,
-    "productName": "Redmi Buds 5 Pro",
-    "amount": 379,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Digital Pro Store",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1788845018/58258735268",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:13.041Z",
-    "validUntil": "2026-10-23T11:57:13.041Z"
-  },
-  {
-    "productId": 7,
-    "productName": "QCY HT05 MeloBuds ANC",
-    "amount": 159.99,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "QCY Official Store.br",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/239168233/24974361321",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:13.719Z",
-    "validUntil": "2026-10-23T11:57:13.719Z"
-  },
-  {
-    "productId": 8,
-    "productName": "Redmi Buds 6 Active",
-    "amount": 138,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "FALU ELETRÔNICOS",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/219122299/18798211115",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:15.430Z",
-    "validUntil": "2026-10-23T11:57:15.430Z"
-  },
-  {
-    "productId": 9,
-    "productName": "JBL Tune 720BT",
-    "amount": 299,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "ITX-GAMER",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/778397589/52615208612",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:16.187Z",
-    "validUntil": "2026-10-23T11:57:16.187Z"
-  },
-  {
-    "productId": 10,
-    "productName": "Edifier W800BT Plus",
-    "amount": 351.41,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Loja Alldaz",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/562121984/58207771191",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:16.952Z",
-    "validUntil": "2026-10-23T11:57:16.952Z"
-  },
-  {
-    "productId": 13,
-    "productName": "Soundcore P30i",
-    "amount": 189.9,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "eFacini",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/405653989/57463107196",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:18.757Z",
-    "validUntil": "2026-10-23T11:57:18.757Z"
-  },
-  {
-    "productId": 15,
-    "productName": "Philips TAH2300BK",
-    "amount": 234.9,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Dacasa Soluções",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/410066889/22394864777",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:19.620Z",
-    "validUntil": "2026-10-23T11:57:19.620Z"
-  },
-  {
-    "productId": 17,
-    "productName": "Edifier W820NB",
-    "amount": 400,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Fliploja",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/971951301/58217249136",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:25.727Z",
-    "validUntil": "2026-10-23T11:57:25.727Z"
-  },
-  {
-    "productId": 19,
-    "productName": "QCY H3 ANC",
-    "amount": 209.99,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "QCY Official Store.br",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/239168233/27350696719",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:26.464Z",
-    "validUntil": "2026-10-23T11:57:26.464Z"
-  },
-  {
-    "productId": 21,
-    "productName": "Redmi Buds 6 Pro",
-    "amount": 459,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Escala Fast",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/295736938/41175612271",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:28.544Z",
-    "validUntil": "2026-10-23T11:57:28.544Z"
-  },
-  {
-    "productId": 24,
-    "productName": "HUAWEI FreeBuds 5i",
-    "amount": 297.9,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "TNTinfoLoja",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/344381236/42983561009",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:31.695Z",
-    "validUntil": "2026-10-23T11:57:31.695Z"
-  },
-  {
-    "productId": 30,
-    "productName": "Edifier W830NB",
-    "amount": 450,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Venezamusicrecife",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/684175785/43382959523",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:35.622Z",
-    "validUntil": "2026-10-23T11:57:35.622Z"
-  },
-  {
-    "productId": 31,
-    "productName": "Soundcore Space A40",
-    "amount": 450,
-    "currency": "BRL",
-    "merchant": "Shopee",
-    "seller": "Tech_Dreams",
-    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1932873830/58268920227",
-    "shippingIncluded": false,
-    "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:36.367Z",
-    "validUntil": "2026-10-23T11:57:36.367Z"
-  },
-  {
     "productId": 32,
     "productName": "Soundcore Space Q45",
     "amount": 770,
@@ -771,6 +561,216 @@ const PRICE_QUOTES = [
     "validUntil": "2026-10-23T11:57:37.047Z"
   },
   {
+    "productId": 4,
+    "productName": "QCY T13",
+    "amount": 109.99,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "QCY Official Store.br",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/239168233/24074343496",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:53.116Z",
+    "validUntil": "2026-10-30T11:58:53.116Z"
+  },
+  {
+    "productId": 5,
+    "productName": "JBL Wave Buds",
+    "amount": 395.47,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "ELETRO ENTER",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/500550748/58218935640",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:53.896Z",
+    "validUntil": "2026-10-30T11:58:53.896Z"
+  },
+  {
+    "productId": 6,
+    "productName": "Redmi Buds 5 Pro",
+    "amount": 379,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Digital Pro Store",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1788845018/58258735268",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:54.842Z",
+    "validUntil": "2026-10-30T11:58:54.842Z"
+  },
+  {
+    "productId": 7,
+    "productName": "QCY HT05 MeloBuds ANC",
+    "amount": 151.99,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "QCY Official Store.br",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/239168233/24974361321",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:55.536Z",
+    "validUntil": "2026-10-30T11:58:55.536Z"
+  },
+  {
+    "productId": 8,
+    "productName": "Redmi Buds 6 Active",
+    "amount": 138,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "FALU ELETRÔNICOS",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/219122299/18798211115",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:58.080Z",
+    "validUntil": "2026-10-30T11:58:58.080Z"
+  },
+  {
+    "productId": 9,
+    "productName": "JBL Tune 720BT",
+    "amount": 299,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "ITX-GAMER",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/778397589/52615208612",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:59.019Z",
+    "validUntil": "2026-10-30T11:58:59.019Z"
+  },
+  {
+    "productId": 10,
+    "productName": "Edifier W800BT Plus",
+    "amount": 351.41,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Loja Alldaz",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/562121984/58207771191",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:58:59.906Z",
+    "validUntil": "2026-10-30T11:58:59.906Z"
+  },
+  {
+    "productId": 13,
+    "productName": "Soundcore P30i",
+    "amount": 189.9,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "eFacini",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/405653989/57463107196",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:01.931Z",
+    "validUntil": "2026-10-30T11:59:01.931Z"
+  },
+  {
+    "productId": 15,
+    "productName": "Philips TAH2300BK",
+    "amount": 234.9,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Dacasa Soluções",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/410066889/22394864777",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:02.825Z",
+    "validUntil": "2026-10-30T11:59:02.825Z"
+  },
+  {
+    "productId": 17,
+    "productName": "Edifier W820NB",
+    "amount": 400,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Fliploja",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/971951301/58217249136",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:09.870Z",
+    "validUntil": "2026-10-30T11:59:09.870Z"
+  },
+  {
+    "productId": 19,
+    "productName": "QCY H3 ANC",
+    "amount": 229,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "QCY Official Store.br",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/239168233/27350696719",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:10.639Z",
+    "validUntil": "2026-10-30T11:59:10.639Z"
+  },
+  {
+    "productId": 21,
+    "productName": "Redmi Buds 6 Pro",
+    "amount": 460,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Opção.Com",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/427334729/58269015962",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:12.875Z",
+    "validUntil": "2026-10-30T11:59:12.875Z"
+  },
+  {
+    "productId": 24,
+    "productName": "HUAWEI FreeBuds 5i",
+    "amount": 297.9,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "TNTinfoLoja",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/344381236/42983561009",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:17.184Z",
+    "validUntil": "2026-10-30T11:59:17.184Z"
+  },
+  {
+    "productId": 30,
+    "productName": "Edifier W830NB",
+    "amount": 450,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Venezamusicrecife",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/684175785/43382959523",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:20.967Z",
+    "validUntil": "2026-10-30T11:59:20.967Z"
+  },
+  {
+    "productId": 31,
+    "productName": "Soundcore Space A40",
+    "amount": 450,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Tech_Dreams",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1932873830/58268920227",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T11:59:21.677Z",
+    "validUntil": "2026-10-30T11:59:21.677Z"
+  },
+  {
     "productId": 38,
     "productName": "Sony WF-C700N",
     "amount": 1079.9,
@@ -781,8 +781,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1748798216/58256737561",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:45.922Z",
-    "validUntil": "2026-10-23T11:57:45.922Z"
+    "checkedAt": "2026-10-29T11:59:32.292Z",
+    "validUntil": "2026-10-30T11:59:32.292Z"
   },
   {
     "productId": 39,
@@ -795,8 +795,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1334285878/58256600218",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:47.230Z",
-    "validUntil": "2026-10-23T11:57:47.230Z"
+    "checkedAt": "2026-10-29T11:59:33.284Z",
+    "validUntil": "2026-10-30T11:59:33.284Z"
   },
   {
     "productId": 42,
@@ -809,8 +809,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1881867894/22195187502",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:50.078Z",
-    "validUntil": "2026-10-23T11:57:50.078Z"
+    "checkedAt": "2026-10-29T11:59:36.611Z",
+    "validUntil": "2026-10-30T11:59:36.611Z"
   },
   {
     "productId": 47,
@@ -823,8 +823,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1662882727/58215418215",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:57:57.775Z",
-    "validUntil": "2026-10-23T11:57:57.775Z"
+    "checkedAt": "2026-10-29T11:59:44.057Z",
+    "validUntil": "2026-10-30T11:59:44.057Z"
+  },
+  {
+    "productId": 55,
+    "productName": "Apple AirPods Pro 2",
+    "amount": 1599.9,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "VERIX SHOP",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1302683440/20199723147",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:00:01.369Z",
+    "validUntil": "2026-10-30T12:00:01.369Z"
   },
   {
     "productId": 100,
@@ -837,8 +851,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1360571160/23498693451",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:22.068Z",
-    "validUntil": "2026-10-23T11:58:22.068Z"
+    "checkedAt": "2026-10-29T12:00:06.016Z",
+    "validUntil": "2026-10-30T12:00:06.016Z"
   },
   {
     "productId": 111,
@@ -851,8 +865,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1615230188/58253245201",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:24.126Z",
-    "validUntil": "2026-10-23T11:58:24.126Z"
+    "checkedAt": "2026-10-29T12:00:11.288Z",
+    "validUntil": "2026-10-30T12:00:11.288Z"
   },
   {
     "productId": 122,
@@ -865,36 +879,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1467946435/41281910522",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:25.209Z",
-    "validUntil": "2026-10-23T11:58:25.209Z"
+    "checkedAt": "2026-10-29T12:00:13.053Z",
+    "validUntil": "2026-10-30T12:00:13.053Z"
   },
   {
     "productId": 125,
     "productName": "JBL Wave Beam 2",
-    "amount": 295,
+    "amount": 272.11,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "Rep Store",
+    "seller": "Kabum",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/898761179/22098584070",
+    "sourceUrl": "https://shopee.com.br/product/1930141978/58270067057",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:26.397Z",
-    "validUntil": "2026-10-23T11:58:26.397Z"
+    "checkedAt": "2026-10-29T12:00:15.264Z",
+    "validUntil": "2026-10-30T12:00:15.264Z"
   },
   {
     "productId": 126,
     "productName": "JBL Tune Flex 2",
-    "amount": 459.9,
+    "amount": 564,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "Cadê Meu Eletro®",
+    "seller": "Loja Mastercell",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1097151802/40185293497",
+    "sourceUrl": "https://shopee.com.br/product/1013785477/58259317468",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:27.043Z",
-    "validUntil": "2026-10-23T11:58:27.043Z"
+    "checkedAt": "2026-10-29T12:00:16.727Z",
+    "validUntil": "2026-10-30T12:00:16.727Z"
   },
   {
     "productId": 128,
@@ -907,8 +921,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1013785477/23094944313",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:27.876Z",
-    "validUntil": "2026-10-23T11:58:27.876Z"
+    "checkedAt": "2026-10-29T12:00:18.169Z",
+    "validUntil": "2026-10-30T12:00:18.169Z"
   },
   {
     "productId": 130,
@@ -921,22 +935,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1241424533/23598524764",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:29.030Z",
-    "validUntil": "2026-10-23T11:58:29.030Z"
+    "checkedAt": "2026-10-29T12:00:19.914Z",
+    "validUntil": "2026-10-30T12:00:19.914Z"
   },
   {
     "productId": 141,
     "productName": "Samsung Galaxy Buds 4",
-    "amount": 1369.99,
+    "amount": 1426.98,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "Clicou Shops",
+    "seller": "Magalu",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/344390826/44615789082",
+    "sourceUrl": "https://shopee.com.br/product/1929663743/58219468952",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:34.515Z",
-    "validUntil": "2026-10-23T11:58:34.515Z"
+    "checkedAt": "2026-10-29T12:00:30.439Z",
+    "validUntil": "2026-10-30T12:00:30.439Z"
   },
   {
     "productId": 145,
@@ -949,8 +963,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/356228448/58270380327",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:37.667Z",
-    "validUntil": "2026-10-23T11:58:37.667Z"
+    "checkedAt": "2026-10-29T12:00:34.821Z",
+    "validUntil": "2026-10-30T12:00:34.821Z"
   },
   {
     "productId": 201,
@@ -963,8 +977,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/582697410/58216139377",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:58:59.483Z",
-    "validUntil": "2026-10-23T11:58:59.483Z"
+    "checkedAt": "2026-10-29T12:01:08.867Z",
+    "validUntil": "2026-10-30T12:01:08.867Z"
   },
   {
     "productId": 202,
@@ -977,8 +991,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1835097707/58217923643",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:00.958Z",
-    "validUntil": "2026-10-23T11:59:00.958Z"
+    "checkedAt": "2026-10-29T12:01:11.582Z",
+    "validUntil": "2026-10-30T12:01:11.582Z"
   },
   {
     "productId": 204,
@@ -991,8 +1005,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1531407690/58262152217",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:04.374Z",
-    "validUntil": "2026-10-23T11:59:04.374Z"
+    "checkedAt": "2026-10-29T12:01:14.565Z",
+    "validUntil": "2026-10-30T12:01:14.565Z"
   },
   {
     "productId": 206,
@@ -1005,8 +1019,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1835097707/58268001006",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:06.461Z",
-    "validUntil": "2026-10-23T11:59:06.461Z"
+    "checkedAt": "2026-10-29T12:01:17.915Z",
+    "validUntil": "2026-10-30T12:01:17.915Z"
   },
   {
     "productId": 209,
@@ -1019,8 +1033,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/238239777/58254493948",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:07.813Z",
-    "validUntil": "2026-10-23T11:59:07.813Z"
+    "checkedAt": "2026-10-29T12:01:19.942Z",
+    "validUntil": "2026-10-30T12:01:19.942Z"
   },
   {
     "productId": 220,
@@ -1033,13 +1047,13 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1934751284/58219969802",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:09.306Z",
-    "validUntil": "2026-10-23T11:59:09.306Z"
+    "checkedAt": "2026-10-29T12:01:22.409Z",
+    "validUntil": "2026-10-30T12:01:22.409Z"
   },
   {
     "productId": 222,
     "productName": "QCY H3S ANC",
-    "amount": 346,
+    "amount": 349,
     "currency": "BRL",
     "merchant": "Shopee",
     "seller": "QCY Áudio Oficial Brasil",
@@ -1047,8 +1061,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1790623928/58211879000",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:10.643Z",
-    "validUntil": "2026-10-23T11:59:10.643Z"
+    "checkedAt": "2026-10-29T12:01:23.535Z",
+    "validUntil": "2026-10-30T12:01:23.535Z"
   },
   {
     "productId": 223,
@@ -1061,8 +1075,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1790623928/58261975918",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:11.397Z",
-    "validUntil": "2026-10-23T11:59:11.397Z"
+    "checkedAt": "2026-10-29T12:01:24.484Z",
+    "validUntil": "2026-10-30T12:01:24.484Z"
   },
   {
     "productId": 224,
@@ -1075,8 +1089,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/239168233/28253692946",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:12.185Z",
-    "validUntil": "2026-10-23T11:59:12.185Z"
+    "checkedAt": "2026-10-29T12:01:25.256Z",
+    "validUntil": "2026-10-30T12:01:25.256Z"
   },
   {
     "productId": 243,
@@ -1089,8 +1103,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/405653989/57060849618",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:15.568Z",
-    "validUntil": "2026-10-23T11:59:15.568Z"
+    "checkedAt": "2026-10-29T12:01:29.930Z",
+    "validUntil": "2026-10-30T12:01:29.930Z"
   },
   {
     "productId": 248,
@@ -1103,8 +1117,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1910836609/55615491473",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:16.815Z",
-    "validUntil": "2026-10-23T11:59:16.815Z"
+    "checkedAt": "2026-10-29T12:01:31.258Z",
+    "validUntil": "2026-10-30T12:01:31.258Z"
   },
   {
     "productId": 310,
@@ -1117,22 +1131,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1075235227/22799447065",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:22.711Z",
-    "validUntil": "2026-10-23T11:59:22.711Z"
+    "checkedAt": "2026-10-29T12:01:40.822Z",
+    "validUntil": "2026-10-30T12:01:40.822Z"
   },
   {
     "productId": 320,
     "productName": "Shokz OpenRun Pro 2",
-    "amount": 999,
+    "amount": 1399,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "Mix..utilidades",
+    "seller": "BRNOWSPORTS",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/472103397/58270829969",
+    "sourceUrl": "https://shopee.com.br/product/396389621/58268007408",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:24.839Z",
-    "validUntil": "2026-10-23T11:59:24.839Z"
+    "checkedAt": "2026-10-29T12:01:43.105Z",
+    "validUntil": "2026-10-30T12:01:43.105Z"
   },
   {
     "productId": 322,
@@ -1145,8 +1159,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1006215031/53562252353",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:26.627Z",
-    "validUntil": "2026-10-23T11:59:26.627Z"
+    "checkedAt": "2026-10-29T12:01:45.437Z",
+    "validUntil": "2026-10-30T12:01:45.437Z"
   },
   {
     "productId": 330,
@@ -1159,22 +1173,22 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/214519889/18099959481",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:27.982Z",
-    "validUntil": "2026-10-23T11:59:27.982Z"
+    "checkedAt": "2026-10-29T12:01:48.104Z",
+    "validUntil": "2026-10-30T12:01:48.104Z"
   },
   {
     "productId": 332,
     "productName": "Haylou S30 ANC",
-    "amount": 250,
+    "amount": 242,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "MMA_TecStore",
+    "seller": "Thompson Tech",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/1379195608/58267872461",
+    "sourceUrl": "https://shopee.com.br/product/278011754/58220886129",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:29.162Z",
-    "validUntil": "2026-10-23T11:59:29.162Z"
+    "checkedAt": "2026-10-29T12:01:49.586Z",
+    "validUntil": "2026-10-30T12:01:49.586Z"
   },
   {
     "productId": 342,
@@ -1187,8 +1201,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/214839973/23396199204",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:32.420Z",
-    "validUntil": "2026-10-23T11:59:32.420Z"
+    "checkedAt": "2026-10-29T12:01:53.181Z",
+    "validUntil": "2026-10-30T12:01:53.181Z"
   },
   {
     "productId": 343,
@@ -1201,8 +1215,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/453022395/18297746739",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:33.313Z",
-    "validUntil": "2026-10-23T11:59:33.313Z"
+    "checkedAt": "2026-10-29T12:01:54.038Z",
+    "validUntil": "2026-10-30T12:01:54.038Z"
   },
   {
     "productId": 401,
@@ -1215,8 +1229,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1547167146/58211004984",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:37.957Z",
-    "validUntil": "2026-10-23T11:59:37.957Z"
+    "checkedAt": "2026-10-29T12:01:58.772Z",
+    "validUntil": "2026-10-30T12:01:58.772Z"
   },
   {
     "productId": 402,
@@ -1229,8 +1243,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/679267566/58219984825",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:38.839Z",
-    "validUntil": "2026-10-23T11:59:38.839Z"
+    "checkedAt": "2026-10-29T12:01:59.955Z",
+    "validUntil": "2026-10-30T12:01:59.955Z"
   },
   {
     "productId": 403,
@@ -1243,8 +1257,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1547167146/58210475537",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:39.647Z",
-    "validUntil": "2026-10-23T11:59:39.647Z"
+    "checkedAt": "2026-10-29T12:02:01.351Z",
+    "validUntil": "2026-10-30T12:02:01.351Z"
   },
   {
     "productId": 412,
@@ -1257,8 +1271,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1931694114/58270720431",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:41.397Z",
-    "validUntil": "2026-10-23T11:59:41.397Z"
+    "checkedAt": "2026-10-29T12:02:03.378Z",
+    "validUntil": "2026-10-30T12:02:03.378Z"
   },
   {
     "productId": 413,
@@ -1271,8 +1285,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1627665738/58202173684",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:42.142Z",
-    "validUntil": "2026-10-23T11:59:42.142Z"
+    "checkedAt": "2026-10-29T12:02:04.506Z",
+    "validUntil": "2026-10-30T12:02:04.506Z"
   },
   {
     "productId": 436,
@@ -1285,8 +1299,8 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1163359442/19499779865",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:44.106Z",
-    "validUntil": "2026-10-23T11:59:44.106Z"
+    "checkedAt": "2026-10-29T12:02:08.009Z",
+    "validUntil": "2026-10-30T12:02:08.009Z"
   },
   {
     "productId": 440,
@@ -1299,36 +1313,36 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1082132739/46118047999",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:45.740Z",
-    "validUntil": "2026-10-23T11:59:45.740Z"
+    "checkedAt": "2026-10-29T12:02:10.139Z",
+    "validUntil": "2026-10-30T12:02:10.139Z"
   },
   {
     "productId": 452,
     "productName": "JBL Tune 530BT",
-    "amount": 210.9,
+    "amount": 189.89,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "TNTinfoLoja",
+    "seller": "Kabum",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/344381236/56218844738",
+    "sourceUrl": "https://shopee.com.br/product/1930141978/58220452195",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T11:59:48.448Z",
-    "validUntil": "2026-10-23T11:59:48.448Z"
+    "checkedAt": "2026-10-29T12:02:13.182Z",
+    "validUntil": "2026-10-30T12:02:13.182Z"
   },
   {
     "productId": 453,
     "productName": "JBL Tune 730BT",
-    "amount": 288.9,
+    "amount": 264.33,
     "currency": "BRL",
     "merchant": "Shopee",
-    "seller": "TNTinfoLoja",
+    "seller": "Kabum",
     "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
-    "sourceUrl": "https://shopee.com.br/product/344381236/44868888458",
+    "sourceUrl": "https://shopee.com.br/product/1930141978/58220452785",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T12:00:31.698Z",
-    "validUntil": "2026-10-23T12:00:31.698Z"
+    "checkedAt": "2026-10-29T12:02:14.056Z",
+    "validUntil": "2026-10-30T12:02:14.056Z"
   },
   {
     "productId": 454,
@@ -1341,8 +1355,78 @@ const PRICE_QUOTES = [
     "sourceUrl": "https://shopee.com.br/product/1537155548/58257238124",
     "shippingIncluded": false,
     "variantConfirmed": true,
-    "checkedAt": "2026-10-22T12:00:33.132Z",
-    "validUntil": "2026-10-23T12:00:33.132Z"
+    "checkedAt": "2026-10-29T12:02:14.884Z",
+    "validUntil": "2026-10-30T12:02:14.884Z"
+  },
+  {
+    "productId": 455,
+    "productName": "JBL Quantum 950",
+    "amount": 1575,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Gamer Place Oficial",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1317539899/58256602614",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:03:24.685Z",
+    "validUntil": "2026-10-30T12:03:24.685Z"
+  },
+  {
+    "productId": 456,
+    "productName": "JBL Endurance Pace",
+    "amount": 454.86,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "Iplace®",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1537155548/58219774528",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:03:25.446Z",
+    "validUntil": "2026-10-30T12:03:25.446Z"
+  },
+  {
+    "productId": 458,
+    "productName": "JBL Endurance Run 3 Wireless",
+    "amount": 299,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "TecnaInfo",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/298864827/58217278684",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:03:26.775Z",
+    "validUntil": "2026-10-30T12:03:26.775Z"
+  },
+  {
+    "productId": 459,
+    "productName": "JBL Endurance Zone",
+    "amount": 599.79,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "WISE SHOPPING-",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/984932739/42732347727",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:03:27.589Z",
+    "validUntil": "2026-10-30T12:03:27.589Z"
+  },
+  {
+    "productId": 460,
+    "productName": "JBL Live Beam 4",
+    "amount": 745,
+    "currency": "BRL",
+    "merchant": "Shopee",
+    "seller": "EasyTech DF",
+    "conditions": "Preço anunciado pela API oficial, sem cupom pessoal e sem frete; estoque físico não informado.",
+    "sourceUrl": "https://shopee.com.br/product/1854145879/58269838671",
+    "shippingIncluded": false,
+    "variantConfirmed": true,
+    "checkedAt": "2026-10-29T12:03:28.355Z",
+    "validUntil": "2026-10-30T12:03:28.355Z"
   }
 ];
 function currentPriceQuote(id, now = Date.now()) {
