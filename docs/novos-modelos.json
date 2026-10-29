@@ -34,10 +34,79 @@
       "conflicts": [
         {
           "field": "Microfones",
-          "values": ["4 microfones na ficha técnica", "2 microfones beamforming para chamadas no texto descritivo"],
+          "values": [
+            "4 microfones na ficha técnica",
+            "2 microfones beamforming para chamadas no texto descritivo"
+          ],
           "decision": "A ficha usa 4 microfones totais; o texto descreve um subconjunto dedicado a chamadas."
         }
       ]
+    },
+    {
+      "id": 455,
+      "name": "JBL Quantum 950",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/QUANTUM950.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": []
+    },
+    {
+      "id": 456,
+      "name": "JBL Endurance Pace",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/ENDURANCE-PACE.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": [
+        {
+          "field": "Microfone",
+          "values": [
+            "2 microfones no texto descritivo",
+            "Number of Microphones: 1 na ficha técnica"
+          ],
+          "decision": "Campo suspenso até esclarecimento da fonte."
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "JBL Live 680NC",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/LIVE680NC.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": [
+        {
+          "field": "Microfone",
+          "values": [
+            "4 microfones totais na ficha técnica",
+            "2 microfones para chamadas no texto descritivo"
+          ],
+          "decision": "A ficha informa total; o texto descreve os usados para chamadas."
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "JBL Endurance Run 3 Wireless",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/ENDURANCE-RUN-3-WIRELESS.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": []
+    },
+    {
+      "id": 459,
+      "name": "JBL Endurance Zone",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/ENDURANCEZONE.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": []
+    },
+    {
+      "id": 460,
+      "name": "JBL Live Beam 4",
+      "checkedAt": "2026-10-29",
+      "source": "https://www.jbl.com.br/LIVEBEAM4.html",
+      "policy": "Identidade e especificações confirmadas na página oficial JBL; sem preço histórico nem nota editorial.",
+      "conflicts": []
     }
   ]
 }

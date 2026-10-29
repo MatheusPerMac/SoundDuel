@@ -1,3 +1,4 @@
+// Revisão por campo: fonte não confirma a ficha inteira.
 const CATALOG_REVIEW = {
   "1": {
     "sources": [
@@ -11032,6 +11033,386 @@ const CATALOG_REVIEW = {
       }
     },
     "note": "Cadastro com fonte oficial; sem preço de marketplace, nota editorial, prós/contras ou vídeos inventados. Codec em revisão."
+  },
+  "455": {
+    "sources": [
+      {
+        "title": "JBL — JBL Quantum 950, especificações oficiais",
+        "url": "https://www.jbl.com.br/QUANTUM950.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "ANC",
+          "Microfone",
+          "Peso",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "ANC": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
+  },
+  "456": {
+    "sources": [
+      {
+        "title": "JBL — JBL Endurance Pace, especificações oficiais",
+        "url": "https://www.jbl.com.br/ENDURANCE-PACE.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Autonomia",
+          "Recarga",
+          "Peso",
+          "Resistência",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Bluetooth",
+      "Microfone",
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Resistência": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
+  },
+  "457": {
+    "sources": [
+      {
+        "title": "JBL — JBL Live 680NC, especificações oficiais",
+        "url": "https://www.jbl.com.br/LIVE680NC.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "ANC",
+          "Microfone",
+          "Dobrável",
+          "Peso",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "ANC": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Dobrável": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
+  },
+  "458": {
+    "sources": [
+      {
+        "title": "JBL — JBL Endurance Run 3 Wireless, especificações oficiais",
+        "url": "https://www.jbl.com.br/ENDURANCE-RUN-3-WIRELESS.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "Microfone",
+          "Peso",
+          "Resistência"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Peso": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Resistência": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
+  },
+  "459": {
+    "sources": [
+      {
+        "title": "JBL — JBL Endurance Zone, especificações oficiais",
+        "url": "https://www.jbl.com.br/ENDURANCEZONE.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "Microfone",
+          "Resistência",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Resistência": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
+  },
+  "460": {
+    "sources": [
+      {
+        "title": "JBL — JBL Live Beam 4, especificações oficiais",
+        "url": "https://www.jbl.com.br/LIVEBEAM4.html",
+        "fields": [
+          "type",
+          "Driver",
+          "Bluetooth",
+          "Autonomia",
+          "Recarga",
+          "ANC",
+          "Microfone",
+          "Resistência",
+          "Multiponto"
+        ],
+        "checkedAt": "2026-10-29"
+      }
+    ],
+    "pendingSpecs": [
+      "Codec"
+    ],
+    "priceConflict": false,
+    "checkedAt": "2026-10-29",
+    "catalogStatus": "available",
+    "fieldStatus": {
+      "Driver": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Bluetooth": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Autonomia": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Recarga": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "ANC": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Microfone": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Resistência": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Multiponto": {
+        "status": "verified",
+        "reason": "Conferido na página oficial JBL."
+      },
+      "Codec": {
+        "status": "not_confirmed",
+        "reason": "Fonte consultada não confirma sem divergência."
+      }
+    },
+    "note": "Cadastro com fonte oficial; sem preço de marketplace nem nota editorial inventados."
   }
 };
 const PUBLIC_HEADPHONES = HEADPHONES.filter(h => CATALOG_REVIEW[h.id]?.catalogStatus === "available");
